@@ -1,37 +1,42 @@
 const express = require('express');
 const path = require('path');
-const store = require('./data/store_pdf'); // Using PDF-based store
+const fs = require('fs');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// Load pre-generated data
+let cachedState = null;
+const dataPath = path.join(__dirname, '../public/data.json');
+
+function loadData() {
+    if (!cachedState) {
+        console.log('Loading pre-generated data from public/data.json...');
+        const data = fs.readFileSync(dataPath, 'utf8');
+        cachedState = JSON.parse(data);
+        console.log('✅ Data loaded successfully!');
+    }
+    return cachedState;
+}
 
 // Serve static files
 app.use(express.static(path.join(__dirname, '../public')));
 
 // API Routes
 app.get('/api/data', (req, res) => {
-    res.json(store.getState());
-});
-
-app.post('/api/refresh', async (req, res) => {
-    if (store.getState().isUpdating) {
-        return res.status(409).json({ message: 'Update already in progress' });
+    try {
+        const state = loadData();
+        res.json(state);
+    } catch (error) {
+        console.error('Error loading data:', error);
+        res.status(500).json({ error: 'Failed to load data' });
     }
-
-    // Start update
-    store.updateData().then(() => {
-        console.log("PDF data loaded successfully!");
-    });
-
-    res.json({ message: 'Loading PDF data...' });
 });
 
-// Start server and load data
-app.listen(PORT, async () => {
+// Start server
+app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
-    console.log('Loading PDF data on startup...');
-
-    // Load PDF data automatically on startup
-    await store.updateData();
+    console.log('Using pre-generated static data');
+    loadData(); // Preload on startup
     console.log('Ready!');
 });
