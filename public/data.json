@@ -17345,10 +17345,10 @@
             "method": "Reserve"
           },
           {
-            "name": "Chrysta RANDS-EVANS",
-            "country": "USA",
-            "bestTime": "38.41",
-            "totalPoints": 28,
+            "name": "Sofie ADEBERG",
+            "country": "GER",
+            "bestTime": "38.49",
+            "totalPoints": 3,
             "method": "Reserve"
           }
         ]
@@ -25275,10 +25275,10 @@
             "method": "Reserve"
           },
           {
-            "name": "Mei HAN",
-            "country": "CHN",
-            "bestTime": "4:01.11",
-            "totalPoints": 22,
+            "name": "Ayano SATO",
+            "country": "JPN",
+            "bestTime": "4:01.66",
+            "totalPoints": 11,
             "method": "Reserve"
           }
         ]
@@ -34629,6 +34629,13 @@
             "method": "Reserve"
           },
           {
+            "name": "Serena PERGHER",
+            "country": "ITA",
+            "bestTime": "1:16.40",
+            "totalPoints": 0,
+            "method": "Reserve"
+          },
+          {
             "name": "Sarah WARREN",
             "country": "USA",
             "bestTime": "1:15.69",
@@ -34643,13 +34650,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Mia MANGANELLO",
-            "country": "USA",
-            "bestTime": "1:16.03",
-            "totalPoints": 5,
-            "method": "Reserve"
-          },
-          {
             "name": "Leewon LIM",
             "country": "KOR",
             "bestTime": "1:16.04",
@@ -34657,10 +34657,10 @@
             "method": "Reserve"
           },
           {
-            "name": "Natalia JABRZYK",
-            "country": "POL",
-            "bestTime": "1:16.14",
-            "totalPoints": 3,
+            "name": "Sofie ADEBERG",
+            "country": "GER",
+            "bestTime": "1:16.43",
+            "totalPoints": 0,
             "method": "Reserve"
           }
         ]
@@ -37325,6 +37325,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-01T22:39:03.628Z",
+  "lastUpdated": "2025-12-01T22:56:46.198Z",
   "isUpdating": false
 }

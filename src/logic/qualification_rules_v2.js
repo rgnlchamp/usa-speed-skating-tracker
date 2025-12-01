@@ -144,16 +144,20 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
 
     // Generate Reserve List (from SOQCT as per D.2.3)
     // Rule: "The top 8 unqualified athletes will form the reserve list, with athletes from unqualified countries having priority."
-    // Interpretation: Take top 8 by time, THEN prioritize unqualified NOCs within that group.
+    // NOC limit (maxPerNOC) applies to TOTAL: qualified + reserve combined
 
     const reserveCandidates = [];
+    const totalNocCounts = { ...nocCounts }; // Track qualified + reserves together
 
     for (const skater of soqcTimes) {
         const key = `${skater.name}|${skater.country}`;
         if (!qualifiedKeys.has(key)) {
-            // Check if NOC is already full
-            if (canQualify(skater)) {
+            // Check if NOC would exceed max after adding to reserves
+            const currentTotal = totalNocCounts[skater.country] || 0;
+            if (currentTotal < config.maxPerNOC) {
                 reserveCandidates.push(skater);
+                // Increment total as we add to reserve candidates
+                totalNocCounts[skater.country] = currentTotal + 1;
             }
         }
     }
