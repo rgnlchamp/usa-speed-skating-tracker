@@ -1,0 +1,21 @@
+{
+  "name": "live_sqrl_2026",
+  "version": "1.0.0",
+  "description": "Olympic Speed Skating Qualification Tracker",
+  "main": "src/server_pdf.js",
+  "scripts": {
+    "start": "node src/server_pdf.js",
+    "start:scraper": "node src/server.js",
+    "test": "node test_pdf_integration.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pdf2json": "^4.0.0",
+    "puppeteer": "^24.31.0",
+    "xlsx": "^0.18.5"
+  }
+}

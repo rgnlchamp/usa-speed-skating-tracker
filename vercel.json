@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "src/server_pdf.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/api/(.*)",
+            "dest": "src/server_pdf.js"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "src/server_pdf.js"
+        }
+    ]
+}
