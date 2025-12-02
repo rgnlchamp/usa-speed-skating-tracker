@@ -17,7 +17,9 @@ const SHEET_MAPPING = {
     'Women - 1500': '1500m-women',
     'Women - 3000': '3000m-women',
     'Women - 5000': '5000m-women',
-    'Women - MS': 'Mass Start-women'
+    'Women - MS': 'Mass Start-women',
+    'Men - TP': 'Team Pursuit-men',
+    'Women - TP': 'Team Pursuit-women'
 };
 
 function normalizeName(name) {
@@ -75,13 +77,47 @@ function levenshtein(a, b) {
     return matrix[b.length][a.length];
 }
 
-function parseExcelSheet(worksheet) {
+// Country mapping for Team Pursuit comparison
+const TP_COUNTRY_MAPPING = {
+    'United States of America': 'USA',
+    'Netherlands': 'NED',
+    'Canada': 'CAN',
+    'Japan': 'JPN',
+    'Republic of Korea': 'KOR',
+    'Korea': 'KOR',
+    "People's Republic of China": 'CHN',
+    'China': 'CHN',
+    'Norway': 'NOR',
+    'Germany': 'GER',
+    'Poland': 'POL',
+    'Italy': 'ITA',
+    'Kazakhstan': 'KAZ',
+    'Belgium': 'BEL',
+    'Estonia': 'EST',
+    'Austria': 'AUT',
+    'Czechia': 'CZE',
+    'Czech Republic': 'CZE',
+    'Spain': 'ESP',
+    'Great Britain': 'GBR',
+    'Hungary': 'HUN',
+    'Switzerland': 'SUI',
+    'Sweden': 'SWE',
+    'Denmark': 'DEN',
+    'Finland': 'FIN',
+    'France': 'FRA',
+    'Romania': 'ROU',
+    'Chinese Taipei': 'TPE',
+    'New Zealand': 'NZL'
+};
+
+function parseExcelSheet(worksheet, sheetName) {
     const data = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
     const pointsQualifiers = [];
     const timesQualifiers = [];
     const reserves = [];
 
     let mode = 'points';
+    const isTeamPursuit = sheetName.includes('TP');
 
     for (let i = 7; i < data.length; i++) {
         const row = data[i];
@@ -98,8 +134,19 @@ function parseExcelSheet(worksheet) {
         }
 
         const quotaRank = row[0]; // This is quota rank, NOT just position in list
-        const name = row[3];
-        const nation = row[1];
+
+        let name, nation;
+
+        if (isTeamPursuit) {
+            // For Team Pursuit: Name is the Nation (Col 1)
+            const rawNation = row[1];
+            nation = TP_COUNTRY_MAPPING[rawNation] || rawNation; // Map to code if possible
+            name = nation; // Name is the country code/name
+        } else {
+            // Standard Events
+            name = row[3];
+            nation = row[1];
+        }
 
         if (!name || typeof name !== 'string') continue;
 
@@ -229,7 +276,7 @@ async function compareResults() {
             continue;
         }
 
-        const official = parseExcelSheet(workbook.Sheets[sheetName]);
+        const official = parseExcelSheet(workbook.Sheets[sheetName], sheetName);
         const calculated = state.soqc[appKey];
 
         const appPoints = calculated.quotas.qualified.filter(q => q.method === 'Points');

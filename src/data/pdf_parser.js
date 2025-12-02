@@ -112,9 +112,104 @@ function parseRaceText(text, filename) {
 }
 
 /**
+ * Parse Team Pursuit results - uses full country names instead of codes
+ */
+
+
+/**
+ * Parse Team Pursuit results - uses full country names instead of codes
+ */
+function parseTeamPursuitResults(text) {
+    const results = [];
+    const tokens = text.split(/\s+/);
+    const seenRanks = new Set();
+
+    // Words to skip (common noise in Team Pursuit PDFs)
+    const skipWords = new Set(['of', 'the', 'Finish', 'Crossing', 'Start', 'Lap', 'Official', 'ISU', 'results', 'Page']);
+
+    for (let i = 0; i < tokens.length - 10; i++) {
+        const rankCandidate = parseInt(tokens[i]);
+
+        // Look for rank numbers 1-20
+        if (isNaN(rankCandidate) || rankCandidate < 1 || rankCandidate > 20) {
+            continue;
+        }
+
+        if (seenRanks.has(rankCandidate)) {
+            continue;
+        }
+
+        // After rank, look for country name (multiple words until we hit a time pattern)
+        let j = i + 1;
+        const countryWords = [];
+        let time = null;
+        let timeIndex = -1;
+
+        // Collect words until we find a time pattern (e.g., "3:01.09" or "2:58.41")
+        while (j < tokens.length && countryWords.length < 10) {
+            const token = tokens[j];
+
+            // Check if this looks like a time (format: M:SS.SS or MM:SS.SS)
+            if (token.match(/^\d{1,2}:\d{2}\.\d{2}$/)) {
+                time = token;
+                timeIndex = j;
+                break;
+            }
+
+            // Add to country name if it looks like a word and isn't in skip list
+            if (token.match(/^[A-Za-z]+$/) && !skipWords.has(token)) {
+                // Capitalize first letter for proper country name matching
+                const capitalized = token.charAt(0).toUpperCase() + token.slice(1).toLowerCase();
+                countryWords.push(capitalized);
+            }
+
+            j++;
+        }
+
+        if (!time || countryWords.length === 0) {
+            continue;
+        }
+
+        // Combine country words
+        const countryName = countryWords.join(' ');
+
+        // Map to country code
+        const country = COUNTRY_NAME_TO_CODE[countryName] || countryName;
+
+        // Look for points after time (should be within next few tokens)
+        let points = 0;
+        for (let k = timeIndex + 1; k < Math.min(timeIndex + 8, tokens.length); k++) {
+            const pointsCandidate = parseInt(tokens[k]);
+            if (!isNaN(pointsCandidate) && pointsCandidate >= 0 && pointsCandidate <= 150) {
+                points = pointsCandidate;
+                break;
+            }
+        }
+
+        results.push({
+            rank: rankCandidate.toString(),
+            name: country,  // For Team Pursuit, name is the country
+            country: country,
+            time: time,
+            points: points
+        });
+
+        seenRanks.add(rankCandidate);
+        i = timeIndex;  // Skip ahead to avoid re-processing
+    }
+
+    return results;
+}
+
+/**
  * Parse results table - improved version with Mass Start support
  */
 function parseResultsTable(text, distance, filename) {
+    // Special handling for Team Pursuit - uses full country names, not 3-letter codes
+    if (distance === 'Team Pursuit') {
+        return parseTeamPursuitResults(text);
+    }
+
     const results = [];
     const tokens = text.split(/\s+/);
     let i = 0;
@@ -266,6 +361,57 @@ const VALID_COUNTRY_CODES = new Set([
     'AIN', 'UZB', 'GRE', 'LAT', 'POR'
 ]);
 
+// Country name to code mapping for Team Pursuit (uses full country names)
+const COUNTRY_NAME_TO_CODE = {
+    'United States Of America': 'USA',
+    'United States': 'USA',
+    'Usa': 'USA',
+    'Netherlands': 'NED',
+    'Canada': 'CAN',
+    'Japan': 'JPN',
+    'Republic Of Korea': 'KOR',
+    'Korea': 'KOR',
+    "People's Republic Of China": 'CHN',
+    'China': 'CHN',
+    'Norway': 'NOR',
+    'Germany': 'GER',
+    'Poland': 'POL',
+    'Italy': 'ITA',
+    'Kazakhstan': 'KAZ',
+    'Belgium': 'BEL',
+    'Estonia': 'EST',
+    'Austria': 'AUT',
+    'Czechia': 'CZE',
+    'Czech Republic': 'CZE',
+    'Spain': 'ESP',
+    'Great Britain': 'GBR',
+    'Hungary': 'HUN',
+    'Switzerland': 'SUI',
+    'Sweden': 'SWE',
+    'Denmark': 'DEN',
+    'Finland': 'FIN',
+    'France': 'FRA',
+    'Romania': 'ROU',
+    'Chinese Taipei': 'TPE',
+    'New Zealand': 'NZL',
+    'Argentina': 'ARG',
+    'Colombia': 'COL',
+    'Australia': 'AUS',
+    'Latvia': 'LAT',
+    'Ukraine': 'UKR',
+    'Belarus': 'BLR',
+    'Russia': 'RUS',
+    'Israel': 'ISR',
+    'Mongolia': 'MGL',
+    'Portugal': 'POR',
+    'Brazil': 'BRA',
+    'Chile': 'CHI',
+    'India': 'IND',
+    'Ireland': 'IRL'
+};
+
+
+
 function isCountryCode(str) {
     return str && VALID_COUNTRY_CODES.has(str);
 }
@@ -300,7 +446,7 @@ module.exports = { parsePDF, parseAllPDFs, parseRaceText };
 
 function cleanName(name) {
     if (!name) return '';
-    return name
+    const cleaned = name
         .replace(/\s+-\s+/g, '-') // Fix "Wei - Lin" -> "Wei-Lin"
         .replace(/-\s+/g, '-')    // Fix "Wei- Lin" -> "Wei-Lin"
         .replace(/\s+-/g, '-')    // Fix "Wei -Lin" -> "Wei-Lin"
@@ -319,4 +465,20 @@ function cleanName(name) {
         // Specific fix for "W Ó JCIK" -> "WÓJCIK"
         .replace(/W\s+Ó\s+JCIK/g, 'WÓJCIK')
         .trim();
+
+    // Convert to Title Case (e.g. "NAME SURNAME" -> "Name Surname")
+    // But keep country codes (3 letters) in caps if they appear
+    return cleaned.split(/[\s-]+/).map(part => {
+        // Skip country codes if they happen to be in the name string
+        if (VALID_COUNTRY_CODES.has(part)) return part;
+
+        // Handle names with apostrophes like "D'Alessandro"
+        if (part.includes("'")) {
+            return part.split("'").map(p =>
+                p.charAt(0).toUpperCase() + p.slice(1).toLowerCase()
+            ).join("'");
+        }
+
+        return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
+    }).join(' ');
 }
