@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { discoverWorldCups, fetchEventData } = require('./data_fetcher_v2');
-const { calculateSOQCPoints, calculateSOQCTimes, allocateQuotas, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
+const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
 
 // In-memory store
 const state = {
@@ -12,7 +12,7 @@ const state = {
 };
 
 // Distances to track
-const DISTANCES = ['500m', '1000m', '1500m', '3000m', '5000m', '10000m', 'Mass Start'];
+const DISTANCES = ['500m', '1000m', '1500m', '3000m', '5000m', '10000m', 'Mass Start', 'Team Pursuit'];
 
 async function updateData() {
     if (state.isUpdating) return;
@@ -96,8 +96,15 @@ function recalculateSOQC() {
         // Skip if no config for this event
         if (!EVENT_CONFIG[eventKey]) continue;
 
-        const pointsRanking = calculateSOQCPoints(aggregatedResults[key]);
-        const timesRanking = calculateSOQCTimes(aggregatedResults[key]);
+        // Team Pursuit uses country-based aggregation instead of individual
+        let pointsRanking, timesRanking;
+        if (distance === 'Team Pursuit') {
+            pointsRanking = calculateTeamPursuitPoints(aggregatedResults[key]);
+            timesRanking = calculateTeamPursuitTimes(aggregatedResults[key]);
+        } else {
+            pointsRanking = calculateSOQCPoints(aggregatedResults[key]);
+            timesRanking = calculateSOQCTimes(aggregatedResults[key]);
+        }
         const quotas = allocateQuotas(eventKey, pointsRanking, timesRanking);
 
         // Store results with a display key (e.g., '500m' for both men and women)

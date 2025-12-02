@@ -16,8 +16,86 @@ const EVENT_CONFIG = {
     '10000m': { total: 12, fromPoints: 9, fromTimes: 3, maxPerNOC: 2, reserve: 8 },
 
     // Mass Start (24 from points only)
-    'Mass Start': { total: 24, fromPoints: 24, fromTimes: 0, maxPerNOC: 2, reserve: 8 }
+    'Mass Start': { total: 24, fromPoints: 24, fromTimes: 0, maxPerNOC: 2, reserve: 8 },
+
+    // Team Pursuit (8 teams: 6 from points + 2 from times)
+    'Team Pursuit': { total: 8, fromPoints: 6, fromTimes: 2, maxPerNOC: 1, reserve: 4 }
 };
+
+/**
+ * Calculate Team Pursuit SOQC Points Ranking
+ * Aggregates World Cup points BY COUNTRY (not individual)
+ */
+function calculateTeamPursuitPoints(results) {
+    const countryData = {};
+
+    results.forEach(result => {
+        const country = result.country;
+        if (!countryData[country]) {
+            countryData[country] = {
+                name: country,  // For consistency with individual events
+                country: country,
+                totalPoints: 0,
+                bestTime: '99:99.99',
+                races: []
+            };
+        }
+
+        const points = parseInt(result.points) || 0;
+        countryData[country].totalPoints += points;
+        countryData[country].races.push(result);
+
+        // Track best time for tie-breaking
+        if (result.time && compareTimes(result.time, countryData[country].bestTime) < 0) {
+            countryData[country].bestTime = result.time;
+        }
+    });
+
+    // Sort by points (descending), then by best time (ascending)
+    return Object.values(countryData).sort((a, b) => {
+        if (b.totalPoints !== a.totalPoints) {
+            return b.totalPoints - a.totalPoints;
+        }
+        return compareTimes(a.bestTime, b.bestTime);
+    });
+}
+
+/**
+ * Calculate Team Pursuit SOQC Times Ranking
+ * Ranks countries by their best time
+ */
+function calculateTeamPursuitTimes(results) {
+    const countryData = {};
+
+    results.forEach(result => {
+        const country = result.country;
+        if (!countryData[country]) {
+            countryData[country] = {
+                name: country,
+                country: country,
+                bestTime: '99:99.99',
+                totalPoints: 0
+            };
+        }
+
+        if (result.time && compareTimes(result.time, countryData[country].bestTime) < 0) {
+            countryData[country].bestTime = result.time;
+        }
+
+        // Track points for tie-breaking
+        const points = parseInt(result.points) || 0;
+        countryData[country].totalPoints += points;
+    });
+
+    // Sort by best time (ascending), then by points (descending)
+    return Object.values(countryData)
+        .filter(c => c.bestTime !== '99:99.99')
+        .sort((a, b) => {
+            const timeCompare = compareTimes(a.bestTime, b.bestTime);
+            if (timeCompare !== 0) return timeCompare;
+            return b.totalPoints - a.totalPoints;
+        });
+}
 
 /**
  * Calculate SOQC Points Ranking
@@ -209,6 +287,8 @@ function parseTime(timeStr) {
 module.exports = {
     calculateSOQCPoints,
     calculateSOQCTimes,
+    calculateTeamPursuitPoints,
+    calculateTeamPursuitTimes,
     allocateQuotas,
     EVENT_CONFIG
 };
