@@ -137,15 +137,22 @@ function parseExcelSheet(worksheet, sheetName) {
 
         let name, nation;
 
+        let points, time;
+
         if (isTeamPursuit) {
             // For Team Pursuit: Name is the Nation (Col 1)
             const rawNation = row[1];
             nation = TP_COUNTRY_MAPPING[rawNation] || rawNation; // Map to code if possible
             name = nation; // Name is the country code/name
+
+            points = row[2];
+            time = row[3];
         } else {
             // Standard Events
             name = row[3];
             nation = row[1];
+            points = row[4];
+            time = row[5];
         }
 
         if (!name || typeof name !== 'string') continue;
@@ -154,8 +161,8 @@ function parseExcelSheet(worksheet, sheetName) {
             rank: quotaRank,
             nation: nation,
             name: name,
-            points: row[4],
-            time: row[5]
+            points: points,
+            time: time
         };
 
         // CRITICAL FIX: Only add if athlete has actual quota rank
@@ -243,7 +250,7 @@ function compareList(label, officialList, appList, log) {
 }
 
 async function compareResults() {
-    const reportPath = path.join(__dirname, 'comparison_report_v2.txt');
+    const reportPath = path.join(__dirname, 'comparison_report_v2.md');
     let report = '';
 
     function log(msg) {

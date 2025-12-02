@@ -240,7 +240,7 @@ function parseResultsTable(text, distance, filename) {
         const isDebug = false;
 
         if (isDebug) {
-            console.log(`[DEBUG] Processing Rank 10 at index ${i}. Tokens: ${tokens.slice(i, i + 10).join(' ')}`);
+            console.log(`[DEBUG] Processing Rank ${rankCandidate} at index ${i}. Tokens: ${tokens.slice(i, i + 10).join(' ')}`);
         }
 
         if (isNaN(rankCandidate) || rankCandidate < 1 || rankCandidate > 99) {
@@ -248,8 +248,35 @@ function parseResultsTable(text, distance, filename) {
             continue;
         }
 
+        // Strict check: Token must be exactly the number (e.g. "15", not "15-11-2025")
+        if (tokens[i] !== rankCandidate.toString()) {
+            if (isDebug) console.log(`[DEBUG] Rank ${rankCandidate} rejected: Token '${tokens[i]}' is not exact match.`);
+            i++;
+            continue;
+        }
+
+        // Ignore "Page X of Y" where Y is interpreted as a rank
+        if (i > 0 && tokens[i - 1].toLowerCase() === 'of') {
+            if (isDebug) console.log(`[DEBUG] Rank ${rankCandidate} rejected: Preceded by 'of'.`);
+            i++;
+            continue;
+        }
+
+        // REMOVED seenRanks check to allow for tied ranks (e.g. two skaters at Rank 12)
+        // The strict Bib number check below is sufficient to prevent false positives.
+        /*
         if (seenRanks.has(rankCandidate)) {
-            if (isDebug) console.log(`[DEBUG] Rank 10 already seen.`);
+            if (isDebug) console.log(`[DEBUG] Rank ${rankCandidate} already seen.`);
+            i++;
+            continue;
+        }
+        */
+
+        // Verify that the next token is a Bib Number (must be an integer)
+        // This prevents false positives like "15" from "15-11-2025" in the header
+        const bibCandidate = parseInt(tokens[i + 1]);
+        if (isNaN(bibCandidate)) {
+            if (isDebug) console.log(`[DEBUG] Rank ${rankCandidate} rejected: Next token '${tokens[i + 1]}' is not a valid Bib number.`);
             i++;
             continue;
         }
@@ -304,7 +331,8 @@ function parseResultsTable(text, distance, filename) {
         } else {
             // Standard Events
             for (let k = countryIndex + 1; k < Math.min(countryIndex + 5, tokens.length); k++) {
-                if (tokens[k].match(/^\d{1,2}:\d{2}\.\d{2}$/) || tokens[k].match(/^\d{2}\.\d{2}(\(\d+\))?$/)) {
+                // Match M:SS.SS((N)) or SS.SS((N))
+                if (tokens[k].match(/^\d{1,2}:\d{2}\.\d{2}(\(\d+\))?$/) || tokens[k].match(/^\d{2}\.\d{2}(\(\d+\))?$/)) {
                     time = tokens[k].replace(/\(\d+\)/g, '');
                     timeIndex = k;
                     break;
@@ -490,6 +518,13 @@ function cleanName(name) {
         .replace(/Damian\s+Zurek/gi, 'Damian Żurek') // Normalize to Żurek
         .replace(/Yuta\s+Hirose/gi, 'Yuuta Hirose')   // Match Official
         .replace(/Altay\s+Zhardembekuly/gi, 'Altaj Zhardembekuly') // Match Official
+        .replace(/Gabriel\s+Gro\s+SS/gi, 'Gabriel Groß') // Fix German Eszett
+        .replace(/David\s+La\s+Rue/gi, 'David Larue')   // Fix spacing
+        .replace(/Antoine\s+G\s*[ée]\s*linas\s*-\s*Beaulieu/gi, 'Antoine Gélinas-Beaulieu') // Fix hyphen and spaces
+        .replace(/Antoine\s+G\s*[ée]\s*linas\s*-\s*Beaulieu/gi, 'Antoine Gélinas-Beaulieu') // Fix hyphen and spaces
+        .replace(/Antoine\s+G\s*[ée]\s*linas\s+Beaulieu/gi, 'Antoine Gélinas-Beaulieu') // Fallback
+        .replace(/G[ée]linas\s+Beaulieu/gi, 'Gélinas-Beaulieu') // Fallback
+        .replace(/Brooklyn\s+Mcdougall/gi, 'Brooklyn McDougall') // Fix McDougall case
         .trim();
 
     // Convert to Title Case (e.g. "NAME SURNAME" -> "Name Surname")

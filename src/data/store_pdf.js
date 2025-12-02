@@ -48,6 +48,23 @@ async function updateData() {
     }
 }
 
+const TARGET_EVENTS = [
+    { key: '500m-men', distance: '500m', gender: 'men', configKey: '500m' },
+    { key: '500m-women', distance: '500m', gender: 'women', configKey: '500m' },
+    { key: '1000m-men', distance: '1000m', gender: 'men', configKey: '1000m' },
+    { key: '1000m-women', distance: '1000m', gender: 'women', configKey: '1000m' },
+    { key: '1500m-men', distance: '1500m', gender: 'men', configKey: '1500m' },
+    { key: '1500m-women', distance: '1500m', gender: 'women', configKey: '1500m' },
+    { key: '3000m-women', distance: '3000m', gender: 'women', configKey: '3000m', related: '5000m-women' },
+    { key: '5000m-men', distance: '5000m', gender: 'men', configKey: '5000m-M', related: '10000m-men' },
+    { key: '5000m-women', distance: '5000m', gender: 'women', configKey: '5000m-W', related: '3000m-women' },
+    { key: '10000m-men', distance: '10000m', gender: 'men', configKey: '10000m', related: '5000m-men' },
+    { key: 'Mass Start-men', distance: 'Mass Start', gender: 'men', configKey: 'Mass Start' },
+    { key: 'Mass Start-women', distance: 'Mass Start', gender: 'women', configKey: 'Mass Start' },
+    { key: 'Team Pursuit-men', distance: 'Team Pursuit', gender: 'men', configKey: 'Team Pursuit' },
+    { key: 'Team Pursuit-women', distance: 'Team Pursuit', gender: 'women', configKey: 'Team Pursuit' }
+];
+
 function recalculateSOQC() {
     console.log("Recalculating SOQC...");
 
@@ -72,57 +89,45 @@ function recalculateSOQC() {
         }
     }
 
-    // Calculate Rankings and Quotas for each distance/gender combination
+    // Calculate Rankings and Quotas for each target event
     state.soqc = {}; // Reset
 
-    for (const key in aggregatedResults) {
-        const [distance, gender] = key.split('-');
+    for (const target of TARGET_EVENTS) {
+        const { key, distance, gender, configKey, related } = target;
+        const aggKey = `${distance}-${gender}`;
 
-        // Map to EVENT_CONFIG key (e.g., '5000m-men' -> '5000m-M')
-        let eventKey = distance;
-        let relatedDistanceKey = null;
-
-        if (distance === '5000m') {
-            if (gender === 'men') {
-                eventKey = '5000m-M';
-                relatedDistanceKey = '10000m-men'; // Combine with 10k
-            } else {
-                eventKey = '5000m-W';
-                relatedDistanceKey = '3000m-women'; // Combine with 3k
-            }
-        } else if (distance === '3000m' && gender === 'women') {
-            eventKey = '3000m';
-            relatedDistanceKey = '5000m-women'; // Combine with 5k
-        } else if (distance === '10000m' && gender === 'men') {
-            eventKey = '10000m';
-            relatedDistanceKey = '5000m-men'; // Combine with 5k
+        // Skip if no config (shouldn't happen with TARGET_EVENTS)
+        if (!EVENT_CONFIG[configKey]) {
+            console.warn(`Missing config for ${configKey}`);
+            continue;
         }
 
-        // Skip if no config for this event
-        if (!EVENT_CONFIG[eventKey]) continue;
+        // Get results for this distance
+        let pointsResults = aggregatedResults[aggKey] || [];
+        let timesResults = aggregatedResults[aggKey] || [];
 
-        // Prepare results for Points Ranking (Aggregated for Long Distances)
-        let pointsResults = [...aggregatedResults[key]];
-        if (relatedDistanceKey && aggregatedResults[relatedDistanceKey]) {
-            console.log(`Aggregating points for ${eventKey} from ${relatedDistanceKey}`);
-            pointsResults = [...pointsResults, ...aggregatedResults[relatedDistanceKey]];
+        // Combine points with related distance if applicable
+        if (related) {
+            const relatedResults = aggregatedResults[related] || [];
+            console.log(`Aggregating points for ${key} from ${related}`);
+            pointsResults = [...pointsResults, ...relatedResults];
         }
 
         // Team Pursuit uses country-based aggregation instead of individual
         let pointsRanking, timesRanking;
         if (distance === 'Team Pursuit') {
             pointsRanking = calculateTeamPursuitPoints(pointsResults);
-            timesRanking = calculateTeamPursuitTimes(aggregatedResults[key]);
+            timesRanking = calculateTeamPursuitTimes(timesResults);
         } else {
             pointsRanking = calculateSOQCPoints(pointsResults);
-            timesRanking = calculateSOQCTimes(aggregatedResults[key]);
+            timesRanking = calculateSOQCTimes(timesResults);
         }
-        const quotas = allocateQuotas(eventKey, pointsRanking, timesRanking);
+        const quotas = allocateQuotas(configKey, pointsRanking, timesRanking);
 
         // Apply host country (Italy) promotion if they're on reserve list
         const finalQuotas = applyHostCountryPromotion(quotas);
 
-        // Store results with distance-gender key to keep men/women separate
+        // Store results
         state.soqc[key] = {
             distance,
             gender,
