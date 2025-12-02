@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { fetchEventDataFromPDFs } = require('./pdf_data_fetcher');
-const { calculateSOQCPoints, calculateSOQCTimes, allocateQuotas, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
+const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, applyHostCountryPromotion, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
 
 // In-memory store
 const state = {
@@ -12,7 +12,7 @@ const state = {
 };
 
 // Distances to track
-const DISTANCES = ['500m', '1000m', '1500m', '3000m', '5000m', '10000m', 'Mass Start'];
+const DISTANCES = ['500m', '1000m', '1500m', '3000m', '5000m', '10000m', 'Mass Start', 'Team Pursuit'];
 
 async function updateData() {
     if (state.isUpdating) return;
@@ -108,9 +108,19 @@ function recalculateSOQC() {
             pointsResults = [...pointsResults, ...aggregatedResults[relatedDistanceKey]];
         }
 
-        const pointsRanking = calculateSOQCPoints(pointsResults);
-        const timesRanking = calculateSOQCTimes(aggregatedResults[key]); // Times only from specific distance
+        // Team Pursuit uses country-based aggregation instead of individual
+        let pointsRanking, timesRanking;
+        if (distance === 'Team Pursuit') {
+            pointsRanking = calculateTeamPursuitPoints(pointsResults);
+            timesRanking = calculateTeamPursuitTimes(aggregatedResults[key]);
+        } else {
+            pointsRanking = calculateSOQCPoints(pointsResults);
+            timesRanking = calculateSOQCTimes(aggregatedResults[key]);
+        }
         const quotas = allocateQuotas(eventKey, pointsRanking, timesRanking);
+
+        // Apply host country (Italy) promotion if they're on reserve list
+        const finalQuotas = applyHostCountryPromotion(quotas);
 
         // Store results with distance-gender key to keep men/women separate
         state.soqc[key] = {
@@ -126,14 +136,14 @@ function recalculateSOQC() {
 
         // Combine points and times qualifiers into single qualified list
         const qualified = [
-            ...quotas.pointsQualifiers.map(s => ({ ...s, method: 'Points' })),
-            ...quotas.timesQualifiers.map(s => ({ ...s, method: 'Times' }))
+            ...finalQuotas.pointsQualifiers.map(s => ({ ...s, method: 'Points' })),
+            ...finalQuotas.timesQualifiers.map(s => ({ ...s, method: 'Times' }))
         ];
 
         state.soqc[key].quotas.qualified = qualified;
-        state.soqc[key].quotas.reserve = quotas.reserve.map(s => ({ ...s, method: 'Reserve' }));
+        state.soqc[key].quotas.reserve = finalQuotas.reserve.map(s => ({ ...s, method: 'Reserve' }));
 
-        console.log(`SOQC ${key}: ${qualified.length} qualified (${quotas.pointsQualifiers.length} points, ${quotas.timesQualifiers.length} times)`);
+        console.log(`SOQC ${key}: ${qualified.length} qualified (${finalQuotas.pointsQualifiers.length} points, ${finalQuotas.timesQualifiers.length} times)`);
     }
 }
 
