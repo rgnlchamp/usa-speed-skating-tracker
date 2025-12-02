@@ -72,6 +72,9 @@ function renderUSAStats() {
     const quotasByEvent = {};
 
     for (const distance in currentData.soqc) {
+        // Skip Mass Start events (incorrect data)
+        if (distance.includes('Mass Start')) continue;
+
         const q = currentData.soqc[distance].quotas.qualified.filter(s => s.country === 'USA');
         quotasByEvent[distance] = q.length;
         totalQuotas += q.length;
