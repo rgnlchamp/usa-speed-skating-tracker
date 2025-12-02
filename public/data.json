@@ -146,7 +146,7 @@
           },
           {
             "rank": "21",
-            "name": "Altay Zhardembekuly",
+            "name": "Altaj Zhardembekuly",
             "country": "KAZ",
             "time": "35.00",
             "points": 0
@@ -415,7 +415,7 @@
           },
           {
             "rank": "2",
-            "name": "Damian Zurek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "33.90",
             "points": 54
@@ -478,7 +478,7 @@
           },
           {
             "rank": "11",
-            "name": "Yuta Hirose",
+            "name": "Yuuta Hirose",
             "country": "JPN",
             "time": "34.24",
             "points": 30
@@ -520,7 +520,7 @@
           },
           {
             "rank": "18",
-            "name": "Sebas Diniz",
+            "name": "Sebastian Diniz",
             "country": "NED",
             "time": "34.66",
             "points": 23
@@ -1356,46 +1356,46 @@
         "url": "PDF: Utah Olympic Oval - Salt Lake City (Usa)",
         "results": [
           {
-            "rank": "16",
+            "rank": "5",
             "name": "KAZ",
             "country": "KAZ",
             "time": "2:57.81",
             "points": 40
           },
           {
-            "rank": "2",
+            "rank": "7",
             "name": "BEL",
             "country": "BEL",
             "time": "2:58.38",
-            "points": 0
+            "points": 36
           },
           {
             "rank": "3",
             "name": "POL",
             "country": "POL",
             "time": "2:58.41",
-            "points": 0
+            "points": 33
           },
           {
             "rank": "4",
             "name": "CZE",
             "country": "CZE",
             "time": "2:58.85",
-            "points": 1
+            "points": 29
           },
           {
             "rank": "1",
             "name": "SUI",
             "country": "SUI",
             "time": "2:58.98",
-            "points": 1
+            "points": 28
           },
           {
             "rank": "6",
             "name": "KOR",
             "country": "KOR",
             "time": "3:01.09",
-            "points": 3
+            "points": 27
           }
         ]
       },
@@ -1410,60 +1410,60 @@
         "url": "PDF: Utah Olympic Oval - Salt Lake City (Usa)",
         "results": [
           {
-            "rank": "16",
+            "rank": "5",
             "name": "GER",
             "country": "GER",
             "time": "3:39.17",
             "points": 40
           },
           {
-            "rank": "2",
+            "rank": "7",
             "name": "POL",
             "country": "POL",
             "time": "3:40.52",
-            "points": 1
+            "points": 36
           },
           {
             "rank": "1",
             "name": "KOR",
             "country": "KOR",
             "time": "3:40.91",
-            "points": 1
+            "points": 33
           },
           {
             "rank": "4",
             "name": "SUI",
             "country": "SUI",
             "time": "3:41.23",
-            "points": 2
+            "points": 29
           },
           {
-            "rank": "5",
+            "rank": "12",
             "name": "KAZ",
             "country": "KAZ",
             "time": "3:48.01",
-            "points": 8
+            "points": 28
           },
           {
             "rank": "8",
             "name": "HUN",
             "country": "HUN",
             "time": "3:50.59",
-            "points": 11
+            "points": 27
           },
           {
             "rank": "11",
             "name": "CZE",
             "country": "CZE",
             "time": "3:52.44",
-            "points": 13
+            "points": 26
           },
           {
             "rank": "13",
             "name": "CAN",
             "country": "CAN",
             "time": "4:15.33",
-            "points": 36
+            "points": 25
           }
         ]
       },
@@ -1986,7 +1986,7 @@
           },
           {
             "rank": "2",
-            "name": "Sebas Diniz",
+            "name": "Sebastian Diniz",
             "country": "NED",
             "time": "34.30",
             "points": 24
@@ -2098,7 +2098,7 @@
           },
           {
             "rank": "18",
-            "name": "Altay Zhardembekuly",
+            "name": "Altaj Zhardembekuly",
             "country": "KAZ",
             "time": "34.91",
             "points": 3
@@ -2553,7 +2553,7 @@
         "url": "PDF: Utah Olympic Oval - Salt Lake City (Usa)",
         "results": [
           {
-            "rank": "16",
+            "rank": "1",
             "name": "JPN",
             "country": "JPN",
             "time": "2:52.13",
@@ -2564,49 +2564,49 @@
             "name": "CAN",
             "country": "CAN",
             "time": "2:52.40",
-            "points": 0
+            "points": 54
           },
           {
             "rank": "3",
             "name": "USA",
             "country": "USA",
             "time": "2:54.01",
-            "points": 1
+            "points": 48
           },
           {
-            "rank": "1",
+            "rank": "4",
             "name": "GER",
             "country": "GER",
             "time": "2:54.38",
-            "points": 2
+            "points": 43
           },
           {
             "rank": "5",
             "name": "NED",
             "country": "NED",
             "time": "2:54.66",
-            "points": 2
+            "points": 40
           },
           {
             "rank": "6",
             "name": "CHN",
             "country": "CHN",
             "time": "2:56.38",
-            "points": 4
+            "points": 38
           },
           {
-            "rank": "4",
+            "rank": "7",
             "name": "NOR",
             "country": "NOR",
             "time": "3:01.44",
-            "points": 9
+            "points": 36
           },
           {
-            "rank": "9",
+            "rank": "8",
             "name": "ITA",
             "country": "ITA",
             "time": "3:05.05",
-            "points": 12
+            "points": 34
           }
         ]
       },
@@ -2621,7 +2621,7 @@
         "url": "PDF: Utah Olympic Oval - Salt Lake City (Usa)",
         "results": [
           {
-            "rank": "16",
+            "rank": "1",
             "name": "USA",
             "country": "USA",
             "time": "3:32.49",
@@ -2632,49 +2632,49 @@
             "name": "NOR",
             "country": "NOR",
             "time": "3:35.20",
-            "points": 2
+            "points": 54
           },
           {
             "rank": "3",
             "name": "CHN",
             "country": "CHN",
             "time": "3:36.65",
-            "points": 4
+            "points": 48
           },
           {
             "rank": "4",
             "name": "FRA",
             "country": "FRA",
             "time": "3:37.97",
-            "points": 5
+            "points": 43
           },
           {
             "rank": "5",
             "name": "JPN",
             "country": "JPN",
             "time": "3:38.90",
-            "points": 6
+            "points": 40
           },
           {
             "rank": "6",
             "name": "NED",
             "country": "NED",
             "time": "3:40.03",
-            "points": 7
+            "points": 38
           },
           {
             "rank": "7",
             "name": "BEL",
             "country": "BEL",
             "time": "3:48.39",
-            "points": 15
+            "points": 36
           },
           {
-            "rank": "15",
+            "rank": "8",
             "name": "ITA",
             "country": "ITA",
             "time": "4:39.70",
-            "points": 1
+            "points": 34
           }
         ]
       },
@@ -2870,7 +2870,7 @@
           },
           {
             "rank": "6",
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "33.93",
             "points": 38
@@ -2954,7 +2954,7 @@
           },
           {
             "rank": "19",
-            "name": "Yuta Hirose",
+            "name": "Yuuta Hirose",
             "country": "JPN",
             "time": "1:01.17",
             "points": 22
@@ -4511,7 +4511,7 @@
           },
           {
             "rank": "2",
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "1:06.02",
             "points": 54
@@ -4908,7 +4908,7 @@
           },
           {
             "rank": "9",
-            "name": "Altay Zhardembekuly",
+            "name": "Altaj Zhardembekuly",
             "country": "KAZ",
             "time": "34.58",
             "points": 12
@@ -5352,7 +5352,7 @@
         "results": [
           {
             "rank": "22",
-            "name": " Alexander Farthofer",
+            "name": "Alexander Farthofer",
             "country": "AUT",
             "time": "1:42.97",
             "points": 28
@@ -5824,14 +5824,14 @@
           },
           {
             "rank": "4",
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "34.07",
             "points": 43
           },
           {
             "rank": "5",
-            "name": "Sebas Diniz",
+            "name": "Sebastian Diniz",
             "country": "NED",
             "time": "34.11",
             "points": 40
@@ -5880,7 +5880,7 @@
           },
           {
             "rank": "12",
-            "name": "Yuta Hirose",
+            "name": "Yuuta Hirose",
             "country": "JPN",
             "time": "34.34",
             "points": 29
@@ -6474,7 +6474,7 @@
         "results": [
           {
             "rank": "23",
-            "name": " Tatsuya Shinhama",
+            "name": "Tatsuya Shinhama",
             "country": "JPN",
             "time": "34.07",
             "points": 28
@@ -6723,39 +6723,39 @@
         "url": "PDF: Olympic Oval - Calgary (Can)",
         "results": [
           {
-            "rank": "9",
+            "rank": "5",
             "name": "NOR",
             "country": "NOR",
             "time": "3:00.91",
             "points": 40
           },
           {
-            "rank": "2",
+            "rank": "7",
             "name": "SUI",
             "country": "SUI",
             "time": "3:01.08",
-            "points": 0
+            "points": 36
           },
           {
             "rank": "3",
             "name": "POL",
             "country": "POL",
             "time": "3:01.67",
-            "points": 0
+            "points": 33
           },
           {
             "rank": "4",
             "name": "ITA",
             "country": "ITA",
             "time": "3:02.90",
-            "points": 1
+            "points": 29
           },
           {
             "rank": "1",
             "name": "KOR",
             "country": "KOR",
             "time": "3:09.64",
-            "points": 8
+            "points": 28
           }
         ]
       },
@@ -7041,46 +7041,46 @@
         "url": "PDF: Olympic Oval - Calgary (Can)",
         "results": [
           {
-            "rank": "9",
+            "rank": "5",
             "name": "ITA",
             "country": "ITA",
             "time": "3:37.95",
             "points": 40
           },
           {
-            "rank": "2",
+            "rank": "7",
             "name": "KOR",
             "country": "KOR",
             "time": "3:41.21",
-            "points": 3
+            "points": 36
           },
           {
             "rank": "3",
             "name": "CAN",
             "country": "CAN",
             "time": "3:42.13",
-            "points": 4
+            "points": 33
           },
           {
             "rank": "4",
             "name": "SUI",
             "country": "SUI",
             "time": "3:42.97",
-            "points": 5
+            "points": 29
           },
           {
-            "rank": "5",
+            "rank": "8",
             "name": "HUN",
             "country": "HUN",
             "time": "3:48.32",
-            "points": 10
+            "points": 28
           },
           {
             "rank": "10",
             "name": "KAZ",
             "country": "KAZ",
             "time": "3:49.44",
-            "points": 11
+            "points": 27
           }
         ]
       },
@@ -7095,7 +7095,7 @@
         "url": "PDF: Olympic Oval - Calgary (Can)",
         "results": [
           {
-            "rank": "13",
+            "rank": "1",
             "name": "NED",
             "country": "NED",
             "time": "2:52.52",
@@ -7106,49 +7106,49 @@
             "name": "CAN",
             "country": "CAN",
             "time": "2:52.68",
-            "points": 0
+            "points": 54
           },
           {
             "rank": "3",
             "name": "JPN",
             "country": "JPN",
             "time": "2:53.08",
-            "points": 0
+            "points": 48
           },
           {
             "rank": "4",
             "name": "USA",
             "country": "USA",
             "time": "2:53.58",
-            "points": 1
+            "points": 43
           },
           {
-            "rank": "1",
+            "rank": "5",
             "name": "GER",
             "country": "GER",
             "time": "2:56.01",
-            "points": 3
+            "points": 40
           },
           {
             "rank": "6",
             "name": "CHN",
             "country": "CHN",
             "time": "2:56.23",
-            "points": 3
+            "points": 38
           },
           {
             "rank": "7",
             "name": "KAZ",
             "country": "KAZ",
             "time": "2:57.71",
-            "points": 5
+            "points": 36
           },
           {
-            "rank": "5",
+            "rank": "8",
             "name": "BEL",
             "country": "BEL",
             "time": "3:00.58",
-            "points": 8
+            "points": 34
           }
         ]
       },
@@ -7163,7 +7163,7 @@
         "url": "PDF: Olympic Oval  -   Calgary (Can)",
         "results": [
           {
-            "rank": "11",
+            "rank": "1",
             "name": "USA",
             "country": "USA",
             "time": "3:35.34",
@@ -7174,49 +7174,49 @@
             "name": "FRA",
             "country": "FRA",
             "time": "3:38.05",
-            "points": 2
+            "points": 54
           },
           {
             "rank": "3",
             "name": "NED",
             "country": "NED",
             "time": "3:38.65",
-            "points": 3
+            "points": 48
           },
           {
             "rank": "4",
             "name": "GER",
             "country": "GER",
             "time": "3:39.83",
-            "points": 4
+            "points": 43
           },
           {
             "rank": "5",
             "name": "JPN",
             "country": "JPN",
             "time": "3:41.43",
-            "points": 6
+            "points": 40
           },
           {
             "rank": "6",
             "name": "CHN",
             "country": "CHN",
             "time": "3:42.24",
-            "points": 6
+            "points": 38
           },
           {
             "rank": "7",
             "name": "POL",
             "country": "POL",
             "time": "3:42.69",
-            "points": 7
+            "points": 36
           },
           {
             "rank": "8",
-            "name": "Norway F",
-            "country": "Norway F",
+            "name": "NOR",
+            "country": "NOR",
             "time": "4:03.16",
-            "points": 27
+            "points": 34
           }
         ]
       },
@@ -7391,7 +7391,7 @@
           },
           {
             "rank": "2",
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "33.85",
             "points": 54
@@ -7475,7 +7475,7 @@
           },
           {
             "rank": "14",
-            "name": "Sebas Diniz",
+            "name": "Sebastian Diniz",
             "country": "NED",
             "time": "34.39",
             "points": 27
@@ -7510,7 +7510,7 @@
           },
           {
             "rank": "19",
-            "name": "Yuta Hirose",
+            "name": "Yuuta Hirose",
             "country": "JPN",
             "time": "34.53",
             "points": 22
@@ -7737,7 +7737,7 @@
           },
           {
             "rank": "73",
-            "name": " Seok Kim",
+            "name": "Seok Kim",
             "country": "HUN",
             "time": "7:38.00",
             "points": 6
@@ -9226,7 +9226,7 @@
           },
           {
             "rank": "6",
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "time": "1:06.90",
             "points": 38
@@ -9623,6 +9623,54 @@
           ]
         },
         {
+          "name": "Damian Żurek",
+          "country": "POL",
+          "totalPoints": 189,
+          "bestTime": "33.85",
+          "races": [
+            {
+              "rank": "2",
+              "name": "Damian Żurek",
+              "country": "POL",
+              "time": "33.90",
+              "points": 54,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "6",
+              "name": "Damian Żurek",
+              "country": "POL",
+              "time": "33.93",
+              "points": 38,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "4",
+              "name": "Damian Żurek",
+              "country": "POL",
+              "time": "34.07",
+              "points": 43,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "2",
+              "name": "Damian Żurek",
+              "country": "POL",
+              "time": "33.85",
+              "points": 54,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Jenning De Boo",
           "country": "NED",
           "totalPoints": 185,
@@ -9808,44 +9856,6 @@
               "country": "CHN",
               "time": "34.18",
               "points": 31,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Damian Urek",
-          "country": "POL",
-          "totalPoints": 135,
-          "bestTime": "33.85",
-          "races": [
-            {
-              "rank": "6",
-              "name": "Damian Urek",
-              "country": "POL",
-              "time": "33.93",
-              "points": 38,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "4",
-              "name": "Damian Urek",
-              "country": "POL",
-              "time": "34.07",
-              "points": 43,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "2",
-              "name": "Damian Urek",
-              "country": "POL",
-              "time": "33.85",
-              "points": 54,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
@@ -10093,14 +10103,14 @@
           ]
         },
         {
-          "name": "Sebas Diniz",
+          "name": "Sebastian Diniz",
           "country": "NED",
           "totalPoints": 114,
           "bestTime": "34.11",
           "races": [
             {
               "rank": "18",
-              "name": "Sebas Diniz",
+              "name": "Sebastian Diniz",
               "country": "NED",
               "time": "34.66",
               "points": 23,
@@ -10110,7 +10120,7 @@
             },
             {
               "rank": "2",
-              "name": "Sebas Diniz",
+              "name": "Sebastian Diniz",
               "country": "NED",
               "time": "34.30",
               "points": 24,
@@ -10120,7 +10130,7 @@
             },
             {
               "rank": "5",
-              "name": "Sebas Diniz",
+              "name": "Sebastian Diniz",
               "country": "NED",
               "time": "34.11",
               "points": 40,
@@ -10130,7 +10140,7 @@
             },
             {
               "rank": "14",
-              "name": "Sebas Diniz",
+              "name": "Sebastian Diniz",
               "country": "NED",
               "time": "34.39",
               "points": 27,
@@ -10237,14 +10247,14 @@
           ]
         },
         {
-          "name": "Yuta Hirose",
+          "name": "Yuuta Hirose",
           "country": "JPN",
           "totalPoints": 103,
           "bestTime": "34.24",
           "races": [
             {
               "rank": "11",
-              "name": "Yuta Hirose",
+              "name": "Yuuta Hirose",
               "country": "JPN",
               "time": "34.24",
               "points": 30,
@@ -10254,7 +10264,7 @@
             },
             {
               "rank": "19",
-              "name": "Yuta Hirose",
+              "name": "Yuuta Hirose",
               "country": "JPN",
               "time": "1:01.17",
               "points": 22,
@@ -10264,7 +10274,7 @@
             },
             {
               "rank": "12",
-              "name": "Yuta Hirose",
+              "name": "Yuuta Hirose",
               "country": "JPN",
               "time": "34.34",
               "points": 29,
@@ -10274,7 +10284,7 @@
             },
             {
               "rank": "19",
-              "name": "Yuta Hirose",
+              "name": "Yuuta Hirose",
               "country": "JPN",
               "time": "34.53",
               "points": 22,
@@ -10391,6 +10401,44 @@
               "name": "Joep Wennemars",
               "country": "NED",
               "time": "34.32",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Tatsuya Shinhama",
+          "country": "JPN",
+          "totalPoints": 81,
+          "bestTime": "34.07",
+          "races": [
+            {
+              "rank": "14",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.37",
+              "points": 27,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.30",
+              "points": 26,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "23",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.07",
               "points": 28,
               "eventId": "WC2",
               "distance": "500m",
@@ -10763,52 +10811,6 @@
           ]
         },
         {
-          "name": "Damian Zurek",
-          "country": "POL",
-          "totalPoints": 54,
-          "bestTime": "33.90",
-          "races": [
-            {
-              "rank": "2",
-              "name": "Damian Zurek",
-              "country": "POL",
-              "time": "33.90",
-              "points": 54,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Tatsuya Shinhama",
-          "country": "JPN",
-          "totalPoints": 53,
-          "bestTime": "34.30",
-          "races": [
-            {
-              "rank": "14",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.37",
-              "points": 27,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "15",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.30",
-              "points": 26,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Zach Stoppelmoor",
           "country": "USA",
           "totalPoints": 52,
@@ -11049,24 +11051,6 @@
           ]
         },
         {
-          "name": " Tatsuya Shinhama",
-          "country": "JPN",
-          "totalPoints": 28,
-          "bestTime": "34.07",
-          "races": [
-            {
-              "rank": "23",
-              "name": " Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.07",
-              "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Yankun Zhao",
           "country": "CAN",
           "totalPoints": 27,
@@ -11255,14 +11239,14 @@
           ]
         },
         {
-          "name": "Altay Zhardembekuly",
+          "name": "Altaj Zhardembekuly",
           "country": "KAZ",
           "totalPoints": 15,
           "bestTime": "34.58",
           "races": [
             {
               "rank": "21",
-              "name": "Altay Zhardembekuly",
+              "name": "Altaj Zhardembekuly",
               "country": "KAZ",
               "time": "35.00",
               "points": 0,
@@ -11272,7 +11256,7 @@
             },
             {
               "rank": "18",
-              "name": "Altay Zhardembekuly",
+              "name": "Altaj Zhardembekuly",
               "country": "KAZ",
               "time": "34.91",
               "points": 3,
@@ -11282,7 +11266,7 @@
             },
             {
               "rank": "9",
-              "name": "Altay Zhardembekuly",
+              "name": "Altaj Zhardembekuly",
               "country": "KAZ",
               "time": "34.58",
               "points": 12,
@@ -12309,22 +12293,16 @@
           "totalPoints": 211
         },
         {
-          "name": "Damian Urek",
+          "name": "Damian Żurek",
           "country": "POL",
           "bestTime": "33.85",
-          "totalPoints": 135
+          "totalPoints": 189
         },
         {
           "name": "Zhiwen Xue",
           "country": "CHN",
           "bestTime": "33.85",
           "totalPoints": 127
-        },
-        {
-          "name": "Damian Zurek",
-          "country": "POL",
-          "bestTime": "33.90",
-          "totalPoints": 54
         },
         {
           "name": "Tingyu Gao",
@@ -12375,13 +12353,13 @@
           "totalPoints": 70
         },
         {
-          "name": " Tatsuya Shinhama",
+          "name": "Tatsuya Shinhama",
           "country": "JPN",
           "bestTime": "34.07",
-          "totalPoints": 28
+          "totalPoints": 81
         },
         {
-          "name": "Sebas Diniz",
+          "name": "Sebastian Diniz",
           "country": "NED",
           "bestTime": "34.11",
           "totalPoints": 114
@@ -12405,7 +12383,7 @@
           "totalPoints": 66
         },
         {
-          "name": "Yuta Hirose",
+          "name": "Yuuta Hirose",
           "country": "JPN",
           "bestTime": "34.24",
           "totalPoints": 103
@@ -12415,12 +12393,6 @@
           "country": "JPN",
           "bestTime": "34.30",
           "totalPoints": 81
-        },
-        {
-          "name": "Tatsuya Shinhama",
-          "country": "JPN",
-          "bestTime": "34.30",
-          "totalPoints": 53
         },
         {
           "name": "Jae Woong Chung",
@@ -12507,7 +12479,7 @@
           "totalPoints": 14
         },
         {
-          "name": "Altay Zhardembekuly",
+          "name": "Altaj Zhardembekuly",
           "country": "KAZ",
           "bestTime": "34.58",
           "totalPoints": 15
@@ -12763,6 +12735,55 @@
             "method": "Points"
           },
           {
+            "name": "Damian Żurek",
+            "country": "POL",
+            "totalPoints": 189,
+            "bestTime": "33.85",
+            "races": [
+              {
+                "rank": "2",
+                "name": "Damian Żurek",
+                "country": "POL",
+                "time": "33.90",
+                "points": 54,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "6",
+                "name": "Damian Żurek",
+                "country": "POL",
+                "time": "33.93",
+                "points": 38,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "4",
+                "name": "Damian Żurek",
+                "country": "POL",
+                "time": "34.07",
+                "points": 43,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "2",
+                "name": "Damian Żurek",
+                "country": "POL",
+                "time": "33.85",
+                "points": 54,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Jenning De Boo",
             "country": "NED",
             "totalPoints": 185,
@@ -12951,45 +12972,6 @@
                 "country": "CHN",
                 "time": "34.18",
                 "points": 31,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Damian Urek",
-            "country": "POL",
-            "totalPoints": 135,
-            "bestTime": "33.85",
-            "races": [
-              {
-                "rank": "6",
-                "name": "Damian Urek",
-                "country": "POL",
-                "time": "33.93",
-                "points": 38,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "4",
-                "name": "Damian Urek",
-                "country": "POL",
-                "time": "34.07",
-                "points": 43,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "2",
-                "name": "Damian Urek",
-                "country": "POL",
-                "time": "33.85",
-                "points": 54,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "men"
@@ -13243,14 +13225,14 @@
             "method": "Points"
           },
           {
-            "name": "Sebas Diniz",
+            "name": "Sebastian Diniz",
             "country": "NED",
             "totalPoints": 114,
             "bestTime": "34.11",
             "races": [
               {
                 "rank": "18",
-                "name": "Sebas Diniz",
+                "name": "Sebastian Diniz",
                 "country": "NED",
                 "time": "34.66",
                 "points": 23,
@@ -13260,7 +13242,7 @@
               },
               {
                 "rank": "2",
-                "name": "Sebas Diniz",
+                "name": "Sebastian Diniz",
                 "country": "NED",
                 "time": "34.30",
                 "points": 24,
@@ -13270,7 +13252,7 @@
               },
               {
                 "rank": "5",
-                "name": "Sebas Diniz",
+                "name": "Sebastian Diniz",
                 "country": "NED",
                 "time": "34.11",
                 "points": 40,
@@ -13280,7 +13262,7 @@
               },
               {
                 "rank": "14",
-                "name": "Sebas Diniz",
+                "name": "Sebastian Diniz",
                 "country": "NED",
                 "time": "34.39",
                 "points": 27,
@@ -13390,14 +13372,14 @@
             "method": "Points"
           },
           {
-            "name": "Yuta Hirose",
+            "name": "Yuuta Hirose",
             "country": "JPN",
             "totalPoints": 103,
             "bestTime": "34.24",
             "races": [
               {
                 "rank": "11",
-                "name": "Yuta Hirose",
+                "name": "Yuuta Hirose",
                 "country": "JPN",
                 "time": "34.24",
                 "points": 30,
@@ -13407,7 +13389,7 @@
               },
               {
                 "rank": "19",
-                "name": "Yuta Hirose",
+                "name": "Yuuta Hirose",
                 "country": "JPN",
                 "time": "1:01.17",
                 "points": 22,
@@ -13417,7 +13399,7 @@
               },
               {
                 "rank": "12",
-                "name": "Yuta Hirose",
+                "name": "Yuuta Hirose",
                 "country": "JPN",
                 "time": "34.34",
                 "points": 29,
@@ -13427,7 +13409,7 @@
               },
               {
                 "rank": "19",
-                "name": "Yuta Hirose",
+                "name": "Yuuta Hirose",
                 "country": "JPN",
                 "time": "34.53",
                 "points": 22,
@@ -13556,47 +13538,37 @@
             "method": "Points"
           },
           {
-            "name": "Yuma Murakami",
+            "name": "Tatsuya Shinhama",
             "country": "JPN",
             "totalPoints": 81,
-            "bestTime": "34.30",
+            "bestTime": "34.07",
             "races": [
               {
-                "rank": "5",
-                "name": "Yuma Murakami",
+                "rank": "14",
+                "name": "Tatsuya Shinhama",
                 "country": "JPN",
-                "time": "34.34",
-                "points": 16,
+                "time": "34.37",
+                "points": 27,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "men"
               },
               {
-                "rank": "16",
-                "name": "Yuma Murakami",
+                "rank": "15",
+                "name": "Tatsuya Shinhama",
                 "country": "JPN",
                 "time": "34.30",
-                "points": 28,
+                "points": 26,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "men"
               },
               {
-                "rank": "18",
-                "name": "Yuma Murakami",
+                "rank": "23",
+                "name": "Tatsuya Shinhama",
                 "country": "JPN",
-                "time": "34.70",
-                "points": 23,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "7",
-                "name": "Yuma Murakami",
-                "country": "JPN",
-                "time": "34.53",
-                "points": 14,
+                "time": "34.07",
+                "points": 28,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "men"
@@ -13693,13 +13665,6 @@
             "method": "Points"
           },
           {
-            "name": "Damian Zurek",
-            "country": "POL",
-            "bestTime": "33.90",
-            "totalPoints": 54,
-            "method": "Times"
-          },
-          {
             "name": "Jae Woong Chung",
             "country": "KOR",
             "bestTime": "34.30",
@@ -13721,6 +13686,13 @@
             "method": "Times"
           },
           {
+            "name": "Piotr Michalski",
+            "country": "POL",
+            "bestTime": "34.46",
+            "totalPoints": 67,
+            "method": "Times"
+          },
+          {
             "name": "Siver Brattgjerd",
             "country": "NOR",
             "bestTime": "34.49",
@@ -13735,7 +13707,7 @@
             "method": "Times"
           },
           {
-            "name": "Altay Zhardembekuly",
+            "name": "Altaj Zhardembekuly",
             "country": "KAZ",
             "bestTime": "34.58",
             "totalPoints": 15,
@@ -20861,6 +20833,34 @@
           ]
         },
         {
+          "name": "Alexander Farthofer",
+          "country": "AUT",
+          "totalPoints": 35,
+          "bestTime": "1:42.97",
+          "races": [
+            {
+              "rank": "21",
+              "name": "Alexander Farthofer",
+              "country": "AUT",
+              "time": "1:44.44",
+              "points": 7,
+              "eventId": "WC1",
+              "distance": "1500m",
+              "gender": "men"
+            },
+            {
+              "rank": "22",
+              "name": "Alexander Farthofer",
+              "country": "AUT",
+              "time": "1:42.97",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "1500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Tijmen Snel",
           "country": "NED",
           "totalPoints": 34,
@@ -20974,24 +20974,6 @@
               "country": "USA",
               "time": "1:43.66",
               "points": 15,
-              "eventId": "WC2",
-              "distance": "1500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": " Alexander Farthofer",
-          "country": "AUT",
-          "totalPoints": 28,
-          "bestTime": "1:42.97",
-          "races": [
-            {
-              "rank": "22",
-              "name": " Alexander Farthofer",
-              "country": "AUT",
-              "time": "1:42.97",
-              "points": 28,
               "eventId": "WC2",
               "distance": "1500m",
               "gender": "men"
@@ -21305,24 +21287,6 @@
               "time": "1:44.83",
               "points": 9,
               "eventId": "WC2",
-              "distance": "1500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Alexander Farthofer",
-          "country": "AUT",
-          "totalPoints": 7,
-          "bestTime": "1:44.44",
-          "races": [
-            {
-              "rank": "21",
-              "name": "Alexander Farthofer",
-              "country": "AUT",
-              "time": "1:44.44",
-              "points": 7,
-              "eventId": "WC1",
               "distance": "1500m",
               "gender": "men"
             }
@@ -22215,10 +22179,10 @@
           "totalPoints": 54
         },
         {
-          "name": " Alexander Farthofer",
+          "name": "Alexander Farthofer",
           "country": "AUT",
           "bestTime": "1:42.97",
-          "totalPoints": 28
+          "totalPoints": 35
         },
         {
           "name": "Hanbin Liu",
@@ -22345,12 +22309,6 @@
           "country": "CAN",
           "bestTime": "1:44.29",
           "totalPoints": 23
-        },
-        {
-          "name": "Alexander Farthofer",
-          "country": "AUT",
-          "bestTime": "1:44.44",
-          "totalPoints": 7
         },
         {
           "name": "Liiv",
@@ -23040,6 +22998,35 @@
             "method": "Points"
           },
           {
+            "name": "Alexander Farthofer",
+            "country": "AUT",
+            "totalPoints": 35,
+            "bestTime": "1:42.97",
+            "races": [
+              {
+                "rank": "21",
+                "name": "Alexander Farthofer",
+                "country": "AUT",
+                "time": "1:44.44",
+                "points": 7,
+                "eventId": "WC1",
+                "distance": "1500m",
+                "gender": "men"
+              },
+              {
+                "rank": "22",
+                "name": "Alexander Farthofer",
+                "country": "AUT",
+                "time": "1:42.97",
+                "points": 28,
+                "eventId": "WC2",
+                "distance": "1500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Emery Lehman",
             "country": "USA",
             "totalPoints": 33,
@@ -23146,25 +23133,6 @@
             "method": "Points"
           },
           {
-            "name": " Alexander Farthofer",
-            "country": "AUT",
-            "totalPoints": 28,
-            "bestTime": "1:42.97",
-            "races": [
-              {
-                "rank": "22",
-                "name": " Alexander Farthofer",
-                "country": "AUT",
-                "time": "1:42.97",
-                "points": 28,
-                "eventId": "WC2",
-                "distance": "1500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
             "name": "Vladimir Semirunniy",
             "country": "POL",
             "bestTime": "1:43.41",
@@ -23251,6 +23219,13 @@
             "method": "Reserve"
           },
           {
+            "name": "Seonghyeon Park",
+            "country": "KOR",
+            "bestTime": "1:44.95",
+            "totalPoints": 7,
+            "method": "Reserve"
+          },
+          {
             "name": "Kotaro Kasahara",
             "country": "JPN",
             "bestTime": "1:44.26",
@@ -23263,13 +23238,6 @@
             "bestTime": "1:44.29",
             "totalPoints": 23,
             "method": "Reserve"
-          },
-          {
-            "name": "Alexander Farthofer",
-            "country": "AUT",
-            "bestTime": "1:44.44",
-            "totalPoints": 7,
-            "method": "Reserve"
           }
         ]
       }
@@ -23279,41 +23247,13 @@
       "gender": "women",
       "points": [
         {
-          "name": "NED",
-          "country": "NED",
-          "totalPoints": 62,
-          "bestTime": "2:52.52",
-          "races": [
-            {
-              "rank": "5",
-              "name": "NED",
-              "country": "NED",
-              "time": "2:54.66",
-              "points": 2,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "13",
-              "name": "NED",
-              "country": "NED",
-              "time": "2:52.52",
-              "points": 60,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
           "name": "JPN",
           "country": "JPN",
-          "totalPoints": 60,
+          "totalPoints": 108,
           "bestTime": "2:52.13",
           "races": [
             {
-              "rank": "16",
+              "rank": "1",
               "name": "JPN",
               "country": "JPN",
               "time": "2:52.13",
@@ -23327,7 +23267,7 @@
               "name": "JPN",
               "country": "JPN",
               "time": "2:53.08",
-              "points": 0,
+              "points": 48,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23335,27 +23275,139 @@
           ]
         },
         {
-          "name": "NOR",
-          "country": "NOR",
-          "totalPoints": 49,
-          "bestTime": "3:00.91",
+          "name": "CAN",
+          "country": "CAN",
+          "totalPoints": 108,
+          "bestTime": "2:52.40",
           "races": [
             {
-              "rank": "4",
-              "name": "NOR",
-              "country": "NOR",
-              "time": "3:01.44",
-              "points": 9,
+              "rank": "2",
+              "name": "CAN",
+              "country": "CAN",
+              "time": "2:52.40",
+              "points": 54,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "women"
             },
             {
-              "rank": "9",
-              "name": "NOR",
-              "country": "NOR",
-              "time": "3:00.91",
+              "rank": "2",
+              "name": "CAN",
+              "country": "CAN",
+              "time": "2:52.68",
+              "points": 54,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "NED",
+          "country": "NED",
+          "totalPoints": 100,
+          "bestTime": "2:52.52",
+          "races": [
+            {
+              "rank": "5",
+              "name": "NED",
+              "country": "NED",
+              "time": "2:54.66",
               "points": 40,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "1",
+              "name": "NED",
+              "country": "NED",
+              "time": "2:52.52",
+              "points": 60,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "USA",
+          "country": "USA",
+          "totalPoints": 91,
+          "bestTime": "2:53.58",
+          "races": [
+            {
+              "rank": "3",
+              "name": "USA",
+              "country": "USA",
+              "time": "2:54.01",
+              "points": 48,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "USA",
+              "country": "USA",
+              "time": "2:53.58",
+              "points": 43,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "GER",
+          "country": "GER",
+          "totalPoints": 83,
+          "bestTime": "2:54.38",
+          "races": [
+            {
+              "rank": "4",
+              "name": "GER",
+              "country": "GER",
+              "time": "2:54.38",
+              "points": 43,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "5",
+              "name": "GER",
+              "country": "GER",
+              "time": "2:56.01",
+              "points": 40,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "CHN",
+          "country": "CHN",
+          "totalPoints": 76,
+          "bestTime": "2:56.23",
+          "races": [
+            {
+              "rank": "6",
+              "name": "CHN",
+              "country": "CHN",
+              "time": "2:56.38",
+              "points": 38,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "CHN",
+              "country": "CHN",
+              "time": "2:56.23",
+              "points": 38,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23365,11 +23417,11 @@
         {
           "name": "KAZ",
           "country": "KAZ",
-          "totalPoints": 45,
+          "totalPoints": 76,
           "bestTime": "2:57.71",
           "races": [
             {
-              "rank": "16",
+              "rank": "5",
               "name": "KAZ",
               "country": "KAZ",
               "time": "2:57.81",
@@ -23383,7 +23435,7 @@
               "name": "KAZ",
               "country": "KAZ",
               "time": "2:57.71",
-              "points": 5,
+              "points": 36,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23391,55 +23443,27 @@
           ]
         },
         {
-          "name": "ITA",
-          "country": "ITA",
-          "totalPoints": 13,
-          "bestTime": "3:02.90",
+          "name": "NOR",
+          "country": "NOR",
+          "totalPoints": 76,
+          "bestTime": "3:00.91",
           "races": [
             {
-              "rank": "9",
-              "name": "ITA",
-              "country": "ITA",
-              "time": "3:05.05",
-              "points": 12,
+              "rank": "7",
+              "name": "NOR",
+              "country": "NOR",
+              "time": "3:01.44",
+              "points": 36,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "women"
             },
             {
-              "rank": "4",
-              "name": "ITA",
-              "country": "ITA",
-              "time": "3:02.90",
-              "points": 1,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "KOR",
-          "country": "KOR",
-          "totalPoints": 11,
-          "bestTime": "3:01.09",
-          "races": [
-            {
-              "rank": "6",
-              "name": "KOR",
-              "country": "KOR",
-              "time": "3:01.09",
-              "points": 3,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "1",
-              "name": "KOR",
-              "country": "KOR",
-              "time": "3:09.64",
-              "points": 8,
+              "rank": "5",
+              "name": "NOR",
+              "country": "NOR",
+              "time": "3:00.91",
+              "points": 40,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23449,183 +23473,25 @@
         {
           "name": "BEL",
           "country": "BEL",
-          "totalPoints": 8,
+          "totalPoints": 70,
           "bestTime": "2:58.38",
           "races": [
             {
-              "rank": "2",
+              "rank": "7",
               "name": "BEL",
               "country": "BEL",
               "time": "2:58.38",
-              "points": 0,
+              "points": 36,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "women"
             },
             {
-              "rank": "5",
+              "rank": "8",
               "name": "BEL",
               "country": "BEL",
               "time": "3:00.58",
-              "points": 8,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "CHN",
-          "country": "CHN",
-          "totalPoints": 7,
-          "bestTime": "2:56.23",
-          "races": [
-            {
-              "rank": "6",
-              "name": "CHN",
-              "country": "CHN",
-              "time": "2:56.38",
-              "points": 4,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "6",
-              "name": "CHN",
-              "country": "CHN",
-              "time": "2:56.23",
-              "points": 3,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "GER",
-          "country": "GER",
-          "totalPoints": 5,
-          "bestTime": "2:54.38",
-          "races": [
-            {
-              "rank": "1",
-              "name": "GER",
-              "country": "GER",
-              "time": "2:54.38",
-              "points": 2,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "1",
-              "name": "GER",
-              "country": "GER",
-              "time": "2:56.01",
-              "points": 3,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "USA",
-          "country": "USA",
-          "totalPoints": 2,
-          "bestTime": "2:53.58",
-          "races": [
-            {
-              "rank": "3",
-              "name": "USA",
-              "country": "USA",
-              "time": "2:54.01",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "4",
-              "name": "USA",
-              "country": "USA",
-              "time": "2:53.58",
-              "points": 1,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "CZE",
-          "country": "CZE",
-          "totalPoints": 1,
-          "bestTime": "2:58.85",
-          "races": [
-            {
-              "rank": "4",
-              "name": "CZE",
-              "country": "CZE",
-              "time": "2:58.85",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "SUI",
-          "country": "SUI",
-          "totalPoints": 1,
-          "bestTime": "2:58.98",
-          "races": [
-            {
-              "rank": "1",
-              "name": "SUI",
-              "country": "SUI",
-              "time": "2:58.98",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "2",
-              "name": "SUI",
-              "country": "SUI",
-              "time": "3:01.08",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "CAN",
-          "country": "CAN",
-          "totalPoints": 0,
-          "bestTime": "2:52.40",
-          "races": [
-            {
-              "rank": "2",
-              "name": "CAN",
-              "country": "CAN",
-              "time": "2:52.40",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "women"
-            },
-            {
-              "rank": "2",
-              "name": "CAN",
-              "country": "CAN",
-              "time": "2:52.68",
-              "points": 0,
+              "points": 34,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23635,7 +23501,7 @@
         {
           "name": "POL",
           "country": "POL",
-          "totalPoints": 0,
+          "totalPoints": 66,
           "bestTime": "2:58.41",
           "races": [
             {
@@ -23643,7 +23509,7 @@
               "name": "POL",
               "country": "POL",
               "time": "2:58.41",
-              "points": 0,
+              "points": 33,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "women"
@@ -23653,8 +23519,110 @@
               "name": "POL",
               "country": "POL",
               "time": "3:01.67",
-              "points": 0,
+              "points": 33,
               "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "SUI",
+          "country": "SUI",
+          "totalPoints": 64,
+          "bestTime": "2:58.98",
+          "races": [
+            {
+              "rank": "1",
+              "name": "SUI",
+              "country": "SUI",
+              "time": "2:58.98",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "SUI",
+              "country": "SUI",
+              "time": "3:01.08",
+              "points": 36,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "ITA",
+          "country": "ITA",
+          "totalPoints": 63,
+          "bestTime": "3:02.90",
+          "races": [
+            {
+              "rank": "8",
+              "name": "ITA",
+              "country": "ITA",
+              "time": "3:05.05",
+              "points": 34,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "ITA",
+              "country": "ITA",
+              "time": "3:02.90",
+              "points": 29,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "KOR",
+          "country": "KOR",
+          "totalPoints": 55,
+          "bestTime": "3:01.09",
+          "races": [
+            {
+              "rank": "6",
+              "name": "KOR",
+              "country": "KOR",
+              "time": "3:01.09",
+              "points": 27,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            },
+            {
+              "rank": "1",
+              "name": "KOR",
+              "country": "KOR",
+              "time": "3:09.64",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "CZE",
+          "country": "CZE",
+          "totalPoints": 29,
+          "bestTime": "2:58.85",
+          "races": [
+            {
+              "rank": "4",
+              "name": "CZE",
+              "country": "CZE",
+              "time": "2:58.85",
+              "points": 29,
+              "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "women"
             }
@@ -23666,126 +23634,97 @@
           "name": "JPN",
           "country": "JPN",
           "bestTime": "2:52.13",
-          "totalPoints": 60
+          "totalPoints": 108
         },
         {
           "name": "CAN",
           "country": "CAN",
           "bestTime": "2:52.40",
-          "totalPoints": 0
+          "totalPoints": 108
         },
         {
           "name": "NED",
           "country": "NED",
           "bestTime": "2:52.52",
-          "totalPoints": 62
+          "totalPoints": 100
         },
         {
           "name": "USA",
           "country": "USA",
           "bestTime": "2:53.58",
-          "totalPoints": 2
+          "totalPoints": 91
         },
         {
           "name": "GER",
           "country": "GER",
           "bestTime": "2:54.38",
-          "totalPoints": 5
+          "totalPoints": 83
         },
         {
           "name": "CHN",
           "country": "CHN",
           "bestTime": "2:56.23",
-          "totalPoints": 7
+          "totalPoints": 76
         },
         {
           "name": "KAZ",
           "country": "KAZ",
           "bestTime": "2:57.71",
-          "totalPoints": 45
+          "totalPoints": 76
         },
         {
           "name": "BEL",
           "country": "BEL",
           "bestTime": "2:58.38",
-          "totalPoints": 8
+          "totalPoints": 70
         },
         {
           "name": "POL",
           "country": "POL",
           "bestTime": "2:58.41",
-          "totalPoints": 0
+          "totalPoints": 66
         },
         {
           "name": "CZE",
           "country": "CZE",
           "bestTime": "2:58.85",
-          "totalPoints": 1
+          "totalPoints": 29
         },
         {
           "name": "SUI",
           "country": "SUI",
           "bestTime": "2:58.98",
-          "totalPoints": 1
+          "totalPoints": 64
         },
         {
           "name": "NOR",
           "country": "NOR",
           "bestTime": "3:00.91",
-          "totalPoints": 49
+          "totalPoints": 76
         },
         {
           "name": "KOR",
           "country": "KOR",
           "bestTime": "3:01.09",
-          "totalPoints": 11
+          "totalPoints": 55
         },
         {
           "name": "ITA",
           "country": "ITA",
           "bestTime": "3:02.90",
-          "totalPoints": 13
+          "totalPoints": 63
         }
       ],
       "quotas": {
         "qualified": [
           {
-            "name": "NED",
-            "country": "NED",
-            "totalPoints": 62,
-            "bestTime": "2:52.52",
-            "races": [
-              {
-                "rank": "5",
-                "name": "NED",
-                "country": "NED",
-                "time": "2:54.66",
-                "points": 2,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              },
-              {
-                "rank": "13",
-                "name": "NED",
-                "country": "NED",
-                "time": "2:52.52",
-                "points": 60,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
             "name": "JPN",
             "country": "JPN",
-            "totalPoints": 60,
+            "totalPoints": 108,
             "bestTime": "2:52.13",
             "races": [
               {
-                "rank": "16",
+                "rank": "1",
                 "name": "JPN",
                 "country": "JPN",
                 "time": "2:52.13",
@@ -23799,123 +23738,7 @@
                 "name": "JPN",
                 "country": "JPN",
                 "time": "2:53.08",
-                "points": 0,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "NOR",
-            "country": "NOR",
-            "totalPoints": 49,
-            "bestTime": "3:00.91",
-            "races": [
-              {
-                "rank": "4",
-                "name": "NOR",
-                "country": "NOR",
-                "time": "3:01.44",
-                "points": 9,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              },
-              {
-                "rank": "9",
-                "name": "NOR",
-                "country": "NOR",
-                "time": "3:00.91",
-                "points": 40,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "KAZ",
-            "country": "KAZ",
-            "totalPoints": 45,
-            "bestTime": "2:57.71",
-            "races": [
-              {
-                "rank": "16",
-                "name": "KAZ",
-                "country": "KAZ",
-                "time": "2:57.81",
-                "points": 40,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              },
-              {
-                "rank": "7",
-                "name": "KAZ",
-                "country": "KAZ",
-                "time": "2:57.71",
-                "points": 5,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "ITA",
-            "country": "ITA",
-            "totalPoints": 13,
-            "bestTime": "3:02.90",
-            "races": [
-              {
-                "rank": "9",
-                "name": "ITA",
-                "country": "ITA",
-                "time": "3:05.05",
-                "points": 12,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "ITA",
-                "country": "ITA",
-                "time": "3:02.90",
-                "points": 1,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "KOR",
-            "country": "KOR",
-            "totalPoints": 11,
-            "bestTime": "3:01.09",
-            "races": [
-              {
-                "rank": "6",
-                "name": "KOR",
-                "country": "KOR",
-                "time": "3:01.09",
-                "points": 3,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "women"
-              },
-              {
-                "rank": "1",
-                "name": "KOR",
-                "country": "KOR",
-                "time": "3:09.64",
-                "points": 8,
+                "points": 48,
                 "eventId": "WC2",
                 "distance": "Team Pursuit",
                 "gender": "women"
@@ -23926,45 +23749,190 @@
           {
             "name": "CAN",
             "country": "CAN",
+            "totalPoints": 108,
             "bestTime": "2:52.40",
-            "totalPoints": 0,
-            "method": "Times"
+            "races": [
+              {
+                "rank": "2",
+                "name": "CAN",
+                "country": "CAN",
+                "time": "2:52.40",
+                "points": 54,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "CAN",
+                "country": "CAN",
+                "time": "2:52.68",
+                "points": 54,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "NED",
+            "country": "NED",
+            "totalPoints": 100,
+            "bestTime": "2:52.52",
+            "races": [
+              {
+                "rank": "5",
+                "name": "NED",
+                "country": "NED",
+                "time": "2:54.66",
+                "points": 40,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              },
+              {
+                "rank": "1",
+                "name": "NED",
+                "country": "NED",
+                "time": "2:52.52",
+                "points": 60,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
           },
           {
             "name": "USA",
             "country": "USA",
+            "totalPoints": 91,
             "bestTime": "2:53.58",
-            "totalPoints": 2,
-            "method": "Times"
-          }
-        ],
-        "reserve": [
+            "races": [
+              {
+                "rank": "3",
+                "name": "USA",
+                "country": "USA",
+                "time": "2:54.01",
+                "points": 48,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "USA",
+                "country": "USA",
+                "time": "2:53.58",
+                "points": 43,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
           {
             "name": "GER",
             "country": "GER",
+            "totalPoints": 83,
             "bestTime": "2:54.38",
-            "totalPoints": 5,
-            "method": "Reserve"
+            "races": [
+              {
+                "rank": "4",
+                "name": "GER",
+                "country": "GER",
+                "time": "2:54.38",
+                "points": 43,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              },
+              {
+                "rank": "5",
+                "name": "GER",
+                "country": "GER",
+                "time": "2:56.01",
+                "points": 40,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
           },
           {
             "name": "CHN",
             "country": "CHN",
+            "totalPoints": 76,
             "bestTime": "2:56.23",
-            "totalPoints": 7,
-            "method": "Reserve"
+            "races": [
+              {
+                "rank": "6",
+                "name": "CHN",
+                "country": "CHN",
+                "time": "2:56.38",
+                "points": 38,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              },
+              {
+                "rank": "6",
+                "name": "CHN",
+                "country": "CHN",
+                "time": "2:56.23",
+                "points": 38,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "KAZ",
+            "country": "KAZ",
+            "bestTime": "2:57.71",
+            "totalPoints": 76,
+            "method": "Times"
           },
           {
             "name": "BEL",
             "country": "BEL",
             "bestTime": "2:58.38",
-            "totalPoints": 8,
-            "method": "Reserve"
-          },
+            "totalPoints": 70,
+            "method": "Times"
+          }
+        ],
+        "reserve": [
           {
             "name": "POL",
             "country": "POL",
             "bestTime": "2:58.41",
-            "totalPoints": 0,
+            "totalPoints": 66,
+            "method": "Reserve"
+          },
+          {
+            "name": "CZE",
+            "country": "CZE",
+            "bestTime": "2:58.85",
+            "totalPoints": 29,
+            "method": "Reserve"
+          },
+          {
+            "name": "SUI",
+            "country": "SUI",
+            "bestTime": "2:58.98",
+            "totalPoints": 64,
+            "method": "Reserve"
+          },
+          {
+            "name": "NOR",
+            "country": "NOR",
+            "bestTime": "3:00.91",
+            "totalPoints": 76,
             "method": "Reserve"
           }
         ]
@@ -23981,7 +23949,7 @@
           "bestTime": "3:32.49",
           "races": [
             {
-              "rank": "16",
+              "rank": "1",
               "name": "USA",
               "country": "USA",
               "time": "3:32.49",
@@ -23991,7 +23959,7 @@
               "gender": "men"
             },
             {
-              "rank": "11",
+              "rank": "1",
               "name": "USA",
               "country": "USA",
               "time": "3:35.34",
@@ -24003,13 +23971,125 @@
           ]
         },
         {
+          "name": "FRA",
+          "country": "FRA",
+          "totalPoints": 97,
+          "bestTime": "3:37.97",
+          "races": [
+            {
+              "rank": "4",
+              "name": "FRA",
+              "country": "FRA",
+              "time": "3:37.97",
+              "points": 43,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "2",
+              "name": "FRA",
+              "country": "FRA",
+              "time": "3:38.05",
+              "points": 54,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "NOR",
+          "country": "NOR",
+          "totalPoints": 88,
+          "bestTime": "3:35.20",
+          "races": [
+            {
+              "rank": "2",
+              "name": "NOR",
+              "country": "NOR",
+              "time": "3:35.20",
+              "points": 54,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "8",
+              "name": "NOR",
+              "country": "NOR",
+              "time": "4:03.16",
+              "points": 34,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "CHN",
+          "country": "CHN",
+          "totalPoints": 86,
+          "bestTime": "3:36.65",
+          "races": [
+            {
+              "rank": "3",
+              "name": "CHN",
+              "country": "CHN",
+              "time": "3:36.65",
+              "points": 48,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "6",
+              "name": "CHN",
+              "country": "CHN",
+              "time": "3:42.24",
+              "points": 38,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "NED",
+          "country": "NED",
+          "totalPoints": 86,
+          "bestTime": "3:38.65",
+          "races": [
+            {
+              "rank": "6",
+              "name": "NED",
+              "country": "NED",
+              "time": "3:40.03",
+              "points": 38,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "3",
+              "name": "NED",
+              "country": "NED",
+              "time": "3:38.65",
+              "points": 48,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "GER",
           "country": "GER",
-          "totalPoints": 44,
+          "totalPoints": 83,
           "bestTime": "3:39.17",
           "races": [
             {
-              "rank": "16",
+              "rank": "5",
               "name": "GER",
               "country": "GER",
               "time": "3:39.17",
@@ -24023,7 +24103,35 @@
               "name": "GER",
               "country": "GER",
               "time": "3:39.83",
-              "points": 4,
+              "points": 43,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "JPN",
+          "country": "JPN",
+          "totalPoints": 80,
+          "bestTime": "3:38.90",
+          "races": [
+            {
+              "rank": "5",
+              "name": "JPN",
+              "country": "JPN",
+              "time": "3:38.90",
+              "points": 40,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "5",
+              "name": "JPN",
+              "country": "JPN",
+              "time": "3:41.43",
+              "points": 40,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24033,21 +24141,21 @@
         {
           "name": "ITA",
           "country": "ITA",
-          "totalPoints": 41,
+          "totalPoints": 74,
           "bestTime": "3:37.95",
           "races": [
             {
-              "rank": "15",
+              "rank": "8",
               "name": "ITA",
               "country": "ITA",
               "time": "4:39.70",
-              "points": 1,
+              "points": 34,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "men"
             },
             {
-              "rank": "9",
+              "rank": "5",
               "name": "ITA",
               "country": "ITA",
               "time": "3:37.95",
@@ -24059,9 +24167,93 @@
           ]
         },
         {
+          "name": "POL",
+          "country": "POL",
+          "totalPoints": 72,
+          "bestTime": "3:40.52",
+          "races": [
+            {
+              "rank": "7",
+              "name": "POL",
+              "country": "POL",
+              "time": "3:40.52",
+              "points": 36,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "7",
+              "name": "POL",
+              "country": "POL",
+              "time": "3:42.69",
+              "points": 36,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "KOR",
+          "country": "KOR",
+          "totalPoints": 69,
+          "bestTime": "3:40.91",
+          "races": [
+            {
+              "rank": "1",
+              "name": "KOR",
+              "country": "KOR",
+              "time": "3:40.91",
+              "points": 33,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "7",
+              "name": "KOR",
+              "country": "KOR",
+              "time": "3:41.21",
+              "points": 36,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "SUI",
+          "country": "SUI",
+          "totalPoints": 58,
+          "bestTime": "3:41.23",
+          "races": [
+            {
+              "rank": "4",
+              "name": "SUI",
+              "country": "SUI",
+              "time": "3:41.23",
+              "points": 29,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "4",
+              "name": "SUI",
+              "country": "SUI",
+              "time": "3:42.97",
+              "points": 29,
+              "eventId": "WC2",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "CAN",
           "country": "CAN",
-          "totalPoints": 40,
+          "totalPoints": 58,
           "bestTime": "3:42.13",
           "races": [
             {
@@ -24069,7 +24261,7 @@
               "name": "CAN",
               "country": "CAN",
               "time": "4:15.33",
-              "points": 36,
+              "points": 25,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24079,7 +24271,7 @@
               "name": "CAN",
               "country": "CAN",
               "time": "3:42.13",
-              "points": 4,
+              "points": 33,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24087,16 +24279,26 @@
           ]
         },
         {
-          "name": "Norway F",
-          "country": "Norway F",
-          "totalPoints": 27,
-          "bestTime": "4:03.16",
+          "name": "KAZ",
+          "country": "KAZ",
+          "totalPoints": 55,
+          "bestTime": "3:48.01",
           "races": [
             {
-              "rank": "8",
-              "name": "Norway F",
-              "country": "Norway F",
-              "time": "4:03.16",
+              "rank": "12",
+              "name": "KAZ",
+              "country": "KAZ",
+              "time": "3:48.01",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "Team Pursuit",
+              "gender": "men"
+            },
+            {
+              "rank": "10",
+              "name": "KAZ",
+              "country": "KAZ",
+              "time": "3:49.44",
               "points": 27,
               "eventId": "WC2",
               "distance": "Team Pursuit",
@@ -24107,7 +24309,7 @@
         {
           "name": "HUN",
           "country": "HUN",
-          "totalPoints": 21,
+          "totalPoints": 55,
           "bestTime": "3:48.32",
           "races": [
             {
@@ -24115,45 +24317,17 @@
               "name": "HUN",
               "country": "HUN",
               "time": "3:50.59",
-              "points": 11,
+              "points": 27,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "men"
             },
             {
-              "rank": "5",
+              "rank": "8",
               "name": "HUN",
               "country": "HUN",
               "time": "3:48.32",
-              "points": 10,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "KAZ",
-          "country": "KAZ",
-          "totalPoints": 19,
-          "bestTime": "3:48.01",
-          "races": [
-            {
-              "rank": "5",
-              "name": "KAZ",
-              "country": "KAZ",
-              "time": "3:48.01",
-              "points": 8,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "10",
-              "name": "KAZ",
-              "country": "KAZ",
-              "time": "3:49.44",
-              "points": 11,
+              "points": 28,
               "eventId": "WC2",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24163,7 +24337,7 @@
         {
           "name": "BEL",
           "country": "BEL",
-          "totalPoints": 15,
+          "totalPoints": 36,
           "bestTime": "3:48.39",
           "races": [
             {
@@ -24171,7 +24345,7 @@
               "name": "BEL",
               "country": "BEL",
               "time": "3:48.39",
-              "points": 15,
+              "points": 36,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24181,7 +24355,7 @@
         {
           "name": "CZE",
           "country": "CZE",
-          "totalPoints": 13,
+          "totalPoints": 26,
           "bestTime": "3:52.44",
           "races": [
             {
@@ -24189,221 +24363,7 @@
               "name": "CZE",
               "country": "CZE",
               "time": "3:52.44",
-              "points": 13,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "JPN",
-          "country": "JPN",
-          "totalPoints": 12,
-          "bestTime": "3:38.90",
-          "races": [
-            {
-              "rank": "5",
-              "name": "JPN",
-              "country": "JPN",
-              "time": "3:38.90",
-              "points": 6,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "5",
-              "name": "JPN",
-              "country": "JPN",
-              "time": "3:41.43",
-              "points": 6,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "CHN",
-          "country": "CHN",
-          "totalPoints": 10,
-          "bestTime": "3:36.65",
-          "races": [
-            {
-              "rank": "3",
-              "name": "CHN",
-              "country": "CHN",
-              "time": "3:36.65",
-              "points": 4,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "6",
-              "name": "CHN",
-              "country": "CHN",
-              "time": "3:42.24",
-              "points": 6,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "NED",
-          "country": "NED",
-          "totalPoints": 10,
-          "bestTime": "3:38.65",
-          "races": [
-            {
-              "rank": "6",
-              "name": "NED",
-              "country": "NED",
-              "time": "3:40.03",
-              "points": 7,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "3",
-              "name": "NED",
-              "country": "NED",
-              "time": "3:38.65",
-              "points": 3,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "POL",
-          "country": "POL",
-          "totalPoints": 8,
-          "bestTime": "3:40.52",
-          "races": [
-            {
-              "rank": "2",
-              "name": "POL",
-              "country": "POL",
-              "time": "3:40.52",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "7",
-              "name": "POL",
-              "country": "POL",
-              "time": "3:42.69",
-              "points": 7,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "FRA",
-          "country": "FRA",
-          "totalPoints": 7,
-          "bestTime": "3:37.97",
-          "races": [
-            {
-              "rank": "4",
-              "name": "FRA",
-              "country": "FRA",
-              "time": "3:37.97",
-              "points": 5,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "2",
-              "name": "FRA",
-              "country": "FRA",
-              "time": "3:38.05",
-              "points": 2,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "SUI",
-          "country": "SUI",
-          "totalPoints": 7,
-          "bestTime": "3:41.23",
-          "races": [
-            {
-              "rank": "4",
-              "name": "SUI",
-              "country": "SUI",
-              "time": "3:41.23",
-              "points": 2,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "4",
-              "name": "SUI",
-              "country": "SUI",
-              "time": "3:42.97",
-              "points": 5,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "KOR",
-          "country": "KOR",
-          "totalPoints": 4,
-          "bestTime": "3:40.91",
-          "races": [
-            {
-              "rank": "1",
-              "name": "KOR",
-              "country": "KOR",
-              "time": "3:40.91",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            },
-            {
-              "rank": "2",
-              "name": "KOR",
-              "country": "KOR",
-              "time": "3:41.21",
-              "points": 3,
-              "eventId": "WC2",
-              "distance": "Team Pursuit",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "NOR",
-          "country": "NOR",
-          "totalPoints": 2,
-          "bestTime": "3:35.20",
-          "races": [
-            {
-              "rank": "2",
-              "name": "NOR",
-              "country": "NOR",
-              "time": "3:35.20",
-              "points": 2,
+              "points": 26,
               "eventId": "WC1",
               "distance": "Team Pursuit",
               "gender": "men"
@@ -24422,97 +24382,91 @@
           "name": "NOR",
           "country": "NOR",
           "bestTime": "3:35.20",
-          "totalPoints": 2
+          "totalPoints": 88
         },
         {
           "name": "CHN",
           "country": "CHN",
           "bestTime": "3:36.65",
-          "totalPoints": 10
+          "totalPoints": 86
         },
         {
           "name": "ITA",
           "country": "ITA",
           "bestTime": "3:37.95",
-          "totalPoints": 41
+          "totalPoints": 74
         },
         {
           "name": "FRA",
           "country": "FRA",
           "bestTime": "3:37.97",
-          "totalPoints": 7
+          "totalPoints": 97
         },
         {
           "name": "NED",
           "country": "NED",
           "bestTime": "3:38.65",
-          "totalPoints": 10
+          "totalPoints": 86
         },
         {
           "name": "JPN",
           "country": "JPN",
           "bestTime": "3:38.90",
-          "totalPoints": 12
+          "totalPoints": 80
         },
         {
           "name": "GER",
           "country": "GER",
           "bestTime": "3:39.17",
-          "totalPoints": 44
+          "totalPoints": 83
         },
         {
           "name": "POL",
           "country": "POL",
           "bestTime": "3:40.52",
-          "totalPoints": 8
+          "totalPoints": 72
         },
         {
           "name": "KOR",
           "country": "KOR",
           "bestTime": "3:40.91",
-          "totalPoints": 4
+          "totalPoints": 69
         },
         {
           "name": "SUI",
           "country": "SUI",
           "bestTime": "3:41.23",
-          "totalPoints": 7
+          "totalPoints": 58
         },
         {
           "name": "CAN",
           "country": "CAN",
           "bestTime": "3:42.13",
-          "totalPoints": 40
+          "totalPoints": 58
         },
         {
           "name": "KAZ",
           "country": "KAZ",
           "bestTime": "3:48.01",
-          "totalPoints": 19
+          "totalPoints": 55
         },
         {
           "name": "HUN",
           "country": "HUN",
           "bestTime": "3:48.32",
-          "totalPoints": 21
+          "totalPoints": 55
         },
         {
           "name": "BEL",
           "country": "BEL",
           "bestTime": "3:48.39",
-          "totalPoints": 15
+          "totalPoints": 36
         },
         {
           "name": "CZE",
           "country": "CZE",
           "bestTime": "3:52.44",
-          "totalPoints": 13
-        },
-        {
-          "name": "Norway F",
-          "country": "Norway F",
-          "bestTime": "4:03.16",
-          "totalPoints": 27
+          "totalPoints": 26
         }
       ],
       "quotas": {
@@ -24524,7 +24478,7 @@
             "bestTime": "3:32.49",
             "races": [
               {
-                "rank": "16",
+                "rank": "1",
                 "name": "USA",
                 "country": "USA",
                 "time": "3:32.49",
@@ -24534,7 +24488,7 @@
                 "gender": "men"
               },
               {
-                "rank": "11",
+                "rank": "1",
                 "name": "USA",
                 "country": "USA",
                 "time": "3:35.34",
@@ -24547,13 +24501,129 @@
             "method": "Points"
           },
           {
+            "name": "FRA",
+            "country": "FRA",
+            "totalPoints": 97,
+            "bestTime": "3:37.97",
+            "races": [
+              {
+                "rank": "4",
+                "name": "FRA",
+                "country": "FRA",
+                "time": "3:37.97",
+                "points": 43,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              },
+              {
+                "rank": "2",
+                "name": "FRA",
+                "country": "FRA",
+                "time": "3:38.05",
+                "points": 54,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "NOR",
+            "country": "NOR",
+            "totalPoints": 88,
+            "bestTime": "3:35.20",
+            "races": [
+              {
+                "rank": "2",
+                "name": "NOR",
+                "country": "NOR",
+                "time": "3:35.20",
+                "points": 54,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              },
+              {
+                "rank": "8",
+                "name": "NOR",
+                "country": "NOR",
+                "time": "4:03.16",
+                "points": 34,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "CHN",
+            "country": "CHN",
+            "totalPoints": 86,
+            "bestTime": "3:36.65",
+            "races": [
+              {
+                "rank": "3",
+                "name": "CHN",
+                "country": "CHN",
+                "time": "3:36.65",
+                "points": 48,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              },
+              {
+                "rank": "6",
+                "name": "CHN",
+                "country": "CHN",
+                "time": "3:42.24",
+                "points": 38,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "NED",
+            "country": "NED",
+            "totalPoints": 86,
+            "bestTime": "3:38.65",
+            "races": [
+              {
+                "rank": "6",
+                "name": "NED",
+                "country": "NED",
+                "time": "3:40.03",
+                "points": 38,
+                "eventId": "WC1",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              },
+              {
+                "rank": "3",
+                "name": "NED",
+                "country": "NED",
+                "time": "3:38.65",
+                "points": 48,
+                "eventId": "WC2",
+                "distance": "Team Pursuit",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "GER",
             "country": "GER",
-            "totalPoints": 44,
+            "totalPoints": 83,
             "bestTime": "3:39.17",
             "races": [
               {
-                "rank": "16",
+                "rank": "5",
                 "name": "GER",
                 "country": "GER",
                 "time": "3:39.17",
@@ -24567,7 +24637,7 @@
                 "name": "GER",
                 "country": "GER",
                 "time": "3:39.83",
-                "points": 4,
+                "points": 43,
                 "eventId": "WC2",
                 "distance": "Team Pursuit",
                 "gender": "men"
@@ -24578,151 +24648,45 @@
           {
             "name": "ITA",
             "country": "ITA",
-            "totalPoints": 41,
             "bestTime": "3:37.95",
-            "races": [
-              {
-                "rank": "15",
-                "name": "ITA",
-                "country": "ITA",
-                "time": "4:39.70",
-                "points": 1,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              },
-              {
-                "rank": "9",
-                "name": "ITA",
-                "country": "ITA",
-                "time": "3:37.95",
-                "points": 40,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "CAN",
-            "country": "CAN",
-            "totalPoints": 40,
-            "bestTime": "3:42.13",
-            "races": [
-              {
-                "rank": "13",
-                "name": "CAN",
-                "country": "CAN",
-                "time": "4:15.33",
-                "points": 36,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              },
-              {
-                "rank": "3",
-                "name": "CAN",
-                "country": "CAN",
-                "time": "3:42.13",
-                "points": 4,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Norway F",
-            "country": "Norway F",
-            "totalPoints": 27,
-            "bestTime": "4:03.16",
-            "races": [
-              {
-                "rank": "8",
-                "name": "Norway F",
-                "country": "Norway F",
-                "time": "4:03.16",
-                "points": 27,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "HUN",
-            "country": "HUN",
-            "totalPoints": 21,
-            "bestTime": "3:48.32",
-            "races": [
-              {
-                "rank": "8",
-                "name": "HUN",
-                "country": "HUN",
-                "time": "3:50.59",
-                "points": 11,
-                "eventId": "WC1",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              },
-              {
-                "rank": "5",
-                "name": "HUN",
-                "country": "HUN",
-                "time": "3:48.32",
-                "points": 10,
-                "eventId": "WC2",
-                "distance": "Team Pursuit",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "NOR",
-            "country": "NOR",
-            "bestTime": "3:35.20",
-            "totalPoints": 2,
+            "totalPoints": 74,
             "method": "Times"
-          },
-          {
-            "name": "CHN",
-            "country": "CHN",
-            "bestTime": "3:36.65",
-            "totalPoints": 10,
-            "method": "Times"
-          }
-        ],
-        "reserve": [
-          {
-            "name": "FRA",
-            "country": "FRA",
-            "bestTime": "3:37.97",
-            "totalPoints": 7,
-            "method": "Reserve"
-          },
-          {
-            "name": "NED",
-            "country": "NED",
-            "bestTime": "3:38.65",
-            "totalPoints": 10,
-            "method": "Reserve"
           },
           {
             "name": "JPN",
             "country": "JPN",
             "bestTime": "3:38.90",
-            "totalPoints": 12,
-            "method": "Reserve"
-          },
+            "totalPoints": 80,
+            "method": "Times"
+          }
+        ],
+        "reserve": [
           {
             "name": "POL",
             "country": "POL",
             "bestTime": "3:40.52",
-            "totalPoints": 8,
+            "totalPoints": 72,
+            "method": "Reserve"
+          },
+          {
+            "name": "KOR",
+            "country": "KOR",
+            "bestTime": "3:40.91",
+            "totalPoints": 69,
+            "method": "Reserve"
+          },
+          {
+            "name": "SUI",
+            "country": "SUI",
+            "bestTime": "3:41.23",
+            "totalPoints": 58,
+            "method": "Reserve"
+          },
+          {
+            "name": "CAN",
+            "country": "CAN",
+            "bestTime": "3:42.13",
+            "totalPoints": 58,
             "method": "Reserve"
           }
         ]
@@ -29973,14 +29937,14 @@
           ]
         },
         {
-          "name": " Seok Kim",
+          "name": "Seok Kim",
           "country": "HUN",
           "totalPoints": 6,
           "bestTime": "7:38.00",
           "races": [
             {
               "rank": "73",
-              "name": " Seok Kim",
+              "name": "Seok Kim",
               "country": "HUN",
               "time": "7:38.00",
               "points": 6,
@@ -30391,7 +30355,7 @@
           "totalPoints": 17
         },
         {
-          "name": " Seok Kim",
+          "name": "Seok Kim",
           "country": "HUN",
           "bestTime": "7:38.00",
           "totalPoints": 6
@@ -31233,7 +31197,7 @@
             "method": "Reserve"
           },
           {
-            "name": " Seok Kim",
+            "name": "Seok Kim",
             "country": "HUN",
             "bestTime": "7:38.00",
             "totalPoints": 6,
@@ -36621,14 +36585,14 @@
           ]
         },
         {
-          "name": "Damian Urek",
+          "name": "Damian Żurek",
           "country": "POL",
           "totalPoints": 92,
           "bestTime": "1:06.02",
           "races": [
             {
               "rank": "2",
-              "name": "Damian Urek",
+              "name": "Damian Żurek",
               "country": "POL",
               "time": "1:06.02",
               "points": 54,
@@ -36638,7 +36602,7 @@
             },
             {
               "rank": "6",
-              "name": "Damian Urek",
+              "name": "Damian Żurek",
               "country": "POL",
               "time": "1:06.90",
               "points": 38,
@@ -38133,7 +38097,7 @@
           "totalPoints": 120
         },
         {
-          "name": "Damian Urek",
+          "name": "Damian Żurek",
           "country": "POL",
           "bestTime": "1:06.02",
           "totalPoints": 92
@@ -38578,14 +38542,14 @@
             "method": "Points"
           },
           {
-            "name": "Damian Urek",
+            "name": "Damian Żurek",
             "country": "POL",
             "totalPoints": 92,
             "bestTime": "1:06.02",
             "races": [
               {
                 "rank": "2",
-                "name": "Damian Urek",
+                "name": "Damian Żurek",
                 "country": "POL",
                 "time": "1:06.02",
                 "points": 54,
@@ -38595,7 +38559,7 @@
               },
               {
                 "rank": "6",
-                "name": "Damian Urek",
+                "name": "Damian Żurek",
                 "country": "POL",
                 "time": "1:06.90",
                 "points": 38,
@@ -39219,6 +39183,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-02T08:57:10.764Z",
+  "lastUpdated": "2025-12-02T09:33:50.966Z",
   "isUpdating": false
 }

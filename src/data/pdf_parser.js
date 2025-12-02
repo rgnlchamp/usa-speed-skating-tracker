@@ -125,7 +125,7 @@ function parseTeamPursuitResults(text) {
     const seenRanks = new Set();
 
     // Words to skip (common noise in Team Pursuit PDFs)
-    const skipWords = new Set(['of', 'the', 'Finish', 'Crossing', 'Start', 'Lap', 'Official', 'ISU', 'results', 'Page']);
+    const skipWords = new Set(['of', 'the', 'Finish', 'Crossing', 'Start', 'Lap', 'Official', 'ISU', 'results', 'Page', 'F']);
 
     for (let i = 0; i < tokens.length - 10; i++) {
         const rankCandidate = parseInt(tokens[i]);
@@ -179,6 +179,8 @@ function parseTeamPursuitResults(text) {
         // Look for points after time (should be within next few tokens)
         let points = 0;
         for (let k = timeIndex + 1; k < Math.min(timeIndex + 8, tokens.length); k++) {
+            if (tokens[k].startsWith('+')) continue; // Skip time gaps
+
             const pointsCandidate = parseInt(tokens[k]);
             if (!isNaN(pointsCandidate) && pointsCandidate >= 0 && pointsCandidate <= 150) {
                 points = pointsCandidate;
@@ -186,8 +188,21 @@ function parseTeamPursuitResults(text) {
             }
         }
 
+        // Correct rank based on points if possible (handles merged text like "11" for Rank 1)
+        let finalRank = rankCandidate.toString();
+        if (points === 60) finalRank = '1';
+        else if (points === 54) finalRank = '2';
+        else if (points === 48) finalRank = '3';
+        else if (points === 43) finalRank = '4';
+        else if (points === 40) finalRank = '5';
+        else if (points === 38) finalRank = '6';
+        else if (points === 36) finalRank = '7';
+        else if (points === 34) finalRank = '8';
+        else if (points === 32) finalRank = '9';
+        else if (points === 31) finalRank = '10';
+
         results.push({
-            rank: rankCandidate.toString(),
+            rank: finalRank,
             name: country,  // For Team Pursuit, name is the country
             country: country,
             time: time,
@@ -195,6 +210,11 @@ function parseTeamPursuitResults(text) {
         });
 
         seenRanks.add(rankCandidate);
+        // Also add the corrected rank to seenRanks to avoid duplicates if we encounter it again
+        if (finalRank !== rankCandidate.toString()) {
+            seenRanks.add(parseInt(finalRank));
+        }
+
         i = timeIndex;  // Skip ahead to avoid re-processing
     }
 
@@ -217,7 +237,7 @@ function parseResultsTable(text, distance, filename) {
 
     while (i < tokens.length - 5) {
         const rankCandidate = parseInt(tokens[i]);
-        const isDebug = rankCandidate === 10;
+        const isDebug = false;
 
         if (isDebug) {
             console.log(`[DEBUG] Processing Rank 10 at index ${i}. Tokens: ${tokens.slice(i, i + 10).join(' ')}`);
@@ -464,21 +484,29 @@ function cleanName(name) {
         .replace(/And\s+elika/g, 'Andżelika')
         // Specific fix for "W Ó JCIK" -> "WÓJCIK"
         .replace(/W\s+Ó\s+JCIK/g, 'WÓJCIK')
+        // Fixes for Men 500m discrepancies
+        .replace(/Sebas\s+Diniz/gi, 'Sebastian Diniz')
+        .replace(/Damian\s+Urek/gi, 'Damian Żurek')
+        .replace(/Damian\s+Zurek/gi, 'Damian Żurek') // Normalize to Żurek
+        .replace(/Yuta\s+Hirose/gi, 'Yuuta Hirose')   // Match Official
+        .replace(/Altay\s+Zhardembekuly/gi, 'Altaj Zhardembekuly') // Match Official
         .trim();
 
     // Convert to Title Case (e.g. "NAME SURNAME" -> "Name Surname")
     // But keep country codes (3 letters) in caps if they appear
-    return cleaned.split(/[\s-]+/).map(part => {
-        // Skip country codes if they happen to be in the name string
-        if (VALID_COUNTRY_CODES.has(part)) return part;
+    return cleaned.split(/[\s-]+/)
+        .filter(part => part.length > 0)
+        .map(part => {
+            // Skip country codes if they happen to be in the name string
+            if (VALID_COUNTRY_CODES.has(part)) return part;
 
-        // Handle names with apostrophes like "D'Alessandro"
-        if (part.includes("'")) {
-            return part.split("'").map(p =>
-                p.charAt(0).toUpperCase() + p.slice(1).toLowerCase()
-            ).join("'");
-        }
+            // Handle names with apostrophes like "D'Alessandro"
+            if (part.includes("'")) {
+                return part.split("'").map(p =>
+                    p.charAt(0).toUpperCase() + p.slice(1).toLowerCase()
+                ).join("'");
+            }
 
-        return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
-    }).join(' ');
+            return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase();
+        }).join(' ');
 }
