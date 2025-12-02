@@ -265,6 +265,55 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
     return { pointsQualifiers, timesQualifiers, reserve, nocCounts };
 }
 
+/**
+ * Apply host country promotion rule
+ * If host country (Italy) is on reserve list, promote to qualified
+ * This replaces the last qualified position
+ */
+function applyHostCountryPromotion(quotaResult, hostCountry = 'Italy') {
+    const { pointsQualifiers, timesQualifiers, reserve, nocCounts } = quotaResult;
+
+    // Check if host country is on reserve list
+    const hostIndex = reserve.findIndex(r => r.country === hostCountry || r.name === hostCountry);
+
+    if (hostIndex === -1) {
+        // Host country not on reserve list, no change needed
+        return quotaResult;
+    }
+
+    // Host country is on reserve - promote them
+    const hostEntry = reserve[hostIndex];
+
+    // Remove from reserve
+    reserve.splice(hostIndex, 1);
+
+    // Determine which list to modify (prefer removing from times if available, else points)
+    let removedEntry;
+    if (timesQualifiers.length > 0) {
+        // Remove last times qualifier
+        removedEntry = timesQualifiers.pop();
+    } else if (pointsQualifiers.length > 0) {
+        // Remove last points qualifier
+        removedEntry = pointsQualifiers.pop();
+    } else {
+        // No qualified entries to replace (shouldn't happen)
+        return quotaResult;
+    }
+
+    // Add removed entry to front of reserve list
+    reserve.unshift(removedEntry);
+
+    // Add host country to appropriate qualified list based on their method
+    // If they were ranked by times, add to times; otherwise points
+    if (hostEntry.bestTime && hostEntry.bestTime !== '99:99.99') {
+        timesQualifiers.push(hostEntry);
+    } else {
+        pointsQualifiers.push(hostEntry);
+    }
+
+    return { pointsQualifiers, timesQualifiers, reserve, nocCounts };
+}
+
 // Helper: Compare time strings "34.56", "1:45.67"
 function compareTimes(t1, t2) {
     return parseTime(t1) - parseTime(t2);
@@ -290,5 +339,6 @@ module.exports = {
     calculateTeamPursuitPoints,
     calculateTeamPursuitTimes,
     allocateQuotas,
+    applyHostCountryPromotion,
     EVENT_CONFIG
 };

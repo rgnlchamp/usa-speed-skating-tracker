@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { discoverWorldCups, fetchEventData } = require('./data_fetcher_v2');
-const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
+const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, applyHostCountryPromotion, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
 
 // In-memory store
 const state = {
@@ -107,6 +107,9 @@ function recalculateSOQC() {
         }
         const quotas = allocateQuotas(eventKey, pointsRanking, timesRanking);
 
+        // Apply host country (Italy) promotion if they're on reserve list
+        const finalQuotas = applyHostCountryPromotion(quotas);
+
         // Store results with a display key (e.g., '500m' for both men and women)
         // We'll merge men/women under same distance key for now
         if (!state.soqc[distance]) {
@@ -122,14 +125,14 @@ function recalculateSOQC() {
 
         // Combine points and times qualifiers into single qualified list
         const qualified = [
-            ...quotas.pointsQualifiers.map(s => ({ ...s, method: 'Points' })),
-            ...quotas.timesQualifiers.map(s => ({ ...s, method: 'Times' }))
+            ...finalQuotas.pointsQualifiers.map(s => ({ ...s, method: 'Points' })),
+            ...finalQuotas.timesQualifiers.map(s => ({ ...s, method: 'Times' }))
         ];
 
         state.soqc[distance].quotas.qualified.push(...qualified);
-        state.soqc[distance].quotas.reserve.push(...quotas.reserve.map(s => ({ ...s, method: 'Reserve' })));
+        state.soqc[distance].quotas.reserve.push(...finalQuotas.reserve.map(s => ({ ...s, method: 'Reserve' })));
 
-        fs.appendFileSync('store_debug.log', `[${new Date().toISOString()}] SOQC ${key}: ${qualified.length} qualified (${quotas.pointsQualifiers.length} points, ${quotas.timesQualifiers.length} times)\n`);
+        fs.appendFileSync('store_debug.log', `[${new Date().toISOString()}] SOQC ${key}: ${qualified.length} qualified (${finalQuotas.pointsQualifiers.length} points, ${finalQuotas.timesQualifiers.length} times)\n`);
     }
 }
 
