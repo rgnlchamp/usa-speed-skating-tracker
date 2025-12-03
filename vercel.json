@@ -3,7 +3,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/src/server_pdf.js"
+            "destination": "/api/index"
         }
     ]
 }
