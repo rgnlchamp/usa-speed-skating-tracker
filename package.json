@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/server_pdf.js",
     "start:scraper": "node src/server.js",
+    "build": "node src/generate_json.js",
     "test": "node test_pdf_integration.js"
   },
   "keywords": [],

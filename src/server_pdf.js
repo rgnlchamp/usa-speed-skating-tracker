@@ -9,31 +9,42 @@ const PORT = process.env.PORT || 3000;
 // Serve static files
 app.use(express.static(path.join(__dirname, '../public')));
 
-// Initialize data on startup
-store.updateData().then(() => {
-    console.log('Initial data load complete');
-});
+// Load pre-generated data
+const dataPath = path.join(__dirname, '../public/data.json');
+let cachedState = null;
+
+function loadData() {
+    try {
+        if (fs.existsSync(dataPath)) {
+            const data = fs.readFileSync(dataPath, 'utf8');
+            cachedState = JSON.parse(data);
+            console.log('✅ Loaded pre-generated data');
+        } else {
+            console.log('⚠️ No pre-generated data found at', dataPath);
+        }
+    } catch (e) {
+        console.error('Error loading data:', e);
+    }
+    return cachedState;
+}
+
+// Initial load
+loadData();
 
 // API Routes
 app.get('/api/data', (req, res) => {
-    res.json(store.getState());
+    const data = loadData();
+    if (data) {
+        res.json(data);
+    } else {
+        res.status(503).json({ error: 'Data not available yet' });
+    }
 });
 
 app.post('/api/refresh', async (req, res) => {
-    if (store.getState().isUpdating) {
-        return res.status(409).json({ message: 'Update already in progress' });
-    }
-
-    try {
-        // Start update
-        store.updateData().then(() => {
-            console.log("Update finished via API trigger");
-        });
-        res.json({ message: 'Update started' });
-    } catch (error) {
-        console.error('Error triggering update:', error);
-        res.status(500).json({ error: 'Failed to trigger update' });
-    }
+    // In this static build model, refresh just reloads the file
+    loadData();
+    res.json({ message: 'Data reloaded from disk' });
 });
 
 app.get('/api/debug', (req, res) => {
