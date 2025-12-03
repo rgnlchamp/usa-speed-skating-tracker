@@ -7,7 +7,8 @@ const pdfParser = require('./pdf_parser');
  * @returns {Promise<Array>} Array of race data compatible with qualification_rules_v2
  */
 async function fetchEventDataFromPDFs(pdfDirectory = null) {
-    const pdfDir = pdfDirectory || path.join(__dirname, '../../data/pdf');
+    // Use process.cwd() for Vercel compatibility
+    const pdfDir = pdfDirectory || path.join(process.cwd(), 'data', 'pdf');
 
     console.log(`Loading PDF data from: ${pdfDir}...`);
 

@@ -36,7 +36,11 @@ app.post('/api/refresh', async (req, res) => {
     }
 });
 
-// Start server
-app.listen(PORT, () => {
-    console.log(`Server running at http://localhost:${PORT}`);
-});
+// Start server if run directly
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`Server running at http://localhost:${PORT}`);
+    });
+}
+
+module.exports = app;
