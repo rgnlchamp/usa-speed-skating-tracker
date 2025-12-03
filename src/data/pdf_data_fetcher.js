@@ -20,6 +20,7 @@ async function fetchEventDataFromPDFs(pdfDirectory = null) {
     }
 
     const races = await pdfParser.parseAllPDFs(pdfDir);
+    console.log(`[Data Fetcher] Parsed ${races.length} races from ${pdfDir}`);
 
     // Transform to match the format expected by qualification_rules_v2
     // Expected format: { distance, gender, results: [...] }

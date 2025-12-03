@@ -12,6 +12,7 @@ async function parsePDF(pdfPath) {
         const pdfParser = new PDFParser(null, true);
 
         pdfParser.on('pdfParser_dataError', errData => {
+            console.error(`[PDF Error] Failed to parse ${pdfPath}:`, errData.parserError);
             reject(new Error(`PDF parsing failed: ${errData.parserError}`));
         });
 
