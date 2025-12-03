@@ -36,6 +36,29 @@ app.post('/api/refresh', async (req, res) => {
     }
 });
 
+app.get('/api/debug', (req, res) => {
+    const fs = require('fs');
+    const debugInfo = {
+        cwd: process.cwd(),
+        filesInCwd: fs.readdirSync(process.cwd()),
+        dataPath: path.join(process.cwd(), 'data'),
+        pdfPath: path.join(process.cwd(), 'data', 'pdf'),
+        filesInPdf: []
+    };
+
+    try {
+        if (fs.existsSync(debugInfo.pdfPath)) {
+            debugInfo.filesInPdf = fs.readdirSync(debugInfo.pdfPath);
+        } else {
+            debugInfo.error = 'PDF directory not found';
+        }
+    } catch (e) {
+        debugInfo.error = e.message;
+    }
+
+    res.json(debugInfo);
+});
+
 // Start server if run directly
 if (require.main === module) {
     app.listen(PORT, () => {
