@@ -1,6 +1,6 @@
 Loading App Data...
 App Data Loaded.
-Reading Excel: SOCQ_OWG_2026 (3).xlsx
+Reading Excel: data/pdf/SOQC_OWG_2026 (4.1).xlsx
 
 ========================================
 Comparing: Men - 500 <-> 500m-men
@@ -9,6 +9,7 @@ Counts (Official vs App):
   Points: 21 vs 21
   Times:  7 vs 7
   Reserve: 8 vs 8
+  [Points] Fuzzy Match: "Yuta Hirose" (Official) ~ "Yuuta Hirose" (App) [Dist: 1]
   [Points] Match!
   [Times] Match!
   [Reserve] Match!
@@ -33,9 +34,7 @@ Counts (Official vs App):
   Reserve: 8 vs 8
   [Points] Match!
   [Times] Match!
-  [Reserve] Discrepancies:
-    - MISSING in App: Indra Medard (BEL)
-    + EXTRA in App:   Jílek
+  [Reserve] Match!
 
 ========================================
 Comparing: Men - 5000 <-> 5000m-men
@@ -44,12 +43,9 @@ Counts (Official vs App):
   Points: 15 vs 15
   Times:  5 vs 5
   Reserve: 8 vs 8
-  [Points] Discrepancies:
-    - MISSING in App: Gabriel Groß (GER)
-    + EXTRA in App:   Peder Kongshaug
-  [Times] Discrepancies:
-    - MISSING in App: Peder Kongshaug (NOR)
-    + EXTRA in App:   Gabriel Gro SS
+  [Points] Match!
+  [Times] Fuzzy Match: "Gabriel Groß" (Official) ~ "Gabriel Gro SS" (App) [Dist: 2]
+  [Times] Match!
   [Reserve] Match!
 
 ========================================
@@ -69,10 +65,9 @@ Comparing: Men - MS <-> Mass Start-men
 Counts (Official vs App):
   Points: 24 vs 24
   Times:  0 vs 0
-  Reserve: 0 vs 8
+  Reserve: 8 vs 8
   [Points] Discrepancies:
     - MISSING in App: Albertus (Bart) Hoolwerf (NED)
-    - MISSING in App: Metoděj Jílek (CZE)
     - MISSING in App: Timothy Loubineaud (FRA)
     - MISSING in App: Indra Medard (BEL)
     - MISSING in App: Seungmin Cho (KOR)
@@ -81,17 +76,18 @@ Counts (Official vs App):
     + EXTRA in App:   Peter Michael
     + EXTRA in App:   Bart Hoolwerf
     + EXTRA in App:   Philip Due Schmidt
-    + EXTRA in App:   Jílek
     + EXTRA in App:   Sigurd Holbø Dyrset
   [Times] Match!
   [Reserve] Discrepancies:
+    - MISSING in App: Peter Michael (NZL)
+    - MISSING in App: Philip Due Schmidt (DEN)
+    - MISSING in App: Sigurd Holbø Dyrset (NOR)
+    - MISSING in App: Taiyo Morino (JPN)
+    - MISSING in App: Mathieu Belloir (FRA)
     + EXTRA in App:   Lukas Stekly
     + EXTRA in App:   Cosmin Nedelea
-    + EXTRA in App:   Marcin Bachanek
-    + EXTRA in App:   Vadim Yakubovskiy
     + EXTRA in App:   Danila Semerikov
     + EXTRA in App:   Yahor Damaratski
-    + EXTRA in App:   Min Seok Kim
     + EXTRA in App:   Kierryn Hughes
 
 ========================================
@@ -101,12 +97,8 @@ Counts (Official vs App):
   Points: 21 vs 21
   Times:  7 vs 7
   Reserve: 8 vs 8
-  [Points] Discrepancies:
-    - MISSING in App: Brooklyn McDougall (CAN)
-    + EXTRA in App:   Carolina Hiller Donnelly
-  [Times] Discrepancies:
-    - MISSING in App: Carolina Hiller-Donnelly (CAN)
-    + EXTRA in App:   Brooklyn Mcdougall
+  [Points] Match!
+  [Times] Match!
   [Reserve] Match!
 
 ========================================
@@ -127,15 +119,9 @@ Counts (Official vs App):
   Points: 21 vs 21
   Times:  7 vs 7
   Reserve: 8 vs 8
-  [Points] Discrepancies:
-    - MISSING in App: Marijke Groenewoud (NED)
-    + EXTRA in App:   Jiaxuan Li
-  [Times] Discrepancies:
-    - MISSING in App: Jiaxuan Li (CHN)
-    + EXTRA in App:   Ellia Smeding
-  [Reserve] Discrepancies:
-    - MISSING in App: Ellia Smeding (GBR)
-    + EXTRA in App:   Linda Rossi
+  [Points] Match!
+  [Times] Match!
+  [Reserve] Match!
 
 ========================================
 Comparing: Women - 3000 <-> 3000m-women
@@ -200,10 +186,8 @@ Counts (Official vs App):
   Points: 6 vs 6
   Times:  2 vs 2
   Reserve: 4 vs 4
-  [Points] Fuzzy Match: "KAZ" (Official) ~ "CHN" (App) [Dist: 3]
   [Points] Match!
-  [Times] Fuzzy Match: "CHN" (Official) ~ "KAZ" (App) [Dist: 3]
   [Times] Match!
   [Reserve] Match!
 
-Total Discrepancies Found: 48
+Total Discrepancies Found: 32

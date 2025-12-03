@@ -498,16 +498,17 @@ function cleanName(name) {
         .replace(/\s+-\s+/g, '-') // Fix "Wei - Lin" -> "Wei-Lin"
         .replace(/-\s+/g, '-')    // Fix "Wei- Lin" -> "Wei-Lin"
         .replace(/\s+-/g, '-')    // Fix "Wei -Lin" -> "Wei-Lin"
-        // Fix spaced out diacritics (uppercase)
-        .replace(/([A-Z])\s+([ØÖÜÄÉÈÀÓÅ])\s+([A-Z])/g, '$1$2$3')
-        .replace(/([A-Z])\s+([ØÖÜÄÉÈÀÓÅ])(?=\s|$)/g, '$1$2')
-        .replace(/(^|\s)([ØÖÜÄÉÈÀÓÅ])\s+([A-Z])/g, '$1$2$3')
-        // Fix spaced out diacritics (lowercase) - be careful not to merge separate words
-        .replace(/([a-z])\s+([øöüäéèàóå])\s+([a-z])/g, '$1$2$3')
+        // Fix spaced out diacritics (uppercase) - Added Í
+        .replace(/([A-Z])\s+([ØÖÜÄÉÈÀÓÅÍ])\s+([A-Z])/g, '$1$2$3')
+        .replace(/([A-Z])\s+([ØÖÜÄÉÈÀÓÅÍ])(?=\s|$)/g, '$1$2')
+        .replace(/(^|\s)([ØÖÜÄÉÈÀÓÅÍ])\s+([A-Z])/g, '$1$2$3')
+        // Fix spaced out diacritics (lowercase) - Added í
+        .replace(/([a-z])\s+([øöüäéèàóåí])\s+([a-z])/g, '$1$2$3')
         // Specific fix for "Bj ø rn" -> "Bjørn"
         .replace(/Bj\s+ø\s+rn/g, 'Bjørn')
         // Specific fix for "Metod j" -> "Metoděj" (PDF often drops the ě)
         .replace(/Metod\s+j/g, 'Metoděj')
+        .replace(/Metod\s*ě\s*j/g, 'Metoděj') // Fix spaced ě
         // Specific fix for "And elika" -> "Andżelika"
         .replace(/And\s+elika/g, 'Andżelika')
         // Specific fix for "W Ó JCIK" -> "WÓJCIK"
@@ -525,6 +526,9 @@ function cleanName(name) {
         .replace(/Antoine\s+G\s*[ée]\s*linas\s+Beaulieu/gi, 'Antoine Gélinas-Beaulieu') // Fallback
         .replace(/G[ée]linas\s+Beaulieu/gi, 'Gélinas-Beaulieu') // Fallback
         .replace(/Brooklyn\s+Mcdougall/gi, 'Brooklyn McDougall') // Fix McDougall case
+        .replace(/Metoděj\s+J\s*Í\s*Lek/gi, 'Metoděj Jílek') // Fix Jílek specific
+        .replace(/Metoděj\s+J\s*Í\s*LEK/gi, 'Metoděj Jílek') // Fix Jílek specific caps
+        .replace(/^Jílek$/i, 'Metoděj Jílek') // Fallback for Jílek alone
         .trim();
 
     // Convert to Title Case (e.g. "NAME SURNAME" -> "Name Surname")

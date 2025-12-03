@@ -26,6 +26,10 @@ const EVENT_CONFIG = {
  * Calculate Team Pursuit SOQC Points Ranking
  * Aggregates World Cup points BY COUNTRY (not individual)
  */
+/**
+ * Calculate Team Pursuit SOQC Points Ranking
+ * Aggregates World Cup points BY COUNTRY (not individual)
+ */
 function calculateTeamPursuitPoints(results) {
     const countryData = {};
 
@@ -37,6 +41,7 @@ function calculateTeamPursuitPoints(results) {
                 country: country,
                 totalPoints: 0,
                 bestTime: '99:99.99',
+                bestPlace: 999,
                 races: []
             };
         }
@@ -49,19 +54,28 @@ function calculateTeamPursuitPoints(results) {
         if (result.time && compareTimes(result.time, countryData[country].bestTime) < 0) {
             countryData[country].bestTime = result.time;
         }
+
+        // Track best place for tie-breaking
+        const rank = parseInt(result.rank) || 999;
+        if (rank < countryData[country].bestPlace) {
+            countryData[country].bestPlace = rank;
+        }
     });
 
-    // Sort by points (descending), then by best time (ascending)
+    // Sort by points (descending), then by best place (ascending), then by best time (ascending)
     return Object.values(countryData).sort((a, b) => {
         if (b.totalPoints !== a.totalPoints) {
             return b.totalPoints - a.totalPoints;
+        }
+        if (a.bestPlace !== b.bestPlace) {
+            return a.bestPlace - b.bestPlace;
         }
         return compareTimes(a.bestTime, b.bestTime);
     });
 }
 
 /**
- * Calculate Team Pursuit SOQC Times Ranking
+ * Calculate SOQC Times Ranking
  * Ranks countries by their best time
  */
 function calculateTeamPursuitTimes(results) {
@@ -112,6 +126,7 @@ function calculateSOQCPoints(results) {
                 country: result.country,
                 totalPoints: 0,
                 bestTime: '99:99.99',
+                bestPlace: 999,
                 races: []
             };
         }
@@ -124,12 +139,21 @@ function calculateSOQCPoints(results) {
         if (result.time && compareTimes(result.time, skaterData[key].bestTime) < 0) {
             skaterData[key].bestTime = result.time;
         }
+
+        // Track best place for tie-breaking
+        const rank = parseInt(result.rank) || 999;
+        if (rank < skaterData[key].bestPlace) {
+            skaterData[key].bestPlace = rank;
+        }
     });
 
-    // Sort by points (descending), then by best time (ascending)
+    // Sort by points (descending), then by best place (ascending), then by best time (ascending)
     return Object.values(skaterData).sort((a, b) => {
         if (b.totalPoints !== a.totalPoints) {
             return b.totalPoints - a.totalPoints;
+        }
+        if (a.bestPlace !== b.bestPlace) {
+            return a.bestPlace - b.bestPlace;
         }
         return compareTimes(a.bestTime, b.bestTime);
     });
