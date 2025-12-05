@@ -1,6 +1,7 @@
 const fs = require('fs');
 const { fetchEventDataFromPDFs } = require('./pdf_data_fetcher');
 const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, applyHostCountryPromotion, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
+const manualOverrides = require('./manual_overrides');
 
 // In-memory store
 const state = {
@@ -33,6 +34,36 @@ async function updateData() {
             }
             state.raceResults[eventKey].push(race);
         });
+
+        // Apply Manual Overrides
+        if (manualOverrides && manualOverrides.length > 0) {
+            console.log(`Applying ${manualOverrides.length} manual overrides...`);
+            manualOverrides.forEach(override => {
+                const { eventId, distance, gender, ...resultData } = override;
+
+                if (!state.raceResults[eventId]) {
+                    state.raceResults[eventId] = [];
+                }
+
+                // Check if a race entry for this distance/gender already exists to append to
+                let raceEntry = state.raceResults[eventId].find(r => r.distance === distance && r.gender === gender);
+
+                if (!raceEntry) {
+                    // Create new race entry if it doesn't exist
+                    raceEntry = {
+                        distance,
+                        gender,
+                        name: `${distance} ${gender.charAt(0).toUpperCase() + gender.slice(1)} (Manual Override)`,
+                        results: []
+                    };
+                    state.raceResults[eventId].push(raceEntry);
+                }
+
+                // Add the override result
+                raceEntry.results.push(resultData);
+                console.log(`  + Added override for ${resultData.name} in ${distance} ${gender} (${eventId})`);
+            });
+        }
 
         console.log(`Loaded ${races.length} races from PDFs`);
 
