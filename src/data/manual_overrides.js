@@ -11,14 +11,15 @@
 
 module.exports = [
     {
-        // Fix for Erin Jackson missing from Women's 1000m results on 2025-12-05
+        // Fix for Erin Jackson: DNF in Women's 1000m (A Division) on 2025-12-05
+        // Rule: DNF in A Division gets last place points (21 points)
         name: "Erin Jackson",
         country: "USA",
         distance: "1000m",
         gender: "women",
         eventId: "WC3", // World Cup #3
         points: 21,
-        rank: "20", // Approximate rank for 21 points
-        time: "1:15.00" // Placeholder time, update if known
+        rank: "20", // Last place in A Division
+        time: "DNF"
     }
 ];
