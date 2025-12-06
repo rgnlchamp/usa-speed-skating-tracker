@@ -530,6 +530,7 @@ function cleanName(name) {
         .replace(/Metoděj\s+J\s*Í\s*Lek/gi, 'Metoděj Jílek') // Fix Jílek specific
         .replace(/Metoděj\s+J\s*Í\s*LEK/gi, 'Metoděj Jílek') // Fix Jílek specific caps
         .replace(/^Jílek$/i, 'Metoděj Jílek') // Fallback for Jílek alone
+        .replace(/Semirunniy\s+Vladimir/gi, 'Vladimir Semirunniy') // Normalize Polish names
         .trim();
 
     // Convert to Title Case (e.g. "NAME SURNAME" -> "Name Surname")
