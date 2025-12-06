@@ -59,6 +59,15 @@ Once deployed, when you add new PDFs:
 3. Push: `git push`
 4. Platform auto-deploys
 
+### Updating from Mobile (GitHub App):
+1. Download **GitHub** app (iOS/Android)
+2. Go to repository: `usa-speed-skating-tracker`
+3. Navigate to `data/pdf` folder
+4. Tap `+` -> **Upload File**
+5. Select PDF from phone
+6. Tap **Commit**
+7. Site updates automatically in ~2 minutes
+
 ## URL to Share
 
 After deployment, you'll get a URL like:

@@ -1,0 +1,18 @@
+[2025-11-23T04:15:15.419Z] Starting update...
+[2025-11-23T04:15:15.420Z] Discovering World Cup events...
+[2025-11-23T04:15:18.280Z] Using 2 of 2 events
+[2025-11-23T04:15:18.280Z] Fetching data for ISU Speed Skating World Cup #2 (30774)
+[2025-11-23T04:17:05.933Z] Got 32 races
+[2025-11-23T04:17:05.933Z] Fetching data for ISU Speed Skating World Cup #1 (30720)
+[2025-11-23T04:19:06.052Z] Got 40 races
+[2025-11-23T04:19:06.053Z] Recalculating SOQC...
+[2025-11-23T04:19:06.055Z] SOQC 1000m-women: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.055Z] SOQC 3000m-women: 2 qualified (2 points, 0 times)
+[2025-11-23T04:19:06.056Z] SOQC 500m-women: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.057Z] SOQC 1500m-women: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.059Z] SOQC 1000m-men: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.060Z] SOQC 5000m-men: 2 qualified (2 points, 0 times)
+[2025-11-23T04:19:06.062Z] SOQC 500m-men: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.063Z] SOQC 1500m-men: 3 qualified (3 points, 0 times)
+[2025-11-23T04:19:06.063Z] SOQC 3000m-men: 2 qualified (2 points, 0 times)
+[2025-11-23T04:19:06.064Z] Update complete.

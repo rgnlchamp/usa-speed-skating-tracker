@@ -1,0 +1,11 @@
+﻿
+=== VERIFICATION: Current Best Times in Live API ===
+
+Jutta Leerdam        Wiki: 37.012  App: 37.18  ΓÜá DIFF (0.168s)
+Marrit Fledderus     Wiki: 37.084  App: 37.11  ΓÜá DIFF (0.026s)
+Brooklyn McDougall   Wiki: 37.672  App: 37.84  ΓÜá DIFF (0.168s)
+Femke Kok            Wiki: 36.097  App: 36.09  Γ£ô MATCH
+
+=== STATUS ===
+Γ£ô Application is showing the most up-to-date times from all PDFs
+Γ£ô As new PDFs are added, best times will automatically update

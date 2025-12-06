@@ -1,0 +1,10 @@
+--- Men 1500m Reserve Comparison ---
+Rank | Official Name (Pts) | App Name (Pts)
+1. R1 Szymon Wojtakowski (20)               | 1 Marten Liiv (undefined)
+2. R2 Marten Liiv (17)                      | 2 Livio Wenger (undefined)
+3. R3 Livio Wenger (4)                      | 3 Ho Jun Yang (undefined)
+4. R4 Ho-Jun Yang (9)                       | 4 Viktor Rudenko (undefined)
+5. R5 Viktor Rudenko (2)                    | 5 Seonghyeon Park (undefined)
+6. R6 Seonghyeon Park (7)                   | 6 Szymon Wojtakowski (undefined)
+7. R7 Francesco Betti (7)                   | 7 Jílek (undefined)
+8. R8 Indra Medard (0)                      | 8 Francesco Betti (undefined)

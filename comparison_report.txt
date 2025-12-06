@@ -1,0 +1,367 @@
+Loading App Data...
+App Data Loaded.
+Reading Excel: SOCQ_OWG_2026 (3).xlsx
+
+========================================
+Comparing: Men - 500 <-> 500m-men
+========================================
+Counts (Official vs App):
+  Points: 23 vs 21
+  Times:  13 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Damian Żurek (POL)
+    - MISSING in App: Junho Kim (KOR)
+    - MISSING in App: Tingyu Gao (CHN)
+    - MISSING in App: Zhiwen Xue (CHN)
+    - MISSING in App: Marek Kania (POL)
+    - MISSING in App: Jenning de Boo (NED)
+    - MISSING in App: Sebastian Diniz (NED)
+    - MISSING in App: Cédrick Brunet (CAN)
+    - MISSING in App: Yuuta Hirose (JPN)
+    - MISSING in App: Yuuma Murakami (JPN)
+    - MISSING in App: Katsuhiro Kuratsubo (JPN)
+    - MISSING in App: Kyungmin Koo (KOR)
+    + EXTRA in App:   Sebas DINIZ
+    + EXTRA in App:   Jenning DE
+    + EXTRA in App:   Cedrick BRUNET
+    + EXTRA in App:   Yuta HIROSE
+    + EXTRA in App:   Tingyu
+    + EXTRA in App:   Zhiwen
+    + EXTRA in App:   Stefan WESTENBROEK
+    + EXTRA in App:   Piotr MICHALSKI
+    + EXTRA in App:   Haonan DU
+    + EXTRA in App:   Jun- Ho
+  [Times] Discrepancies:
+    - MISSING in App: Haonan Du (CHN)
+    - MISSING in App: Stefan Westenbroek (NED)
+    - MISSING in App: Anders Johnson (CAN)
+    - MISSING in App: Merijn Scheperkamp (NED)
+    - MISSING in App: Yankun Zhao (CAN)
+    - MISSING in App: Piotr Michalski (POL)
+    - MISSING in App: Siver Brattgjerd (NOR)
+    - MISSING in App: Sanghyeok Cho (KOR)
+    - MISSING in App: Henrik Fagerli Rukke (NOR)
+    - MISSING in App: Altaj Zhardembekuly (KAZ)
+    + EXTRA in App:   Damian ZUREK
+    + EXTRA in App:   Kyung- Min
+    + EXTRA in App:   Damian UREK
+    + EXTRA in App:   Kyung - Min
+  [Reserve] Discrepancies:
+    - MISSING in App: Wei-Lin Tai (TPE)
+    - MISSING in App: Moritz Klein (GER)
+    - MISSING in App: Maximilian Strübe (GER)
+    - MISSING in App: Daniel Milagros (ESP)
+    - MISSING in App: Ignaz Gschwentner (AUT)
+    + EXTRA in App:   Sanghyeok
+    + EXTRA in App:   ROSANELLI
+    + EXTRA in App:   Siver BRATTGJERD
+    + EXTRA in App:   Henrik Fagerli RUKKE
+    + EXTRA in App:   Altay ZHARDEMBEKULY
+
+========================================
+Comparing: Men - 1000 <-> 1000m-men
+========================================
+Counts (Official vs App):
+  Points: 21 vs 21
+  Times:  9 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Jenning de Boo (NED)
+    - MISSING in App: Damian Żurek (POL)
+    - MISSING in App: Moritz Klein (GER)
+    - MISSING in App: Mathias Vosté (BEL)
+    - MISSING in App: Min-Seok Kim (HUN)
+    + EXTRA in App:   Jenning DE
+    + EXTRA in App:   Damian UREK
+    + EXTRA in App:   Min- Seok
+    + EXTRA in App:   Gabriel ODOR
+    + EXTRA in App:   Bj ø rn MAGNUSSEN
+  [Times] Discrepancies:
+    - MISSING in App: Kyung-Min Koo (KOR)
+    - MISSING in App: Gabriel Odor (AUT)
+    - MISSING in App: Bjørn Magnussen (NOR)
+    - MISSING in App: Szymon Wojtakowski (POL)
+    - MISSING in App: Nil Llop Izquierdo (ESP)
+    + EXTRA in App:   Kyung- Min
+    + EXTRA in App:   Moritz KLEIN
+    + EXTRA in App:   Mathias VOST É
+  [Reserve] Discrepancies:
+    - MISSING in App: Tae-Yun Kim (KOR)
+    - MISSING in App: Alessio Trentini (ITA)
+    - MISSING in App: Valentin Thiebault (FRA)
+    + EXTRA in App:   Nil LLOP IZQUIERDO
+    + EXTRA in App:   Kai IN 'T VELD
+    + EXTRA in App:   Tae- Yun
+
+========================================
+Comparing: Men - 1500 <-> 1500m-men
+========================================
+Counts (Official vs App):
+  Points: 23 vs 21
+  Times:  7 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Tijmen Snel (NED)
+    - MISSING in App: Wesly Dijs (NED)
+    - MISSING in App: Hanbin Liu (CHN)
+    - MISSING in App: Taiyo Nonomura (JPN)
+    - MISSING in App: Min-Seok Kim (HUN)
+    - MISSING in App: David Larue (CAN)
+    + EXTRA in App:   Hanbin
+    + EXTRA in App:   Min- Seok
+    + EXTRA in App:   Valentin THIEBAULT
+    + EXTRA in App:   Casey DAWSON
+  [Times] Discrepancies:
+    - MISSING in App: Valentin Thiebault (FRA)
+    - MISSING in App: Casey Dawson (USA)
+    - MISSING in App: Metoděj Jílek (CZE)
+    + EXTRA in App:   Metod j J Í
+    + EXTRA in App:   Szymon WOJTAKOWSKI
+    + EXTRA in App:   JÍLEK
+  [Reserve] Discrepancies:
+    - MISSING in App: Szymon Wojtakowski (POL)
+    - MISSING in App: Indra Medard (BEL)
+    + EXTRA in App:   David LA
+    + EXTRA in App:   Kotaro KASAHARA
+
+========================================
+Comparing: Men - 5000 <-> 5000m-men
+========================================
+Counts (Official vs App):
+  Points: 15 vs 15
+  Times:  6 vs 5
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Metoděj Jílek (CZE)
+    - MISSING in App: Gabriel Groß (GER)
+    + EXTRA in App:   Metod j J Í
+    + EXTRA in App:   Peder KONGSHAUG
+  [Times] Discrepancies:
+    - MISSING in App: Peder Kongshaug (NOR)
+    - MISSING in App: Kars Jansman (NED)
+    - MISSING in App: Hanbin Liu (CHN)
+    + EXTRA in App:   Hanbin
+    + EXTRA in App:   Vladimir SEMIRUNNIY
+  [Reserve] Discrepancies:
+    - MISSING in App: Vladimir Semirunniy (POL)
+    - MISSING in App: Zhenlong Cong (CHN)
+    + EXTRA in App:   TREBOUTA
+    + EXTRA in App:   Patrick BECKERT
+
+========================================
+Comparing: Men - 10000 <-> 10000m-men
+========================================
+Key 10000m-men not found in App State.
+
+========================================
+Comparing: Men - MS <-> Mass Start-men
+========================================
+Counts (Official vs App):
+  Points: 24 vs 24
+  Times:  8 vs 0
+  Reserve: 0 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Jae-Won Chung (KOR)
+    - MISSING in App: Albertus (Bart) Hoolwerf (NED)
+    - MISSING in App: Metoděj Jílek (CZE)
+    - MISSING in App: Indra Medard (BEL)
+    - MISSING in App: Seungmin Cho (KOR)
+    - MISSING in App: Zihan Zhou (CHN)
+    + EXTRA in App:   Mathieu BELLOIR
+    + EXTRA in App:   Peter MICHAEL
+    + EXTRA in App:   Bart HOOLWERF
+    + EXTRA in App:   Philip Due SCHMIDT
+    + EXTRA in App:   JÍLEK
+    + EXTRA in App:   Sigurd Holbø DYRSET
+  [Times] Discrepancies:
+    - MISSING in App: Peter Michael (NZL)
+    - MISSING in App: Philip Due Schmidt (DEN)
+    - MISSING in App: Sigurd Holbø Dyrset (NOR)
+    - MISSING in App: Taiyo Morino (JPN)
+    - MISSING in App: Marcin Bachanek (POL)
+    - MISSING in App: Vadim Yakubovskiy (KAZ)
+    - MISSING in App: Mathieu Belloir (FRA)
+    - MISSING in App: Min-Seok Kim (HUN)
+  [Reserve] Discrepancies:
+    + EXTRA in App:   Lukas STEKLY
+    + EXTRA in App:   Cosmin NEDELEA
+    + EXTRA in App:   Marcin BACHANEK
+    + EXTRA in App:   Vadim YAKUBOVSKIY
+    + EXTRA in App:   Danila SEMERIKOV
+    + EXTRA in App:   - Seok
+    + EXTRA in App:   Kierryn HUGHES
+    + EXTRA in App:   PROCHÁZKA
+
+========================================
+Comparing: Women - 500 <-> 500m-women
+========================================
+Counts (Official vs App):
+  Points: 24 vs 21
+  Times:  7 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Femke Kok (NED)
+    - MISSING in App: Na-Hyun Lee (KOR)
+    - MISSING in App: Angel Daleman (NED)
+    - MISSING in App: Andżelika Wójcik (POL)
+    - MISSING in App: Min-Sun Kim (KOR)
+    - MISSING in App: Vanessa Herzog (AUT)
+    - MISSING in App: Chong Pei (CHN)
+    - MISSING in App: Iori Kitahara (JPN)
+    + EXTRA in App:   Femke
+    + EXTRA in App:   Na- Hyun
+    + EXTRA in App:   Min- Sun
+    + EXTRA in App:   And elika W Ó JCIK
+    + EXTRA in App:   Nadezhda MOROZOVA
+  [Times] Discrepancies:
+    - MISSING in App: Nadezhda Morozova (KAZ)
+    - MISSING in App: Huidan Jung (KOR)
+    + EXTRA in App:   Chong
+    + EXTRA in App:   Vanessa HERZOG
+  [Reserve] Discrepancies:
+    - MISSING in App: Nikola Zdráhalova (CZE)
+    - MISSING in App: Sofie Adeberg (GER)
+    + EXTRA in App:   Huidan JUNG
+    + EXTRA in App:   Xiaoxuan
+
+========================================
+Comparing: Women - 1000 <-> 1000m-women
+========================================
+Counts (Official vs App):
+  Points: 23 vs 21
+  Times:  7 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Femke Kok (NED)
+    - MISSING in App: Antoinette Rijpma-de Jong (NED)
+    - MISSING in App: Qi Yin (CHN)
+    - MISSING in App: Na-Hyun Lee (KOR)
+    - MISSING in App: Min-Sun Kim (KOR)
+    - MISSING in App: Isabelle van Elst (BEL)
+    + EXTRA in App:   Femke
+    + EXTRA in App:   Na- Hyun
+    + EXTRA in App:   Min- Sun
+    + EXTRA in App:   Anna OSTLENDER
+  [Times] Discrepancies:
+    - MISSING in App: Mei Han (CHN)
+    - MISSING in App: Vanessa Herzog (AUT)
+    - MISSING in App: Nikola Zdráhalova (CZE)
+    - MISSING in App: Anna Ostlender (GER)
+    + EXTRA in App:   Mei
+    + EXTRA in App:   Kristina SILAEVA
+    + EXTRA in App:   Fran VANHOUTTE
+    + EXTRA in App:   Jeannine ROSNER
+  [Reserve] Discrepancies:
+    - MISSING in App: Kristina Silaeva (KAZ)
+    - MISSING in App: Fran Vanhoutte (BEL)
+    - MISSING in App: Jeannine Rosner (AUT)
+    - MISSING in App: Leewon Lim (KOR)
+    + EXTRA in App:   Leewon
+    + EXTRA in App:   Ying- Chu CHEN
+    + EXTRA in App:   Natalia JABRZYK
+    + EXTRA in App:   Sofie ADEBERG
+
+========================================
+Comparing: Women - 1500 <-> 1500m-women
+========================================
+Counts (Official vs App):
+  Points: 22 vs 21
+  Times:  9 vs 7
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Nikola Zdráhalova (CZE)
+    - MISSING in App: Mei Han (CHN)
+    - MISSING in App: Angel Daleman (NED)
+    - MISSING in App: Isabelle van Elst (BEL)
+    - MISSING in App: Francesca Lollobrigida (ITA)
+    - MISSING in App: Marijke Groenewoud (NED)
+    + EXTRA in App:   Mei
+    + EXTRA in App:   Jiaxuan LI
+    + EXTRA in App:   Jeannine ROSNER
+    + EXTRA in App:   Ahenaer ADAKE
+    + EXTRA in App:   Lea Sophie SCHOLZ
+  [Times] Discrepancies:
+    - MISSING in App: Jiaxuan Li (CHN)
+    - MISSING in App: Jeannine Rosner (AUT)
+    - MISSING in App: Qi Yin (CHN)
+    - MISSING in App: Ahenaer Adake (CHN)
+    - MISSING in App: Lea Sophie Scholz (GER)
+    - MISSING in App: Martina Sáblíková (CZE)
+    + EXTRA in App:   Ellia SMEDING
+    + EXTRA in App:   Aurora Grinden L Ø V Å S
+    + EXTRA in App:   Vanessa HERZOG
+    + EXTRA in App:   Soo- Min KANG
+  [Reserve] Discrepancies:
+    - MISSING in App: Ellia Smeding (GBR)
+    - MISSING in App: Aurora Grinden Løvås (NOR)
+    - MISSING in App: Vanessa Herzog (AUT)
+    - MISSING in App: Soomin Kang (KOR)
+    - MISSING in App: Leewon Lim (KOR)
+    - MISSING in App: Sandrine Tas (BEL)
+    + EXTRA in App:   Leewon
+    + EXTRA in App:   Francesca LOLLOBRIGIDA
+    + EXTRA in App:   Linda ROSSI
+    + EXTRA in App:   Alexandra SAYUTINA
+    + EXTRA in App:   Violette BRAUN
+    + EXTRA in App:   Isabel KRAUS
+
+========================================
+Comparing: Women - 3000 <-> 3000m-women
+========================================
+Counts (Official vs App):
+  Points: 15 vs 15
+  Times:  6 vs 5
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Martina Sáblíková (CZE)
+    - MISSING in App: Sandrine Tas (BEL)
+    - MISSING in App: Zhien Tai (CHN)
+    + EXTRA in App:   Sandrine
+    + EXTRA in App:   Zhien
+    + EXTRA in App:   Sanne IN 'T
+  [Times] Discrepancies:
+    - MISSING in App: Sanne In 't Hof (NED)
+  [Reserve] Discrepancies:
+    - MISSING in App: Nikola Zdráhalova (CZE)
+    + EXTRA in App:   Mei
+
+========================================
+Comparing: Women - 5000 <-> 5000m-women
+========================================
+Key 5000m-women not found in App State.
+
+========================================
+Comparing: Women - MS <-> Mass Start-women
+========================================
+Counts (Official vs App):
+  Points: 24 vs 24
+  Times:  0 vs 0
+  Reserve: 8 vs 8
+  [Points] Discrepancies:
+    - MISSING in App: Jundan Hou (CHN)
+    - MISSING in App: Fran Vanhoutte (BEL)
+    - MISSING in App: Momoka Horikawa (JPN)
+    - MISSING in App: Leewon Lim (KOR)
+    - MISSING in App: Jeannine Rosner (AUT)
+    - MISSING in App: Sandrine Tas (BEL)
+    + EXTRA in App:   Jundan
+    + EXTRA in App:   Sandrine
+    + EXTRA in App:   Leewon
+    + EXTRA in App:   Violette BRAUN
+    + EXTRA in App:   Julia NIZAN
+    + EXTRA in App:   of Anastasiia SEMENOVA
+  [Times] Match!
+  [Reserve] Discrepancies:
+    - MISSING in App: Lucie Korvasova (CZE)
+    - MISSING in App: Natalia Jabrzyk (POL)
+    - MISSING in App: Violette Braun (FRA)
+    - MISSING in App: Abigél Mercs (HUN)
+    - MISSING in App: Julia Nizan (FRA)
+    + EXTRA in App:   Lucie KORVASOV Á
+    + EXTRA in App:   Sara CABRERA
+    + EXTRA in App:   Zuzana
+    + EXTRA in App:   Arina ILYACHSEHENKO
+    + EXTRA in App:   Aurora Grinden L Ø V Å S
+
+Total Discrepancies Found: 242

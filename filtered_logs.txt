@@ -1,0 +1,698 @@
+--- LOG LINE FOUND ---
+﻿Loading data from PDF files...
+--- LOG LINE FOUND ---
+Loading PDF data from: C:\Users\rgnlc\.gemini\antigravity\scratch\Live_SQRL_2026\data\pdf...
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 10_result_men_500_b_1-signed_20251115183330.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 20. Tokens: 10 . RESULT 1st 500m Men Division B Saturday, 15
+--- LOG LINE FOUND ---
+[DEBUG] Country: null, NameParts: RESULT Men Division B November Rnk Nr Name Ctry pair lane Time Behind Points Created
+--- LOG LINE FOUND ---
+[DEBUG] Failed to find country or name.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 154. Tokens: 10 106 Sanghyeok CHO KOR 14 In 34.55 +0.60 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: KOR, NameParts: Sanghyeok CHO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.55
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Sanghyeok CHO (KOR)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 434. Tokens: 10 . RESULT 1st 500m Men Division B Saturday, 15
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 514. Tokens: 10:51 18,1 32,0 -8,3 End 11:26 18,8 29,0 -8,3
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 10_result_men_500_b_1-signed_20251122183701.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 18. Tokens: 10 . RESULT 1st 500m Men Division B Saturday, 22
+--- LOG LINE FOUND ---
+[DEBUG] Country: null, NameParts: RESULT Men Division B November Rnk Nr Name Ctry pair lane Time Behind Points Created
+--- LOG LINE FOUND ---
+[DEBUG] Failed to find country or name.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 147. Tokens: 10 25 Yankun ZHAO CAN 2 Out 34.62 +0.30 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Yankun ZHAO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.62
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Yankun ZHAO (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 414. Tokens: 10 . RESULT 1st 500m Men Division B Saturday, 22
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 500. Tokens: 10:48 17,1 29,0 -7,9 End 11:20 17,1 29,0 -7,9
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 11_result_women_1500_b-signed_20251123001355.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 144. Tokens: 10 243 Sofia THORUP DEN 15 In 1:54.81 +2.25 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: DEN, NameParts: Sofia THORUP
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:54.81
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Sofia THORUP (DEN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 11_result_women_500_a_1-signed_20251115202552.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 316 Andzelika W ├ô JCIK POL 6 Out 37.34(2)
+--- LOG LINE FOUND ---
+[DEBUG] Country: POL, NameParts: Andzelika W ├ô JCIK
+--- LOG LINE FOUND ---
+[DEBUG] Time: 37.34
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Andzelika W├ôJCIK (POL)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 12_result_men_1500_b-signed_20251123030739.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 50 Marten LIIV EST 16 Out 1:44.53 +1.56 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: EST, NameParts: Marten LIIV
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:44.53
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Marten LIIV (EST)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 12_result_men_500_a_1-signed_20251115204545 (1).pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 118 Jenning DE BOO NED 8 Out 34.23 +0.35
+--- LOG LINE FOUND ---
+[DEBUG] Country: NED, NameParts: Jenning DE BOO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.23
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Jenning DE BOO (NED)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 204. Tokens: 10 Out 34.38 +0.50 26 16 101 Yevgeniy KOSHKIN KAZ
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 13_result_women_1500_a-signed_20251115212227.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 274 Ayano SATO JPN 4 In 1:53.49 +2.44 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Ayano SATO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:53.49
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Ayano SATO (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 13_result_women_500_a_1-1_20251122200751.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 144. Tokens: 10 260 Sophie WARMUTH GER 2 In 37.43 +0.78 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: GER, NameParts: Sophie WARMUTH
+--- LOG LINE FOUND ---
+[DEBUG] Time: 37.43
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Sophie WARMUTH (GER)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 14_result_men_1500_a-signed_20251115215923.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 74 Daniele DI STEFANO ITA 4 In 1:42.74 +2.26
+--- LOG LINE FOUND ---
+[DEBUG] Country: ITA, NameParts: Daniele DI STEFANO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:42.74
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Daniele DI STEFANO (ITA)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 14_result_men_500_a_1-signed_20251122210219.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 13 Laurent DUBREUIL CAN 5 In 34.29 +0.30 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Laurent DUBREUIL
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.29
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Laurent DUBREUIL (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 15_result_women_1500_a-1_20251122213603.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 213 Ivanie BLONDIN CAN 5 In 1:53.79 +2.62 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Ivanie BLONDIN
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:53.79
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Ivanie BLONDIN (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 15_result_women_1500_b-signed_20251116000448.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 221 Ahenaer ADAKE CHN 17 In 1:54.66 +3.01 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Ahenaer ADAKE
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:54.66
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Ahenaer ADAKE (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 484. Tokens: 10 Out DNF Referee: Susan SANDVIG- SHOBE (USA) / Starter:
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 16_result_men_1500_a-signed_20251122221454.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 141. Tokens: 10 35 Hanbin LIU CHN 4 Out 1:43.57 +1.47 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Hanbin LIU
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:43.57
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Hanbin LIU (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 210. Tokens: 10 In 1:43.96(3) +1.86 26 17 149 Didrik Eng STRAND
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 16_result_men_1500_b-signed_20251116013855.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 153. Tokens: 10 171 Ethan CEPURAN USA 18 In 1:44.24 +1.21 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: USA, NameParts: Ethan CEPURAN
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:44.24
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Ethan CEPURAN (USA)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 17_result_womenteampursuit_b-signed_20251116163548.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 17_result_women_500_b_2-1_20251123181339.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 146. Tokens: 10 315 Karolina BOSIEK POL 12 In 37.99 +0.60 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: POL, NameParts: Karolina BOSIEK
+--- LOG LINE FOUND ---
+[DEBUG] Time: 37.99
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Karolina BOSIEK (POL)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 287. Tokens: 10 Out 38.54 +1.15 0 24 252 Sofie ADEBERG GER
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 443. Tokens: 10:11 www.isu.org / Official ISU results provider: SCGVisual.com / www.isuresults.eu
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 18_result_menteampursuit_b-signed_20251116165005.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 18_result_men_500_b_2-signed_20251123200146.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 152. Tokens: 10 20 Anders JOHNSON CAN 14 Out 34.58 +0.51 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Anders JOHNSON
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.58
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Anders JOHNSON (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 515. Tokens: 10:36 16,9 30,0 - 8,2 End 11:10 16,9 30,0 -
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 19_result_womenteampursuit_b-1_20251123163610.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 19_result_women_500_b_2-signed_20251116173959.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 154. Tokens: 10 230 Jingziqian WANG CHN 11 In 38.06(8) +0.44 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Jingziqian WANG
+--- LOG LINE FOUND ---
+[DEBUG] Time: 38.06
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Jingziqian WANG (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 443. Tokens: 10:11 www.isu.org / Official ISU results provider: SCGVisual.com / www.isuresults.eu
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 1_result_women_3000_b-signed_20251115174225.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 243 Violette BRAUN FRA 4 In 4:01.33 +3.30 15
+--- LOG LINE FOUND ---
+[DEBUG] Country: FRA, NameParts: Violette BRAUN
+--- LOG LINE FOUND ---
+[DEBUG] Time: 4:01.33
+--- LOG LINE FOUND ---
+[DEBUG] Points: 15
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Violette BRAUN (FRA)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 210. Tokens: 10 16 250 Josie HOFMANN GER 3 Out 4:02.76 +4.73
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 555. Tokens: 10:48 18,4 24,0 -8,2 F : Skater fell down during
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 1_result_women_3000_b_signed_20251122171024.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 146. Tokens: 10 241 Nikola ZDR ├ü HALOVA CZE 8 Out 4:01.00
+--- LOG LINE FOUND ---
+[DEBUG] Country: CZE, NameParts: Nikola ZDR ├ü HALOVA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 4:01.00
+--- LOG LINE FOUND ---
+[DEBUG] Points: 15
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Nikola ZDR ├ü HALOVA (CZE)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 439. Tokens: 10:11 www.isu.org / Official ISU results provider: SCGVisual.com / www.isuresults.eu
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 20_result_men_500_b_2-signed_20251116182123.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 152. Tokens: 10 135 Siver BRATTGJERD NOR 11 In 34.49 +0.19 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: NOR, NameParts: Siver BRATTGJERD
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.49
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Siver BRATTGJERD (NOR)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 517. Tokens: 10:34 19,1 26,0 -8,5 End 11:12 19,1 26,0 -8,5
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 21_result_womenmassstart_b-signed_20251120184855.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 87. Tokens: 10 10 8:39.62 17 5 286 Leewon LIM KOR 16
+--- LOG LINE FOUND ---
+[DEBUG] Country: KOR, NameParts: Leewon LIM
+--- LOG LINE FOUND ---
+[DEBUG] Time: 8:39.79
+--- LOG LINE FOUND ---
+[DEBUG] Points: 16
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Leewon LIM (KOR)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 144. Tokens: 10 238 Natascha LINDENSKOV DEN 16 2 2 8:43.79 11
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 22_result_menmassstart_b-signed_20251120184910.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 154. Tokens: 10 70 Min - Seok KIM HUN 16 0 7:49.51
+--- LOG LINE FOUND ---
+[DEBUG] Country: HUN, NameParts: Min - Seok KIM
+--- LOG LINE FOUND ---
+[DEBUG] Time: 7:49.51
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Min-Seok KIM (HUN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 23_result_womenteampursuit_a-signed_20251116202424.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 23_result_women_500_a_2-1_20251123214024.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 282 Yukino YOSHIDA JPN 9 Out 37.44 +0.72 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Yukino YOSHIDA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 37.44
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Yukino YOSHIDA (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 24_result_menteampursuit_a-signed_20251116210058.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 90. Tokens: 10 JAPAN 2 Finish 3:38.90 +6.41 40 6 13 NETHERLANDS
+--- LOG LINE FOUND ---
+[DEBUG] Country: null, NameParts: Finish NETHERLANDS Crossing BELGIUM Finish ITALY Crossing Moyca STOFFEL Matthew VRAA Conditions Time Air Temperature
+--- LOG LINE FOUND ---
+[DEBUG] Failed to find country or name.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 24_result_men_500_a_2-signed_20251123220443.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 30 Tingyu GAO CHN 9 In 34.18(9) +0.39 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Tingyu GAO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.18
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Tingyu GAO (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 25_result_womenmassstart_b-1_20251123200022.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 157. Tokens: 10 205 Marina ZUEVA AIN 16 0 8:27.89 11 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: AIN, NameParts: Marina ZUEVA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 8:27.89
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Marina ZUEVA (AIN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 25_result_women_500_a_2-signed_20251116221317.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 152. Tokens: 10 298 Jutta LEERDAM NED 8 In 37.35 +1.26 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: NED, NameParts: Jutta LEERDAM
+--- LOG LINE FOUND ---
+[DEBUG] Time: 37.35
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Jutta LEERDAM (NED)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 26_result_menmassstart_b-signed_20251123200235.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 26_result_men_500_a_2-signed_20251116221344.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 155. Tokens: 10 177 Cooper MCLEOD USA 7 In 34.04(6) +0.41 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: USA, NameParts: Cooper MCLEOD
+--- LOG LINE FOUND ---
+[DEBUG] Time: 34.04
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Cooper MCLEOD (USA)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 266. Tokens: 10 In DQ Referee: Moyca STOFFEL (CAN) / Starter: Matthew
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 27_result_womenmassstart_a-2_20251124001652.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 27_result_womenmassstart_a-signed_20251116234453.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 161. Tokens: 10 287 Ji - Woo PARK KOR 1 5 0
+--- LOG LINE FOUND ---
+[DEBUG] Country: KOR, NameParts: Ji - Woo PARK
+--- LOG LINE FOUND ---
+[DEBUG] Time: 8:35.48
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Ji-Woo PARK (KOR)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 28_result_menmassstart_a-signed_20251116234524.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 160. Tokens: 10 6 Bart SWINGS BEL 16 1 1 7:46.50 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: BEL, NameParts: Bart SWINGS
+--- LOG LINE FOUND ---
+[DEBUG] Time: 7:46.50
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Bart SWINGS (BEL)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 2_result_men_5000_b-signed_20251115174235.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 149. Tokens: 10 76 Manuel GHIOTTO ITA 12 Out 6:13.86 +9.65 15
+--- LOG LINE FOUND ---
+[DEBUG] Country: ITA, NameParts: Manuel GHIOTTO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 6:13.86
+--- LOG LINE FOUND ---
+[DEBUG] Points: 15
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Manuel GHIOTTO (ITA)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 204. Tokens: 10 In 6:15.38 +11.17 10 16 43 Viktor Hald THORUP
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 208. Tokens: 10 16 43 Viktor Hald THORUP DEN 10 In 6:15.81
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 601. Tokens: 10:58 18,4 24,0 -8,2 End 12:48 18,7 24,1 -7,8 T02
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 2_result_men_5000_b-signed_20251121230438.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 145. Tokens: 10 32 Wenhao LI CHN 10 In 6:13.80 +6.81 15
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Wenhao LI
+--- LOG LINE FOUND ---
+[DEBUG] Time: 6:13.80
+--- LOG LINE FOUND ---
+[DEBUG] Points: 15
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Wenhao LI (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 3_result_women_1000_b-1_20251121182712.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 147. Tokens: 10 286 Kristina SILAEVA KAZ 15 Out 1:15.49 +1.63 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: KAZ, NameParts: Kristina SILAEVA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:15.49
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Kristina SILAEVA (KAZ)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 222. Tokens: 10 Out 1:16.07 +2.21 4 18 319 Natalia JABRZYK POL
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 538. Tokens: 10:15 17,3 27,0 -7,8 End 11:00 17,3 27,0 -7,8
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 3_result_women_1000_b-signed_20251115174352.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 149. Tokens: 10 281 Kristina SILAEVA KAZ 11 In 1:15.19 +0.65 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: KAZ, NameParts: Kristina SILAEVA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:15.19
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Kristina SILAEVA (KAZ)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 4_result_men_1000_b-signed_20251115174412.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 151. Tokens: 10 88 Wataru MORISHIGE JPN 14 In 1:08.09 +1.28 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Wataru MORISHIGE
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:08.09
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Wataru MORISHIGE (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 519. Tokens: 10 In DQ Referee: Moyca STOFFEL (CAN) / Starter: Matthew
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Metadata for 4_result_men_1000_b-signed_20251115174412.pdf: Event=1, Dist=1000m, Gender=men, Div=B, Results=33
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 4_result_men_1000_b-signed_20251121202137.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 25 Yankun ZHAO CAN 16 Out 1:08.22 +1.09 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Yankun ZHAO
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:08.22
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Yankun ZHAO (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Metadata for 4_result_men_1000_b-signed_20251121202137.pdf: Event=2, Dist=1000m, Gender=men, Div=B, Results=37
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 5_result_women_3000_a-1_20251122031833.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 147. Tokens: 10 232 Zhien TAI CHN 3 Out 4:00.99 +6.57 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: CHN, NameParts: Zhien TAI
+--- LOG LINE FOUND ---
+[DEBUG] Time: 4:00.99
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Zhien TAI (CHN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 5_result_women_3000_a-signed_20251115174421.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 149. Tokens: 10 266 Momoka HORIKAWA JPN 3 Out 4:00.67 +6.98 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Momoka HORIKAWA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 4:00.67
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Momoka HORIKAWA (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 209. Tokens: +10.86 26 16 231 Binyu YANG CHN 1 In 4:05.28
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 6_result_men_5000_a-signed_20251115174447.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 149. Tokens: 10 64 Fridtjof PETZOLD GER 1 In 6:12.06 +11.83 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: GER, NameParts: Fridtjof PETZOLD
+--- LOG LINE FOUND ---
+[DEBUG] Time: 6:12.06
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Fridtjof PETZOLD (GER)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 6_result_men_5000_a-signed_20251122031900.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 147. Tokens: 10 67 Fridtjof PETZOLD GER 3 In 6:08.75 +6.91 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: GER, NameParts: Fridtjof PETZOLD
+--- LOG LINE FOUND ---
+[DEBUG] Time: 6:08.75
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Fridtjof PETZOLD (GER)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 7_result_women_1000_a-1_20251122010030.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 146. Tokens: 10 281 Rio YAMADA JPN 8 Out 1:13.78 +1.42 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Rio YAMADA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:13.78
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Rio YAMADA (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 7_result_women_1000_a-signed_20251115174456.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 148. Tokens: 10 293 Isabel GREVELT NED 10 Out 1:13.86 +1.51 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: NED, NameParts: Isabel GREVELT
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:13.86
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Isabel GREVELT (NED)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 8_result_men_1000_a-signed_20251115174506.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 151. Tokens: 10 In 1:07.01(2) +1.35 32 11 176 Conor MCDERMOTT- MOSTOWY
+--- LOG LINE FOUND ---
+[DEBUG] Country: USA, NameParts: Conor MCDERMOTT- MOSTOWY
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:07.02
+--- LOG LINE FOUND ---
+[DEBUG] Points: 30
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Conor MCDERMOTT-MOSTOWY (USA)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 8_result_men_1000_a-signed_20251122010421.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 144. Tokens: 10 93 Taiyo NONOMURA JPN 4 Out 1:07.43 +1.43 31
+--- LOG LINE FOUND ---
+[DEBUG] Country: JPN, NameParts: Taiyo NONOMURA
+--- LOG LINE FOUND ---
+[DEBUG] Time: 1:07.43
+--- LOG LINE FOUND ---
+[DEBUG] Points: 31
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Taiyo NONOMURA (JPN)
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 9_result_women_500_b_1-1_20251122183733.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 147. Tokens: 10 218 Jenna LARTER CAN 15 Out 38.08 +0.35 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: CAN, NameParts: Jenna LARTER
+--- LOG LINE FOUND ---
+[DEBUG] Time: 38.08
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Jenna LARTER (CAN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 445. Tokens: 10:11 www.isu.org / Official ISU results provider: SCGVisual.com / www.isuresults.eu
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 500. Tokens: 10:00 16,9 29,0 -7,9 End 10:26 16,9 29,0 -7,9
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Parsing results for file: 9_result_women_500_b_1-signed_20251115175152.pdf
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 152. Tokens: 10 239 Sofia THORUP DEN 12 In 38.15(3) +0.37 11
+--- LOG LINE FOUND ---
+[DEBUG] Country: DEN, NameParts: Sofia THORUP
+--- LOG LINE FOUND ---
+[DEBUG] Time: 38.15
+--- LOG LINE FOUND ---
+[DEBUG] Points: 11
+--- LOG LINE FOUND ---
+[DEBUG] Pushing result: Sofia THORUP (DEN)
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 211. Tokens: 10 In 38.32(6) +0.54 6 16 207 Fran VANHOUTTE BEL
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 467. Tokens: 10:11 www.isu.org / Official ISU results provider: SCGVisual.com / www.isuresults.eu
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+[DEBUG] Processing Rank 10 at index 499. Tokens: 10:05 18,1 32,0 -8,3 End 10:41 18,1 32,0 -8,3
+--- LOG LINE FOUND ---
+[DEBUG] Rank 10 already seen.
+--- LOG LINE FOUND ---
+Total Points: 0

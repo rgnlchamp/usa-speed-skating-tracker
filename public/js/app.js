@@ -90,7 +90,8 @@ function renderUSAStats() {
     for (const [dist, count] of Object.entries(quotasByEvent)) {
         const card = document.createElement('div');
         card.className = 'stat-card';
-        card.innerHTML = `<h3>${dist}</h3><div class="stat-value">${count}</div>`;
+        const displayName = dist.replace('-', ' ').replace(/(^\w|\s\w)/g, m => m.toUpperCase());
+        card.innerHTML = `<h3>${displayName}</h3><div class="stat-value">${count}</div>`;
         container.appendChild(card);
     }
 }

@@ -42,9 +42,18 @@ app.get('/api/data', (req, res) => {
 });
 
 app.post('/api/refresh', async (req, res) => {
-    // In this static build model, refresh just reloads the file
-    loadData();
-    res.json({ message: 'Data reloaded from disk' });
+    console.log("Refreshing data...");
+    try {
+        await store.updateData();
+        const state = store.getState();
+        fs.writeFileSync(dataPath, JSON.stringify(state, null, 2));
+        cachedState = state;
+        console.log("✅ Data regenerated and saved to disk");
+        res.json({ message: 'Data regenerated and reloaded' });
+    } catch (e) {
+        console.error("Error regenerating data:", e);
+        res.status(500).json({ error: 'Failed to refresh data' });
+    }
 });
 
 app.get('/api/debug', (req, res) => {

@@ -1,0 +1,29 @@
+=== Comparison: Women's 500m ===
+[DIFF] Rank 4 Jutta Leerdam: Wiki=37.012, App=37.18
+[MISSING] Rank 5 Lee Na-hyun (KOR) not found in App data.
+[MISSING] Rank 8 Chen Ying-chu (TPE) not found in App data.
+[MISSING] Rank 9 Kaja Ziomek-Nogal (POL) not found in App data.
+[DIFF] Rank 11 Angel Daleman: Wiki=37.283, App=37.41
+[MISSING] Rank 13 Béatrice Lamarche (CAN) not found in App data.
+[MISSING] Rank 14 Andżelika Wójcik (POL) not found in App data.
+[MISSING] Rank 18 Kim Min-sun (KOR) not found in App data.
+[DIFF] Rank 21 Brooklyn McDougall: Wiki=37.672, App=37.84
+[MISSING] Rank 22 Carolina Hiller-Donnelly (CAN) not found in App data.
+[DIFF] Rank 24 Pei Chong: Wiki=37.737, App=37.81
+[DIFF] Rank 25 Vanessa Herzog: Wiki=37.851, App=37.94
+[DIFF] Rank 27 Wang Jingziqian: Wiki=37.863, App=38.06
+[MISSING] Rank 37 Nikola Zdráhalova (CZE) not found in App data.
+[DIFF] Rank 38 Shi Xiaoxuan: Wiki=38.129, App=38.47
+[DIFF] Rank 39 Ellia Smeding: Wiki=38.143, App=38.37
+[MISSING] Rank 42 Chrysta Rands-Evans (USA) not found in App data.
+[MISSING] Rank 43 Rose Laliberté-Roy (CAN) not found in App data.
+[DIFF] Rank 46 Mckenzie Browne: Wiki=38.633, App=38.74
+[MISSING] Rank 47 Ju-Lin de Visser (TPE) not found in App data.
+[MISSING] Rank 50 Luisa María González (ESP) not found in App data.
+[MISSING] Rank 52 Mathilde Pédronno (FRA) not found in App data.
+[MISSING] Rank 54 Hanna Biró (HUN) not found in App data.
+[DIFF] Rank 55 Laura Kivioja: Wiki=39.128, App=39.38
+[DIFF] Rank 57 Arina Ilyachsehenko: Wiki=39.461, App=39.77
+[MISSING] Rank 58 Jasmin Güntert (SUI) not found in App data.
+[MISSING] Rank 59 Jéssica Carolina Santos Rodrigues (POR) not found in App data.
+Found 27 discrepancies.

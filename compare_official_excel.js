@@ -3,7 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const store = require('./src/data/store_pdf');
 
-const EXCEL_FILE = 'SOCQ_OWG_2026 (3).xlsx';
+const EXCEL_FILE = 'data/pdf/SOQC_OWG_2026 (4.1).xlsx';
 
 const SHEET_MAPPING = {
     'Men - 500': '500m-men',
@@ -131,6 +131,11 @@ function parseExcelSheet(worksheet, sheetName) {
         if (rowStr.includes('reserve list')) {
             mode = 'reserve';
             continue;
+        }
+
+        // Auto-detect reserve rows (e.g., "R1", "R2")
+        if (typeof row[0] === 'string' && /^R\d+$/.test(row[0])) {
+            mode = 'reserve';
         }
 
         const quotaRank = row[0]; // This is quota rank, NOT just position in list

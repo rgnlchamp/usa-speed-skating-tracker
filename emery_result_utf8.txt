@@ -1,0 +1,13 @@
+
+=== FINDING EMERY LEHMAN IN 5000M MEN ===
+
+Total 5000m men races: 4
+
+Race 1: B - PDF: Utah Olympic Oval - Salt Lake City (Usa)
+  ⚠️ FOUND: Ethan CEPURAN - Rank 15, Time 6:15.38
+Race 2: B - PDF: Calgary Olympic Oval - Calgary (Can)
+  ⚠️ FOUND: Ethan CEPURAN - Rank 7, Time 6:12.56
+Race 3: A - PDF: Utah Olympic Oval - Salt Lake City (Usa)
+  ✓ Not found in this race
+Race 4: A - PDF: Calgary Olympic Oval - Calgary (Can)
+  ✓ Not found in this race

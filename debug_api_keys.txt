@@ -1,0 +1,12 @@
+[
+  "500m-men",
+  "1500m-women",
+  "500m-women",
+  "1500m-men",
+  "3000m-women",
+  "Mass Start-women",
+  "Mass Start-men",
+  "5000m-men",
+  "1000m-women",
+  "1000m-men"
+]

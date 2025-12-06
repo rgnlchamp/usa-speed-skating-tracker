@@ -1,0 +1,109 @@
+--- Points Ranking ---
+1. JPN (Pts: 108, Time: 2:52.13)
+2. CAN (Pts: 108, Time: 2:52.40)
+3. NED (Pts: 100, Time: 2:52.52)
+4. USA (Pts: 91, Time: 2:53.58)
+5. GER (Pts: 83, Time: 2:54.38)
+6. CHN (Pts: 76, Time: 2:56.23)
+  Races: [
+  {
+    "rank": "6",
+    "name": "CHN",
+    "country": "CHN",
+    "time": "2:56.38",
+    "points": 38,
+    "eventId": "WC1",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  },
+  {
+    "rank": "6",
+    "name": "CHN",
+    "country": "CHN",
+    "time": "2:56.23",
+    "points": 38,
+    "eventId": "WC2",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  }
+]
+7. KAZ (Pts: 76, Time: 2:57.71)
+  Races: [
+  {
+    "rank": "5",
+    "name": "KAZ",
+    "country": "KAZ",
+    "time": "2:57.81",
+    "points": 40,
+    "eventId": "WC1",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  },
+  {
+    "rank": "7",
+    "name": "KAZ",
+    "country": "KAZ",
+    "time": "2:57.71",
+    "points": 36,
+    "eventId": "WC2",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  }
+]
+8. NOR (Pts: 76, Time: 3:00.91)
+  Races: [
+  {
+    "rank": "7",
+    "name": "NOR",
+    "country": "NOR",
+    "time": "3:01.44",
+    "points": 36,
+    "eventId": "WC1",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  },
+  {
+    "rank": "5",
+    "name": "NOR",
+    "country": "NOR",
+    "time": "3:00.91",
+    "points": 40,
+    "eventId": "WC2",
+    "distance": "Team Pursuit",
+    "gender": "women"
+  }
+]
+9. BEL (Pts: 70, Time: 2:58.38)
+10. POL (Pts: 66, Time: 2:58.41)
+11. SUI (Pts: 64, Time: 2:58.98)
+12. ITA (Pts: 63, Time: 3:02.90)
+13. KOR (Pts: 55, Time: 3:01.09)
+14. CZE (Pts: 29, Time: 2:58.85)
+
+--- Times Ranking ---
+1. JPN (Time: 2:52.13, Pts: 108)
+2. CAN (Time: 2:52.40, Pts: 108)
+3. NED (Time: 2:52.52, Pts: 100)
+4. USA (Time: 2:53.58, Pts: 91)
+5. GER (Time: 2:54.38, Pts: 83)
+6. CHN (Time: 2:56.23, Pts: 76)
+7. KAZ (Time: 2:57.71, Pts: 76)
+8. BEL (Time: 2:58.38, Pts: 70)
+9. POL (Time: 2:58.41, Pts: 66)
+10. CZE (Time: 2:58.85, Pts: 29)
+11. SUI (Time: 2:58.98, Pts: 64)
+12. NOR (Time: 3:00.91, Pts: 76)
+13. KOR (Time: 3:01.09, Pts: 55)
+14. ITA (Time: 3:02.90, Pts: 63)
+
+--- Qualifiers (Points) ---
+1. JPN
+2. CAN
+3. NED
+4. USA
+5. GER
+6. CHN
+
+--- Qualifiers (Times) ---
+1. KAZ
+2. BEL
