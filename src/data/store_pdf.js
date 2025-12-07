@@ -152,6 +152,36 @@ function recalculateSOQC() {
         } else {
             pointsRanking = calculateSOQCPoints(pointsResults);
             timesRanking = calculateSOQCTimes(timesResults);
+
+            // Create lookup maps for cross-enrichment
+            const pointsLookup = new Map();
+            const timesLookup = new Map();
+
+            pointsRanking.forEach(skater => {
+                const key = `${skater.name}|${skater.country}`;
+                pointsLookup.set(key, skater.totalPoints);
+            });
+
+            timesRanking.forEach(skater => {
+                const key = `${skater.name}|${skater.country}`;
+                timesLookup.set(key, skater.bestTime);
+            });
+
+            // Enrich times ranking with total points from points ranking
+            // This ensures times qualifiers show their full accumulated points
+            timesRanking = timesRanking.map(skater => {
+                const key = `${skater.name}|${skater.country}`;
+                const totalPoints = pointsLookup.get(key) || skater.totalPoints;
+                return { ...skater, totalPoints };
+            });
+
+            // Enrich points ranking with best time from THIS distance only
+            // This ensures points qualifiers show their best time for the specific distance
+            pointsRanking = pointsRanking.map(skater => {
+                const key = `${skater.name}|${skater.country}`;
+                const bestTime = timesLookup.get(key) || skater.bestTime;
+                return { ...skater, bestTime };
+            });
         }
         const quotas = allocateQuotas(configKey, pointsRanking, timesRanking);
 
