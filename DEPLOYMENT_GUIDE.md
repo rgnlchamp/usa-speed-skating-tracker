@@ -45,19 +45,25 @@ If you just want athletes on same network to access:
 
 Athletes on same WiFi can access immediately.
 
-## Updating Live Data
+## SCROLL DOWN FOR "THE BEST WAY" TO UPDATE
 
-Once deployed, when you add new PDFs:
+## Updating Live Data (Recommended Workflow)
 
-### Manual Upload:
-1. Upload PDFs to deployment platform
-2. Restart server (usually automatic)
+Since we've optimized the app for speed, **always process data locally first**.
 
-### Automatic (with GitHub):
-1. Add PDFs to `data/pdf/` folder locally
-2. Commit: `git add . && git commit -m "Add WC3 results"`
-3. Push: `git push`
-4. Platform auto-deploys
+### The Easy Way (Windows):
+1.  Put new PDF files into `data/pdf/` folder.
+2.  Double-click `update_results.bat`.
+3.  Wait for it to say "DONE".
+
+### The Manual Way (Terminal):
+1.  Add PDFs to `data/pdf/`.
+2.  Run `npm run build` (generates `public/data.json`).
+3.  Run `git add . && git commit -m "Update" && git push`.
+4.  Vercel auto-deploys.
+
+### Why not just upload PDFs directly?
+Processing PDFs on the server (Vercel) is slow and can timeout. By running `npm run build` locally (which `update_results.bat` does), you do the heavy lifting on your computer so the website loads instantly for everyone else.
 
 ### Updating from Mobile (GitHub App):
 1. Download **GitHub** app (iOS/Android)
