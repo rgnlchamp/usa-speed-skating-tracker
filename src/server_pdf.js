@@ -9,23 +9,40 @@ const PORT = process.env.PORT || 3000;
 // Serve static files
 app.use(express.static(path.join(__dirname, '../public')));
 
-// Load pre-generated data
-const dataPath = path.join(__dirname, '../public/data.json');
+// Load pre-generated data - try multiple paths for Vercel compatibility
+const possiblePaths = [
+    path.join(__dirname, '../public/data.json'),
+    path.join(process.cwd(), 'public/data.json'),
+    path.join(process.cwd(), 'data.json'),
+];
 let cachedState = null;
 
 function loadData() {
-    try {
-        if (fs.existsSync(dataPath)) {
-            const data = fs.readFileSync(dataPath, 'utf8');
-            cachedState = JSON.parse(data);
-            console.log('✅ Loaded pre-generated data');
-        } else {
-            console.log('⚠️ No pre-generated data found at', dataPath);
+    console.log('🔍 Attempting to load data from multiple paths...');
+    console.log('__dirname:', __dirname);
+    console.log('process.cwd():', process.cwd());
+
+    for (const dataPath of possiblePaths) {
+        try {
+            console.log(`  Trying: ${dataPath}`);
+            if (fs.existsSync(dataPath)) {
+                const data = fs.readFileSync(dataPath, 'utf8');
+                cachedState = JSON.parse(data);
+                console.log(`✅ Successfully loaded data from: ${dataPath}`);
+                console.log(`   Data size: ${(data.length / 1024).toFixed(2)} KB`);
+                console.log(`   Events: ${cachedState.events?.length || 0}`);
+                console.log(`   SOQC distances: ${Object.keys(cachedState.soqc || {}).length}`);
+                return cachedState;
+            } else {
+                console.log(`  ❌ Path not found: ${dataPath}`);
+            }
+        } catch (e) {
+            console.error(`  ⚠️ Error loading from ${dataPath}:`, e.message);
         }
-    } catch (e) {
-        console.error('Error loading data:', e);
     }
-    return cachedState;
+
+    console.error('❌ Failed to load data from any path');
+    return null;
 }
 
 // Initial load
@@ -42,10 +59,35 @@ store.updateData().then(() => {
 // API Routes
 app.get('/api/data', (req, res) => {
     const data = cachedState || store.getState();
-    if (data) {
+    if (data && data.soqc && Object.keys(data.soqc).length > 0) {
         res.json(data);
     } else {
-        res.status(503).json({ error: 'Data not available yet' });
+        console.error('⚠️ No valid data available in /api/data');
+        console.error('  cachedState exists:', !!cachedState);
+        console.error('  cachedState.soqc exists:', !!cachedState?.soqc);
+        console.error('  SOQC keys:', Object.keys(cachedState?.soqc || {}));
+
+        // Return debug info instead of generic error
+        res.status(503).json({
+            error: 'Data not available yet',
+            debug: {
+                hasCachedState: !!cachedState,
+                hasSOQC: !!cachedState?.soqc,
+                soqcKeys: Object.keys(cachedState?.soqc || {}),
+                eventsCount: cachedState?.events?.length || 0,
+                cwd: process.cwd(),
+                dirname: __dirname,
+                possiblePaths,
+                filesInPublic: (() => {
+                    try {
+                        const publicPath = path.join(process.cwd(), 'public');
+                        return fs.existsSync(publicPath) ? fs.readdirSync(publicPath) : 'public dir not found';
+                    } catch (e) {
+                        return `error: ${e.message}`;
+                    }
+                })()
+            }
+        });
     }
 });
 
@@ -56,17 +98,27 @@ app.post('/api/refresh', async (req, res) => {
         const newState = store.getState();
         cachedState = newState;
 
-        try {
-            fs.writeFileSync(dataPath, JSON.stringify(newState, null, 2));
-            console.log("✅ Data saved to disk");
-        } catch (e) {
-            console.warn("⚠️ Could not save to disk (readonly fs?), but memory updated:", e.message);
+        // Try to save to each possible path
+        let savedToAny = false;
+        for (const tryPath of possiblePaths) {
+            try {
+                const dir = path.dirname(tryPath);
+                if (!fs.existsSync(dir)) {
+                    fs.mkdirSync(dir, { recursive: true });
+                }
+                fs.writeFileSync(tryPath, JSON.stringify(newState, null, 2));
+                console.log(`✅ Data saved to: ${tryPath}`);
+                savedToAny = true;
+                break; // Stop after first successful save
+            } catch (e) {
+                console.warn(`⚠️ Could not save to ${tryPath}:`, e.message);
+            }
         }
 
         res.json({
-            message: 'Data refreshed (memory updated)',
+            message: savedToAny ? 'Data refreshed and saved' : 'Data refreshed (memory only)',
             timestamp: newState.lastUpdated,
-            note: 'If on Vercel, this update is ephemeral.'
+            note: savedToAny ? 'Data saved successfully' : 'Read-only filesystem - data in memory only'
         });
     } catch (e) {
         console.error("Error regenerating data:", e);
