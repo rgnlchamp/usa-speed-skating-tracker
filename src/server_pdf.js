@@ -46,15 +46,22 @@ function loadData() {
 }
 
 // Initial load
-loadData();
+const dataLoaded = loadData();
 
-// Trigger background update on start
-store.updateData().then(() => {
-    cachedState = store.getState();
-    console.log('✅ Background data update complete');
-}).catch(err => {
-    console.error('⚠️ Background update failed:', err);
-});
+// Only trigger background update if no data was loaded from file
+// This prevents slow PDF parsing on Vercel when we have pre-generated data
+if (!dataLoaded || !cachedState || !cachedState.soqc || Object.keys(cachedState.soqc).length === 0) {
+    console.log('⚠️ No pre-generated data found, starting background update from PDFs...');
+    store.updateData().then(() => {
+        cachedState = store.getState();
+        console.log('✅ Background data update complete');
+    }).catch(err => {
+        console.error('⚠️ Background update failed:', err);
+    });
+} else {
+    console.log('✅ Using pre-generated data, skipping background update');
+    console.log(`   Data has ${Object.keys(cachedState.soqc).length} distances`);
+}
 
 // API Routes
 app.get('/api/data', (req, res) => {
