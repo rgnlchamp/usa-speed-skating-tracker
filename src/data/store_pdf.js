@@ -2,6 +2,7 @@ const fs = require('fs');
 const { fetchEventDataFromPDFs } = require('./pdf_data_fetcher');
 const { calculateSOQCPoints, calculateSOQCTimes, calculateTeamPursuitPoints, calculateTeamPursuitTimes, allocateQuotas, applyHostCountryPromotion, EVENT_CONFIG } = require('../logic/qualification_rules_v2');
 const manualOverrides = require('./manual_overrides');
+const { scrapeMassStartStandings } = require('./mass_start_scraper');
 
 // In-memory store
 const state = {
@@ -68,7 +69,7 @@ async function updateData() {
         console.log(`Loaded ${races.length} races from PDFs`);
 
         // Recalculate SOQC
-        recalculateSOQC();
+        await recalculateSOQC();
         state.lastUpdated = new Date();
         console.log('Data update complete!');
 
@@ -96,7 +97,7 @@ const TARGET_EVENTS = [
     { key: 'Team Pursuit-women', distance: 'Team Pursuit', gender: 'women', configKey: 'Team Pursuit' }
 ];
 
-function recalculateSOQC() {
+async function recalculateSOQC() {
     console.log("Recalculating SOQC...");
 
     // Aggregate results by distance and gender
@@ -144,9 +145,27 @@ function recalculateSOQC() {
             pointsResults = [...pointsResults, ...relatedResults];
         }
 
+        // Mass Start uses ISU live standings (not PDFs) - top 24 qualify
         // Team Pursuit uses country-based aggregation instead of individual
         let pointsRanking, timesRanking;
-        if (distance === 'Team Pursuit') {
+        if (distance === 'Mass Start') {
+            // Fetch live standings from ISU for Mass Start
+            console.log(`Fetching ${key} from ISU live standings...`);
+            const genderCode = gender === 'men' ? 'M' : 'F';
+            const standings = await scrapeMassStartStandings(genderCode);
+
+            // Convert ISU standings to our format
+            pointsRanking = standings.map(skater => ({
+                name: skater.name,
+                country: skater.country,
+                totalPoints: skater.totalPoints,
+                bestTime: '', // No times for Mass Start
+                bestPlace: skater.rank,
+                races: [] // We don't track individual races for Mass Start
+            }));
+
+            timesRanking = []; // No times component for Mass Start
+        } else if (distance === 'Team Pursuit') {
             pointsRanking = calculateTeamPursuitPoints(pointsResults);
             timesRanking = calculateTeamPursuitTimes(timesResults);
         } else {
