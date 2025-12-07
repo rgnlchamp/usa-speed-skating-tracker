@@ -31,17 +31,33 @@ async function scrapeMassStartStandings(gender = 'F') {
                 const cells = row.querySelectorAll('td');
                 if (cells.length < 4) return null;
 
-                // Get the last cell which should contain total points
-                const pointsText = cells[cells.length - 1]?.textContent.trim();
-                const totalPoints = parseInt(pointsText) || 0;
+                // Cell structure: [rank, "Name Country", ...points columns..., total]
+                const rankText = cells[0]?.textContent.trim();
+                const nameCountryText = cells[1]?.textContent.trim();
+                const totalPointsText = cells[cells.length - 1]?.textContent.trim();
+
+                // Extract country code (last 3 uppercase letters) from name field
+                // Format is typically: "FirstName  LastName  XXX" where XXX is country code
+                const match = nameCountryText.match(/^(.+?)\s+([A-Z]{3})$/);
+
+                let name = nameCountryText;
+                let country = '';
+
+                if (match) {
+                    name = match[1].trim();
+                    country = match[2];
+                }
+
+                const totalPoints = parseInt(totalPointsText) || 0;
+                const rank = parseInt(rankText) || 0;
 
                 return {
-                    rank: parseInt(cells[0]?.textContent.trim()) || 0,
-                    name: cells[1]?.textContent.trim(),
-                    country: cells[2]?.textContent.trim(),
+                    rank: rank,
+                    name: name,
+                    country: country,
                     totalPoints: totalPoints
                 };
-            }).filter(row => row && row.name && row.totalPoints > 0);
+            }).filter(row => row && row.name && row.country && row.totalPoints > 0);
         });
 
         await browser.close();
@@ -60,8 +76,8 @@ module.exports = { scrapeMassStartStandings };
 
 // If run directly, test the scraper
 if (require.main === module) {
-    scrapeMassStartStandings('F').then(data => {
-        console.log('\n=== Women Mass Start Standings (Top 24 = Olympic Qualifiers) ===\n');
+    scrapeMassStartStandings('M').then(data => {
+        console.log('\n=== Men Mass Start Standings (Top 24 = Olympic Qualifiers) ===\n');
         data.slice(0, 30).forEach((s, i) => {
             const qualifier = i < 24 ? '✓' : ' ';
             console.log(`${qualifier} ${String(s.rank).padStart(2)}. ${s.name.padEnd(30)} ${s.country.padEnd(3)} ${String(s.totalPoints).padStart(3)} pts`);
@@ -70,6 +86,10 @@ if (require.main === module) {
         console.log(`\n📊 Summary:`);
         console.log(`   Total skaters: ${data.length}`);
         console.log(`   Olympic qualifiers (Top 24): ${Math.min(data.length, 24)}`);
+
+        const usa = data.filter(s => s.country === 'USA');
+        console.log(`   USA skaters: ${usa.length}`);
+        usa.forEach(s => console.log(`      - ${s.name} (${s.totalPoints} pts)`));
     }).catch(err => {
         console.error('Fatal error:', err);
         process.exit(1);
