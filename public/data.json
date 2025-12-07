@@ -10652,6 +10652,471 @@
         "eventNumber": "3",
         "eventLocation": "Thialf - Heerenveen (Ned)",
         "eventDate": "Dec 2025",
+        "distance": "500m",
+        "gender": "women",
+        "division": "B",
+        "name": "500m Women Division B",
+        "url": "PDF: Thialf - Heerenveen (Ned)",
+        "results": [
+          {
+            "rank": "1",
+            "name": "Miho Takagi",
+            "country": "JPN",
+            "time": "38.02",
+            "points": 28
+          },
+          {
+            "rank": "2",
+            "name": "Nikola Zdr Á Halova",
+            "country": "CZE",
+            "time": "38.34",
+            "points": 24
+          },
+          {
+            "rank": "3",
+            "name": "Jingziqian Wang",
+            "country": "CHN",
+            "time": "38.38",
+            "points": 21
+          },
+          {
+            "rank": "4",
+            "name": "Carolina Hiller Donnelly",
+            "country": "CAN",
+            "time": "38.41",
+            "points": 17
+          },
+          {
+            "rank": "5",
+            "name": "Kurumi Inagawa",
+            "country": "JPN",
+            "time": "38.51",
+            "points": 16
+          },
+          {
+            "rank": "6",
+            "name": "Sofia Thorup",
+            "country": "DEN",
+            "time": "38.58",
+            "points": 15
+          },
+          {
+            "rank": "7",
+            "name": "Iori Kitahara",
+            "country": "JPN",
+            "time": "38.61",
+            "points": 14
+          },
+          {
+            "rank": "8",
+            "name": "Ellia Smeding",
+            "country": "GBR",
+            "time": "38.67",
+            "points": 13
+          },
+          {
+            "rank": "9",
+            "name": "Anna Ostlender",
+            "country": "GER",
+            "time": "38.70",
+            "points": 12
+          },
+          {
+            "rank": "10",
+            "name": "Karolina Bosiek",
+            "country": "POL",
+            "time": "38.71",
+            "points": 11
+          },
+          {
+            "rank": "11",
+            "name": "Huidan Jung",
+            "country": "KOR",
+            "time": "38.71",
+            "points": 10
+          },
+          {
+            "rank": "12",
+            "name": "Chong Pei",
+            "country": "CHN",
+            "time": "38.72",
+            "points": 9
+          },
+          {
+            "rank": "13",
+            "name": "Fran Vanhoutte",
+            "country": "BEL",
+            "time": "38.77",
+            "points": 8
+          },
+          {
+            "rank": "14",
+            "name": "Jenna Larter",
+            "country": "CAN",
+            "time": "38.81",
+            "points": 7
+          },
+          {
+            "rank": "15",
+            "name": "Sarah Warren",
+            "country": "USA",
+            "time": "38.81",
+            "points": 6
+          },
+          {
+            "rank": "16",
+            "name": "Julie Nistad Samsonsen",
+            "country": "NOR",
+            "time": "38.99",
+            "points": 5
+          },
+          {
+            "rank": "17",
+            "name": "Isabelle Van Elst",
+            "country": "BEL",
+            "time": "39.13",
+            "points": 4
+          },
+          {
+            "rank": "18",
+            "name": "Chrysta Rands Evans",
+            "country": "USA",
+            "time": "39.17",
+            "points": 3
+          },
+          {
+            "rank": "19",
+            "name": "Xiaoxuan Shi",
+            "country": "CHN",
+            "time": "39.18",
+            "points": 2
+          },
+          {
+            "rank": "20",
+            "name": "Maybritt Vigl",
+            "country": "ITA",
+            "time": "39.25",
+            "points": 1
+          },
+          {
+            "rank": "21",
+            "name": "Mathilde Pédronno",
+            "country": "FRA",
+            "time": "39.25",
+            "points": 0
+          },
+          {
+            "rank": "22",
+            "name": "Mckenzie Browne",
+            "country": "USA",
+            "time": "39.29",
+            "points": 0
+          },
+          {
+            "rank": "23",
+            "name": "Luisa María Gonz Á Lez",
+            "country": "ESP",
+            "time": "39.30",
+            "points": 0
+          },
+          {
+            "rank": "24",
+            "name": "Maria Victoria Rodriguez",
+            "country": "ARG",
+            "time": "39.31",
+            "points": 0
+          },
+          {
+            "rank": "25",
+            "name": "Ju Lin De Visser",
+            "country": "TPE",
+            "time": "39.54",
+            "points": 0
+          },
+          {
+            "rank": "26",
+            "name": "Arina Ilyachsehenko",
+            "country": "KAZ",
+            "time": "39.60",
+            "points": 0
+          },
+          {
+            "rank": "27",
+            "name": "Hanna Biró",
+            "country": "HUN",
+            "time": "40.14",
+            "points": 0
+          },
+          {
+            "rank": "28",
+            "name": "Alena Lifatova",
+            "country": "KAZ",
+            "time": "40.46",
+            "points": 0
+          },
+          {
+            "rank": "29",
+            "name": "J É Ssica Carolina Santos Rodrigues",
+            "country": "POR",
+            "time": "40.59",
+            "points": 0
+          },
+          {
+            "rank": "30",
+            "name": "Laura Kivioja",
+            "country": "FIN",
+            "time": "40.70",
+            "points": 0
+          },
+          {
+            "rank": "31",
+            "name": "Marte Bjerkreim Furnee",
+            "country": "NOR",
+            "time": "41.23",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "eventNumber": "3",
+        "eventLocation": "Thialf - Heerenveen (Ned)",
+        "eventDate": "Dec 2025",
+        "distance": "500m",
+        "gender": "men",
+        "division": "B",
+        "name": "500m Men Division B",
+        "url": "PDF: Thialf - Heerenveen (Ned)",
+        "results": [
+          {
+            "rank": "1",
+            "name": "Yuuta Hirose",
+            "country": "JPN",
+            "time": "34.56",
+            "points": 28
+          },
+          {
+            "rank": "2",
+            "name": "Ze Liu",
+            "country": "CHN",
+            "time": "34.83",
+            "points": 24
+          },
+          {
+            "rank": "3",
+            "name": "Merijn Scheperkamp",
+            "country": "NED",
+            "time": "34.89",
+            "points": 21
+          },
+          {
+            "rank": "4",
+            "name": "Anders Johnson",
+            "country": "CAN",
+            "time": "34.90",
+            "points": 17
+          },
+          {
+            "rank": "5",
+            "name": "Nil Llop Izquierdo",
+            "country": "ESP",
+            "time": "34.93",
+            "points": 16
+          },
+          {
+            "rank": "6",
+            "name": "Cedrick Brunet",
+            "country": "CAN",
+            "time": "34.99",
+            "points": 15
+          },
+          {
+            "rank": "7",
+            "name": "Kacper Abratkiewicz",
+            "country": "POL",
+            "time": "34.99",
+            "points": 14
+          },
+          {
+            "rank": "8",
+            "name": "Sanghyeok Cho",
+            "country": "KOR",
+            "time": "35.00",
+            "points": 13
+          },
+          {
+            "rank": "9",
+            "name": "Haonan Du",
+            "country": "CHN",
+            "time": "35.03",
+            "points": 12
+          },
+          {
+            "rank": "10",
+            "name": "Christopher Fiola",
+            "country": "CAN",
+            "time": "35.04",
+            "points": 11
+          },
+          {
+            "rank": "11",
+            "name": "Conor Mcdermott Mostowy",
+            "country": "USA",
+            "time": "35.13",
+            "points": 10
+          },
+          {
+            "rank": "12",
+            "name": "Zach Stoppelmoor",
+            "country": "USA",
+            "time": "35.16",
+            "points": 9
+          },
+          {
+            "rank": "13",
+            "name": "Artur Galiyev",
+            "country": "KAZ",
+            "time": "35.21",
+            "points": 8
+          },
+          {
+            "rank": "14",
+            "name": "Jeffrey Rosanelli",
+            "country": "ITA",
+            "time": "35.21",
+            "points": 7
+          },
+          {
+            "rank": "15",
+            "name": "Jae Woong Chung",
+            "country": "KOR",
+            "time": "35.25",
+            "points": 6
+          },
+          {
+            "rank": "16",
+            "name": "Henrik Fagerli Rukke",
+            "country": "NOR",
+            "time": "35.27",
+            "points": 5
+          },
+          {
+            "rank": "17",
+            "name": "Piotr Michalski",
+            "country": "POL",
+            "time": "35.29",
+            "points": 4
+          },
+          {
+            "rank": "18",
+            "name": "Yuma Murakami",
+            "country": "JPN",
+            "time": "35.32",
+            "points": 3
+          },
+          {
+            "rank": "19",
+            "name": "Siver Brattgjerd",
+            "country": "NOR",
+            "time": "35.44",
+            "points": 2
+          },
+          {
+            "rank": "20",
+            "name": "Altaj Zhardembekuly",
+            "country": "KAZ",
+            "time": "35.48",
+            "points": 1
+          },
+          {
+            "rank": "21",
+            "name": "Daniel Milagros",
+            "country": "ESP",
+            "time": "35.50",
+            "points": 0
+          },
+          {
+            "rank": "22",
+            "name": "Wei Lin Tai",
+            "country": "TPE",
+            "time": "35.62",
+            "points": 0
+          },
+          {
+            "rank": "23",
+            "name": "Maximilian Strübe",
+            "country": "GER",
+            "time": "35.63",
+            "points": 0
+          },
+          {
+            "rank": "24",
+            "name": "Cristian Landr Ø Magnussen",
+            "country": "NOR",
+            "time": "35.71",
+            "points": 0
+          },
+          {
+            "rank": "25",
+            "name": "Sebastian Forsmark",
+            "country": "SWE",
+            "time": "36.05",
+            "points": 0
+          },
+          {
+            "rank": "26",
+            "name": "Gabriel Eduard Nitu",
+            "country": "ROU",
+            "time": "36.10",
+            "points": 0
+          },
+          {
+            "rank": "27",
+            "name": "Tuukka Suomalainen",
+            "country": "FIN",
+            "time": "36.37",
+            "points": 0
+          },
+          {
+            "rank": "28",
+            "name": "Kai In 'T Veld",
+            "country": "GRE",
+            "time": "36.38",
+            "points": 0
+          },
+          {
+            "rank": "29",
+            "name": "Hendrik Dombek",
+            "country": "GER",
+            "time": "36.41",
+            "points": 0
+          },
+          {
+            "rank": "30",
+            "name": "Oliver Grob",
+            "country": "SUI",
+            "time": "36.45",
+            "points": 0
+          },
+          {
+            "rank": "31",
+            "name": "Joonas Valge",
+            "country": "EST",
+            "time": "36.53",
+            "points": 0
+          },
+          {
+            "rank": "32",
+            "name": "Robbe Beelen",
+            "country": "BEL",
+            "time": "36.63",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "eventNumber": "3",
+        "eventLocation": "Thialf - Heerenveen (Ned)",
+        "eventDate": "Dec 2025",
         "distance": "5000m",
         "gender": "women",
         "division": "B",
@@ -12717,6 +13182,65 @@
           ]
         },
         {
+          "name": "Yuuta Hirose",
+          "country": "JPN",
+          "totalPoints": 131,
+          "bestTime": "34.24",
+          "bestPlace": 1,
+          "races": [
+            {
+              "rank": "11",
+              "name": "Yuuta Hirose",
+              "country": "JPN",
+              "time": "34.24",
+              "points": 30,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "19",
+              "name": "Yuuta Hirose",
+              "country": "JPN",
+              "time": "1:01.17",
+              "points": 22,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "12",
+              "name": "Yuuta Hirose",
+              "country": "JPN",
+              "time": "34.34",
+              "points": 29,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "19",
+              "name": "Yuuta Hirose",
+              "country": "JPN",
+              "time": "34.53",
+              "points": 22,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "1",
+              "name": "Yuuta Hirose",
+              "country": "JPN",
+              "time": "34.56",
+              "points": 28,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Cooper Mcleod",
           "country": "USA",
           "totalPoints": 128,
@@ -12962,6 +13486,65 @@
           ]
         },
         {
+          "name": "Cedrick Brunet",
+          "country": "CAN",
+          "totalPoints": 121,
+          "bestTime": "34.06",
+          "bestPlace": 6,
+          "races": [
+            {
+              "rank": "13",
+              "name": "Cedrick Brunet",
+              "country": "CAN",
+              "time": "34.37",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "12",
+              "name": "Cedrick Brunet",
+              "country": "CAN",
+              "time": "34.06",
+              "points": 29,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "16",
+              "name": "Cedrick Brunet",
+              "country": "CAN",
+              "time": "34.63",
+              "points": 25,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "17",
+              "name": "Cedrick Brunet",
+              "country": "CAN",
+              "time": "34.47",
+              "points": 24,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "6",
+              "name": "Cedrick Brunet",
+              "country": "CAN",
+              "time": "34.99",
+              "points": 15,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Marten Liiv",
           "country": "EST",
           "totalPoints": 120,
@@ -13158,104 +13741,6 @@
           ]
         },
         {
-          "name": "Cedrick Brunet",
-          "country": "CAN",
-          "totalPoints": 106,
-          "bestTime": "34.06",
-          "bestPlace": 12,
-          "races": [
-            {
-              "rank": "13",
-              "name": "Cedrick Brunet",
-              "country": "CAN",
-              "time": "34.37",
-              "points": 28,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "12",
-              "name": "Cedrick Brunet",
-              "country": "CAN",
-              "time": "34.06",
-              "points": 29,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "16",
-              "name": "Cedrick Brunet",
-              "country": "CAN",
-              "time": "34.63",
-              "points": 25,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "17",
-              "name": "Cedrick Brunet",
-              "country": "CAN",
-              "time": "34.47",
-              "points": 24,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Yuuta Hirose",
-          "country": "JPN",
-          "totalPoints": 103,
-          "bestTime": "34.24",
-          "bestPlace": 11,
-          "races": [
-            {
-              "rank": "11",
-              "name": "Yuuta Hirose",
-              "country": "JPN",
-              "time": "34.24",
-              "points": 30,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "19",
-              "name": "Yuuta Hirose",
-              "country": "JPN",
-              "time": "1:01.17",
-              "points": 22,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "12",
-              "name": "Yuuta Hirose",
-              "country": "JPN",
-              "time": "34.34",
-              "points": 29,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "19",
-              "name": "Yuuta Hirose",
-              "country": "JPN",
-              "time": "34.53",
-              "points": 22,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Bjørn Magnussen",
           "country": "NOR",
           "totalPoints": 98,
@@ -13289,6 +13774,183 @@
               "time": "34.39",
               "points": 26,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Yuma Murakami",
+          "country": "JPN",
+          "totalPoints": 84,
+          "bestTime": "34.30",
+          "bestPlace": 1,
+          "races": [
+            {
+              "rank": "5",
+              "name": "Yuma Murakami",
+              "country": "JPN",
+              "time": "34.34",
+              "points": 16,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "1",
+              "name": "Yuma Murakami",
+              "country": "JPN",
+              "time": "34.30",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "18",
+              "name": "Yuma Murakami",
+              "country": "JPN",
+              "time": "34.70",
+              "points": 23,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "7",
+              "name": "Yuma Murakami",
+              "country": "JPN",
+              "time": "34.53",
+              "points": 14,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "18",
+              "name": "Yuma Murakami",
+              "country": "JPN",
+              "time": "35.32",
+              "points": 3,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Nil Llop Izquierdo",
+          "country": "ESP",
+          "totalPoints": 84,
+          "bestTime": "34.35",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "9",
+              "name": "Nil Llop Izquierdo",
+              "country": "ESP",
+              "time": "34.54",
+              "points": 12,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "11",
+              "name": "Nil Llop Izquierdo",
+              "country": "ESP",
+              "time": "34.50",
+              "points": 10,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "3",
+              "name": "Nil Llop Izquierdo",
+              "country": "ESP",
+              "time": "34.35",
+              "points": 21,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "16",
+              "name": "Nil Llop Izquierdo",
+              "country": "ESP",
+              "time": "34.46",
+              "points": 25,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "5",
+              "name": "Nil Llop Izquierdo",
+              "country": "ESP",
+              "time": "34.93",
+              "points": 16,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Christopher Fiola",
+          "country": "CAN",
+          "totalPoints": 83,
+          "bestTime": "34.31",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "6",
+              "name": "Christopher Fiola",
+              "country": "CAN",
+              "time": "34.40",
+              "points": 15,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "3",
+              "name": "Christopher Fiola",
+              "country": "CAN",
+              "time": "34.31",
+              "points": 21,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "14",
+              "name": "Christopher Fiola",
+              "country": "CAN",
+              "time": "34.53",
+              "points": 27,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "12",
+              "name": "Christopher Fiola",
+              "country": "CAN",
+              "time": "34.60",
+              "points": 9,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "10",
+              "name": "Christopher Fiola",
+              "country": "CAN",
+              "time": "35.04",
+              "points": 11,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13334,98 +13996,59 @@
           ]
         },
         {
-          "name": "Yuma Murakami",
-          "country": "JPN",
-          "totalPoints": 81,
-          "bestTime": "34.30",
-          "bestPlace": 1,
+          "name": "Haonan Du",
+          "country": "CHN",
+          "totalPoints": 76,
+          "bestTime": "34.37",
+          "bestPlace": 4,
           "races": [
             {
+              "rank": "7",
+              "name": "Haonan Du",
+              "country": "CHN",
+              "time": "34.42",
+              "points": 14,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
               "rank": "5",
-              "name": "Yuma Murakami",
-              "country": "JPN",
-              "time": "34.34",
+              "name": "Haonan Du",
+              "country": "CHN",
+              "time": "34.37",
               "points": 16,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "1",
-              "name": "Yuma Murakami",
-              "country": "JPN",
-              "time": "34.30",
-              "points": 28,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "18",
-              "name": "Yuma Murakami",
-              "country": "JPN",
-              "time": "34.70",
-              "points": 23,
+              "rank": "4",
+              "name": "Haonan Du",
+              "country": "CHN",
+              "time": "34.41",
+              "points": 17,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "7",
-              "name": "Yuma Murakami",
-              "country": "JPN",
-              "time": "34.53",
-              "points": 14,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Christopher Fiola",
-          "country": "CAN",
-          "totalPoints": 72,
-          "bestTime": "34.31",
-          "bestPlace": 3,
-          "races": [
-            {
-              "rank": "6",
-              "name": "Christopher Fiola",
-              "country": "CAN",
-              "time": "34.40",
-              "points": 15,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "3",
-              "name": "Christopher Fiola",
-              "country": "CAN",
-              "time": "34.31",
-              "points": 21,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "14",
-              "name": "Christopher Fiola",
-              "country": "CAN",
-              "time": "34.53",
-              "points": 27,
+              "rank": "4",
+              "name": "Haonan Du",
+              "country": "CHN",
+              "time": "34.42",
+              "points": 17,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "12",
-              "name": "Christopher Fiola",
-              "country": "CAN",
-              "time": "34.60",
-              "points": 9,
-              "eventId": "WC2",
+              "rank": "9",
+              "name": "Haonan Du",
+              "country": "CHN",
+              "time": "35.03",
+              "points": 12,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13475,6 +14098,65 @@
               "time": "34.13",
               "points": 38,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Piotr Michalski",
+          "country": "POL",
+          "totalPoints": 71,
+          "bestTime": "34.46",
+          "bestPlace": 11,
+          "races": [
+            {
+              "rank": "17",
+              "name": "Piotr Michalski",
+              "country": "POL",
+              "time": "34.46",
+              "points": 24,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "18",
+              "name": "Piotr Michalski",
+              "country": "POL",
+              "time": "34.54",
+              "points": 23,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "11",
+              "name": "Piotr Michalski",
+              "country": "POL",
+              "time": "34.63",
+              "points": 10,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "11",
+              "name": "Piotr Michalski",
+              "country": "POL",
+              "time": "34.60",
+              "points": 10,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "17",
+              "name": "Piotr Michalski",
+              "country": "POL",
+              "time": "35.29",
+              "points": 4,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13569,115 +14251,27 @@
           ]
         },
         {
-          "name": "Nil Llop Izquierdo",
-          "country": "ESP",
-          "totalPoints": 68,
-          "bestTime": "34.35",
-          "bestPlace": 3,
-          "races": [
-            {
-              "rank": "9",
-              "name": "Nil Llop Izquierdo",
-              "country": "ESP",
-              "time": "34.54",
-              "points": 12,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "11",
-              "name": "Nil Llop Izquierdo",
-              "country": "ESP",
-              "time": "34.50",
-              "points": 10,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "3",
-              "name": "Nil Llop Izquierdo",
-              "country": "ESP",
-              "time": "34.35",
-              "points": 21,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "16",
-              "name": "Nil Llop Izquierdo",
-              "country": "ESP",
-              "time": "34.46",
-              "points": 25,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Piotr Michalski",
-          "country": "POL",
+          "name": "Anders Johnson",
+          "country": "CAN",
           "totalPoints": 67,
-          "bestTime": "34.46",
-          "bestPlace": 11,
-          "races": [
-            {
-              "rank": "17",
-              "name": "Piotr Michalski",
-              "country": "POL",
-              "time": "34.46",
-              "points": 24,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "18",
-              "name": "Piotr Michalski",
-              "country": "POL",
-              "time": "34.54",
-              "points": 23,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "11",
-              "name": "Piotr Michalski",
-              "country": "POL",
-              "time": "34.63",
-              "points": 10,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "11",
-              "name": "Piotr Michalski",
-              "country": "POL",
-              "time": "34.60",
-              "points": 10,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Haonan Du",
-          "country": "CHN",
-          "totalPoints": 64,
-          "bestTime": "34.37",
+          "bestTime": "34.40",
           "bestPlace": 4,
           "races": [
             {
+              "rank": "12",
+              "name": "Anders Johnson",
+              "country": "CAN",
+              "time": "34.63",
+              "points": 9,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
               "rank": "7",
-              "name": "Haonan Du",
-              "country": "CHN",
-              "time": "34.42",
+              "name": "Anders Johnson",
+              "country": "CAN",
+              "time": "34.40",
               "points": 14,
               "eventId": "WC1",
               "distance": "500m",
@@ -13685,31 +14279,90 @@
             },
             {
               "rank": "5",
-              "name": "Haonan Du",
-              "country": "CHN",
-              "time": "34.37",
+              "name": "Anders Johnson",
+              "country": "CAN",
+              "time": "34.46",
               "points": 16,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "10",
+              "name": "Anders Johnson",
+              "country": "CAN",
+              "time": "34.58",
+              "points": 11,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "4",
+              "name": "Anders Johnson",
+              "country": "CAN",
+              "time": "34.90",
+              "points": 17,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Merijn Scheperkamp",
+          "country": "NED",
+          "totalPoints": 62,
+          "bestTime": "34.44",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "8",
+              "name": "Merijn Scheperkamp",
+              "country": "NED",
+              "time": "34.44",
+              "points": 13,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "4",
-              "name": "Haonan Du",
-              "country": "CHN",
-              "time": "34.41",
-              "points": 17,
+              "rank": "9",
+              "name": "Merijn Scheperkamp",
+              "country": "NED",
+              "time": "34.47",
+              "points": 12,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "18",
+              "name": "Merijn Scheperkamp",
+              "country": "NED",
+              "time": "34.85",
+              "points": 3,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "4",
-              "name": "Haonan Du",
-              "country": "CHN",
-              "time": "34.42",
-              "points": 17,
+              "rank": "8",
+              "name": "Merijn Scheperkamp",
+              "country": "NED",
+              "time": "34.55",
+              "points": 13,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "3",
+              "name": "Merijn Scheperkamp",
+              "country": "NED",
+              "time": "34.89",
+              "points": 21,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13718,7 +14371,7 @@
         {
           "name": "Zach Stoppelmoor",
           "country": "USA",
-          "totalPoints": 52,
+          "totalPoints": 61,
           "bestTime": "34.37",
           "bestPlace": 4,
           "races": [
@@ -13761,102 +14414,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Jae Woong Chung",
-          "country": "KOR",
-          "totalPoints": 51,
-          "bestTime": "34.30",
-          "bestPlace": 4,
-          "races": [
-            {
-              "rank": "4",
-              "name": "Jae Woong Chung",
-              "country": "KOR",
-              "time": "34.30",
-              "points": 17,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
             },
-            {
-              "rank": "6",
-              "name": "Jae Woong Chung",
-              "country": "KOR",
-              "time": "34.39",
-              "points": 15,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "7",
-              "name": "Jae Woong Chung",
-              "country": "KOR",
-              "time": "34.52",
-              "points": 14,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "16",
-              "name": "Jae Woong Chung",
-              "country": "KOR",
-              "time": "34.86",
-              "points": 5,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Anders Johnson",
-          "country": "CAN",
-          "totalPoints": 50,
-          "bestTime": "34.40",
-          "bestPlace": 5,
-          "races": [
             {
               "rank": "12",
-              "name": "Anders Johnson",
-              "country": "CAN",
-              "time": "34.63",
+              "name": "Zach Stoppelmoor",
+              "country": "USA",
+              "time": "35.16",
               "points": 9,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "7",
-              "name": "Anders Johnson",
-              "country": "CAN",
-              "time": "34.40",
-              "points": 14,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "5",
-              "name": "Anders Johnson",
-              "country": "CAN",
-              "time": "34.46",
-              "points": 16,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "10",
-              "name": "Anders Johnson",
-              "country": "CAN",
-              "time": "34.58",
-              "points": 11,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13865,7 +14430,7 @@
         {
           "name": "Sanghyeok Cho",
           "country": "KOR",
-          "totalPoints": 48,
+          "totalPoints": 61,
           "bestTime": "34.53",
           "bestPlace": 6,
           "races": [
@@ -13908,82 +14473,132 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Merijn Scheperkamp",
-          "country": "NED",
-          "totalPoints": 41,
-          "bestTime": "34.44",
-          "bestPlace": 8,
-          "races": [
-            {
-              "rank": "8",
-              "name": "Merijn Scheperkamp",
-              "country": "NED",
-              "time": "34.44",
-              "points": 13,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "9",
-              "name": "Merijn Scheperkamp",
-              "country": "NED",
-              "time": "34.47",
-              "points": 12,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "18",
-              "name": "Merijn Scheperkamp",
-              "country": "NED",
-              "time": "34.85",
-              "points": 3,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
             },
             {
               "rank": "8",
-              "name": "Merijn Scheperkamp",
-              "country": "NED",
-              "time": "34.55",
+              "name": "Sanghyeok Cho",
+              "country": "KOR",
+              "time": "35.00",
               "points": 13,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
           ]
         },
         {
-          "name": "Yankun Zhao",
-          "country": "CAN",
-          "totalPoints": 27,
-          "bestTime": "34.44",
-          "bestPlace": 5,
+          "name": "Jae Woong Chung",
+          "country": "KOR",
+          "totalPoints": 57,
+          "bestTime": "34.30",
+          "bestPlace": 4,
           "races": [
             {
-              "rank": "10",
-              "name": "Yankun Zhao",
-              "country": "CAN",
-              "time": "34.62",
-              "points": 11,
+              "rank": "4",
+              "name": "Jae Woong Chung",
+              "country": "KOR",
+              "time": "34.30",
+              "points": 17,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "6",
+              "name": "Jae Woong Chung",
+              "country": "KOR",
+              "time": "34.39",
+              "points": 15,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "7",
+              "name": "Jae Woong Chung",
+              "country": "KOR",
+              "time": "34.52",
+              "points": 14,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "5",
-              "name": "Yankun Zhao",
-              "country": "CAN",
-              "time": "34.44",
-              "points": 16,
+              "rank": "16",
+              "name": "Jae Woong Chung",
+              "country": "KOR",
+              "time": "34.86",
+              "points": 5,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Jae Woong Chung",
+              "country": "KOR",
+              "time": "35.25",
+              "points": 6,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Ze Liu",
+          "country": "CHN",
+          "totalPoints": 48,
+          "bestTime": "34.66",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "13",
+              "name": "Ze Liu",
+              "country": "CHN",
+              "time": "34.66",
+              "points": 8,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Ze Liu",
+              "country": "CHN",
+              "time": "34.70",
+              "points": 6,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "12",
+              "name": "Ze Liu",
+              "country": "CHN",
+              "time": "34.67",
+              "points": 9,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "20",
+              "name": "Ze Liu",
+              "country": "CHN",
+              "time": "35.12",
+              "points": 1,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "2",
+              "name": "Ze Liu",
+              "country": "CHN",
+              "time": "34.83",
+              "points": 24,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -13992,7 +14607,7 @@
         {
           "name": "Jeffrey Rosanelli",
           "country": "ITA",
-          "totalPoints": 27,
+          "totalPoints": 34,
           "bestTime": "34.63",
           "bestPlace": 14,
           "races": [
@@ -14035,52 +14650,42 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
+            },
+            {
+              "rank": "14",
+              "name": "Jeffrey Rosanelli",
+              "country": "ITA",
+              "time": "35.21",
+              "points": 7,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
             }
           ]
         },
         {
-          "name": "Ze Liu",
-          "country": "CHN",
-          "totalPoints": 24,
-          "bestTime": "34.66",
-          "bestPlace": 12,
+          "name": "Yankun Zhao",
+          "country": "CAN",
+          "totalPoints": 27,
+          "bestTime": "34.44",
+          "bestPlace": 5,
           "races": [
             {
-              "rank": "13",
-              "name": "Ze Liu",
-              "country": "CHN",
-              "time": "34.66",
-              "points": 8,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "15",
-              "name": "Ze Liu",
-              "country": "CHN",
-              "time": "34.70",
-              "points": 6,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "12",
-              "name": "Ze Liu",
-              "country": "CHN",
-              "time": "34.67",
-              "points": 9,
+              "rank": "10",
+              "name": "Yankun Zhao",
+              "country": "CAN",
+              "time": "34.62",
+              "points": 11,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "20",
-              "name": "Ze Liu",
-              "country": "CHN",
-              "time": "35.12",
-              "points": 1,
+              "rank": "5",
+              "name": "Yankun Zhao",
+              "country": "CAN",
+              "time": "34.44",
+              "points": 16,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
@@ -14090,7 +14695,7 @@
         {
           "name": "Siver Brattgjerd",
           "country": "NOR",
-          "totalPoints": 23,
+          "totalPoints": 25,
           "bestTime": "34.49",
           "bestPlace": 10,
           "races": [
@@ -14133,6 +14738,75 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
+            },
+            {
+              "rank": "19",
+              "name": "Siver Brattgjerd",
+              "country": "NOR",
+              "time": "35.44",
+              "points": 2,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Conor Mcdermott Mostowy",
+          "country": "USA",
+          "totalPoints": 24,
+          "bestTime": "34.68",
+          "bestPlace": 11,
+          "races": [
+            {
+              "rank": "16",
+              "name": "Conor Mcdermott Mostowy",
+              "country": "USA",
+              "time": "34.81",
+              "points": 5,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "13",
+              "name": "Conor Mcdermott Mostowy",
+              "country": "USA",
+              "time": "34.68",
+              "points": 8,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "22",
+              "name": "Conor Mcdermott Mostowy",
+              "country": "USA",
+              "time": "35.05",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "20",
+              "name": "Conor Mcdermott Mostowy",
+              "country": "USA",
+              "time": "35.12",
+              "points": 1,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "11",
+              "name": "Conor Mcdermott Mostowy",
+              "country": "USA",
+              "time": "35.13",
+              "points": 10,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
             }
           ]
         },
@@ -14150,6 +14824,124 @@
               "time": "54.01",
               "points": 22,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Kacper Abratkiewicz",
+          "country": "POL",
+          "totalPoints": 21,
+          "bestTime": "34.80",
+          "bestPlace": 7,
+          "races": [
+            {
+              "rank": "18",
+              "name": "Kacper Abratkiewicz",
+              "country": "POL",
+              "time": "34.93",
+              "points": 3,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "23",
+              "name": "Kacper Abratkiewicz",
+              "country": "POL",
+              "time": "35.10",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "17",
+              "name": "Kacper Abratkiewicz",
+              "country": "POL",
+              "time": "34.80",
+              "points": 4,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "24",
+              "name": "Kacper Abratkiewicz",
+              "country": "POL",
+              "time": "35.25",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "7",
+              "name": "Kacper Abratkiewicz",
+              "country": "POL",
+              "time": "34.99",
+              "points": 14,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Artur Galiyev",
+          "country": "KAZ",
+          "totalPoints": 21,
+          "bestTime": "34.62",
+          "bestPlace": 13,
+          "races": [
+            {
+              "rank": "20",
+              "name": "Artur Galiyev",
+              "country": "KAZ",
+              "time": "34.95",
+              "points": 1,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "17",
+              "name": "Artur Galiyev",
+              "country": "KAZ",
+              "time": "34.84",
+              "points": 4,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "21",
+              "name": "Artur Galiyev",
+              "country": "KAZ",
+              "time": "34.91",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "13",
+              "name": "Artur Galiyev",
+              "country": "KAZ",
+              "time": "34.62",
+              "points": 8,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "13",
+              "name": "Artur Galiyev",
+              "country": "KAZ",
+              "time": "35.21",
+              "points": 8,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14175,48 +14967,9 @@
           ]
         },
         {
-          "name": "Altaj Zhardembekuly",
-          "country": "KAZ",
-          "totalPoints": 15,
-          "bestTime": "34.58",
-          "bestPlace": 9,
-          "races": [
-            {
-              "rank": "21",
-              "name": "Altaj Zhardembekuly",
-              "country": "KAZ",
-              "time": "35.00",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "18",
-              "name": "Altaj Zhardembekuly",
-              "country": "KAZ",
-              "time": "34.91",
-              "points": 3,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "9",
-              "name": "Altaj Zhardembekuly",
-              "country": "KAZ",
-              "time": "34.58",
-              "points": 12,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Henrik Fagerli Rukke",
           "country": "NOR",
-          "totalPoints": 14,
+          "totalPoints": 19,
           "bestTime": "34.55",
           "bestPlace": 9,
           "races": [
@@ -14259,102 +15012,63 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Conor Mcdermott Mostowy",
-          "country": "USA",
-          "totalPoints": 14,
-          "bestTime": "34.68",
-          "bestPlace": 13,
-          "races": [
+            },
             {
               "rank": "16",
-              "name": "Conor Mcdermott Mostowy",
-              "country": "USA",
-              "time": "34.81",
+              "name": "Henrik Fagerli Rukke",
+              "country": "NOR",
+              "time": "35.27",
               "points": 5,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "13",
-              "name": "Conor Mcdermott Mostowy",
-              "country": "USA",
-              "time": "34.68",
-              "points": 8,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "22",
-              "name": "Conor Mcdermott Mostowy",
-              "country": "USA",
-              "time": "35.05",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "20",
-              "name": "Conor Mcdermott Mostowy",
-              "country": "USA",
-              "time": "35.12",
-              "points": 1,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
           ]
         },
         {
-          "name": "Artur Galiyev",
+          "name": "Altaj Zhardembekuly",
           "country": "KAZ",
-          "totalPoints": 13,
-          "bestTime": "34.62",
-          "bestPlace": 13,
+          "totalPoints": 16,
+          "bestTime": "34.58",
+          "bestPlace": 9,
           "races": [
             {
-              "rank": "20",
-              "name": "Artur Galiyev",
-              "country": "KAZ",
-              "time": "34.95",
-              "points": 1,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "17",
-              "name": "Artur Galiyev",
-              "country": "KAZ",
-              "time": "34.84",
-              "points": 4,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
               "rank": "21",
-              "name": "Artur Galiyev",
+              "name": "Altaj Zhardembekuly",
+              "country": "KAZ",
+              "time": "35.00",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "18",
+              "name": "Altaj Zhardembekuly",
               "country": "KAZ",
               "time": "34.91",
-              "points": 0,
+              "points": 3,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "9",
+              "name": "Altaj Zhardembekuly",
+              "country": "KAZ",
+              "time": "34.58",
+              "points": 12,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             },
             {
-              "rank": "13",
-              "name": "Artur Galiyev",
+              "rank": "20",
+              "name": "Altaj Zhardembekuly",
               "country": "KAZ",
-              "time": "34.62",
-              "points": 8,
-              "eventId": "WC2",
+              "time": "35.48",
+              "points": 1,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14429,55 +15143,6 @@
           ]
         },
         {
-          "name": "Kacper Abratkiewicz",
-          "country": "POL",
-          "totalPoints": 7,
-          "bestTime": "34.80",
-          "bestPlace": 17,
-          "races": [
-            {
-              "rank": "18",
-              "name": "Kacper Abratkiewicz",
-              "country": "POL",
-              "time": "34.93",
-              "points": 3,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "23",
-              "name": "Kacper Abratkiewicz",
-              "country": "POL",
-              "time": "35.10",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "17",
-              "name": "Kacper Abratkiewicz",
-              "country": "POL",
-              "time": "34.80",
-              "points": 4,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "24",
-              "name": "Kacper Abratkiewicz",
-              "country": "POL",
-              "time": "35.25",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Wei Lin Tai",
           "country": "TPE",
           "totalPoints": 4,
@@ -14521,6 +15186,16 @@
               "time": "35.05",
               "points": 3,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "22",
+              "name": "Wei Lin Tai",
+              "country": "TPE",
+              "time": "35.62",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14570,6 +15245,16 @@
               "time": "35.07",
               "points": 2,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "23",
+              "name": "Maximilian Strübe",
+              "country": "GER",
+              "time": "35.63",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14625,30 +15310,11 @@
           ]
         },
         {
-          "name": "Cristian Landrø Magnussen",
-          "country": "NOR",
-          "totalPoints": 0,
-          "bestTime": "35.12",
-          "bestPlace": 22,
-          "races": [
-            {
-              "rank": "22",
-              "name": "Cristian Landrø Magnussen",
-              "country": "NOR",
-              "time": "35.12",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Daniel Milagros",
           "country": "ESP",
           "totalPoints": 0,
           "bestTime": "35.09",
-          "bestPlace": 23,
+          "bestPlace": 21,
           "races": [
             {
               "rank": "27",
@@ -14675,6 +15341,35 @@
               "name": "Daniel Milagros",
               "country": "ESP",
               "time": "35.09",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "21",
+              "name": "Daniel Milagros",
+              "country": "ESP",
+              "time": "35.50",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Cristian Landrø Magnussen",
+          "country": "NOR",
+          "totalPoints": 0,
+          "bestTime": "35.12",
+          "bestPlace": 22,
+          "races": [
+            {
+              "rank": "22",
+              "name": "Cristian Landrø Magnussen",
+              "country": "NOR",
+              "time": "35.12",
               "points": 0,
               "eventId": "WC2",
               "distance": "500m",
@@ -14765,7 +15460,7 @@
           "country": "NOR",
           "totalPoints": 0,
           "bestTime": "35.20",
-          "bestPlace": 27,
+          "bestPlace": 24,
           "races": [
             {
               "rank": "29",
@@ -14794,6 +15489,134 @@
               "time": "35.49",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "24",
+              "name": "Cristian Landr Ø Magnussen",
+              "country": "NOR",
+              "time": "35.71",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Sebastian Forsmark",
+          "country": "SWE",
+          "totalPoints": 0,
+          "bestTime": "35.50",
+          "bestPlace": 25,
+          "races": [
+            {
+              "rank": "31",
+              "name": "Sebastian Forsmark",
+              "country": "SWE",
+              "time": "35.65",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "33",
+              "name": "Sebastian Forsmark",
+              "country": "SWE",
+              "time": "35.50",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "30",
+              "name": "Sebastian Forsmark",
+              "country": "SWE",
+              "time": "35.66",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "29",
+              "name": "Sebastian Forsmark",
+              "country": "SWE",
+              "time": "35.50",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "25",
+              "name": "Sebastian Forsmark",
+              "country": "SWE",
+              "time": "36.05",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Gabriel Eduard Nitu",
+          "country": "ROU",
+          "totalPoints": 0,
+          "bestTime": "35.35",
+          "bestPlace": 26,
+          "races": [
+            {
+              "rank": "28",
+              "name": "Gabriel Eduard Nitu",
+              "country": "ROU",
+              "time": "35.47",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "30",
+              "name": "Gabriel Eduard Nitu",
+              "country": "ROU",
+              "time": "35.35",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "28",
+              "name": "Gabriel Eduard Nitu",
+              "country": "ROU",
+              "time": "35.45",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "33",
+              "name": "Gabriel Eduard Nitu",
+              "country": "ROU",
+              "time": "36.37",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "26",
+              "name": "Gabriel Eduard Nitu",
+              "country": "ROU",
+              "time": "36.10",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14845,72 +15668,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Gabriel Eduard Nitu",
-          "country": "ROU",
-          "totalPoints": 0,
-          "bestTime": "35.35",
-          "bestPlace": 28,
-          "races": [
-            {
-              "rank": "28",
-              "name": "Gabriel Eduard Nitu",
-              "country": "ROU",
-              "time": "35.47",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
             },
             {
               "rank": "30",
-              "name": "Gabriel Eduard Nitu",
-              "country": "ROU",
-              "time": "35.35",
+              "name": "Oliver Grob",
+              "country": "SUI",
+              "time": "36.45",
               "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "28",
-              "name": "Gabriel Eduard Nitu",
-              "country": "ROU",
-              "time": "35.45",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "33",
-              "name": "Gabriel Eduard Nitu",
-              "country": "ROU",
-              "time": "36.37",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Mathias Vosté",
-          "country": "BEL",
-          "totalPoints": 0,
-          "bestTime": "35.42",
-          "bestPlace": 28,
-          "races": [
-            {
-              "rank": "28",
-              "name": "Mathias Vosté",
-              "country": "BEL",
-              "time": "35.42",
-              "points": 0,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -14921,7 +15686,7 @@
           "country": "FIN",
           "totalPoints": 0,
           "bestTime": "35.31",
-          "bestPlace": 29,
+          "bestPlace": 27,
           "races": [
             {
               "rank": "32",
@@ -14952,53 +15717,71 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
+            },
+            {
+              "rank": "27",
+              "name": "Tuukka Suomalainen",
+              "country": "FIN",
+              "time": "36.37",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
             }
           ]
         },
         {
-          "name": "Sebastian Forsmark",
-          "country": "SWE",
+          "name": "Mathias Vosté",
+          "country": "BEL",
           "totalPoints": 0,
-          "bestTime": "35.50",
+          "bestTime": "35.42",
+          "bestPlace": 28,
+          "races": [
+            {
+              "rank": "28",
+              "name": "Mathias Vosté",
+              "country": "BEL",
+              "time": "35.42",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Kai In 'T Veld",
+          "country": "GRE",
+          "totalPoints": 0,
+          "bestTime": "36.38",
+          "bestPlace": 28,
+          "races": [
+            {
+              "rank": "28",
+              "name": "Kai In 'T Veld",
+              "country": "GRE",
+              "time": "36.38",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Hendrik Dombek",
+          "country": "GER",
+          "totalPoints": 0,
+          "bestTime": "36.41",
           "bestPlace": 29,
           "races": [
             {
-              "rank": "31",
-              "name": "Sebastian Forsmark",
-              "country": "SWE",
-              "time": "35.65",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "33",
-              "name": "Sebastian Forsmark",
-              "country": "SWE",
-              "time": "35.50",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "30",
-              "name": "Sebastian Forsmark",
-              "country": "SWE",
-              "time": "35.66",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
               "rank": "29",
-              "name": "Sebastian Forsmark",
-              "country": "SWE",
-              "time": "35.50",
+              "name": "Hendrik Dombek",
+              "country": "GER",
+              "time": "36.41",
               "points": 0,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -15048,6 +15831,16 @@
               "time": "35.67",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "31",
+              "name": "Joonas Valge",
+              "country": "EST",
+              "time": "36.53",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -15125,6 +15918,16 @@
               "time": "36.25",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "32",
+              "name": "Robbe Beelen",
+              "country": "BEL",
+              "time": "36.63",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
             }
@@ -15275,7 +16078,7 @@
           "name": "Cedrick Brunet",
           "country": "CAN",
           "bestTime": "34.06",
-          "totalPoints": 106
+          "totalPoints": 121
         },
         {
           "name": "Kyung Min Koo",
@@ -15317,25 +16120,25 @@
           "name": "Yuuta Hirose",
           "country": "JPN",
           "bestTime": "34.24",
-          "totalPoints": 103
+          "totalPoints": 131
         },
         {
           "name": "Yuma Murakami",
           "country": "JPN",
           "bestTime": "34.30",
-          "totalPoints": 81
+          "totalPoints": 84
         },
         {
           "name": "Jae Woong Chung",
           "country": "KOR",
           "bestTime": "34.30",
-          "totalPoints": 51
+          "totalPoints": 57
         },
         {
           "name": "Christopher Fiola",
           "country": "CAN",
           "bestTime": "34.31",
-          "totalPoints": 72
+          "totalPoints": 83
         },
         {
           "name": "Joep Wennemars",
@@ -15347,19 +16150,19 @@
           "name": "Nil Llop Izquierdo",
           "country": "ESP",
           "bestTime": "34.35",
-          "totalPoints": 68
+          "totalPoints": 84
         },
         {
           "name": "Haonan Du",
           "country": "CHN",
           "bestTime": "34.37",
-          "totalPoints": 64
+          "totalPoints": 76
         },
         {
           "name": "Zach Stoppelmoor",
           "country": "USA",
           "bestTime": "34.37",
-          "totalPoints": 52
+          "totalPoints": 61
         },
         {
           "name": "Stefan Westenbroek",
@@ -15371,13 +16174,13 @@
           "name": "Anders Johnson",
           "country": "CAN",
           "bestTime": "34.40",
-          "totalPoints": 50
+          "totalPoints": 67
         },
         {
           "name": "Merijn Scheperkamp",
           "country": "NED",
           "bestTime": "34.44",
-          "totalPoints": 41
+          "totalPoints": 62
         },
         {
           "name": "Yankun Zhao",
@@ -15389,37 +16192,37 @@
           "name": "Piotr Michalski",
           "country": "POL",
           "bestTime": "34.46",
-          "totalPoints": 67
+          "totalPoints": 71
         },
         {
           "name": "Siver Brattgjerd",
           "country": "NOR",
           "bestTime": "34.49",
-          "totalPoints": 23
+          "totalPoints": 25
         },
         {
           "name": "Sanghyeok Cho",
           "country": "KOR",
           "bestTime": "34.53",
-          "totalPoints": 48
+          "totalPoints": 61
         },
         {
           "name": "Henrik Fagerli Rukke",
           "country": "NOR",
           "bestTime": "34.55",
-          "totalPoints": 14
+          "totalPoints": 19
         },
         {
           "name": "Altaj Zhardembekuly",
           "country": "KAZ",
           "bestTime": "34.58",
-          "totalPoints": 15
+          "totalPoints": 16
         },
         {
           "name": "Artur Galiyev",
           "country": "KAZ",
           "bestTime": "34.62",
-          "totalPoints": 13
+          "totalPoints": 21
         },
         {
           "name": "Alec Sklutovsky",
@@ -15431,19 +16234,19 @@
           "name": "Jeffrey Rosanelli",
           "country": "ITA",
           "bestTime": "34.63",
-          "totalPoints": 27
+          "totalPoints": 34
         },
         {
           "name": "Ze Liu",
           "country": "CHN",
           "bestTime": "34.66",
-          "totalPoints": 24
+          "totalPoints": 48
         },
         {
           "name": "Conor Mcdermott Mostowy",
           "country": "USA",
           "bestTime": "34.68",
-          "totalPoints": 14
+          "totalPoints": 24
         },
         {
           "name": "David Bosa",
@@ -15455,7 +16258,7 @@
           "name": "Kacper Abratkiewicz",
           "country": "POL",
           "bestTime": "34.80",
-          "totalPoints": 7
+          "totalPoints": 21
         },
         {
           "name": "Wei Lin Tai",
@@ -15569,6 +16372,18 @@
           "name": "B Á Lint Bödei",
           "country": "HUN",
           "bestTime": "36.13",
+          "totalPoints": 0
+        },
+        {
+          "name": "Kai In 'T Veld",
+          "country": "GRE",
+          "bestTime": "36.38",
+          "totalPoints": 0
+        },
+        {
+          "name": "Hendrik Dombek",
+          "country": "GER",
+          "bestTime": "36.41",
           "totalPoints": 0
         },
         {
@@ -15893,6 +16708,66 @@
             "method": "Points"
           },
           {
+            "name": "Yuuta Hirose",
+            "country": "JPN",
+            "totalPoints": 131,
+            "bestTime": "34.24",
+            "bestPlace": 1,
+            "races": [
+              {
+                "rank": "11",
+                "name": "Yuuta Hirose",
+                "country": "JPN",
+                "time": "34.24",
+                "points": 30,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "19",
+                "name": "Yuuta Hirose",
+                "country": "JPN",
+                "time": "1:01.17",
+                "points": 22,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "12",
+                "name": "Yuuta Hirose",
+                "country": "JPN",
+                "time": "34.34",
+                "points": 29,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "19",
+                "name": "Yuuta Hirose",
+                "country": "JPN",
+                "time": "34.53",
+                "points": 22,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "1",
+                "name": "Yuuta Hirose",
+                "country": "JPN",
+                "time": "34.56",
+                "points": 28,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Cooper Mcleod",
             "country": "USA",
             "totalPoints": 128,
@@ -16143,6 +17018,66 @@
             "method": "Points"
           },
           {
+            "name": "Cedrick Brunet",
+            "country": "CAN",
+            "totalPoints": 121,
+            "bestTime": "34.06",
+            "bestPlace": 6,
+            "races": [
+              {
+                "rank": "13",
+                "name": "Cedrick Brunet",
+                "country": "CAN",
+                "time": "34.37",
+                "points": 28,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "12",
+                "name": "Cedrick Brunet",
+                "country": "CAN",
+                "time": "34.06",
+                "points": 29,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "16",
+                "name": "Cedrick Brunet",
+                "country": "CAN",
+                "time": "34.63",
+                "points": 25,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "17",
+                "name": "Cedrick Brunet",
+                "country": "CAN",
+                "time": "34.47",
+                "points": 24,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "6",
+                "name": "Cedrick Brunet",
+                "country": "CAN",
+                "time": "34.99",
+                "points": 15,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Marten Liiv",
             "country": "EST",
             "totalPoints": 120,
@@ -16343,106 +17278,6 @@
             "method": "Points"
           },
           {
-            "name": "Cedrick Brunet",
-            "country": "CAN",
-            "totalPoints": 106,
-            "bestTime": "34.06",
-            "bestPlace": 12,
-            "races": [
-              {
-                "rank": "13",
-                "name": "Cedrick Brunet",
-                "country": "CAN",
-                "time": "34.37",
-                "points": 28,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "12",
-                "name": "Cedrick Brunet",
-                "country": "CAN",
-                "time": "34.06",
-                "points": 29,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "16",
-                "name": "Cedrick Brunet",
-                "country": "CAN",
-                "time": "34.63",
-                "points": 25,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "17",
-                "name": "Cedrick Brunet",
-                "country": "CAN",
-                "time": "34.47",
-                "points": 24,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Yuuta Hirose",
-            "country": "JPN",
-            "totalPoints": 103,
-            "bestTime": "34.24",
-            "bestPlace": 11,
-            "races": [
-              {
-                "rank": "11",
-                "name": "Yuuta Hirose",
-                "country": "JPN",
-                "time": "34.24",
-                "points": 30,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "19",
-                "name": "Yuuta Hirose",
-                "country": "JPN",
-                "time": "1:01.17",
-                "points": 22,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "12",
-                "name": "Yuuta Hirose",
-                "country": "JPN",
-                "time": "34.34",
-                "points": 29,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "19",
-                "name": "Yuuta Hirose",
-                "country": "JPN",
-                "time": "34.53",
-                "points": 22,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
             "name": "Bjørn Magnussen",
             "country": "NOR",
             "totalPoints": 98,
@@ -16483,39 +17318,119 @@
             "method": "Points"
           },
           {
-            "name": "Tatsuya Shinhama",
+            "name": "Yuma Murakami",
             "country": "JPN",
-            "totalPoints": 81,
-            "bestTime": "34.07",
+            "totalPoints": 84,
+            "bestTime": "34.30",
             "bestPlace": 1,
             "races": [
               {
-                "rank": "14",
-                "name": "Tatsuya Shinhama",
+                "rank": "5",
+                "name": "Yuma Murakami",
                 "country": "JPN",
-                "time": "34.37",
-                "points": 27,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "15",
-                "name": "Tatsuya Shinhama",
-                "country": "JPN",
-                "time": "34.30",
-                "points": 26,
+                "time": "34.34",
+                "points": 16,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "men"
               },
               {
                 "rank": "1",
-                "name": "Tatsuya Shinhama",
+                "name": "Yuma Murakami",
                 "country": "JPN",
-                "time": "34.07",
+                "time": "34.30",
                 "points": 28,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "18",
+                "name": "Yuma Murakami",
+                "country": "JPN",
+                "time": "34.70",
+                "points": 23,
                 "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "7",
+                "name": "Yuma Murakami",
+                "country": "JPN",
+                "time": "34.53",
+                "points": 14,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "18",
+                "name": "Yuma Murakami",
+                "country": "JPN",
+                "time": "35.32",
+                "points": 3,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Nil Llop Izquierdo",
+            "country": "ESP",
+            "totalPoints": 84,
+            "bestTime": "34.35",
+            "bestPlace": 3,
+            "races": [
+              {
+                "rank": "9",
+                "name": "Nil Llop Izquierdo",
+                "country": "ESP",
+                "time": "34.54",
+                "points": 12,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "11",
+                "name": "Nil Llop Izquierdo",
+                "country": "ESP",
+                "time": "34.50",
+                "points": 10,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "3",
+                "name": "Nil Llop Izquierdo",
+                "country": "ESP",
+                "time": "34.35",
+                "points": 21,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "16",
+                "name": "Nil Llop Izquierdo",
+                "country": "ESP",
+                "time": "34.46",
+                "points": 25,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "5",
+                "name": "Nil Llop Izquierdo",
+                "country": "ESP",
+                "time": "34.93",
+                "points": 16,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "men"
               }
@@ -16525,7 +17440,7 @@
           {
             "name": "Christopher Fiola",
             "country": "CAN",
-            "totalPoints": 72,
+            "totalPoints": 83,
             "bestTime": "34.31",
             "bestPlace": 3,
             "races": [
@@ -16568,6 +17483,16 @@
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "men"
+              },
+              {
+                "rank": "10",
+                "name": "Christopher Fiola",
+                "country": "CAN",
+                "time": "35.04",
+                "points": 11,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
               }
             ],
             "method": "Points"
@@ -16575,90 +17500,50 @@
           {
             "name": "Kyung Min Koo",
             "country": "KOR",
-            "totalPoints": 70,
             "bestTime": "34.06",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "6",
-                "name": "Kyung Min Koo",
-                "country": "KOR",
-                "time": "34.06",
-                "points": 38,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "13",
-                "name": "Kyung Min Koo",
-                "country": "KOR",
-                "time": "34.71",
-                "points": 8,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "2",
-                "name": "Kyung Min Koo",
-                "country": "KOR",
-                "time": "34.38",
-                "points": 24,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
+            "totalPoints": 70,
+            "method": "Times"
           },
           {
             "name": "Jae Woong Chung",
             "country": "KOR",
             "bestTime": "34.30",
-            "totalPoints": 51,
-            "method": "Times"
-          },
-          {
-            "name": "Nil Llop Izquierdo",
-            "country": "ESP",
-            "bestTime": "34.35",
-            "totalPoints": 68,
+            "totalPoints": 57,
             "method": "Times"
           },
           {
             "name": "Zach Stoppelmoor",
             "country": "USA",
             "bestTime": "34.37",
-            "totalPoints": 52,
+            "totalPoints": 61,
             "method": "Times"
           },
           {
             "name": "Piotr Michalski",
             "country": "POL",
             "bestTime": "34.46",
-            "totalPoints": 67,
+            "totalPoints": 71,
             "method": "Times"
           },
           {
             "name": "Siver Brattgjerd",
             "country": "NOR",
             "bestTime": "34.49",
-            "totalPoints": 23,
+            "totalPoints": 25,
             "method": "Times"
           },
           {
             "name": "Henrik Fagerli Rukke",
             "country": "NOR",
             "bestTime": "34.55",
-            "totalPoints": 14,
+            "totalPoints": 19,
             "method": "Times"
           },
           {
             "name": "Altaj Zhardembekuly",
             "country": "KAZ",
             "bestTime": "34.58",
-            "totalPoints": 15,
+            "totalPoints": 16,
             "method": "Times"
           }
         ],
@@ -16667,7 +17552,7 @@
             "name": "Jeffrey Rosanelli",
             "country": "ITA",
             "bestTime": "34.63",
-            "totalPoints": 27,
+            "totalPoints": 34,
             "method": "Reserve"
           },
           {
@@ -16709,7 +17594,7 @@
             "name": "Artur Galiyev",
             "country": "KAZ",
             "bestTime": "34.62",
-            "totalPoints": 13,
+            "totalPoints": 21,
             "method": "Reserve"
           },
           {
@@ -17452,6 +18337,65 @@
           ]
         },
         {
+          "name": "Kurumi Inagawa",
+          "country": "JPN",
+          "totalPoints": 104,
+          "bestTime": "37.57",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "18",
+              "name": "Kurumi Inagawa",
+              "country": "JPN",
+              "time": "37.92",
+              "points": 23,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Kurumi Inagawa",
+              "country": "JPN",
+              "time": "37.69",
+              "points": 24,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Kurumi Inagawa",
+              "country": "JPN",
+              "time": "37.57",
+              "points": 26,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Kurumi Inagawa",
+              "country": "JPN",
+              "time": "37.78",
+              "points": 15,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "5",
+              "name": "Kurumi Inagawa",
+              "country": "JPN",
+              "time": "38.51",
+              "points": 16,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Min Sun Kim",
           "country": "KOR",
           "totalPoints": 100,
@@ -17533,55 +18477,6 @@
               "country": "POL",
               "time": "37.39",
               "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Kurumi Inagawa",
-          "country": "JPN",
-          "totalPoints": 88,
-          "bestTime": "37.57",
-          "bestPlace": 2,
-          "races": [
-            {
-              "rank": "18",
-              "name": "Kurumi Inagawa",
-              "country": "JPN",
-              "time": "37.92",
-              "points": 23,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "2",
-              "name": "Kurumi Inagawa",
-              "country": "JPN",
-              "time": "37.69",
-              "points": 24,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "15",
-              "name": "Kurumi Inagawa",
-              "country": "JPN",
-              "time": "37.57",
-              "points": 26,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "6",
-              "name": "Kurumi Inagawa",
-              "country": "JPN",
-              "time": "37.78",
-              "points": 15,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
@@ -17677,6 +18572,124 @@
           ]
         },
         {
+          "name": "Carolina Hiller Donnelly",
+          "country": "CAN",
+          "totalPoints": 86,
+          "bestTime": "37.71",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "3",
+              "name": "Carolina Hiller Donnelly",
+              "country": "CAN",
+              "time": "37.74",
+              "points": 21,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Carolina Hiller Donnelly",
+              "country": "CAN",
+              "time": "38.30",
+              "points": 7,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Carolina Hiller Donnelly",
+              "country": "CAN",
+              "time": "37.92",
+              "points": 24,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Carolina Hiller Donnelly",
+              "country": "CAN",
+              "time": "37.71",
+              "points": 17,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Carolina Hiller Donnelly",
+              "country": "CAN",
+              "time": "38.41",
+              "points": 17,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Iori Kitahara",
+          "country": "JPN",
+          "totalPoints": 84,
+          "bestTime": "37.90",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "20",
+              "name": "Iori Kitahara",
+              "country": "JPN",
+              "time": "38.11",
+              "points": 21,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Iori Kitahara",
+              "country": "JPN",
+              "time": "37.90",
+              "points": 21,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Iori Kitahara",
+              "country": "JPN",
+              "time": "37.92",
+              "points": 13,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Iori Kitahara",
+              "country": "JPN",
+              "time": "37.94",
+              "points": 15,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "Iori Kitahara",
+              "country": "JPN",
+              "time": "38.61",
+              "points": 14,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Vanessa Herzog",
           "country": "AUT",
           "totalPoints": 82,
@@ -17728,7 +18741,7 @@
         {
           "name": "Chong Pei",
           "country": "CHN",
-          "totalPoints": 72,
+          "totalPoints": 81,
           "bestTime": "37.73",
           "bestPlace": 2,
           "races": [
@@ -17771,102 +18784,73 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "12",
+              "name": "Chong Pei",
+              "country": "CHN",
+              "time": "38.72",
+              "points": 9,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
-          "name": "Iori Kitahara",
-          "country": "JPN",
-          "totalPoints": 70,
-          "bestTime": "37.90",
+          "name": "Jingziqian Wang",
+          "country": "CHN",
+          "totalPoints": 69,
+          "bestTime": "37.86",
           "bestPlace": 3,
           "races": [
             {
-              "rank": "20",
-              "name": "Iori Kitahara",
-              "country": "JPN",
-              "time": "38.11",
-              "points": 21,
+              "rank": "10",
+              "name": "Jingziqian Wang",
+              "country": "CHN",
+              "time": "38.06",
+              "points": 11,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "3",
-              "name": "Iori Kitahara",
-              "country": "JPN",
-              "time": "37.90",
-              "points": 21,
+              "rank": "11",
+              "name": "Jingziqian Wang",
+              "country": "CHN",
+              "time": "38.15",
+              "points": 10,
               "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "Jingziqian Wang",
+              "country": "CHN",
+              "time": "37.86",
+              "points": 14,
+              "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
               "rank": "8",
-              "name": "Iori Kitahara",
-              "country": "JPN",
-              "time": "37.92",
+              "name": "Jingziqian Wang",
+              "country": "CHN",
+              "time": "38.06",
               "points": 13,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "6",
-              "name": "Iori Kitahara",
-              "country": "JPN",
-              "time": "37.94",
-              "points": 15,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Carolina Hiller Donnelly",
-          "country": "CAN",
-          "totalPoints": 69,
-          "bestTime": "37.71",
-          "bestPlace": 3,
-          "races": [
-            {
               "rank": "3",
-              "name": "Carolina Hiller Donnelly",
-              "country": "CAN",
-              "time": "37.74",
+              "name": "Jingziqian Wang",
+              "country": "CHN",
+              "time": "38.38",
               "points": 21,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "14",
-              "name": "Carolina Hiller Donnelly",
-              "country": "CAN",
-              "time": "38.30",
-              "points": 7,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "17",
-              "name": "Carolina Hiller Donnelly",
-              "country": "CAN",
-              "time": "37.92",
-              "points": 24,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "4",
-              "name": "Carolina Hiller Donnelly",
-              "country": "CAN",
-              "time": "37.71",
-              "points": 17,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -17922,6 +18906,55 @@
           ]
         },
         {
+          "name": "Sofia Thorup",
+          "country": "DEN",
+          "totalPoints": 68,
+          "bestTime": "37.85",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "10",
+              "name": "Sofia Thorup",
+              "country": "DEN",
+              "time": "38.15",
+              "points": 11,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "20",
+              "name": "Sofia Thorup",
+              "country": "DEN",
+              "time": "38.15",
+              "points": 21,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Sofia Thorup",
+              "country": "DEN",
+              "time": "37.85",
+              "points": 21,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Sofia Thorup",
+              "country": "DEN",
+              "time": "38.58",
+              "points": 15,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Nadezhda Morozova",
           "country": "KAZ",
           "totalPoints": 66,
@@ -17961,48 +18994,9 @@
           ]
         },
         {
-          "name": "Sofia Thorup",
-          "country": "DEN",
-          "totalPoints": 53,
-          "bestTime": "37.85",
-          "bestPlace": 3,
-          "races": [
-            {
-              "rank": "10",
-              "name": "Sofia Thorup",
-              "country": "DEN",
-              "time": "38.15",
-              "points": 11,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "20",
-              "name": "Sofia Thorup",
-              "country": "DEN",
-              "time": "38.15",
-              "points": 21,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "3",
-              "name": "Sofia Thorup",
-              "country": "DEN",
-              "time": "37.85",
-              "points": 21,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
           "name": "Huidan Jung",
           "country": "KOR",
-          "totalPoints": 49,
+          "totalPoints": 59,
           "bestTime": "37.98",
           "bestPlace": 6,
           "races": [
@@ -18045,102 +19039,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Jingziqian Wang",
-          "country": "CHN",
-          "totalPoints": 48,
-          "bestTime": "37.86",
-          "bestPlace": 7,
-          "races": [
-            {
-              "rank": "10",
-              "name": "Jingziqian Wang",
-              "country": "CHN",
-              "time": "38.06",
-              "points": 11,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
             },
             {
               "rank": "11",
-              "name": "Jingziqian Wang",
-              "country": "CHN",
-              "time": "38.15",
+              "name": "Huidan Jung",
+              "country": "KOR",
+              "time": "38.71",
               "points": 10,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "7",
-              "name": "Jingziqian Wang",
-              "country": "CHN",
-              "time": "37.86",
-              "points": 14,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "8",
-              "name": "Jingziqian Wang",
-              "country": "CHN",
-              "time": "38.06",
-              "points": 13,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Julie Nistad Samsonsen",
-          "country": "NOR",
-          "totalPoints": 41,
-          "bestTime": "37.96",
-          "bestPlace": 7,
-          "races": [
-            {
-              "rank": "12",
-              "name": "Julie Nistad Samsonsen",
-              "country": "NOR",
-              "time": "38.13",
-              "points": 9,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "13",
-              "name": "Julie Nistad Samsonsen",
-              "country": "NOR",
-              "time": "38.19",
-              "points": 8,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "11",
-              "name": "Julie Nistad Samsonsen",
-              "country": "NOR",
-              "time": "38.03",
-              "points": 10,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "7",
-              "name": "Julie Nistad Samsonsen",
-              "country": "NOR",
-              "time": "37.96",
-              "points": 14,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18149,7 +19055,7 @@
         {
           "name": "Karolina Bosiek",
           "country": "POL",
-          "totalPoints": 39,
+          "totalPoints": 50,
           "bestTime": "37.99",
           "bestPlace": 6,
           "races": [
@@ -18192,13 +19098,141 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "10",
+              "name": "Karolina Bosiek",
+              "country": "POL",
+              "time": "38.71",
+              "points": 11,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Julie Nistad Samsonsen",
+          "country": "NOR",
+          "totalPoints": 46,
+          "bestTime": "37.96",
+          "bestPlace": 7,
+          "races": [
+            {
+              "rank": "12",
+              "name": "Julie Nistad Samsonsen",
+              "country": "NOR",
+              "time": "38.13",
+              "points": 9,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "13",
+              "name": "Julie Nistad Samsonsen",
+              "country": "NOR",
+              "time": "38.19",
+              "points": 8,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "11",
+              "name": "Julie Nistad Samsonsen",
+              "country": "NOR",
+              "time": "38.03",
+              "points": 10,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "Julie Nistad Samsonsen",
+              "country": "NOR",
+              "time": "37.96",
+              "points": 14,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "16",
+              "name": "Julie Nistad Samsonsen",
+              "country": "NOR",
+              "time": "38.99",
+              "points": 5,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Anna Ostlender",
+          "country": "GER",
+          "totalPoints": 44,
+          "bestTime": "38.09",
+          "bestPlace": 9,
+          "races": [
+            {
+              "rank": "11",
+              "name": "Anna Ostlender",
+              "country": "GER",
+              "time": "38.10",
+              "points": 10,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Anna Ostlender",
+              "country": "GER",
+              "time": "38.32",
+              "points": 6,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "12",
+              "name": "Anna Ostlender",
+              "country": "GER",
+              "time": "38.09",
+              "points": 9,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Anna Ostlender",
+              "country": "GER",
+              "time": "38.19",
+              "points": 7,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "9",
+              "name": "Anna Ostlender",
+              "country": "GER",
+              "time": "38.70",
+              "points": 12,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
           "name": "Jenna Larter",
           "country": "CAN",
-          "totalPoints": 36,
+          "totalPoints": 43,
           "bestTime": "38.05",
           "bestPlace": 8,
           "races": [
@@ -18241,13 +19275,23 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Jenna Larter",
+              "country": "CAN",
+              "time": "38.81",
+              "points": 7,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
           "name": "Fran Vanhoutte",
           "country": "BEL",
-          "totalPoints": 34,
+          "totalPoints": 42,
           "bestTime": "38.06",
           "bestPlace": 9,
           "races": [
@@ -18290,72 +19334,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Anna Ostlender",
-          "country": "GER",
-          "totalPoints": 32,
-          "bestTime": "38.09",
-          "bestPlace": 11,
-          "races": [
-            {
-              "rank": "11",
-              "name": "Anna Ostlender",
-              "country": "GER",
-              "time": "38.10",
-              "points": 10,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
             },
             {
-              "rank": "15",
-              "name": "Anna Ostlender",
-              "country": "GER",
-              "time": "38.32",
-              "points": 6,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "12",
-              "name": "Anna Ostlender",
-              "country": "GER",
-              "time": "38.09",
-              "points": 9,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "14",
-              "name": "Anna Ostlender",
-              "country": "GER",
-              "time": "38.19",
-              "points": 7,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Andzelika Wójcik",
-          "country": "POL",
-          "totalPoints": 31,
-          "bestTime": "37.34",
-          "bestPlace": 10,
-          "races": [
-            {
-              "rank": "10",
-              "name": "Andzelika Wójcik",
-              "country": "POL",
-              "time": "37.34",
-              "points": 31,
-              "eventId": "WC1",
+              "rank": "13",
+              "name": "Fran Vanhoutte",
+              "country": "BEL",
+              "time": "38.77",
+              "points": 8,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18364,7 +19350,7 @@
         {
           "name": "Sarah Warren",
           "country": "USA",
-          "totalPoints": 30,
+          "totalPoints": 36,
           "bestTime": "38.10",
           "bestPlace": 8,
           "races": [
@@ -18407,13 +19393,81 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Sarah Warren",
+              "country": "USA",
+              "time": "38.81",
+              "points": 6,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Nikola Zdr Á Halova",
+          "country": "CZE",
+          "totalPoints": 35,
+          "bestTime": "38.11",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "13",
+              "name": "Nikola Zdr Á Halova",
+              "country": "CZE",
+              "time": "38.11",
+              "points": 8,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "18",
+              "name": "Nikola Zdr Á Halova",
+              "country": "CZE",
+              "time": "38.53",
+              "points": 3,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Nikola Zdr Á Halova",
+              "country": "CZE",
+              "time": "38.34",
+              "points": 24,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Andzelika Wójcik",
+          "country": "POL",
+          "totalPoints": 31,
+          "bestTime": "37.34",
+          "bestPlace": 10,
+          "races": [
+            {
+              "rank": "10",
+              "name": "Andzelika Wójcik",
+              "country": "POL",
+              "time": "37.34",
+              "points": 31,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
           "name": "Chrysta Rands Evans",
           "country": "USA",
-          "totalPoints": 28,
+          "totalPoints": 31,
           "bestTime": "38.41",
           "bestPlace": 17,
           "races": [
@@ -18454,6 +19508,74 @@
               "time": "38.73",
               "points": 1,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "18",
+              "name": "Chrysta Rands Evans",
+              "country": "USA",
+              "time": "39.17",
+              "points": 3,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Miho Takagi",
+          "country": "JPN",
+          "totalPoints": 28,
+          "bestTime": "38.02",
+          "bestPlace": 1,
+          "races": [
+            {
+              "rank": "1",
+              "name": "Miho Takagi",
+              "country": "JPN",
+              "time": "38.02",
+              "points": 28,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Ellia Smeding",
+          "country": "GBR",
+          "totalPoints": 25,
+          "bestTime": "38.14",
+          "bestPlace": 8,
+          "races": [
+            {
+              "rank": "15",
+              "name": "Ellia Smeding",
+              "country": "GBR",
+              "time": "38.37",
+              "points": 6,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Ellia Smeding",
+              "country": "GBR",
+              "time": "38.14",
+              "points": 6,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Ellia Smeding",
+              "country": "GBR",
+              "time": "38.67",
+              "points": 13,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18500,7 +19622,7 @@
         {
           "name": "Xiaoxuan Shi",
           "country": "CHN",
-          "totalPoints": 13,
+          "totalPoints": 15,
           "bestTime": "38.12",
           "bestPlace": 14,
           "races": [
@@ -18543,62 +19665,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Ellia Smeding",
-          "country": "GBR",
-          "totalPoints": 12,
-          "bestTime": "38.14",
-          "bestPlace": 15,
-          "races": [
-            {
-              "rank": "15",
-              "name": "Ellia Smeding",
-              "country": "GBR",
-              "time": "38.37",
-              "points": 6,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
             },
             {
-              "rank": "15",
-              "name": "Ellia Smeding",
-              "country": "GBR",
-              "time": "38.14",
-              "points": 6,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Nikola Zdr Á Halova",
-          "country": "CZE",
-          "totalPoints": 11,
-          "bestTime": "38.11",
-          "bestPlace": 13,
-          "races": [
-            {
-              "rank": "13",
-              "name": "Nikola Zdr Á Halova",
-              "country": "CZE",
-              "time": "38.11",
-              "points": 8,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "18",
-              "name": "Nikola Zdr Á Halova",
-              "country": "CZE",
-              "time": "38.53",
-              "points": 3,
-              "eventId": "WC2",
+              "rank": "19",
+              "name": "Xiaoxuan Shi",
+              "country": "CHN",
+              "time": "39.18",
+              "points": 2,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18607,7 +19681,7 @@
         {
           "name": "Maybritt Vigl",
           "country": "ITA",
-          "totalPoints": 9,
+          "totalPoints": 10,
           "bestTime": "38.19",
           "bestPlace": 13,
           "races": [
@@ -18648,6 +19722,16 @@
               "time": "38.74",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "20",
+              "name": "Maybritt Vigl",
+              "country": "ITA",
+              "time": "39.25",
+              "points": 1,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18699,6 +19783,16 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "24",
+              "name": "Maria Victoria Rodriguez",
+              "country": "ARG",
+              "time": "39.31",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
@@ -18746,6 +19840,35 @@
               "time": "38.45",
               "points": 5,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Isabelle Van Elst",
+          "country": "BEL",
+          "totalPoints": 4,
+          "bestTime": "38.81",
+          "bestPlace": 17,
+          "races": [
+            {
+              "rank": "23",
+              "name": "Isabelle Van Elst",
+              "country": "BEL",
+              "time": "38.81",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Isabelle Van Elst",
+              "country": "BEL",
+              "time": "39.13",
+              "points": 4,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -18875,6 +19998,16 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "22",
+              "name": "Mckenzie Browne",
+              "country": "USA",
+              "time": "39.29",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
@@ -18922,6 +20055,65 @@
               "time": "39.29",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Mathilde Pédronno",
+          "country": "FRA",
+          "totalPoints": 0,
+          "bestTime": "38.87",
+          "bestPlace": 21,
+          "races": [
+            {
+              "rank": "24",
+              "name": "Mathilde Pédronno",
+              "country": "FRA",
+              "time": "39.02",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "27",
+              "name": "Mathilde Pédronno",
+              "country": "FRA",
+              "time": "39.26",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "28",
+              "name": "Mathilde Pédronno",
+              "country": "FRA",
+              "time": "38.87",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "28",
+              "name": "Mathilde Pédronno",
+              "country": "FRA",
+              "time": "38.93",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "21",
+              "name": "Mathilde Pédronno",
+              "country": "FRA",
+              "time": "39.25",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -19022,72 +20214,14 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Isabelle Van Elst",
-          "country": "BEL",
-          "totalPoints": 0,
-          "bestTime": "38.81",
-          "bestPlace": 23,
-          "races": [
+            },
             {
               "rank": "23",
-              "name": "Isabelle Van Elst",
-              "country": "BEL",
-              "time": "38.81",
+              "name": "Luisa María Gonz Á Lez",
+              "country": "ESP",
+              "time": "39.30",
               "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Mathilde Pédronno",
-          "country": "FRA",
-          "totalPoints": 0,
-          "bestTime": "38.87",
-          "bestPlace": 24,
-          "races": [
-            {
-              "rank": "24",
-              "name": "Mathilde Pédronno",
-              "country": "FRA",
-              "time": "39.02",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "27",
-              "name": "Mathilde Pédronno",
-              "country": "FRA",
-              "time": "39.26",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "28",
-              "name": "Mathilde Pédronno",
-              "country": "FRA",
-              "time": "38.87",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "28",
-              "name": "Mathilde Pédronno",
-              "country": "FRA",
-              "time": "38.93",
-              "points": 0,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -19139,6 +20273,16 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "25",
+              "name": "Ju Lin De Visser",
+              "country": "TPE",
+              "time": "39.54",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
@@ -19188,6 +20332,55 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "27",
+              "name": "Hanna Biró",
+              "country": "HUN",
+              "time": "40.14",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Arina Ilyachsehenko",
+          "country": "KAZ",
+          "totalPoints": 0,
+          "bestTime": "39.46",
+          "bestPlace": 26,
+          "races": [
+            {
+              "rank": "33",
+              "name": "Arina Ilyachsehenko",
+              "country": "KAZ",
+              "time": "39.46",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "34",
+              "name": "Arina Ilyachsehenko",
+              "country": "KAZ",
+              "time": "39.77",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "26",
+              "name": "Arina Ilyachsehenko",
+              "country": "KAZ",
+              "time": "39.60",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
@@ -19215,6 +20408,16 @@
               "time": "39.44",
               "points": 0,
               "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "28",
+              "name": "Alena Lifatova",
+              "country": "KAZ",
+              "time": "40.46",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -19266,6 +20469,16 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "30",
+              "name": "Laura Kivioja",
+              "country": "FIN",
+              "time": "40.70",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
@@ -19283,6 +20496,55 @@
               "time": "38.98",
               "points": 0,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "J É Ssica Carolina Santos Rodrigues",
+          "country": "POR",
+          "totalPoints": 0,
+          "bestTime": "40.04",
+          "bestPlace": 29,
+          "races": [
+            {
+              "rank": "33",
+              "name": "J É Ssica Carolina Santos Rodrigues",
+              "country": "POR",
+              "time": "40.38",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "35",
+              "name": "J É Ssica Carolina Santos Rodrigues",
+              "country": "POR",
+              "time": "40.92",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "35",
+              "name": "J É Ssica Carolina Santos Rodrigues",
+              "country": "POR",
+              "time": "40.04",
+              "points": 0,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "29",
+              "name": "J É Ssica Carolina Santos Rodrigues",
+              "country": "POR",
+              "time": "40.59",
+              "points": 0,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -19328,68 +20590,19 @@
           ]
         },
         {
-          "name": "Arina Ilyachsehenko",
-          "country": "KAZ",
+          "name": "Marte Bjerkreim Furnee",
+          "country": "NOR",
           "totalPoints": 0,
-          "bestTime": "39.46",
-          "bestPlace": 33,
+          "bestTime": "41.23",
+          "bestPlace": 31,
           "races": [
             {
-              "rank": "33",
-              "name": "Arina Ilyachsehenko",
-              "country": "KAZ",
-              "time": "39.46",
+              "rank": "31",
+              "name": "Marte Bjerkreim Furnee",
+              "country": "NOR",
+              "time": "41.23",
               "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "34",
-              "name": "Arina Ilyachsehenko",
-              "country": "KAZ",
-              "time": "39.77",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "J É Ssica Carolina Santos Rodrigues",
-          "country": "POR",
-          "totalPoints": 0,
-          "bestTime": "40.04",
-          "bestPlace": 33,
-          "races": [
-            {
-              "rank": "33",
-              "name": "J É Ssica Carolina Santos Rodrigues",
-              "country": "POR",
-              "time": "40.38",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "35",
-              "name": "J É Ssica Carolina Santos Rodrigues",
-              "country": "POR",
-              "time": "40.92",
-              "points": 0,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "35",
-              "name": "J É Ssica Carolina Santos Rodrigues",
-              "country": "POR",
-              "time": "40.04",
-              "points": 0,
-              "eventId": "WC2",
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -19515,7 +20728,7 @@
           "name": "Kurumi Inagawa",
           "country": "JPN",
           "bestTime": "37.57",
-          "totalPoints": 88
+          "totalPoints": 104
         },
         {
           "name": "Rio Yamada",
@@ -19533,13 +20746,13 @@
           "name": "Carolina Hiller Donnelly",
           "country": "CAN",
           "bestTime": "37.71",
-          "totalPoints": 69
+          "totalPoints": 86
         },
         {
           "name": "Chong Pei",
           "country": "CHN",
           "bestTime": "37.73",
-          "totalPoints": 72
+          "totalPoints": 81
         },
         {
           "name": "Nadezhda Morozova",
@@ -19557,19 +20770,19 @@
           "name": "Sofia Thorup",
           "country": "DEN",
           "bestTime": "37.85",
-          "totalPoints": 53
+          "totalPoints": 68
         },
         {
           "name": "Jingziqian Wang",
           "country": "CHN",
           "bestTime": "37.86",
-          "totalPoints": 48
+          "totalPoints": 69
         },
         {
           "name": "Iori Kitahara",
           "country": "JPN",
           "bestTime": "37.90",
-          "totalPoints": 70
+          "totalPoints": 84
         },
         {
           "name": "Brittany Bowe",
@@ -19581,67 +20794,73 @@
           "name": "Julie Nistad Samsonsen",
           "country": "NOR",
           "bestTime": "37.96",
-          "totalPoints": 41
+          "totalPoints": 46
         },
         {
           "name": "Huidan Jung",
           "country": "KOR",
           "bestTime": "37.98",
-          "totalPoints": 49
+          "totalPoints": 59
         },
         {
           "name": "Karolina Bosiek",
           "country": "POL",
           "bestTime": "37.99",
-          "totalPoints": 39
+          "totalPoints": 50
+        },
+        {
+          "name": "Miho Takagi",
+          "country": "JPN",
+          "bestTime": "38.02",
+          "totalPoints": 28
         },
         {
           "name": "Jenna Larter",
           "country": "CAN",
           "bestTime": "38.05",
-          "totalPoints": 36
+          "totalPoints": 43
         },
         {
           "name": "Fran Vanhoutte",
           "country": "BEL",
           "bestTime": "38.06",
-          "totalPoints": 34
+          "totalPoints": 42
         },
         {
           "name": "Anna Ostlender",
           "country": "GER",
           "bestTime": "38.09",
-          "totalPoints": 32
+          "totalPoints": 44
         },
         {
           "name": "Sarah Warren",
           "country": "USA",
           "bestTime": "38.10",
-          "totalPoints": 30
+          "totalPoints": 36
         },
         {
           "name": "Nikola Zdr Á Halova",
           "country": "CZE",
           "bestTime": "38.11",
-          "totalPoints": 11
+          "totalPoints": 35
         },
         {
           "name": "Xiaoxuan Shi",
           "country": "CHN",
           "bestTime": "38.12",
-          "totalPoints": 13
+          "totalPoints": 15
         },
         {
           "name": "Ellia Smeding",
           "country": "GBR",
           "bestTime": "38.14",
-          "totalPoints": 12
+          "totalPoints": 25
         },
         {
           "name": "Maybritt Vigl",
           "country": "ITA",
           "bestTime": "38.19",
-          "totalPoints": 9
+          "totalPoints": 10
         },
         {
           "name": "Maria Victoria Rodriguez",
@@ -19653,7 +20872,7 @@
           "name": "Chrysta Rands Evans",
           "country": "USA",
           "bestTime": "38.41",
-          "totalPoints": 28
+          "totalPoints": 31
         },
         {
           "name": "Rose Laliberte Roy",
@@ -19707,7 +20926,7 @@
           "name": "Isabelle Van Elst",
           "country": "BEL",
           "bestTime": "38.81",
-          "totalPoints": 0
+          "totalPoints": 4
         },
         {
           "name": "Mathilde Pédronno",
@@ -19755,6 +20974,12 @@
           "name": "J É Ssica Carolina Santos Rodrigues",
           "country": "POR",
           "bestTime": "40.04",
+          "totalPoints": 0
+        },
+        {
+          "name": "Marte Bjerkreim Furnee",
+          "country": "NOR",
+          "bestTime": "41.23",
           "totalPoints": 0
         },
         {
@@ -20407,6 +21632,66 @@
             "method": "Points"
           },
           {
+            "name": "Kurumi Inagawa",
+            "country": "JPN",
+            "totalPoints": 104,
+            "bestTime": "37.57",
+            "bestPlace": 2,
+            "races": [
+              {
+                "rank": "18",
+                "name": "Kurumi Inagawa",
+                "country": "JPN",
+                "time": "37.92",
+                "points": 23,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Kurumi Inagawa",
+                "country": "JPN",
+                "time": "37.69",
+                "points": 24,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "15",
+                "name": "Kurumi Inagawa",
+                "country": "JPN",
+                "time": "37.57",
+                "points": 26,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "6",
+                "name": "Kurumi Inagawa",
+                "country": "JPN",
+                "time": "37.78",
+                "points": 15,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "5",
+                "name": "Kurumi Inagawa",
+                "country": "JPN",
+                "time": "38.51",
+                "points": 16,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Min Sun Kim",
             "country": "KOR",
             "totalPoints": 100,
@@ -20489,56 +21774,6 @@
                 "country": "POL",
                 "time": "37.39",
                 "points": 28,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Kurumi Inagawa",
-            "country": "JPN",
-            "totalPoints": 88,
-            "bestTime": "37.57",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "18",
-                "name": "Kurumi Inagawa",
-                "country": "JPN",
-                "time": "37.92",
-                "points": 23,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "2",
-                "name": "Kurumi Inagawa",
-                "country": "JPN",
-                "time": "37.69",
-                "points": 24,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "15",
-                "name": "Kurumi Inagawa",
-                "country": "JPN",
-                "time": "37.57",
-                "points": 26,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "6",
-                "name": "Kurumi Inagawa",
-                "country": "JPN",
-                "time": "37.78",
-                "points": 15,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
@@ -20637,6 +21872,66 @@
             "method": "Points"
           },
           {
+            "name": "Carolina Hiller Donnelly",
+            "country": "CAN",
+            "totalPoints": 86,
+            "bestTime": "37.71",
+            "bestPlace": 3,
+            "races": [
+              {
+                "rank": "3",
+                "name": "Carolina Hiller Donnelly",
+                "country": "CAN",
+                "time": "37.74",
+                "points": 21,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "14",
+                "name": "Carolina Hiller Donnelly",
+                "country": "CAN",
+                "time": "38.30",
+                "points": 7,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "17",
+                "name": "Carolina Hiller Donnelly",
+                "country": "CAN",
+                "time": "37.92",
+                "points": 24,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Carolina Hiller Donnelly",
+                "country": "CAN",
+                "time": "37.71",
+                "points": 17,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Carolina Hiller Donnelly",
+                "country": "CAN",
+                "time": "38.41",
+                "points": 17,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Vanessa Herzog",
             "country": "AUT",
             "totalPoints": 82,
@@ -20689,7 +21984,7 @@
           {
             "name": "Chong Pei",
             "country": "CHN",
-            "totalPoints": 72,
+            "totalPoints": 81,
             "bestTime": "37.73",
             "bestPlace": 2,
             "races": [
@@ -20732,54 +22027,14 @@
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Carolina Hiller Donnelly",
-            "country": "CAN",
-            "totalPoints": 69,
-            "bestTime": "37.71",
-            "bestPlace": 3,
-            "races": [
-              {
-                "rank": "3",
-                "name": "Carolina Hiller Donnelly",
-                "country": "CAN",
-                "time": "37.74",
-                "points": 21,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
               },
               {
-                "rank": "14",
-                "name": "Carolina Hiller Donnelly",
-                "country": "CAN",
-                "time": "38.30",
-                "points": 7,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "17",
-                "name": "Carolina Hiller Donnelly",
-                "country": "CAN",
-                "time": "37.92",
-                "points": 24,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Carolina Hiller Donnelly",
-                "country": "CAN",
-                "time": "37.71",
-                "points": 17,
-                "eventId": "WC2",
+                "rank": "12",
+                "name": "Chong Pei",
+                "country": "CHN",
+                "time": "38.72",
+                "points": 9,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -20804,14 +22059,14 @@
             "name": "Sofia Thorup",
             "country": "DEN",
             "bestTime": "37.85",
-            "totalPoints": 53,
+            "totalPoints": 68,
             "method": "Times"
           },
           {
             "name": "Jingziqian Wang",
             "country": "CHN",
             "bestTime": "37.86",
-            "totalPoints": 48,
+            "totalPoints": 69,
             "method": "Times"
           },
           {
@@ -20825,14 +22080,14 @@
             "name": "Julie Nistad Samsonsen",
             "country": "NOR",
             "bestTime": "37.96",
-            "totalPoints": 41,
+            "totalPoints": 46,
             "method": "Times"
           },
           {
             "name": "Huidan Jung",
             "country": "KOR",
             "bestTime": "37.98",
-            "totalPoints": 49,
+            "totalPoints": 59,
             "method": "Times"
           }
         ],
@@ -20841,21 +22096,21 @@
             "name": "Fran Vanhoutte",
             "country": "BEL",
             "bestTime": "38.06",
-            "totalPoints": 34,
+            "totalPoints": 42,
             "method": "Reserve"
           },
           {
             "name": "Nikola Zdr Á Halova",
             "country": "CZE",
             "bestTime": "38.11",
-            "totalPoints": 11,
+            "totalPoints": 35,
             "method": "Reserve"
           },
           {
             "name": "Ellia Smeding",
             "country": "GBR",
             "bestTime": "38.14",
-            "totalPoints": 12,
+            "totalPoints": 25,
             "method": "Reserve"
           },
           {
@@ -20869,21 +22124,21 @@
             "name": "Anna Ostlender",
             "country": "GER",
             "bestTime": "38.09",
-            "totalPoints": 32,
+            "totalPoints": 44,
             "method": "Reserve"
           },
           {
             "name": "Sarah Warren",
             "country": "USA",
             "bestTime": "38.10",
-            "totalPoints": 30,
+            "totalPoints": 36,
             "method": "Reserve"
           },
           {
             "name": "Maybritt Vigl",
             "country": "ITA",
             "bestTime": "38.19",
-            "totalPoints": 9,
+            "totalPoints": 10,
             "method": "Reserve"
           },
           {
@@ -48427,16 +49682,16 @@
           "races": []
         },
         {
-          "name": "Jordan  Stolz",
-          "country": "USA",
+          "name": "Antoine  Gélinas-Beaulieu",
+          "country": "CAN",
           "totalPoints": 74,
           "bestTime": "",
           "bestPlace": 5,
           "races": []
         },
         {
-          "name": "Antoine  Gélinas-Beaulieu",
-          "country": "CAN",
+          "name": "Jordan  Stolz",
+          "country": "USA",
           "totalPoints": 74,
           "bestTime": "",
           "bestPlace": 5,
@@ -48467,11 +49722,19 @@
           "races": []
         },
         {
+          "name": "Seungmin  Cho",
+          "country": "KOR",
+          "totalPoints": 67,
+          "bestTime": "",
+          "bestPlace": 10,
+          "races": []
+        },
+        {
           "name": "Jake  Weidemann",
           "country": "CAN",
           "totalPoints": 66,
           "bestTime": "",
-          "bestPlace": 10,
+          "bestPlace": 11,
           "races": []
         },
         {
@@ -48479,7 +49742,7 @@
           "country": "NED",
           "totalPoints": 64,
           "bestTime": "",
-          "bestPlace": 11,
+          "bestPlace": 12,
           "races": []
         },
         {
@@ -48487,7 +49750,15 @@
           "country": "CZE",
           "totalPoints": 63,
           "bestTime": "",
-          "bestPlace": 12,
+          "bestPlace": 13,
+          "races": []
+        },
+        {
+          "name": "Zihan  Zhou",
+          "country": "CHN",
+          "totalPoints": 60,
+          "bestTime": "",
+          "bestPlace": 14,
           "races": []
         },
         {
@@ -48495,7 +49766,7 @@
           "country": "GER",
           "totalPoints": 58,
           "bestTime": "",
-          "bestPlace": 13,
+          "bestPlace": 15,
           "races": []
         },
         {
@@ -48503,31 +49774,7 @@
           "country": "DEN",
           "totalPoints": 58,
           "bestTime": "",
-          "bestPlace": 14,
-          "races": []
-        },
-        {
-          "name": "Zihan  Zhou",
-          "country": "CHN",
-          "totalPoints": 56,
-          "bestTime": "",
-          "bestPlace": 15,
-          "races": []
-        },
-        {
-          "name": "Seungmin  Cho",
-          "country": "KOR",
-          "totalPoints": 54,
-          "bestTime": "",
           "bestPlace": 16,
-          "races": []
-        },
-        {
-          "name": "Daniele  Di Stefano",
-          "country": "ITA",
-          "totalPoints": 52,
-          "bestTime": "",
-          "bestPlace": 17,
           "races": []
         },
         {
@@ -48535,7 +49782,7 @@
           "country": "FRA",
           "totalPoints": 52,
           "bestTime": "",
-          "bestPlace": 18,
+          "bestPlace": 17,
           "races": []
         },
         {
@@ -48543,7 +49790,7 @@
           "country": "JPN",
           "totalPoints": 52,
           "bestTime": "",
-          "bestPlace": 19,
+          "bestPlace": 18,
           "races": []
         },
         {
@@ -48551,7 +49798,7 @@
           "country": "BEL",
           "totalPoints": 51,
           "bestTime": "",
-          "bestPlace": 20,
+          "bestPlace": 19,
           "races": []
         },
         {
@@ -48559,12 +49806,20 @@
           "country": "USA",
           "totalPoints": 49,
           "bestTime": "",
+          "bestPlace": 20,
+          "races": []
+        },
+        {
+          "name": "Daniele  Di Stefano",
+          "country": "ITA",
+          "totalPoints": 48,
+          "bestTime": "",
           "bestPlace": 21,
           "races": []
         },
         {
-          "name": "Peter  Michael",
-          "country": "NZL",
+          "name": "Sigurd Holbø  Dyrset",
+          "country": "NOR",
           "totalPoints": 44,
           "bestTime": "",
           "bestPlace": 22,
@@ -48573,33 +49828,17 @@
         {
           "name": "Alexander  Farthofer",
           "country": "AUT",
-          "totalPoints": 44,
+          "totalPoints": 43,
           "bestTime": "",
           "bestPlace": 23,
           "races": []
         },
         {
-          "name": "Vadim  Yakubovskiy",
-          "country": "KAZ",
-          "totalPoints": 41,
+          "name": "Mathieu  Belloir",
+          "country": "FRA",
+          "totalPoints": 39,
           "bestTime": "",
           "bestPlace": 24,
-          "races": []
-        },
-        {
-          "name": "Taiyo  Morino",
-          "country": "JPN",
-          "totalPoints": 38,
-          "bestTime": "",
-          "bestPlace": 25,
-          "races": []
-        },
-        {
-          "name": "Sigurd Holbø  Dyrset",
-          "country": "NOR",
-          "totalPoints": 38,
-          "bestTime": "",
-          "bestPlace": 26,
           "races": []
         },
         {
@@ -48607,7 +49846,7 @@
           "country": "DEN",
           "totalPoints": 37,
           "bestTime": "",
-          "bestPlace": 27,
+          "bestPlace": 25,
           "races": []
         },
         {
@@ -48615,7 +49854,15 @@
           "country": "NOR",
           "totalPoints": 36,
           "bestTime": "",
-          "bestPlace": 28,
+          "bestPlace": 26,
+          "races": []
+        },
+        {
+          "name": "Vadim  Yakubovskiy",
+          "country": "KAZ",
+          "totalPoints": 36,
+          "bestTime": "",
+          "bestPlace": 27,
           "races": []
         },
         {
@@ -48623,43 +49870,51 @@
           "country": "CHN",
           "totalPoints": 35,
           "bestTime": "",
+          "bestPlace": 28,
+          "races": []
+        },
+        {
+          "name": "Min-Seok  Kim",
+          "country": "HUN",
+          "totalPoints": 33,
+          "bestTime": "",
           "bestPlace": 29,
           "races": []
         },
         {
-          "name": "Marcin  Bachanek",
-          "country": "POL",
-          "totalPoints": 29,
+          "name": "Peter  Michael",
+          "country": "NZL",
+          "totalPoints": 31,
           "bestTime": "",
           "bestPlace": 30,
           "races": []
         },
         {
-          "name": "Botond  Bejczi",
-          "country": "HUN",
-          "totalPoints": 28,
+          "name": "Marcin  Bachanek",
+          "country": "POL",
+          "totalPoints": 31,
           "bestTime": "",
           "bestPlace": 31,
           "races": []
         },
         {
-          "name": "Yahor  Damaratski",
-          "country": "AIN",
-          "totalPoints": 27,
+          "name": "Taiyo  Morino",
+          "country": "JPN",
+          "totalPoints": 31,
           "bestTime": "",
           "bestPlace": 32,
           "races": []
         },
         {
-          "name": "Mathieu  Belloir",
-          "country": "FRA",
-          "totalPoints": 23,
+          "name": "Yahor  Damaratski",
+          "country": "AIN",
+          "totalPoints": 29,
           "bestTime": "",
           "bestPlace": 33,
           "races": []
         },
         {
-          "name": "Min-Seok  Kim",
+          "name": "Botond  Bejczi",
           "country": "HUN",
           "totalPoints": 23,
           "bestTime": "",
@@ -48667,19 +49922,11 @@
           "races": []
         },
         {
-          "name": "Lukas  Stekly",
-          "country": "SVK",
-          "totalPoints": 18,
+          "name": "Mateusz  Śliwka",
+          "country": "POL",
+          "totalPoints": 19,
           "bestTime": "",
           "bestPlace": 35,
-          "races": []
-        },
-        {
-          "name": "Manuel  Robla",
-          "country": "ESP",
-          "totalPoints": 18,
-          "bestTime": "",
-          "bestPlace": 36,
           "races": []
         },
         {
@@ -48687,31 +49934,23 @@
           "country": "UZB",
           "totalPoints": 18,
           "bestTime": "",
+          "bestPlace": 36,
+          "races": []
+        },
+        {
+          "name": "Miguel  Bravo",
+          "country": "POR",
+          "totalPoints": 15,
+          "bestTime": "",
           "bestPlace": 37,
           "races": []
         },
         {
           "name": "Vitaliy  Chshigolev",
           "country": "KAZ",
-          "totalPoints": 17,
-          "bestTime": "",
-          "bestPlace": 38,
-          "races": []
-        },
-        {
-          "name": "Mateusz  Śliwka",
-          "country": "POL",
-          "totalPoints": 14,
-          "bestTime": "",
-          "bestPlace": 39,
-          "races": []
-        },
-        {
-          "name": "Miguel  Bravo",
-          "country": "POR",
           "totalPoints": 12,
           "bestTime": "",
-          "bestPlace": 40,
+          "bestPlace": 38,
           "races": []
         },
         {
@@ -48719,7 +49958,15 @@
           "country": "POR",
           "totalPoints": 11,
           "bestTime": "",
-          "bestPlace": 41,
+          "bestPlace": 39,
+          "races": []
+        },
+        {
+          "name": "Manuel  Robla",
+          "country": "ESP",
+          "totalPoints": 8,
+          "bestTime": "",
+          "bestPlace": 40,
           "races": []
         },
         {
@@ -48727,7 +49974,7 @@
           "country": "SUI",
           "totalPoints": 7,
           "bestTime": "",
-          "bestPlace": 42,
+          "bestPlace": 41,
           "races": []
         },
         {
@@ -48735,7 +49982,15 @@
           "country": "GRE",
           "totalPoints": 7,
           "bestTime": "",
-          "bestPlace": 42,
+          "bestPlace": 41,
+          "races": []
+        },
+        {
+          "name": "Lukas  Stekly",
+          "country": "SVK",
+          "totalPoints": 7,
+          "bestTime": "",
+          "bestPlace": 43,
           "races": []
         },
         {
@@ -48795,8 +50050,8 @@
             "method": "Points"
           },
           {
-            "name": "Jordan  Stolz",
-            "country": "USA",
+            "name": "Antoine  Gélinas-Beaulieu",
+            "country": "CAN",
             "totalPoints": 74,
             "bestTime": "",
             "bestPlace": 5,
@@ -48804,8 +50059,8 @@
             "method": "Points"
           },
           {
-            "name": "Antoine  Gélinas-Beaulieu",
-            "country": "CAN",
+            "name": "Jordan  Stolz",
+            "country": "USA",
             "totalPoints": 74,
             "bestTime": "",
             "bestPlace": 5,
@@ -48840,11 +50095,20 @@
             "method": "Points"
           },
           {
+            "name": "Seungmin  Cho",
+            "country": "KOR",
+            "totalPoints": 67,
+            "bestTime": "",
+            "bestPlace": 10,
+            "races": [],
+            "method": "Points"
+          },
+          {
             "name": "Jake  Weidemann",
             "country": "CAN",
             "totalPoints": 66,
             "bestTime": "",
-            "bestPlace": 10,
+            "bestPlace": 11,
             "races": [],
             "method": "Points"
           },
@@ -48853,7 +50117,7 @@
             "country": "NED",
             "totalPoints": 64,
             "bestTime": "",
-            "bestPlace": 11,
+            "bestPlace": 12,
             "races": [],
             "method": "Points"
           },
@@ -48862,7 +50126,16 @@
             "country": "CZE",
             "totalPoints": 63,
             "bestTime": "",
-            "bestPlace": 12,
+            "bestPlace": 13,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Zihan  Zhou",
+            "country": "CHN",
+            "totalPoints": 60,
+            "bestTime": "",
+            "bestPlace": 14,
             "races": [],
             "method": "Points"
           },
@@ -48871,7 +50144,7 @@
             "country": "GER",
             "totalPoints": 58,
             "bestTime": "",
-            "bestPlace": 13,
+            "bestPlace": 15,
             "races": [],
             "method": "Points"
           },
@@ -48880,34 +50153,7 @@
             "country": "DEN",
             "totalPoints": 58,
             "bestTime": "",
-            "bestPlace": 14,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Zihan  Zhou",
-            "country": "CHN",
-            "totalPoints": 56,
-            "bestTime": "",
-            "bestPlace": 15,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Seungmin  Cho",
-            "country": "KOR",
-            "totalPoints": 54,
-            "bestTime": "",
             "bestPlace": 16,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Daniele  Di Stefano",
-            "country": "ITA",
-            "totalPoints": 52,
-            "bestTime": "",
-            "bestPlace": 17,
             "races": [],
             "method": "Points"
           },
@@ -48916,7 +50162,7 @@
             "country": "FRA",
             "totalPoints": 52,
             "bestTime": "",
-            "bestPlace": 18,
+            "bestPlace": 17,
             "races": [],
             "method": "Points"
           },
@@ -48925,7 +50171,7 @@
             "country": "JPN",
             "totalPoints": 52,
             "bestTime": "",
-            "bestPlace": 19,
+            "bestPlace": 18,
             "races": [],
             "method": "Points"
           },
@@ -48934,7 +50180,7 @@
             "country": "BEL",
             "totalPoints": 51,
             "bestTime": "",
-            "bestPlace": 20,
+            "bestPlace": 19,
             "races": [],
             "method": "Points"
           },
@@ -48943,13 +50189,22 @@
             "country": "USA",
             "totalPoints": 49,
             "bestTime": "",
+            "bestPlace": 20,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Daniele  Di Stefano",
+            "country": "ITA",
+            "totalPoints": 48,
+            "bestTime": "",
             "bestPlace": 21,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Peter  Michael",
-            "country": "NZL",
+            "name": "Sigurd Holbø  Dyrset",
+            "country": "NOR",
             "totalPoints": 44,
             "bestTime": "",
             "bestPlace": 22,
@@ -48959,16 +50214,16 @@
           {
             "name": "Alexander  Farthofer",
             "country": "AUT",
-            "totalPoints": 44,
+            "totalPoints": 43,
             "bestTime": "",
             "bestPlace": 23,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Vadim  Yakubovskiy",
-            "country": "KAZ",
-            "totalPoints": 41,
+            "name": "Mathieu  Belloir",
+            "country": "FRA",
+            "totalPoints": 39,
             "bestTime": "",
             "bestPlace": 24,
             "races": [],
@@ -51019,6 +52274,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-07T12:03:38.043Z",
+  "lastUpdated": "2025-12-07T12:38:43.061Z",
   "isUpdating": false
 }
