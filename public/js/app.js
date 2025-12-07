@@ -3,12 +3,18 @@ let currentTab = '500m-women';
 
 async function fetchData() {
     try {
-        const res = await fetch('/api/data');
+        console.log('Fetching data...');
+        // Add timestamp to prevent caching
+        const res = await fetch('/api/data?t=' + Date.now());
         const data = await res.json();
+        console.log('Data received, last updated:', data.lastUpdated);
+        console.log('SOQC keys:', Object.keys(data.soqc || {}));
+
         currentData = data;
         render();
     } catch (e) {
         console.error("Error fetching data", e);
+        document.getElementById('usa-stats').innerText = 'Error loading data. Please refresh.';
     }
 }
 
@@ -23,7 +29,8 @@ async function refreshData() {
 
         // Poll for completion
         const poll = async () => {
-            const res = await fetch('/api/data');
+            // Add timestamp here too to avoid cached response
+            const res = await fetch('/api/data?t=' + Date.now());
             const data = await res.json();
 
             if (data.isUpdating) {
@@ -93,10 +100,25 @@ function renderUSAStats() {
     }
 }
 
-function showTab(tab) {
+function showTab(tab, btn) {
+    console.log('Switching to tab:', tab);
     currentTab = tab;
+
+    // Update active state
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    event.target.classList.add('active');
+
+    if (btn) {
+        btn.classList.add('active');
+    } else if (window.event && window.event.target) {
+        // Fallback or explicit call
+        window.event.target.classList.add('active');
+    } else {
+        // Try to find the button by onclick attribute if no button passed
+        const selector = `.tab-btn[onclick*="${tab}"]`;
+        const found = document.querySelector(selector);
+        if (found) found.classList.add('active');
+    }
+
     renderTabContent();
 }
 
