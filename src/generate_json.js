@@ -5,6 +5,12 @@ const store = require('./data/store_pdf');
 async function generateData() {
     console.log('Starting build-time data generation...');
 
+    if (process.env.VERCEL) {
+        console.log('✨ Running on Vercel: Skipping data regeneration to use committed data.json');
+        console.log('   (Puppeteer often fails in serverless build environments without specific config)');
+        return;
+    }
+
     try {
         // Trigger parsing and calculation
         await store.updateData();
