@@ -165,9 +165,11 @@ async function recalculateSOQC() {
             }));
 
             timesRanking = []; // No times component for Mass Start
+            console.log(`[SOQC] ${key}: Scraped Mass Start standings (Found: ${pointsRanking.length} skaters)`);
         } else if (distance === 'Team Pursuit') {
             pointsRanking = calculateTeamPursuitPoints(pointsResults);
             timesRanking = calculateTeamPursuitTimes(timesResults);
+            console.log(`[SOQC] ${key}: Processed Team Pursuit (Points: ${pointsRanking.length}, Times: ${timesRanking.length})`);
         } else {
             pointsRanking = calculateSOQCPoints(pointsResults);
             timesRanking = calculateSOQCTimes(timesResults);

@@ -49652,135 +49652,135 @@
         {
           "name": "Jorrit  Bergsma",
           "country": "NED",
-          "totalPoints": 94,
+          "totalPoints": 154,
           "bestTime": "",
           "bestPlace": 1,
           "races": []
         },
         {
-          "name": "Andrea  Giovannini",
-          "country": "ITA",
-          "totalPoints": 87,
+          "name": "Jae-Won  Chung",
+          "country": "KOR",
+          "totalPoints": 138,
           "bestTime": "",
           "bestPlace": 2,
           "races": []
         },
         {
-          "name": "Jae-Won  Chung",
-          "country": "KOR",
-          "totalPoints": 84,
+          "name": "Andrea  Giovannini",
+          "country": "ITA",
+          "totalPoints": 127,
           "bestTime": "",
           "bestPlace": 3,
           "races": []
         },
         {
-          "name": "Felix  Maly",
-          "country": "GER",
-          "totalPoints": 78,
+          "name": "Bart  Swings",
+          "country": "BEL",
+          "totalPoints": 117,
           "bestTime": "",
           "bestPlace": 4,
           "races": []
         },
         {
-          "name": "Antoine  Gélinas-Beaulieu",
-          "country": "CAN",
-          "totalPoints": 74,
+          "name": "Bart  Hoolwerf",
+          "country": "NED",
+          "totalPoints": 112,
           "bestTime": "",
           "bestPlace": 5,
           "races": []
         },
         {
-          "name": "Jordan  Stolz",
-          "country": "USA",
-          "totalPoints": 74,
+          "name": "Felix  Maly",
+          "country": "GER",
+          "totalPoints": 107,
           "bestTime": "",
-          "bestPlace": 5,
-          "races": []
-        },
-        {
-          "name": "Bart  Swings",
-          "country": "BEL",
-          "totalPoints": 74,
-          "bestTime": "",
-          "bestPlace": 7,
-          "races": []
-        },
-        {
-          "name": "Gabriel  Odor",
-          "country": "AUT",
-          "totalPoints": 74,
-          "bestTime": "",
-          "bestPlace": 8,
+          "bestPlace": 6,
           "races": []
         },
         {
           "name": "Livio  Wenger",
           "country": "SUI",
-          "totalPoints": 71,
+          "totalPoints": 107,
           "bestTime": "",
-          "bestPlace": 9,
-          "races": []
-        },
-        {
-          "name": "Seungmin  Cho",
-          "country": "KOR",
-          "totalPoints": 67,
-          "bestTime": "",
-          "bestPlace": 10,
-          "races": []
-        },
-        {
-          "name": "Jake  Weidemann",
-          "country": "CAN",
-          "totalPoints": 66,
-          "bestTime": "",
-          "bestPlace": 11,
-          "races": []
-        },
-        {
-          "name": "Bart  Hoolwerf",
-          "country": "NED",
-          "totalPoints": 64,
-          "bestTime": "",
-          "bestPlace": 12,
+          "bestPlace": 7,
           "races": []
         },
         {
           "name": "Metoděj  Jílek",
           "country": "CZE",
-          "totalPoints": 63,
+          "totalPoints": 101,
           "bestTime": "",
-          "bestPlace": 13,
+          "bestPlace": 8,
           "races": []
         },
         {
-          "name": "Zihan  Zhou",
-          "country": "CHN",
-          "totalPoints": 60,
+          "name": "Antoine  Gélinas-Beaulieu",
+          "country": "CAN",
+          "totalPoints": 97,
           "bestTime": "",
-          "bestPlace": 14,
+          "bestPlace": 9,
           "races": []
         },
         {
-          "name": "Fridtjof  Petzold",
-          "country": "GER",
-          "totalPoints": 58,
+          "name": "Gabriel  Odor",
+          "country": "AUT",
+          "totalPoints": 93,
           "bestTime": "",
-          "bestPlace": 15,
+          "bestPlace": 10,
+          "races": []
+        },
+        {
+          "name": "Jordan  Stolz",
+          "country": "USA",
+          "totalPoints": 92,
+          "bestTime": "",
+          "bestPlace": 11,
           "races": []
         },
         {
           "name": "Viktor Hald  Thorup",
           "country": "DEN",
-          "totalPoints": 58,
+          "totalPoints": 88,
           "bestTime": "",
-          "bestPlace": 16,
+          "bestPlace": 12,
+          "races": []
+        },
+        {
+          "name": "Jake  Weidemann",
+          "country": "CAN",
+          "totalPoints": 86,
+          "bestTime": "",
+          "bestPlace": 13,
+          "races": []
+        },
+        {
+          "name": "Fridtjof  Petzold",
+          "country": "GER",
+          "totalPoints": 84,
+          "bestTime": "",
+          "bestPlace": 14,
           "races": []
         },
         {
           "name": "Timothy  Loubineaud",
           "country": "FRA",
-          "totalPoints": 52,
+          "totalPoints": 84,
+          "bestTime": "",
+          "bestPlace": 15,
+          "races": []
+        },
+        {
+          "name": "Indra  Medard",
+          "country": "BEL",
+          "totalPoints": 78,
+          "bestTime": "",
+          "bestPlace": 16,
+          "races": []
+        },
+        {
+          "name": "Ethan  Cepuran",
+          "country": "USA",
+          "totalPoints": 73,
           "bestTime": "",
           "bestPlace": 17,
           "races": []
@@ -49788,47 +49788,47 @@
         {
           "name": "Shomu  Sasaki",
           "country": "JPN",
-          "totalPoints": 52,
+          "totalPoints": 73,
           "bestTime": "",
           "bestPlace": 18,
           "races": []
         },
         {
-          "name": "Indra  Medard",
-          "country": "BEL",
-          "totalPoints": 51,
+          "name": "Seungmin  Cho",
+          "country": "KOR",
+          "totalPoints": 67,
           "bestTime": "",
           "bestPlace": 19,
           "races": []
         },
         {
-          "name": "Ethan  Cepuran",
-          "country": "USA",
-          "totalPoints": 49,
+          "name": "Yuhaochen  Li",
+          "country": "CHN",
+          "totalPoints": 66,
           "bestTime": "",
           "bestPlace": 20,
           "races": []
         },
         {
-          "name": "Daniele  Di Stefano",
-          "country": "ITA",
-          "totalPoints": 48,
+          "name": "Didrik Eng  Strand",
+          "country": "NOR",
+          "totalPoints": 61,
           "bestTime": "",
           "bestPlace": 21,
           "races": []
         },
         {
-          "name": "Sigurd Holbø  Dyrset",
-          "country": "NOR",
-          "totalPoints": 44,
+          "name": "Daniele  Di Stefano",
+          "country": "ITA",
+          "totalPoints": 60,
           "bestTime": "",
           "bestPlace": 22,
           "races": []
         },
         {
-          "name": "Alexander  Farthofer",
-          "country": "AUT",
-          "totalPoints": 43,
+          "name": "Zihan  Zhou",
+          "country": "CHN",
+          "totalPoints": 60,
           "bestTime": "",
           "bestPlace": 23,
           "races": []
@@ -49836,9 +49836,25 @@
         {
           "name": "Mathieu  Belloir",
           "country": "FRA",
-          "totalPoints": 39,
+          "totalPoints": 54,
           "bestTime": "",
           "bestPlace": 24,
+          "races": []
+        },
+        {
+          "name": "Sigurd Holbø  Dyrset",
+          "country": "NOR",
+          "totalPoints": 44,
+          "bestTime": "",
+          "bestPlace": 25,
+          "races": []
+        },
+        {
+          "name": "Alexander  Farthofer",
+          "country": "AUT",
+          "totalPoints": 43,
+          "bestTime": "",
+          "bestPlace": 26,
           "races": []
         },
         {
@@ -49846,29 +49862,13 @@
           "country": "DEN",
           "totalPoints": 37,
           "bestTime": "",
-          "bestPlace": 25,
-          "races": []
-        },
-        {
-          "name": "Didrik Eng  Strand",
-          "country": "NOR",
-          "totalPoints": 36,
-          "bestTime": "",
-          "bestPlace": 26,
+          "bestPlace": 27,
           "races": []
         },
         {
           "name": "Vadim  Yakubovskiy",
           "country": "KAZ",
           "totalPoints": 36,
-          "bestTime": "",
-          "bestPlace": 27,
-          "races": []
-        },
-        {
-          "name": "Yuhaochen  Li",
-          "country": "CHN",
-          "totalPoints": 35,
           "bestTime": "",
           "bestPlace": 28,
           "races": []
@@ -49882,11 +49882,19 @@
           "races": []
         },
         {
+          "name": "Yahor  Damaratski",
+          "country": "AIN",
+          "totalPoints": 31,
+          "bestTime": "",
+          "bestPlace": 30,
+          "races": []
+        },
+        {
           "name": "Peter  Michael",
           "country": "NZL",
           "totalPoints": 31,
           "bestTime": "",
-          "bestPlace": 30,
+          "bestPlace": 31,
           "races": []
         },
         {
@@ -49894,21 +49902,13 @@
           "country": "POL",
           "totalPoints": 31,
           "bestTime": "",
-          "bestPlace": 31,
+          "bestPlace": 32,
           "races": []
         },
         {
           "name": "Taiyo  Morino",
           "country": "JPN",
           "totalPoints": 31,
-          "bestTime": "",
-          "bestPlace": 32,
-          "races": []
-        },
-        {
-          "name": "Yahor  Damaratski",
-          "country": "AIN",
-          "totalPoints": 29,
           "bestTime": "",
           "bestPlace": 33,
           "races": []
@@ -49990,7 +49990,7 @@
           "country": "SVK",
           "totalPoints": 7,
           "bestTime": "",
-          "bestPlace": 43,
+          "bestPlace": 42,
           "races": []
         },
         {
@@ -50016,151 +50016,151 @@
           {
             "name": "Jorrit  Bergsma",
             "country": "NED",
-            "totalPoints": 94,
+            "totalPoints": 154,
             "bestTime": "",
             "bestPlace": 1,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Andrea  Giovannini",
-            "country": "ITA",
-            "totalPoints": 87,
+            "name": "Jae-Won  Chung",
+            "country": "KOR",
+            "totalPoints": 138,
             "bestTime": "",
             "bestPlace": 2,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Jae-Won  Chung",
-            "country": "KOR",
-            "totalPoints": 84,
+            "name": "Andrea  Giovannini",
+            "country": "ITA",
+            "totalPoints": 127,
             "bestTime": "",
             "bestPlace": 3,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Felix  Maly",
-            "country": "GER",
-            "totalPoints": 78,
+            "name": "Bart  Swings",
+            "country": "BEL",
+            "totalPoints": 117,
             "bestTime": "",
             "bestPlace": 4,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Antoine  Gélinas-Beaulieu",
-            "country": "CAN",
-            "totalPoints": 74,
+            "name": "Bart  Hoolwerf",
+            "country": "NED",
+            "totalPoints": 112,
             "bestTime": "",
             "bestPlace": 5,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Jordan  Stolz",
-            "country": "USA",
-            "totalPoints": 74,
+            "name": "Felix  Maly",
+            "country": "GER",
+            "totalPoints": 107,
             "bestTime": "",
-            "bestPlace": 5,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Bart  Swings",
-            "country": "BEL",
-            "totalPoints": 74,
-            "bestTime": "",
-            "bestPlace": 7,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Gabriel  Odor",
-            "country": "AUT",
-            "totalPoints": 74,
-            "bestTime": "",
-            "bestPlace": 8,
+            "bestPlace": 6,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Livio  Wenger",
             "country": "SUI",
-            "totalPoints": 71,
+            "totalPoints": 107,
             "bestTime": "",
-            "bestPlace": 9,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Seungmin  Cho",
-            "country": "KOR",
-            "totalPoints": 67,
-            "bestTime": "",
-            "bestPlace": 10,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Jake  Weidemann",
-            "country": "CAN",
-            "totalPoints": 66,
-            "bestTime": "",
-            "bestPlace": 11,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Bart  Hoolwerf",
-            "country": "NED",
-            "totalPoints": 64,
-            "bestTime": "",
-            "bestPlace": 12,
+            "bestPlace": 7,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Metoděj  Jílek",
             "country": "CZE",
-            "totalPoints": 63,
+            "totalPoints": 101,
             "bestTime": "",
-            "bestPlace": 13,
+            "bestPlace": 8,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Zihan  Zhou",
-            "country": "CHN",
-            "totalPoints": 60,
+            "name": "Antoine  Gélinas-Beaulieu",
+            "country": "CAN",
+            "totalPoints": 97,
             "bestTime": "",
-            "bestPlace": 14,
+            "bestPlace": 9,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Fridtjof  Petzold",
-            "country": "GER",
-            "totalPoints": 58,
+            "name": "Gabriel  Odor",
+            "country": "AUT",
+            "totalPoints": 93,
             "bestTime": "",
-            "bestPlace": 15,
+            "bestPlace": 10,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Jordan  Stolz",
+            "country": "USA",
+            "totalPoints": 92,
+            "bestTime": "",
+            "bestPlace": 11,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Viktor Hald  Thorup",
             "country": "DEN",
-            "totalPoints": 58,
+            "totalPoints": 88,
             "bestTime": "",
-            "bestPlace": 16,
+            "bestPlace": 12,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Jake  Weidemann",
+            "country": "CAN",
+            "totalPoints": 86,
+            "bestTime": "",
+            "bestPlace": 13,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Fridtjof  Petzold",
+            "country": "GER",
+            "totalPoints": 84,
+            "bestTime": "",
+            "bestPlace": 14,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Timothy  Loubineaud",
             "country": "FRA",
-            "totalPoints": 52,
+            "totalPoints": 84,
+            "bestTime": "",
+            "bestPlace": 15,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Indra  Medard",
+            "country": "BEL",
+            "totalPoints": 78,
+            "bestTime": "",
+            "bestPlace": 16,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Ethan  Cepuran",
+            "country": "USA",
+            "totalPoints": 73,
             "bestTime": "",
             "bestPlace": 17,
             "races": [],
@@ -50169,52 +50169,52 @@
           {
             "name": "Shomu  Sasaki",
             "country": "JPN",
-            "totalPoints": 52,
+            "totalPoints": 73,
             "bestTime": "",
             "bestPlace": 18,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Indra  Medard",
-            "country": "BEL",
-            "totalPoints": 51,
+            "name": "Seungmin  Cho",
+            "country": "KOR",
+            "totalPoints": 67,
             "bestTime": "",
             "bestPlace": 19,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Ethan  Cepuran",
-            "country": "USA",
-            "totalPoints": 49,
+            "name": "Yuhaochen  Li",
+            "country": "CHN",
+            "totalPoints": 66,
             "bestTime": "",
             "bestPlace": 20,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Daniele  Di Stefano",
-            "country": "ITA",
-            "totalPoints": 48,
+            "name": "Didrik Eng  Strand",
+            "country": "NOR",
+            "totalPoints": 61,
             "bestTime": "",
             "bestPlace": 21,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Sigurd Holbø  Dyrset",
-            "country": "NOR",
-            "totalPoints": 44,
+            "name": "Daniele  Di Stefano",
+            "country": "ITA",
+            "totalPoints": 60,
             "bestTime": "",
             "bestPlace": 22,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Alexander  Farthofer",
-            "country": "AUT",
-            "totalPoints": 43,
+            "name": "Zihan  Zhou",
+            "country": "CHN",
+            "totalPoints": 60,
             "bestTime": "",
             "bestPlace": 23,
             "races": [],
@@ -50223,7 +50223,7 @@
           {
             "name": "Mathieu  Belloir",
             "country": "FRA",
-            "totalPoints": 39,
+            "totalPoints": 54,
             "bestTime": "",
             "bestPlace": 24,
             "races": [],
@@ -50240,7 +50240,7 @@
         {
           "name": "Mia  Manganello",
           "country": "USA",
-          "totalPoints": 108,
+          "totalPoints": 162,
           "bestTime": "",
           "bestPlace": 1,
           "races": []
@@ -50248,119 +50248,119 @@
         {
           "name": "Ivanie  Blondin",
           "country": "CAN",
-          "totalPoints": 100,
+          "totalPoints": 143,
           "bestTime": "",
           "bestPlace": 2,
           "races": []
         },
         {
-          "name": "Valerie  Maltais",
-          "country": "CAN",
-          "totalPoints": 97,
+          "name": "Marijke  Groenewoud",
+          "country": "NED",
+          "totalPoints": 138,
           "bestTime": "",
           "bestPlace": 3,
           "races": []
         },
         {
-          "name": "Marijke  Groenewoud",
-          "country": "NED",
-          "totalPoints": 78,
+          "name": "Valerie  Maltais",
+          "country": "CAN",
+          "totalPoints": 127,
           "bestTime": "",
           "bestPlace": 4,
           "races": []
         },
         {
-          "name": "Bente  Kerkhoff",
-          "country": "NED",
-          "totalPoints": 76,
+          "name": "Ji-Woo  Park",
+          "country": "KOR",
+          "totalPoints": 119,
           "bestTime": "",
           "bestPlace": 5,
           "races": []
         },
         {
-          "name": "Francesca  Lollobrigida",
-          "country": "ITA",
-          "totalPoints": 74,
+          "name": "Jundan  Hou",
+          "country": "CHN",
+          "totalPoints": 105,
           "bestTime": "",
           "bestPlace": 6,
           "races": []
         },
         {
-          "name": "Ji-Woo  Park",
-          "country": "KOR",
-          "totalPoints": 71,
+          "name": "Francesca  Lollobrigida",
+          "country": "ITA",
+          "totalPoints": 102,
           "bestTime": "",
           "bestPlace": 7,
           "races": []
         },
         {
-          "name": "Jundan  Hou",
-          "country": "CHN",
-          "totalPoints": 65,
+          "name": "Ayano  Sato",
+          "country": "JPN",
+          "totalPoints": 99,
           "bestTime": "",
           "bestPlace": 8,
           "races": []
         },
         {
-          "name": "Jeannine  Rosner",
-          "country": "AUT",
-          "totalPoints": 65,
+          "name": "Bente  Kerkhoff",
+          "country": "NED",
+          "totalPoints": 98,
           "bestTime": "",
           "bestPlace": 9,
           "races": []
         },
         {
-          "name": "Josie  Hofmann",
-          "country": "GER",
-          "totalPoints": 64,
+          "name": "Kaitlyn  McGregor",
+          "country": "SUI",
+          "totalPoints": 94,
           "bestTime": "",
           "bestPlace": 10,
           "races": []
         },
         {
-          "name": "Fran  Vanhoutte",
-          "country": "BEL",
-          "totalPoints": 62,
+          "name": "Ramona  Härdi",
+          "country": "SUI",
+          "totalPoints": 88,
           "bestTime": "",
           "bestPlace": 11,
           "races": []
         },
         {
-          "name": "Momoka  Horikawa",
-          "country": "JPN",
-          "totalPoints": 61,
+          "name": "Fran  Vanhoutte",
+          "country": "BEL",
+          "totalPoints": 88,
           "bestTime": "",
           "bestPlace": 12,
           "races": []
         },
         {
-          "name": "Ayano  Sato",
+          "name": "Momoka  Horikawa",
           "country": "JPN",
-          "totalPoints": 61,
+          "totalPoints": 82,
           "bestTime": "",
           "bestPlace": 13,
           "races": []
         },
         {
-          "name": "Elizaveta  Golubeva",
-          "country": "KAZ",
-          "totalPoints": 60,
+          "name": "Greta  Myers",
+          "country": "USA",
+          "totalPoints": 81,
           "bestTime": "",
           "bestPlace": 14,
           "races": []
         },
         {
-          "name": "Ramona  Härdi",
-          "country": "SUI",
-          "totalPoints": 59,
+          "name": "Binyu  Yang",
+          "country": "CHN",
+          "totalPoints": 81,
           "bestTime": "",
           "bestPlace": 15,
           "races": []
         },
         {
-          "name": "Kaitlyn  McGregor",
-          "country": "SUI",
-          "totalPoints": 58,
+          "name": "Jeannine  Rosner",
+          "country": "AUT",
+          "totalPoints": 77,
           "bestTime": "",
           "bestPlace": 16,
           "races": []
@@ -50368,41 +50368,57 @@
         {
           "name": "Josephine  Schlörb",
           "country": "GER",
-          "totalPoints": 57,
+          "totalPoints": 77,
           "bestTime": "",
-          "bestPlace": 17,
-          "races": []
-        },
-        {
-          "name": "Greta  Myers",
-          "country": "USA",
-          "totalPoints": 57,
-          "bestTime": "",
-          "bestPlace": 18,
-          "races": []
-        },
-        {
-          "name": "Binyu  Yang",
-          "country": "CHN",
-          "totalPoints": 54,
-          "bestTime": "",
-          "bestPlace": 19,
+          "bestPlace": 16,
           "races": []
         },
         {
           "name": "Aurora Grinden  Løvås",
           "country": "NOR",
-          "totalPoints": 52,
+          "totalPoints": 75,
           "bestTime": "",
-          "bestPlace": 20,
+          "bestPlace": 18,
           "races": []
         },
         {
           "name": "Leewon  Lim",
           "country": "KOR",
-          "totalPoints": 50,
+          "totalPoints": 75,
+          "bestTime": "",
+          "bestPlace": 19,
+          "races": []
+        },
+        {
+          "name": "Sandrine  Tas",
+          "country": "BEL",
+          "totalPoints": 74,
+          "bestTime": "",
+          "bestPlace": 20,
+          "races": []
+        },
+        {
+          "name": "Anastasiia  Semenova",
+          "country": "AIN",
+          "totalPoints": 69,
           "bestTime": "",
           "bestPlace": 21,
+          "races": []
+        },
+        {
+          "name": "Josie  Hofmann",
+          "country": "GER",
+          "totalPoints": 67,
+          "bestTime": "",
+          "bestPlace": 22,
+          "races": []
+        },
+        {
+          "name": "Elizaveta  Golubeva",
+          "country": "KAZ",
+          "totalPoints": 60,
+          "bestTime": "",
+          "bestPlace": 23,
           "races": []
         },
         {
@@ -50410,7 +50426,7 @@
           "country": "POR",
           "totalPoints": 47,
           "bestTime": "",
-          "bestPlace": 22,
+          "bestPlace": 24,
           "races": []
         },
         {
@@ -50418,15 +50434,7 @@
           "country": "ITA",
           "totalPoints": 47,
           "bestTime": "",
-          "bestPlace": 23,
-          "races": []
-        },
-        {
-          "name": "Sandrine  Tas",
-          "country": "BEL",
-          "totalPoints": 40,
-          "bestTime": "",
-          "bestPlace": 24,
+          "bestPlace": 25,
           "races": []
         },
         {
@@ -50434,21 +50442,13 @@
           "country": "FRA",
           "totalPoints": 40,
           "bestTime": "",
-          "bestPlace": 25,
+          "bestPlace": 26,
           "races": []
         },
         {
           "name": "Natalia  Jabrzyk",
           "country": "POL",
           "totalPoints": 39,
-          "bestTime": "",
-          "bestPlace": 26,
-          "races": []
-        },
-        {
-          "name": "Anastasiia  Semenova",
-          "country": "AIN",
-          "totalPoints": 38,
           "bestTime": "",
           "bestPlace": 27,
           "races": []
@@ -50564,7 +50564,7 @@
           {
             "name": "Mia  Manganello",
             "country": "USA",
-            "totalPoints": 108,
+            "totalPoints": 162,
             "bestTime": "",
             "bestPlace": 1,
             "races": [],
@@ -50573,133 +50573,133 @@
           {
             "name": "Ivanie  Blondin",
             "country": "CAN",
-            "totalPoints": 100,
+            "totalPoints": 143,
             "bestTime": "",
             "bestPlace": 2,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Valerie  Maltais",
-            "country": "CAN",
-            "totalPoints": 97,
+            "name": "Marijke  Groenewoud",
+            "country": "NED",
+            "totalPoints": 138,
             "bestTime": "",
             "bestPlace": 3,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Marijke  Groenewoud",
-            "country": "NED",
-            "totalPoints": 78,
+            "name": "Valerie  Maltais",
+            "country": "CAN",
+            "totalPoints": 127,
             "bestTime": "",
             "bestPlace": 4,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Bente  Kerkhoff",
-            "country": "NED",
-            "totalPoints": 76,
+            "name": "Ji-Woo  Park",
+            "country": "KOR",
+            "totalPoints": 119,
             "bestTime": "",
             "bestPlace": 5,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Francesca  Lollobrigida",
-            "country": "ITA",
-            "totalPoints": 74,
+            "name": "Jundan  Hou",
+            "country": "CHN",
+            "totalPoints": 105,
             "bestTime": "",
             "bestPlace": 6,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Ji-Woo  Park",
-            "country": "KOR",
-            "totalPoints": 71,
+            "name": "Francesca  Lollobrigida",
+            "country": "ITA",
+            "totalPoints": 102,
             "bestTime": "",
             "bestPlace": 7,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Jundan  Hou",
-            "country": "CHN",
-            "totalPoints": 65,
+            "name": "Ayano  Sato",
+            "country": "JPN",
+            "totalPoints": 99,
             "bestTime": "",
             "bestPlace": 8,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Jeannine  Rosner",
-            "country": "AUT",
-            "totalPoints": 65,
+            "name": "Bente  Kerkhoff",
+            "country": "NED",
+            "totalPoints": 98,
             "bestTime": "",
             "bestPlace": 9,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Josie  Hofmann",
-            "country": "GER",
-            "totalPoints": 64,
+            "name": "Kaitlyn  McGregor",
+            "country": "SUI",
+            "totalPoints": 94,
             "bestTime": "",
             "bestPlace": 10,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Fran  Vanhoutte",
-            "country": "BEL",
-            "totalPoints": 62,
+            "name": "Ramona  Härdi",
+            "country": "SUI",
+            "totalPoints": 88,
             "bestTime": "",
             "bestPlace": 11,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Momoka  Horikawa",
-            "country": "JPN",
-            "totalPoints": 61,
+            "name": "Fran  Vanhoutte",
+            "country": "BEL",
+            "totalPoints": 88,
             "bestTime": "",
             "bestPlace": 12,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Ayano  Sato",
+            "name": "Momoka  Horikawa",
             "country": "JPN",
-            "totalPoints": 61,
+            "totalPoints": 82,
             "bestTime": "",
             "bestPlace": 13,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Elizaveta  Golubeva",
-            "country": "KAZ",
-            "totalPoints": 60,
+            "name": "Greta  Myers",
+            "country": "USA",
+            "totalPoints": 81,
             "bestTime": "",
             "bestPlace": 14,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Ramona  Härdi",
-            "country": "SUI",
-            "totalPoints": 59,
+            "name": "Binyu  Yang",
+            "country": "CHN",
+            "totalPoints": 81,
             "bestTime": "",
             "bestPlace": 15,
             "races": [],
             "method": "Points"
           },
           {
-            "name": "Kaitlyn  McGregor",
-            "country": "SUI",
-            "totalPoints": 58,
+            "name": "Jeannine  Rosner",
+            "country": "AUT",
+            "totalPoints": 77,
             "bestTime": "",
             "bestPlace": 16,
             "races": [],
@@ -50708,45 +50708,63 @@
           {
             "name": "Josephine  Schlörb",
             "country": "GER",
-            "totalPoints": 57,
+            "totalPoints": 77,
             "bestTime": "",
-            "bestPlace": 17,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Greta  Myers",
-            "country": "USA",
-            "totalPoints": 57,
-            "bestTime": "",
-            "bestPlace": 18,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Binyu  Yang",
-            "country": "CHN",
-            "totalPoints": 54,
-            "bestTime": "",
-            "bestPlace": 19,
+            "bestPlace": 16,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Aurora Grinden  Løvås",
             "country": "NOR",
-            "totalPoints": 52,
+            "totalPoints": 75,
             "bestTime": "",
-            "bestPlace": 20,
+            "bestPlace": 18,
             "races": [],
             "method": "Points"
           },
           {
             "name": "Leewon  Lim",
             "country": "KOR",
-            "totalPoints": 50,
+            "totalPoints": 75,
+            "bestTime": "",
+            "bestPlace": 19,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Sandrine  Tas",
+            "country": "BEL",
+            "totalPoints": 74,
+            "bestTime": "",
+            "bestPlace": 20,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Anastasiia  Semenova",
+            "country": "AIN",
+            "totalPoints": 69,
             "bestTime": "",
             "bestPlace": 21,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Josie  Hofmann",
+            "country": "GER",
+            "totalPoints": 67,
+            "bestTime": "",
+            "bestPlace": 22,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Elizaveta  Golubeva",
+            "country": "KAZ",
+            "totalPoints": 60,
+            "bestTime": "",
+            "bestPlace": 23,
             "races": [],
             "method": "Points"
           },
@@ -50754,24 +50772,6 @@
             "name": "Jéssica Carolina  Santos Rodrigues",
             "country": "POR",
             "totalPoints": 47,
-            "bestTime": "",
-            "bestPlace": 22,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Linda  Rossi",
-            "country": "ITA",
-            "totalPoints": 47,
-            "bestTime": "",
-            "bestPlace": 23,
-            "races": [],
-            "method": "Points"
-          },
-          {
-            "name": "Sandrine  Tas",
-            "country": "BEL",
-            "totalPoints": 40,
             "bestTime": "",
             "bestPlace": 24,
             "races": [],
@@ -52274,6 +52274,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-07T12:38:43.061Z",
+  "lastUpdated": "2025-12-09T22:27:40.824Z",
   "isUpdating": false
 }
