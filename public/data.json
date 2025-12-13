@@ -17317,6 +17317,75 @@
           ]
         },
         {
+          "name": "Bjørn Magnussen",
+          "country": "NOR",
+          "totalPoints": 192,
+          "bestTime": "33.99",
+          "bestPlace": 5,
+          "races": [
+            {
+              "rank": "6",
+              "name": "Bjørn Magnussen",
+              "country": "NOR",
+              "time": "34.59",
+              "points": 38,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "5",
+              "name": "Bjørn Magnussen",
+              "country": "NOR",
+              "time": "33.99",
+              "points": 40,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "9",
+              "name": "Bjørn Magnussen",
+              "country": "NOR",
+              "time": "34.04",
+              "points": 32,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "19",
+              "name": "Bjørn Magnussen F",
+              "country": "NOR",
+              "time": "54.01",
+              "points": 22,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Bjørn Magnussen",
+              "country": "NOR",
+              "time": "34.39",
+              "points": 26,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "8",
+              "name": "Bjørn Magnussen",
+              "country": "NOR",
+              "time": "34.47",
+              "points": 34,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Damian Żurek",
           "country": "POL",
           "totalPoints": 189,
@@ -17918,65 +17987,6 @@
           ]
         },
         {
-          "name": "Bjørn Magnussen",
-          "country": "NOR",
-          "totalPoints": 170,
-          "bestTime": "33.99",
-          "bestPlace": 5,
-          "races": [
-            {
-              "rank": "6",
-              "name": "Bjørn Magnussen",
-              "country": "NOR",
-              "time": "34.59",
-              "points": 38,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "5",
-              "name": "Bjørn Magnussen",
-              "country": "NOR",
-              "time": "33.99",
-              "points": 40,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "9",
-              "name": "Bjørn Magnussen",
-              "country": "NOR",
-              "time": "34.04",
-              "points": 32,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "15",
-              "name": "Bjørn Magnussen",
-              "country": "NOR",
-              "time": "34.39",
-              "points": 26,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "8",
-              "name": "Bjørn Magnussen",
-              "country": "NOR",
-              "time": "34.47",
-              "points": 34,
-              "eventId": "WC3",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Marek Kania",
           "country": "POL",
           "totalPoints": 169,
@@ -18098,6 +18108,75 @@
               "country": "CHN",
               "time": "34.78",
               "points": 26,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
+          "name": "Tatsuya Shinhama",
+          "country": "JPN",
+          "totalPoints": 158,
+          "bestTime": "34.07",
+          "bestPlace": 1,
+          "races": [
+            {
+              "rank": "12",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.77",
+              "points": 29,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "14",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.37",
+              "points": 27,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.30",
+              "points": 26,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "20",
+              "name": "Tatsuya Shinhama F",
+              "country": "JPN",
+              "time": "1:00.83",
+              "points": 21,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "1",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.07",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "14",
+              "name": "Tatsuya Shinhama",
+              "country": "JPN",
+              "time": "34.74",
+              "points": 27,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
@@ -18305,65 +18384,6 @@
               "country": "JPN",
               "time": "34.35",
               "points": 40,
-              "eventId": "WC3",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Tatsuya Shinhama",
-          "country": "JPN",
-          "totalPoints": 137,
-          "bestTime": "34.07",
-          "bestPlace": 1,
-          "races": [
-            {
-              "rank": "12",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.77",
-              "points": 29,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "14",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.37",
-              "points": 27,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "15",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.30",
-              "points": 26,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "1",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.07",
-              "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "14",
-              "name": "Tatsuya Shinhama",
-              "country": "JPN",
-              "time": "34.74",
-              "points": 27,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "men"
@@ -19710,25 +19730,6 @@
           ]
         },
         {
-          "name": "Bjørn Magnussen F",
-          "country": "NOR",
-          "totalPoints": 22,
-          "bestTime": "54.01",
-          "bestPlace": 19,
-          "races": [
-            {
-              "rank": "19",
-              "name": "Bjørn Magnussen F",
-              "country": "NOR",
-              "time": "54.01",
-              "points": 22,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
           "name": "Artur Galiyev",
           "country": "KAZ",
           "totalPoints": 21,
@@ -19782,25 +19783,6 @@
               "time": "35.21",
               "points": 8,
               "eventId": "WC3",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Tatsuya Shinhama F",
-          "country": "JPN",
-          "totalPoints": 21,
-          "bestTime": "1:00.83",
-          "bestPlace": 20,
-          "races": [
-            {
-              "rank": "20",
-              "name": "Tatsuya Shinhama F",
-              "country": "JPN",
-              "time": "1:00.83",
-              "points": 21,
-              "eventId": "WC2",
               "distance": "500m",
               "gender": "men"
             }
@@ -20954,7 +20936,7 @@
           "name": "Bjørn Magnussen",
           "country": "NOR",
           "bestTime": "33.99",
-          "totalPoints": 170
+          "totalPoints": 192
         },
         {
           "name": "Marek Kania",
@@ -20990,7 +20972,7 @@
           "name": "Tatsuya Shinhama",
           "country": "JPN",
           "bestTime": "34.07",
-          "totalPoints": 137
+          "totalPoints": 158
         },
         {
           "name": "Sebastian Diniz",
@@ -21309,18 +21291,6 @@
           "country": "CZE",
           "bestTime": "36.88",
           "totalPoints": 0
-        },
-        {
-          "name": "Bjørn Magnussen F",
-          "country": "NOR",
-          "bestTime": "54.01",
-          "totalPoints": 22
-        },
-        {
-          "name": "Tatsuya Shinhama F",
-          "country": "JPN",
-          "bestTime": "1:00.83",
-          "totalPoints": 21
         }
       ],
       "quotas": {
@@ -21588,6 +21558,76 @@
                 "country": "KOR",
                 "time": "34.43",
                 "points": 36,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Bjørn Magnussen",
+            "country": "NOR",
+            "totalPoints": 192,
+            "bestTime": "33.99",
+            "bestPlace": 5,
+            "races": [
+              {
+                "rank": "6",
+                "name": "Bjørn Magnussen",
+                "country": "NOR",
+                "time": "34.59",
+                "points": 38,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "5",
+                "name": "Bjørn Magnussen",
+                "country": "NOR",
+                "time": "33.99",
+                "points": 40,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "9",
+                "name": "Bjørn Magnussen",
+                "country": "NOR",
+                "time": "34.04",
+                "points": 32,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "19",
+                "name": "Bjørn Magnussen F",
+                "country": "NOR",
+                "time": "54.01",
+                "points": 22,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "15",
+                "name": "Bjørn Magnussen",
+                "country": "NOR",
+                "time": "34.39",
+                "points": 26,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "8",
+                "name": "Bjørn Magnussen",
+                "country": "NOR",
+                "time": "34.47",
+                "points": 34,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "men"
@@ -22206,66 +22246,6 @@
             "method": "Points"
           },
           {
-            "name": "Bjørn Magnussen",
-            "country": "NOR",
-            "totalPoints": 170,
-            "bestTime": "33.99",
-            "bestPlace": 5,
-            "races": [
-              {
-                "rank": "6",
-                "name": "Bjørn Magnussen",
-                "country": "NOR",
-                "time": "34.59",
-                "points": 38,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "5",
-                "name": "Bjørn Magnussen",
-                "country": "NOR",
-                "time": "33.99",
-                "points": 40,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "9",
-                "name": "Bjørn Magnussen",
-                "country": "NOR",
-                "time": "34.04",
-                "points": 32,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "15",
-                "name": "Bjørn Magnussen",
-                "country": "NOR",
-                "time": "34.39",
-                "points": 26,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "8",
-                "name": "Bjørn Magnussen",
-                "country": "NOR",
-                "time": "34.47",
-                "points": 34,
-                "eventId": "WC3",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
             "name": "Marek Kania",
             "country": "POL",
             "totalPoints": 169,
@@ -22388,6 +22368,76 @@
                 "country": "CHN",
                 "time": "34.78",
                 "points": 26,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Tatsuya Shinhama",
+            "country": "JPN",
+            "totalPoints": 158,
+            "bestTime": "34.07",
+            "bestPlace": 1,
+            "races": [
+              {
+                "rank": "12",
+                "name": "Tatsuya Shinhama",
+                "country": "JPN",
+                "time": "34.77",
+                "points": 29,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "14",
+                "name": "Tatsuya Shinhama",
+                "country": "JPN",
+                "time": "34.37",
+                "points": 27,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "15",
+                "name": "Tatsuya Shinhama",
+                "country": "JPN",
+                "time": "34.30",
+                "points": 26,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "20",
+                "name": "Tatsuya Shinhama F",
+                "country": "JPN",
+                "time": "1:00.83",
+                "points": 21,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "1",
+                "name": "Tatsuya Shinhama",
+                "country": "JPN",
+                "time": "34.07",
+                "points": 28,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "14",
+                "name": "Tatsuya Shinhama",
+                "country": "JPN",
+                "time": "34.74",
+                "points": 27,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "men"
@@ -22528,76 +22578,6 @@
                 "country": "CAN",
                 "time": "34.99",
                 "points": 15,
-                "eventId": "WC3",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Katsuhiro Kuratsubo",
-            "country": "JPN",
-            "totalPoints": 141,
-            "bestTime": "34.13",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "11",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.73",
-                "points": 30,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "17",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.93",
-                "points": 4,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "16",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.84",
-                "points": 5,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "2",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.34",
-                "points": 24,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "6",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.13",
-                "points": 38,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "5",
-                "name": "Katsuhiro Kuratsubo",
-                "country": "JPN",
-                "time": "34.35",
-                "points": 40,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "men"
@@ -23057,6 +23037,75 @@
           ]
         },
         {
+          "name": "Yukino Yoshida",
+          "country": "JPN",
+          "totalPoints": 235,
+          "bestTime": "36.88",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "3",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.75",
+              "points": 48,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "36.88",
+              "points": 48,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.06",
+              "points": 43,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "19",
+              "name": "Yukino Yoshida F",
+              "country": "JPN",
+              "time": "1:03.79",
+              "points": 22,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "10",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.44",
+              "points": 31,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.63",
+              "points": 43,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Jutta Leerdam",
           "country": "NED",
           "totalPoints": 219,
@@ -23109,65 +23158,6 @@
               "country": "NED",
               "time": "37.36",
               "points": 54,
-              "eventId": "WC3",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Yukino Yoshida",
-          "country": "JPN",
-          "totalPoints": 213,
-          "bestTime": "36.88",
-          "bestPlace": 3,
-          "races": [
-            {
-              "rank": "3",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.75",
-              "points": 48,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "3",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "36.88",
-              "points": 48,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "4",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.06",
-              "points": 43,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "10",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.44",
-              "points": 31,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "4",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.63",
-              "points": 43,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
@@ -25378,25 +25368,6 @@
           ]
         },
         {
-          "name": "Yukino Yoshida F",
-          "country": "JPN",
-          "totalPoints": 22,
-          "bestTime": "1:03.79",
-          "bestPlace": 19,
-          "races": [
-            {
-              "rank": "19",
-              "name": "Yukino Yoshida F",
-              "country": "JPN",
-              "time": "1:03.79",
-              "points": 22,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
           "name": "Isabel Grevelt",
           "country": "NED",
           "totalPoints": 21,
@@ -26599,7 +26570,7 @@
           "name": "Yukino Yoshida",
           "country": "JPN",
           "bestTime": "36.88",
-          "totalPoints": 213
+          "totalPoints": 235
         },
         {
           "name": "Jutta Leerdam",
@@ -26980,12 +26951,6 @@
           "totalPoints": 0
         },
         {
-          "name": "Yukino Yoshida F",
-          "country": "JPN",
-          "bestTime": "1:03.79",
-          "totalPoints": 22
-        },
-        {
           "name": "Suzanne Schulting",
           "country": "NED",
           "bestTime": "1:34.45",
@@ -27205,6 +27170,76 @@
             "method": "Points"
           },
           {
+            "name": "Yukino Yoshida",
+            "country": "JPN",
+            "totalPoints": 235,
+            "bestTime": "36.88",
+            "bestPlace": 3,
+            "races": [
+              {
+                "rank": "3",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.75",
+                "points": 48,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "3",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "36.88",
+                "points": 48,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.06",
+                "points": 43,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "19",
+                "name": "Yukino Yoshida F",
+                "country": "JPN",
+                "time": "1:03.79",
+                "points": 22,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "10",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.44",
+                "points": 31,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.63",
+                "points": 43,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Jutta Leerdam",
             "country": "NED",
             "totalPoints": 219,
@@ -27257,66 +27292,6 @@
                 "country": "NED",
                 "time": "37.36",
                 "points": 54,
-                "eventId": "WC3",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Yukino Yoshida",
-            "country": "JPN",
-            "totalPoints": 213,
-            "bestTime": "36.88",
-            "bestPlace": 3,
-            "races": [
-              {
-                "rank": "3",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.75",
-                "points": 48,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "3",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "36.88",
-                "points": 48,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.06",
-                "points": 43,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "10",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.44",
-                "points": 31,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.63",
-                "points": 43,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
@@ -48886,6 +48861,16 @@
               "gender": "women"
             },
             {
+              "rank": "40",
+              "name": "Zuzana Kur Ov Á F",
+              "country": "CZE",
+              "time": "4:35.60",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "3000m",
+              "gender": "women"
+            },
+            {
               "rank": "35",
               "name": "Zuzana Kur Ov Á",
               "country": "CZE",
@@ -49034,25 +49019,6 @@
               "name": "Piper Yde",
               "country": "USA",
               "time": "4:22.40",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "3000m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Zuzana Kur Ov Á F",
-          "country": "CZE",
-          "totalPoints": 0,
-          "bestTime": "4:35.60",
-          "bestPlace": 40,
-          "races": [
-            {
-              "rank": "40",
-              "name": "Zuzana Kur Ov Á F",
-              "country": "CZE",
-              "time": "4:35.60",
               "points": 0,
               "eventId": "WC1",
               "distance": "3000m",
@@ -49444,12 +49410,6 @@
           "name": "Piper Yde",
           "country": "USA",
           "bestTime": "4:22.40",
-          "totalPoints": 0
-        },
-        {
-          "name": "Zuzana Kur Ov Á F",
-          "country": "CZE",
-          "bestTime": "4:35.60",
           "totalPoints": 0
         }
       ],
@@ -57037,6 +56997,16 @@
               "gender": "women"
             },
             {
+              "rank": "40",
+              "name": "Zuzana Kur Ov Á F",
+              "country": "CZE",
+              "time": "4:35.60",
+              "points": 0,
+              "eventId": "WC1",
+              "distance": "3000m",
+              "gender": "women"
+            },
+            {
               "rank": "35",
               "name": "Zuzana Kur Ov Á",
               "country": "CZE",
@@ -57175,25 +57145,6 @@
               "name": "Piper Yde",
               "country": "USA",
               "time": "4:22.40",
-              "points": 0,
-              "eventId": "WC1",
-              "distance": "3000m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Zuzana Kur Ov Á F",
-          "country": "CZE",
-          "totalPoints": 0,
-          "bestTime": "4:35.60",
-          "bestPlace": 40,
-          "races": [
-            {
-              "rank": "40",
-              "name": "Zuzana Kur Ov Á F",
-              "country": "CZE",
-              "time": "4:35.60",
               "points": 0,
               "eventId": "WC1",
               "distance": "3000m",
@@ -64452,6 +64403,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-13T19:07:49.239Z",
+  "lastUpdated": "2025-12-13T19:36:46.093Z",
   "isUpdating": false
 }

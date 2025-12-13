@@ -118,8 +118,16 @@ function calculateTeamPursuitTimes(results) {
 function calculateSOQCPoints(results) {
     const skaterData = {};
 
+    // Helper to normalize names - removes trailing single letters that get attached during PDF parsing
+    function normalizeName(name) {
+        if (!name) return '';
+        // Remove trailing single letter (like "Yukino Yoshida F" -> "Yukino Yoshida")
+        return name.replace(/\s+[A-Z]$/i, '').trim();
+    }
+
     results.forEach(result => {
-        const key = `${result.name}|${result.country}`;
+        const cleanName = normalizeName(result.name);
+        const key = `${cleanName}|${result.country}`;
         if (!skaterData[key]) {
             skaterData[key] = {
                 name: result.name,
@@ -166,8 +174,15 @@ function calculateSOQCPoints(results) {
 function calculateSOQCTimes(results) {
     const skaterData = {};
 
+    // Helper to normalize names - removes trailing single letters that get attached during PDF parsing
+    function normalizeName(name) {
+        if (!name) return '';
+        return name.replace(/\s+[A-Z]$/i, '').trim();
+    }
+
     results.forEach(result => {
-        const key = `${result.name}|${result.country}`;
+        const cleanName = normalizeName(result.name);
+        const key = `${cleanName}|${result.country}`;
         if (!skaterData[key]) {
             skaterData[key] = {
                 name: result.name,
