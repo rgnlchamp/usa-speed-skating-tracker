@@ -2555,6 +2555,13 @@
             "country": "CHN",
             "time": "48.10",
             "points": 22
+          },
+          {
+            "rank": "20",
+            "name": "Joep Wennemars",
+            "country": "NED",
+            "time": "DNF",
+            "points": 21
           }
         ]
       },
@@ -14321,11 +14328,11 @@
             "points": 22
           },
           {
+            "rank": "20",
             "name": "Erin Jackson",
             "country": "USA",
-            "points": 21,
-            "rank": "20",
-            "time": "DNF"
+            "time": "DNF",
+            "points": 21
           }
         ]
       },
@@ -15747,6 +15754,13 @@
             "country": "BEL",
             "time": "13:57.21",
             "points": 0
+          },
+          {
+            "rank": "40",
+            "name": "Hanbin Liu",
+            "country": "CHN",
+            "time": "DNF",
+            "points": 0
           }
         ]
       },
@@ -17031,6 +17045,65 @@
           ]
         },
         {
+          "name": "Joep Wennemars",
+          "country": "NED",
+          "totalPoints": 129,
+          "bestTime": "34.32",
+          "bestPlace": 12,
+          "races": [
+            {
+              "rank": "20",
+              "name": "Joep Wennemars",
+              "country": "NED",
+              "time": "DNF",
+              "points": 21,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "12",
+              "name": "Joep Wennemars",
+              "country": "NED",
+              "time": "34.33",
+              "points": 29,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "16",
+              "name": "Joep Wennemars",
+              "country": "NED",
+              "time": "34.35",
+              "points": 25,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "15",
+              "name": "Joep Wennemars",
+              "country": "NED",
+              "time": "34.55",
+              "points": 26,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            },
+            {
+              "rank": "13",
+              "name": "Joep Wennemars",
+              "country": "NED",
+              "time": "34.32",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "men"
+            }
+          ]
+        },
+        {
           "name": "Marek Kania",
           "country": "POL",
           "totalPoints": 126,
@@ -17121,55 +17194,6 @@
               "name": "Tatsuya Shinhama",
               "country": "JPN",
               "time": "34.07",
-              "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            }
-          ]
-        },
-        {
-          "name": "Joep Wennemars",
-          "country": "NED",
-          "totalPoints": 108,
-          "bestTime": "34.32",
-          "bestPlace": 12,
-          "races": [
-            {
-              "rank": "12",
-              "name": "Joep Wennemars",
-              "country": "NED",
-              "time": "34.33",
-              "points": 29,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "16",
-              "name": "Joep Wennemars",
-              "country": "NED",
-              "time": "34.35",
-              "points": 25,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "15",
-              "name": "Joep Wennemars",
-              "country": "NED",
-              "time": "34.55",
-              "points": 26,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "men"
-            },
-            {
-              "rank": "13",
-              "name": "Joep Wennemars",
-              "country": "NED",
-              "time": "34.32",
               "points": 28,
               "eventId": "WC2",
               "distance": "500m",
@@ -19890,7 +19914,7 @@
           "name": "Joep Wennemars",
           "country": "NED",
           "bestTime": "34.32",
-          "totalPoints": 108
+          "totalPoints": 129
         },
         {
           "name": "Nil Llop Izquierdo",
@@ -21122,6 +21146,66 @@
             "method": "Points"
           },
           {
+            "name": "Joep Wennemars",
+            "country": "NED",
+            "totalPoints": 129,
+            "bestTime": "34.32",
+            "bestPlace": 12,
+            "races": [
+              {
+                "rank": "20",
+                "name": "Joep Wennemars",
+                "country": "NED",
+                "time": "DNF",
+                "points": 21,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "12",
+                "name": "Joep Wennemars",
+                "country": "NED",
+                "time": "34.33",
+                "points": 29,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "16",
+                "name": "Joep Wennemars",
+                "country": "NED",
+                "time": "34.35",
+                "points": 25,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "15",
+                "name": "Joep Wennemars",
+                "country": "NED",
+                "time": "34.55",
+                "points": 26,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              },
+              {
+                "rank": "13",
+                "name": "Joep Wennemars",
+                "country": "NED",
+                "time": "34.32",
+                "points": 28,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "men"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Marek Kania",
             "country": "POL",
             "totalPoints": 126,
@@ -21213,56 +21297,6 @@
                 "name": "Tatsuya Shinhama",
                 "country": "JPN",
                 "time": "34.07",
-                "points": 28,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Joep Wennemars",
-            "country": "NED",
-            "totalPoints": 108,
-            "bestTime": "34.32",
-            "bestPlace": 12,
-            "races": [
-              {
-                "rank": "12",
-                "name": "Joep Wennemars",
-                "country": "NED",
-                "time": "34.33",
-                "points": 29,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "16",
-                "name": "Joep Wennemars",
-                "country": "NED",
-                "time": "34.35",
-                "points": 25,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "15",
-                "name": "Joep Wennemars",
-                "country": "NED",
-                "time": "34.55",
-                "points": 26,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "men"
-              },
-              {
-                "rank": "13",
-                "name": "Joep Wennemars",
-                "country": "NED",
-                "time": "34.32",
                 "points": 28,
                 "eventId": "WC2",
                 "distance": "500m",
@@ -21721,11 +21755,11 @@
               "gender": "women"
             },
             {
+              "rank": "20",
               "name": "Erin Jackson",
               "country": "USA",
-              "points": 21,
-              "rank": "20",
               "time": "DNF",
+              "points": 21,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
@@ -25868,11 +25902,11 @@
                 "gender": "women"
               },
               {
+                "rank": "20",
                 "name": "Erin Jackson",
                 "country": "USA",
-                "points": 21,
-                "rank": "20",
                 "time": "DNF",
+                "points": 21,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
@@ -50564,6 +50598,16 @@
               "eventId": "WC2",
               "distance": "5000m",
               "gender": "men"
+            },
+            {
+              "rank": "40",
+              "name": "Hanbin Liu",
+              "country": "CHN",
+              "time": "DNF",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "10000m",
+              "gender": "men"
             }
           ]
         },
@@ -58255,6 +58299,16 @@
           "bestPlace": 4,
           "races": [
             {
+              "rank": "40",
+              "name": "Hanbin Liu",
+              "country": "CHN",
+              "time": "DNF",
+              "points": 0,
+              "eventId": "WC3",
+              "distance": "10000m",
+              "gender": "men"
+            },
+            {
               "rank": "7",
               "name": "Hanbin Liu",
               "country": "CHN",
@@ -63108,6 +63162,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-13T18:15:29.997Z",
+  "lastUpdated": "2025-12-13T18:30:58.336Z",
   "isUpdating": false
 }

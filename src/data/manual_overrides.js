@@ -7,20 +7,11 @@
  * 3. Need adjustment for other reasons
  * 
  * These overrides are applied during the data aggregation phase in store_pdf.js.
+ * 
+ * NOTE: DNF entries are now automatically parsed from PDFs with their points.
  */
 
 module.exports = [
-    {
-        // Fix for Erin Jackson: DNF in Women's 500m (A Division) - WC3
-        // Rule: DNF in A Division gets last place points (21 points)
-        name: "Erin Jackson",
-        country: "USA",
-        distance: "500m",
-        gender: "women",
-        division: "A",  // Specify division to match correct race
-        eventId: "WC3", // World Cup #3
-        points: 21,
-        rank: "20", // Last place in A Division
-        time: "DNF"
-    }
+    // No manual overrides needed - DNF parsing is now automatic
 ];
+

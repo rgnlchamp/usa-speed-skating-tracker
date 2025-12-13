@@ -3,6 +3,7 @@ const pdfParser = require('./pdf_parser');
 
 /**
  * Fetch event data from PDF files instead of web scraping
+ * Uses AI parsing if GEMINI_API_KEY is set, otherwise falls back to standard parser
  * @param {string} pdfDirectory - Path to directory containing PDF files (default: '../../data/pdf')
  * @returns {Promise<Array>} Array of race data compatible with qualification_rules_v2
  */
@@ -12,14 +13,30 @@ async function fetchEventDataFromPDFs(pdfDirectory = null) {
 
     console.log(`Loading PDF data from: ${pdfDir}...`);
 
-    // Parse all PDFs in the directory
-    if (!pdfParser || typeof pdfParser.parseAllPDFs !== 'function') {
-        console.error('Error: pdfParser.parseAllPDFs is not a function');
-        console.error('pdfParser exports:', pdfParser);
-        throw new Error('pdfParser.parseAllPDFs is not a function');
+    let races;
+
+    // Check if AI parsing should be used
+    const apiKey = process.env.GEMINI_API_KEY;
+    if (apiKey && apiKey.length > 10) {
+        console.log('🤖 Using Gemini AI for PDF parsing (GEMINI_API_KEY detected)');
+        try {
+            const { parseAllPDFsWithAI } = require('./pdf_parser_ai');
+            races = await parseAllPDFsWithAI(pdfDir, apiKey);
+        } catch (error) {
+            console.error('AI parsing failed, falling back to standard parser:', error.message);
+            races = await pdfParser.parseAllPDFs(pdfDir);
+        }
+    } else {
+        console.log('📄 Using standard PDF parser (set GEMINI_API_KEY for AI parsing)');
+        // Parse all PDFs in the directory
+        if (!pdfParser || typeof pdfParser.parseAllPDFs !== 'function') {
+            console.error('Error: pdfParser.parseAllPDFs is not a function');
+            console.error('pdfParser exports:', pdfParser);
+            throw new Error('pdfParser.parseAllPDFs is not a function');
+        }
+        races = await pdfParser.parseAllPDFs(pdfDir);
     }
 
-    const races = await pdfParser.parseAllPDFs(pdfDir);
     console.log(`[Data Fetcher] Parsed ${races.length} races from ${pdfDir}`);
 
     // Transform to match the format expected by qualification_rules_v2

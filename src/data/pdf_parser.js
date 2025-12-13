@@ -330,11 +330,17 @@ function parseResultsTable(text, distance, filename) {
             }
             if (!time) time = 'Mass Start';
         } else {
-            // Standard Events
+            // Standard Events - look for time OR DNF/DSQ
             for (let k = countryIndex + 1; k < Math.min(countryIndex + 5, tokens.length); k++) {
                 // Match M:SS.SS((N)) or SS.SS((N))
                 if (tokens[k].match(/^\d{1,2}:\d{2}\.\d{2}(\(\d+\))?$/) || tokens[k].match(/^\d{2}\.\d{2}(\(\d+\))?$/)) {
                     time = tokens[k].replace(/\(\d+\)/g, '');
+                    timeIndex = k;
+                    break;
+                }
+                // Check for DNF, DSQ, DNS, etc.
+                if (tokens[k].match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC)$/i)) {
+                    time = tokens[k].toUpperCase();
                     timeIndex = k;
                     break;
                 }
@@ -343,7 +349,9 @@ function parseResultsTable(text, distance, filename) {
 
         if (isDebug) console.log(`[DEBUG] Time: ${time}`);
 
-        if (!time && distance !== 'Mass Start') {
+        // Allow DNF/DSQ entries even without a numeric time
+        const isDNF = time && time.match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC)$/i);
+        if (!time && distance !== 'Mass Start' && !isDNF) {
             if (isDebug) console.log(`[DEBUG] Failed to find time.`);
             i++;
             continue;
