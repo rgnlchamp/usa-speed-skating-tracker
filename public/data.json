@@ -16409,6 +16409,13 @@
             "country": "POL",
             "time": "1:17.23",
             "points": 22
+          },
+          {
+            "name": "Erin Jackson",
+            "country": "USA",
+            "points": 21,
+            "rank": "20",
+            "time": "DNF"
           }
         ]
       },
@@ -33813,6 +33820,55 @@
           ]
         },
         {
+          "name": "Erin Jackson",
+          "country": "USA",
+          "totalPoints": 98,
+          "bestTime": "1:13.72",
+          "bestPlace": 8,
+          "races": [
+            {
+              "rank": "20",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "1:20.94",
+              "points": 21,
+              "eventId": "WC4",
+              "distance": "1000m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "1:13.72",
+              "points": 34,
+              "eventId": "WC1",
+              "distance": "1000m",
+              "gender": "women"
+            },
+            {
+              "rank": "19",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "1:15.74",
+              "points": 22,
+              "eventId": "WC2",
+              "distance": "1000m",
+              "gender": "women"
+            },
+            {
+              "name": "Erin Jackson",
+              "country": "USA",
+              "points": 21,
+              "rank": "20",
+              "time": "DNF",
+              "eventId": "WC3",
+              "distance": "1000m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Yukino Yoshida",
           "country": "JPN",
           "totalPoints": 93,
@@ -34169,45 +34225,6 @@
               "time": "1:16.16",
               "points": 17,
               "eventId": "WC3",
-              "distance": "1000m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Erin Jackson",
-          "country": "USA",
-          "totalPoints": 77,
-          "bestTime": "1:13.72",
-          "bestPlace": 8,
-          "races": [
-            {
-              "rank": "20",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "1:20.94",
-              "points": 21,
-              "eventId": "WC4",
-              "distance": "1000m",
-              "gender": "women"
-            },
-            {
-              "rank": "8",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "1:13.72",
-              "points": 34,
-              "eventId": "WC1",
-              "distance": "1000m",
-              "gender": "women"
-            },
-            {
-              "rank": "19",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "1:15.74",
-              "points": 22,
-              "eventId": "WC2",
               "distance": "1000m",
               "gender": "women"
             }
@@ -35964,7 +35981,7 @@
           "name": "Erin Jackson",
           "country": "USA",
           "bestTime": "1:13.72",
-          "totalPoints": 77
+          "totalPoints": 98
         },
         {
           "name": "Antoinette Rijpma De Jong",
@@ -36948,6 +36965,56 @@
             "method": "Points"
           },
           {
+            "name": "Erin Jackson",
+            "country": "USA",
+            "totalPoints": 98,
+            "bestTime": "1:13.72",
+            "bestPlace": 8,
+            "races": [
+              {
+                "rank": "20",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "1:20.94",
+                "points": 21,
+                "eventId": "WC4",
+                "distance": "1000m",
+                "gender": "women"
+              },
+              {
+                "rank": "8",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "1:13.72",
+                "points": 34,
+                "eventId": "WC1",
+                "distance": "1000m",
+                "gender": "women"
+              },
+              {
+                "rank": "19",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "1:15.74",
+                "points": 22,
+                "eventId": "WC2",
+                "distance": "1000m",
+                "gender": "women"
+              },
+              {
+                "name": "Erin Jackson",
+                "country": "USA",
+                "points": 21,
+                "rank": "20",
+                "time": "DNF",
+                "eventId": "WC3",
+                "distance": "1000m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Yukino Yoshida",
             "country": "JPN",
             "totalPoints": 93,
@@ -37268,63 +37335,6 @@
             "method": "Points"
           },
           {
-            "name": "Natalia Czerwonka",
-            "country": "POL",
-            "totalPoints": 77,
-            "bestTime": "1:15.06",
-            "bestPlace": 3,
-            "races": [
-              {
-                "rank": "3",
-                "name": "Natalia Czerwonka",
-                "country": "POL",
-                "time": "1:17.18",
-                "points": 21,
-                "eventId": "WC4",
-                "distance": "1000m",
-                "gender": "women"
-              },
-              {
-                "rank": "16",
-                "name": "Natalia Czerwonka",
-                "country": "POL",
-                "time": "1:15.24",
-                "points": 25,
-                "eventId": "WC1",
-                "distance": "1000m",
-                "gender": "women"
-              },
-              {
-                "rank": "7",
-                "name": "Natalia Czerwonka",
-                "country": "POL",
-                "time": "1:15.06",
-                "points": 14,
-                "eventId": "WC2",
-                "distance": "1000m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Natalia Czerwonka",
-                "country": "POL",
-                "time": "1:16.16",
-                "points": 17,
-                "eventId": "WC3",
-                "distance": "1000m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Erin Jackson",
-            "country": "USA",
-            "bestTime": "1:13.72",
-            "totalPoints": 77,
-            "method": "Times"
-          },
-          {
             "name": "Kaitlyn Mcgregor",
             "country": "SUI",
             "bestTime": "1:14.66",
@@ -37350,6 +37360,13 @@
             "country": "CHN",
             "bestTime": "1:15.03",
             "totalPoints": 44,
+            "method": "Times"
+          },
+          {
+            "name": "Natalia Czerwonka",
+            "country": "POL",
+            "bestTime": "1:15.06",
+            "totalPoints": 77,
             "method": "Times"
           },
           {
@@ -64403,6 +64420,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-13T19:36:46.093Z",
+  "lastUpdated": "2025-12-13T19:45:34.984Z",
   "isUpdating": false
 }
