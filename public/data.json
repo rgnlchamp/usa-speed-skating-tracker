@@ -14179,6 +14179,151 @@
       },
       {
         "eventNumber": "3",
+        "eventLocation": "Thialf  -   Heerenveen (Ned)",
+        "eventDate": "Dec 2025",
+        "distance": "500m",
+        "gender": "women",
+        "division": "A",
+        "name": "500m Women Division A",
+        "url": "PDF: Thialf  -   Heerenveen (Ned)",
+        "results": [
+          {
+            "rank": "1",
+            "name": "Femke Kok",
+            "country": "NED",
+            "time": "37.00",
+            "points": 60
+          },
+          {
+            "rank": "2",
+            "name": "Jutta Leerdam",
+            "country": "NED",
+            "time": "37.36",
+            "points": 54
+          },
+          {
+            "rank": "3",
+            "name": "Marrit Fledderus",
+            "country": "NED",
+            "time": "37.53",
+            "points": 48
+          },
+          {
+            "rank": "4",
+            "name": "Yukino Yoshida",
+            "country": "JPN",
+            "time": "37.63",
+            "points": 43
+          },
+          {
+            "rank": "5",
+            "name": "Serena Pergher",
+            "country": "ITA",
+            "time": "37.64",
+            "points": 40
+          },
+          {
+            "rank": "6",
+            "name": "Angel Daleman",
+            "country": "NED",
+            "time": "37.68",
+            "points": 38
+          },
+          {
+            "rank": "7",
+            "name": "Min Sun Kim",
+            "country": "KOR",
+            "time": "37.83",
+            "points": 36
+          },
+          {
+            "rank": "8",
+            "name": "Kaja Ziomek Nogal",
+            "country": "POL",
+            "time": "37.84",
+            "points": 34
+          },
+          {
+            "rank": "9",
+            "name": "Sophie Warmuth",
+            "country": "GER",
+            "time": "37.93",
+            "points": 32
+          },
+          {
+            "rank": "10",
+            "name": "Anna Boersma",
+            "country": "NED",
+            "time": "37.93",
+            "points": 31
+          },
+          {
+            "rank": "11",
+            "name": "Kristina Silaeva",
+            "country": "KAZ",
+            "time": "37.94",
+            "points": 30
+          },
+          {
+            "rank": "11",
+            "name": "Béatrice Lamarche",
+            "country": "CAN",
+            "time": "37.94",
+            "points": 30
+          },
+          {
+            "rank": "13",
+            "name": "Ruining Tian",
+            "country": "CHN",
+            "time": "37.99",
+            "points": 28
+          },
+          {
+            "rank": "14",
+            "name": "Ying Chu Chen",
+            "country": "TPE",
+            "time": "38.00",
+            "points": 27
+          },
+          {
+            "rank": "15",
+            "name": "Na Hyun Lee",
+            "country": "KOR",
+            "time": "38.02",
+            "points": 26
+          },
+          {
+            "rank": "16",
+            "name": "Wójcik",
+            "country": "POL",
+            "time": "38.14",
+            "points": 25
+          },
+          {
+            "rank": "17",
+            "name": "Martyna Baran",
+            "country": "POL",
+            "time": "38.19",
+            "points": 24
+          },
+          {
+            "rank": "18",
+            "name": "Rio Yamada",
+            "country": "JPN",
+            "time": "38.49",
+            "points": 23
+          },
+          {
+            "rank": "19",
+            "name": "Brooklyn Mcdougall",
+            "country": "CAN",
+            "time": "38.57",
+            "points": 22
+          }
+        ]
+      },
+      {
+        "eventNumber": "3",
         "eventLocation": "Thialf - Heerenveen (Ned)",
         "eventDate": "Dec 2025",
         "distance": "5000m",
@@ -21383,7 +21528,7 @@
         {
           "name": "Femke Kok",
           "country": "NED",
-          "totalPoints": 300,
+          "totalPoints": 360,
           "bestTime": "36.09",
           "bestPlace": 1,
           "races": [
@@ -21434,6 +21579,144 @@
               "time": "36.72",
               "points": 60,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "1",
+              "name": "Femke Kok",
+              "country": "NED",
+              "time": "37.00",
+              "points": 60,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Marrit Fledderus",
+          "country": "NED",
+          "totalPoints": 251,
+          "bestTime": "37.08",
+          "bestPlace": 3,
+          "races": [
+            {
+              "rank": "7",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.92",
+              "points": 36,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.20",
+              "points": 38,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.11",
+              "points": 38,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.18",
+              "points": 43,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.08",
+              "points": 48,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Marrit Fledderus",
+              "country": "NED",
+              "time": "37.53",
+              "points": 48,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Jutta Leerdam",
+          "country": "NED",
+          "totalPoints": 219,
+          "bestTime": "37.01",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "5",
+              "name": "Jutta Leerdam",
+              "country": "NED",
+              "time": "37.18",
+              "points": 40,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "10",
+              "name": "Jutta Leerdam",
+              "country": "NED",
+              "time": "37.35",
+              "points": 31,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "5",
+              "name": "Jutta Leerdam",
+              "country": "NED",
+              "time": "37.26",
+              "points": 40,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Jutta Leerdam",
+              "country": "NED",
+              "time": "37.01",
+              "points": 54,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Jutta Leerdam",
+              "country": "NED",
+              "time": "37.36",
+              "points": 54,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -21499,118 +21782,59 @@
           ]
         },
         {
-          "name": "Marrit Fledderus",
-          "country": "NED",
-          "totalPoints": 203,
-          "bestTime": "37.08",
+          "name": "Yukino Yoshida",
+          "country": "JPN",
+          "totalPoints": 213,
+          "bestTime": "36.88",
           "bestPlace": 3,
           "races": [
             {
-              "rank": "7",
-              "name": "Marrit Fledderus",
-              "country": "NED",
-              "time": "37.92",
-              "points": 36,
+              "rank": "3",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.75",
+              "points": 48,
               "eventId": "WC4",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "6",
-              "name": "Marrit Fledderus",
-              "country": "NED",
-              "time": "37.20",
-              "points": 38,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "6",
-              "name": "Marrit Fledderus",
-              "country": "NED",
-              "time": "37.11",
-              "points": 38,
+              "rank": "3",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "36.88",
+              "points": 48,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
               "rank": "4",
-              "name": "Marrit Fledderus",
-              "country": "NED",
-              "time": "37.18",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.06",
               "points": 43,
-              "eventId": "WC2",
+              "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
-            {
-              "rank": "3",
-              "name": "Marrit Fledderus",
-              "country": "NED",
-              "time": "37.08",
-              "points": 48,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Na Hyun Lee",
-          "country": "KOR",
-          "totalPoints": 185,
-          "bestTime": "37.03",
-          "bestPlace": 3,
-          "races": [
             {
               "rank": "10",
-              "name": "Na Hyun Lee",
-              "country": "KOR",
-              "time": "38.06",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.44",
               "points": 31,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "11",
-              "name": "Na Hyun Lee",
-              "country": "KOR",
-              "time": "37.34",
-              "points": 30,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "3",
-              "name": "Na Hyun Lee",
-              "country": "KOR",
-              "time": "37.03",
-              "points": 48,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "6",
-              "name": "Na Hyun Lee",
-              "country": "KOR",
-              "time": "37.33",
-              "points": 38,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "6",
-              "name": "Na Hyun Lee",
-              "country": "KOR",
-              "time": "37.29",
-              "points": 38,
-              "eventId": "WC2",
+              "rank": "4",
+              "name": "Yukino Yoshida",
+              "country": "JPN",
+              "time": "37.63",
+              "points": 43,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -21619,7 +21843,7 @@
         {
           "name": "Anna Boersma",
           "country": "NED",
-          "totalPoints": 181,
+          "totalPoints": 212,
           "bestTime": "37.11",
           "bestPlace": 4,
           "races": [
@@ -21672,53 +21896,83 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "10",
+              "name": "Anna Boersma",
+              "country": "NED",
+              "time": "37.93",
+              "points": 31,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
-          "name": "Yukino Yoshida",
-          "country": "JPN",
-          "totalPoints": 170,
-          "bestTime": "36.88",
+          "name": "Na Hyun Lee",
+          "country": "KOR",
+          "totalPoints": 211,
+          "bestTime": "37.03",
           "bestPlace": 3,
           "races": [
             {
-              "rank": "3",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.75",
-              "points": 48,
+              "rank": "10",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "38.06",
+              "points": 31,
               "eventId": "WC4",
               "distance": "500m",
               "gender": "women"
             },
             {
+              "rank": "11",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "37.34",
+              "points": 30,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
               "rank": "3",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "36.88",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "37.03",
               "points": 48,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "4",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.06",
-              "points": 43,
-              "eventId": "WC1",
+              "rank": "6",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "37.33",
+              "points": 38,
+              "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "10",
-              "name": "Yukino Yoshida",
-              "country": "JPN",
-              "time": "37.44",
-              "points": 31,
+              "rank": "6",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "37.29",
+              "points": 38,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Na Hyun Lee",
+              "country": "KOR",
+              "time": "38.02",
+              "points": 26,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -21727,7 +21981,7 @@
         {
           "name": "Ying Chu Chen",
           "country": "TPE",
-          "totalPoints": 168,
+          "totalPoints": 195,
           "bestTime": "37.14",
           "bestPlace": 1,
           "races": [
@@ -21780,53 +22034,83 @@
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Ying Chu Chen",
+              "country": "TPE",
+              "time": "38.00",
+              "points": 27,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
             }
           ]
         },
         {
-          "name": "Jutta Leerdam",
-          "country": "NED",
-          "totalPoints": 165,
-          "bestTime": "37.01",
-          "bestPlace": 2,
+          "name": "Serena Pergher",
+          "country": "ITA",
+          "totalPoints": 193,
+          "bestTime": "37.29",
+          "bestPlace": 5,
           "races": [
             {
-              "rank": "5",
-              "name": "Jutta Leerdam",
-              "country": "NED",
-              "time": "37.18",
-              "points": 40,
+              "rank": "12",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "38.15",
+              "points": 29,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "37.29",
+              "points": 34,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "10",
-              "name": "Jutta Leerdam",
-              "country": "NED",
-              "time": "37.35",
-              "points": 31,
+              "rank": "16",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "37.45",
+              "points": 25,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "5",
-              "name": "Jutta Leerdam",
-              "country": "NED",
-              "time": "37.26",
-              "points": 40,
+              "rank": "7",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "37.34",
+              "points": 36,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "2",
-              "name": "Jutta Leerdam",
-              "country": "NED",
-              "time": "37.01",
-              "points": 54,
+              "rank": "12",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "37.50",
+              "points": 29,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "5",
+              "name": "Serena Pergher",
+              "country": "ITA",
+              "time": "37.64",
+              "points": 40,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -21835,7 +22119,7 @@
         {
           "name": "Martyna Baran",
           "country": "POL",
-          "totalPoints": 164,
+          "totalPoints": 188,
           "bestTime": "37.26",
           "bestPlace": 5,
           "races": [
@@ -21886,6 +22170,410 @@
               "time": "37.39",
               "points": 32,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Martyna Baran",
+              "country": "POL",
+              "time": "38.19",
+              "points": 24,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Sophie Warmuth",
+          "country": "GER",
+          "totalPoints": 186,
+          "bestTime": "37.42",
+          "bestPlace": 4,
+          "races": [
+            {
+              "rank": "4",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.80",
+              "points": 43,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.43",
+              "points": 27,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.42",
+              "points": 27,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "10",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.43",
+              "points": 31,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.55",
+              "points": 26,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "9",
+              "name": "Sophie Warmuth",
+              "country": "GER",
+              "time": "37.93",
+              "points": 32,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Kaja Ziomek Nogal",
+          "country": "POL",
+          "totalPoints": 182,
+          "bestTime": "37.17",
+          "bestPlace": 1,
+          "races": [
+            {
+              "rank": "2",
+              "name": "Kaja Ziomek Nogal",
+              "country": "POL",
+              "time": "37.65",
+              "points": 54,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "4",
+              "name": "Kaja Ziomek Nogal",
+              "country": "POL",
+              "time": "37.17",
+              "points": 43,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "18",
+              "name": "Kaja Ziomek Nogal",
+              "country": "POL",
+              "time": "37.54",
+              "points": 23,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "1",
+              "name": "Kaja Ziomek Nogal",
+              "country": "POL",
+              "time": "37.39",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Kaja Ziomek Nogal",
+              "country": "POL",
+              "time": "37.84",
+              "points": 34,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Kristina Silaeva",
+          "country": "KAZ",
+          "totalPoints": 177,
+          "bestTime": "37.36",
+          "bestPlace": 8,
+          "races": [
+            {
+              "rank": "8",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "38.03",
+              "points": 34,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "16",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "37.49",
+              "points": 25,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "11",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "37.36",
+              "points": 30,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "8",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "37.38",
+              "points": 34,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "37.61",
+              "points": 24,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "11",
+              "name": "Kristina Silaeva",
+              "country": "KAZ",
+              "time": "37.94",
+              "points": 30,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Min Sun Kim",
+          "country": "KOR",
+          "totalPoints": 174,
+          "bestTime": "37.46",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "6",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.85",
+              "points": 38,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.58",
+              "points": 24,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "17",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.46",
+              "points": 24,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "13",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.51",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.83",
+              "points": 24,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "Min Sun Kim",
+              "country": "KOR",
+              "time": "37.83",
+              "points": 36,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Angel Daleman",
+          "country": "NED",
+          "totalPoints": 162,
+          "bestTime": "37.28",
+          "bestPlace": 5,
+          "races": [
+            {
+              "rank": "13",
+              "name": "Angel Daleman",
+              "country": "NED",
+              "time": "37.42",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "13",
+              "name": "Angel Daleman",
+              "country": "NED",
+              "time": "37.41",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "13",
+              "name": "Angel Daleman",
+              "country": "NED",
+              "time": "37.56",
+              "points": 28,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "5",
+              "name": "Angel Daleman",
+              "country": "NED",
+              "time": "37.28",
+              "points": 40,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "6",
+              "name": "Angel Daleman",
+              "country": "NED",
+              "time": "37.68",
+              "points": 38,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Ruining Tian",
+          "country": "CHN",
+          "totalPoints": 161,
+          "bestTime": "37.41",
+          "bestPlace": 12,
+          "races": [
+            {
+              "rank": "15",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "38.44",
+              "points": 26,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "12",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "37.41",
+              "points": 29,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "15",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "37.43",
+              "points": 26,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "16",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "37.67",
+              "points": 25,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "14",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "37.52",
+              "points": 27,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "13",
+              "name": "Ruining Tian",
+              "country": "CHN",
+              "time": "37.99",
+              "points": 28,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -21951,393 +22639,69 @@
           ]
         },
         {
-          "name": "Sophie Warmuth",
-          "country": "GER",
-          "totalPoints": 154,
-          "bestTime": "37.42",
-          "bestPlace": 4,
-          "races": [
-            {
-              "rank": "4",
-              "name": "Sophie Warmuth",
-              "country": "GER",
-              "time": "37.80",
-              "points": 43,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "14",
-              "name": "Sophie Warmuth",
-              "country": "GER",
-              "time": "37.43",
-              "points": 27,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "14",
-              "name": "Sophie Warmuth",
-              "country": "GER",
-              "time": "37.42",
-              "points": 27,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "10",
-              "name": "Sophie Warmuth",
-              "country": "GER",
-              "time": "37.43",
-              "points": 31,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "15",
-              "name": "Sophie Warmuth",
-              "country": "GER",
-              "time": "37.55",
-              "points": 26,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Serena Pergher",
-          "country": "ITA",
-          "totalPoints": 153,
-          "bestTime": "37.29",
-          "bestPlace": 7,
-          "races": [
-            {
-              "rank": "12",
-              "name": "Serena Pergher",
-              "country": "ITA",
-              "time": "38.15",
-              "points": 29,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "8",
-              "name": "Serena Pergher",
-              "country": "ITA",
-              "time": "37.29",
-              "points": 34,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "16",
-              "name": "Serena Pergher",
-              "country": "ITA",
-              "time": "37.45",
-              "points": 25,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "7",
-              "name": "Serena Pergher",
-              "country": "ITA",
-              "time": "37.34",
-              "points": 36,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "12",
-              "name": "Serena Pergher",
-              "country": "ITA",
-              "time": "37.50",
-              "points": 29,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Kaja Ziomek Nogal",
-          "country": "POL",
-          "totalPoints": 148,
-          "bestTime": "37.17",
+          "name": "Rio Yamada",
+          "country": "JPN",
+          "totalPoints": 135,
+          "bestTime": "37.59",
           "bestPlace": 1,
           "races": [
             {
-              "rank": "2",
-              "name": "Kaja Ziomek Nogal",
-              "country": "POL",
-              "time": "37.65",
-              "points": 54,
+              "rank": "16",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "38.51",
+              "points": 25,
               "eventId": "WC4",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "4",
-              "name": "Kaja Ziomek Nogal",
-              "country": "POL",
-              "time": "37.17",
-              "points": 43,
+              "rank": "1",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "37.62",
+              "points": 28,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "9",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "38.13",
+              "points": 12,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
               "rank": "18",
-              "name": "Kaja Ziomek Nogal",
-              "country": "POL",
-              "time": "37.54",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "38.08",
               "points": 23,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "1",
-              "name": "Kaja Ziomek Nogal",
-              "country": "POL",
-              "time": "37.39",
-              "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Kristina Silaeva",
-          "country": "KAZ",
-          "totalPoints": 147,
-          "bestTime": "37.36",
-          "bestPlace": 8,
-          "races": [
-            {
-              "rank": "8",
-              "name": "Kristina Silaeva",
-              "country": "KAZ",
-              "time": "38.03",
-              "points": 34,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "16",
-              "name": "Kristina Silaeva",
-              "country": "KAZ",
-              "time": "37.49",
-              "points": 25,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "11",
-              "name": "Kristina Silaeva",
-              "country": "KAZ",
-              "time": "37.36",
-              "points": 30,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "8",
-              "name": "Kristina Silaeva",
-              "country": "KAZ",
-              "time": "37.38",
-              "points": 34,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "17",
-              "name": "Kristina Silaeva",
-              "country": "KAZ",
-              "time": "37.61",
-              "points": 24,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Min Sun Kim",
-          "country": "KOR",
-          "totalPoints": 138,
-          "bestTime": "37.46",
-          "bestPlace": 2,
-          "races": [
-            {
-              "rank": "6",
-              "name": "Min Sun Kim",
-              "country": "KOR",
-              "time": "37.85",
-              "points": 38,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "17",
-              "name": "Min Sun Kim",
-              "country": "KOR",
-              "time": "37.58",
-              "points": 24,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "17",
-              "name": "Min Sun Kim",
-              "country": "KOR",
-              "time": "37.46",
-              "points": 24,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "13",
-              "name": "Min Sun Kim",
-              "country": "KOR",
-              "time": "37.51",
-              "points": 28,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
               "rank": "2",
-              "name": "Min Sun Kim",
-              "country": "KOR",
-              "time": "37.83",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "37.59",
               "points": 24,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Ruining Tian",
-          "country": "CHN",
-          "totalPoints": 133,
-          "bestTime": "37.41",
-          "bestPlace": 12,
-          "races": [
-            {
-              "rank": "15",
-              "name": "Ruining Tian",
-              "country": "CHN",
-              "time": "38.44",
-              "points": 26,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
             },
             {
-              "rank": "12",
-              "name": "Ruining Tian",
-              "country": "CHN",
-              "time": "37.41",
-              "points": 29,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "15",
-              "name": "Ruining Tian",
-              "country": "CHN",
-              "time": "37.43",
-              "points": 26,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "16",
-              "name": "Ruining Tian",
-              "country": "CHN",
-              "time": "37.67",
-              "points": 25,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "14",
-              "name": "Ruining Tian",
-              "country": "CHN",
-              "time": "37.52",
-              "points": 27,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Angel Daleman",
-          "country": "NED",
-          "totalPoints": 124,
-          "bestTime": "37.28",
-          "bestPlace": 5,
-          "races": [
-            {
-              "rank": "13",
-              "name": "Angel Daleman",
-              "country": "NED",
-              "time": "37.42",
-              "points": 28,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "13",
-              "name": "Angel Daleman",
-              "country": "NED",
-              "time": "37.41",
-              "points": 28,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "13",
-              "name": "Angel Daleman",
-              "country": "NED",
-              "time": "37.56",
-              "points": 28,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "5",
-              "name": "Angel Daleman",
-              "country": "NED",
-              "time": "37.28",
-              "points": 40,
-              "eventId": "WC2",
+              "rank": "18",
+              "name": "Rio Yamada",
+              "country": "JPN",
+              "time": "38.49",
+              "points": 23,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -22531,59 +22895,69 @@
           ]
         },
         {
-          "name": "Rio Yamada",
-          "country": "JPN",
-          "totalPoints": 112,
-          "bestTime": "37.59",
-          "bestPlace": 1,
+          "name": "Brooklyn Mcdougall",
+          "country": "CAN",
+          "totalPoints": 101,
+          "bestTime": "37.67",
+          "bestPlace": 3,
           "races": [
             {
-              "rank": "16",
-              "name": "Rio Yamada",
-              "country": "JPN",
-              "time": "38.51",
-              "points": 25,
+              "rank": "10",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "38.88",
+              "points": 11,
               "eventId": "WC4",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "1",
-              "name": "Rio Yamada",
-              "country": "JPN",
-              "time": "37.62",
-              "points": 28,
+              "rank": "4",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "37.84",
+              "points": 17,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "9",
-              "name": "Rio Yamada",
-              "country": "JPN",
-              "time": "38.13",
-              "points": 12,
+              "rank": "7",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "38.02",
+              "points": 14,
               "eventId": "WC1",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "18",
-              "name": "Rio Yamada",
-              "country": "JPN",
-              "time": "38.08",
-              "points": 23,
+              "rank": "3",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "37.67",
+              "points": 21,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
             },
             {
-              "rank": "2",
-              "name": "Rio Yamada",
-              "country": "JPN",
-              "time": "37.59",
-              "points": 24,
+              "rank": "5",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "37.87",
+              "points": 16,
               "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "19",
+              "name": "Brooklyn Mcdougall",
+              "country": "CAN",
+              "time": "38.57",
+              "points": 22,
+              "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
             }
@@ -22898,65 +23272,6 @@
               "country": "AUT",
               "time": "37.85",
               "points": 21,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Brooklyn Mcdougall",
-          "country": "CAN",
-          "totalPoints": 79,
-          "bestTime": "37.67",
-          "bestPlace": 3,
-          "races": [
-            {
-              "rank": "10",
-              "name": "Brooklyn Mcdougall",
-              "country": "CAN",
-              "time": "38.88",
-              "points": 11,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "4",
-              "name": "Brooklyn Mcdougall",
-              "country": "CAN",
-              "time": "37.84",
-              "points": 17,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "7",
-              "name": "Brooklyn Mcdougall",
-              "country": "CAN",
-              "time": "38.02",
-              "points": 14,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "3",
-              "name": "Brooklyn Mcdougall",
-              "country": "CAN",
-              "time": "37.67",
-              "points": 21,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "5",
-              "name": "Brooklyn Mcdougall",
-              "country": "CAN",
-              "time": "37.87",
-              "points": 16,
               "eventId": "WC2",
               "distance": "500m",
               "gender": "women"
@@ -23672,6 +23987,25 @@
           ]
         },
         {
+          "name": "Béatrice Lamarche",
+          "country": "CAN",
+          "totalPoints": 30,
+          "bestTime": "37.94",
+          "bestPlace": 11,
+          "races": [
+            {
+              "rank": "11",
+              "name": "Béatrice Lamarche",
+              "country": "CAN",
+              "time": "37.94",
+              "points": 30,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Miho Takagi",
           "country": "JPN",
           "totalPoints": 28,
@@ -23684,6 +24018,25 @@
               "country": "JPN",
               "time": "38.02",
               "points": 28,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
+          "name": "Wójcik",
+          "country": "POL",
+          "totalPoints": 25,
+          "bestTime": "38.14",
+          "bestPlace": 16,
+          "races": [
+            {
+              "rank": "16",
+              "name": "Wójcik",
+              "country": "POL",
+              "time": "38.14",
+              "points": 25,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
@@ -24900,7 +25253,7 @@
           "name": "Femke Kok",
           "country": "NED",
           "bestTime": "36.09",
-          "totalPoints": 300
+          "totalPoints": 360
         },
         {
           "name": "Erin Jackson",
@@ -24912,61 +25265,61 @@
           "name": "Yukino Yoshida",
           "country": "JPN",
           "bestTime": "36.88",
-          "totalPoints": 170
+          "totalPoints": 213
         },
         {
           "name": "Jutta Leerdam",
           "country": "NED",
           "bestTime": "37.01",
-          "totalPoints": 165
+          "totalPoints": 219
         },
         {
           "name": "Na Hyun Lee",
           "country": "KOR",
           "bestTime": "37.03",
-          "totalPoints": 185
+          "totalPoints": 211
         },
         {
           "name": "Marrit Fledderus",
           "country": "NED",
           "bestTime": "37.08",
-          "totalPoints": 203
+          "totalPoints": 251
         },
         {
           "name": "Anna Boersma",
           "country": "NED",
           "bestTime": "37.11",
-          "totalPoints": 181
+          "totalPoints": 212
         },
         {
           "name": "Ying Chu Chen",
           "country": "TPE",
           "bestTime": "37.14",
-          "totalPoints": 168
+          "totalPoints": 195
         },
         {
           "name": "Kaja Ziomek Nogal",
           "country": "POL",
           "bestTime": "37.17",
-          "totalPoints": 148
+          "totalPoints": 182
         },
         {
           "name": "Martyna Baran",
           "country": "POL",
           "bestTime": "37.26",
-          "totalPoints": 164
+          "totalPoints": 188
         },
         {
           "name": "Angel Daleman",
           "country": "NED",
           "bestTime": "37.28",
-          "totalPoints": 124
+          "totalPoints": 162
         },
         {
           "name": "Serena Pergher",
           "country": "ITA",
           "bestTime": "37.29",
-          "totalPoints": 153
+          "totalPoints": 193
         },
         {
           "name": "B É Atrice Lamarche",
@@ -24990,25 +25343,25 @@
           "name": "Kristina Silaeva",
           "country": "KAZ",
           "bestTime": "37.36",
-          "totalPoints": 147
+          "totalPoints": 177
         },
         {
           "name": "Ruining Tian",
           "country": "CHN",
           "bestTime": "37.41",
-          "totalPoints": 133
+          "totalPoints": 161
         },
         {
           "name": "Sophie Warmuth",
           "country": "GER",
           "bestTime": "37.42",
-          "totalPoints": 154
+          "totalPoints": 186
         },
         {
           "name": "Min Sun Kim",
           "country": "KOR",
           "bestTime": "37.46",
-          "totalPoints": 138
+          "totalPoints": 174
         },
         {
           "name": "Kurumi Inagawa",
@@ -25020,13 +25373,13 @@
           "name": "Rio Yamada",
           "country": "JPN",
           "bestTime": "37.59",
-          "totalPoints": 112
+          "totalPoints": 135
         },
         {
           "name": "Brooklyn Mcdougall",
           "country": "CAN",
           "bestTime": "37.67",
-          "totalPoints": 79
+          "totalPoints": 101
         },
         {
           "name": "Carolina Hiller Donnelly",
@@ -25075,6 +25428,12 @@
           "country": "USA",
           "bestTime": "37.90",
           "totalPoints": 17
+        },
+        {
+          "name": "Béatrice Lamarche",
+          "country": "CAN",
+          "bestTime": "37.94",
+          "totalPoints": 30
         },
         {
           "name": "Julie Nistad Samsonsen",
@@ -25141,6 +25500,12 @@
           "country": "GBR",
           "bestTime": "38.14",
           "totalPoints": 39
+        },
+        {
+          "name": "Wójcik",
+          "country": "POL",
+          "bestTime": "38.14",
+          "totalPoints": 25
         },
         {
           "name": "Maybritt Vigl",
@@ -25298,7 +25663,7 @@
           {
             "name": "Femke Kok",
             "country": "NED",
-            "totalPoints": 300,
+            "totalPoints": 360,
             "bestTime": "36.09",
             "bestPlace": 1,
             "races": [
@@ -25349,6 +25714,146 @@
                 "time": "36.72",
                 "points": 60,
                 "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "1",
+                "name": "Femke Kok",
+                "country": "NED",
+                "time": "37.00",
+                "points": 60,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Marrit Fledderus",
+            "country": "NED",
+            "totalPoints": 251,
+            "bestTime": "37.08",
+            "bestPlace": 3,
+            "races": [
+              {
+                "rank": "7",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.92",
+                "points": 36,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "6",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.20",
+                "points": 38,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "6",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.11",
+                "points": 38,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.18",
+                "points": 43,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "3",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.08",
+                "points": 48,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "3",
+                "name": "Marrit Fledderus",
+                "country": "NED",
+                "time": "37.53",
+                "points": 48,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Jutta Leerdam",
+            "country": "NED",
+            "totalPoints": 219,
+            "bestTime": "37.01",
+            "bestPlace": 2,
+            "races": [
+              {
+                "rank": "5",
+                "name": "Jutta Leerdam",
+                "country": "NED",
+                "time": "37.18",
+                "points": 40,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "10",
+                "name": "Jutta Leerdam",
+                "country": "NED",
+                "time": "37.35",
+                "points": 31,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "5",
+                "name": "Jutta Leerdam",
+                "country": "NED",
+                "time": "37.26",
+                "points": 40,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Jutta Leerdam",
+                "country": "NED",
+                "time": "37.01",
+                "points": 54,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Jutta Leerdam",
+                "country": "NED",
+                "time": "37.36",
+                "points": 54,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -25416,59 +25921,59 @@
             "method": "Points"
           },
           {
-            "name": "Marrit Fledderus",
-            "country": "NED",
-            "totalPoints": 203,
-            "bestTime": "37.08",
+            "name": "Yukino Yoshida",
+            "country": "JPN",
+            "totalPoints": 213,
+            "bestTime": "36.88",
             "bestPlace": 3,
             "races": [
               {
-                "rank": "7",
-                "name": "Marrit Fledderus",
-                "country": "NED",
-                "time": "37.92",
-                "points": 36,
+                "rank": "3",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.75",
+                "points": 48,
                 "eventId": "WC4",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "6",
-                "name": "Marrit Fledderus",
-                "country": "NED",
-                "time": "37.20",
-                "points": 38,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "6",
-                "name": "Marrit Fledderus",
-                "country": "NED",
-                "time": "37.11",
-                "points": 38,
+                "rank": "3",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "36.88",
+                "points": 48,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "women"
               },
               {
                 "rank": "4",
-                "name": "Marrit Fledderus",
-                "country": "NED",
-                "time": "37.18",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.06",
                 "points": 43,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "10",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.44",
+                "points": 31,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "3",
-                "name": "Marrit Fledderus",
-                "country": "NED",
-                "time": "37.08",
-                "points": 48,
-                "eventId": "WC2",
+                "rank": "4",
+                "name": "Yukino Yoshida",
+                "country": "JPN",
+                "time": "37.63",
+                "points": 43,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -25478,7 +25983,7 @@
           {
             "name": "Na Hyun Lee",
             "country": "KOR",
-            "totalPoints": 185,
+            "totalPoints": 211,
             "bestTime": "37.03",
             "bestPlace": 3,
             "races": [
@@ -25531,114 +26036,14 @@
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Anna Boersma",
-            "country": "NED",
-            "totalPoints": 181,
-            "bestTime": "37.11",
-            "bestPlace": 4,
-            "races": [
-              {
-                "rank": "11",
-                "name": "Anna Boersma",
-                "country": "NED",
-                "time": "38.11",
-                "points": 30,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
               },
               {
-                "rank": "7",
-                "name": "Anna Boersma",
-                "country": "NED",
-                "time": "37.27",
-                "points": 36,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "5",
-                "name": "Anna Boersma",
-                "country": "NED",
-                "time": "37.11",
-                "points": 40,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "9",
-                "name": "Anna Boersma",
-                "country": "NED",
-                "time": "37.41",
-                "points": 32,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Anna Boersma",
-                "country": "NED",
-                "time": "37.21",
-                "points": 43,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Yukino Yoshida",
-            "country": "JPN",
-            "totalPoints": 170,
-            "bestTime": "36.88",
-            "bestPlace": 3,
-            "races": [
-              {
-                "rank": "3",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.75",
-                "points": 48,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "3",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "36.88",
-                "points": 48,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "4",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.06",
-                "points": 43,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "10",
-                "name": "Yukino Yoshida",
-                "country": "JPN",
-                "time": "37.44",
-                "points": 31,
-                "eventId": "WC2",
+                "rank": "15",
+                "name": "Na Hyun Lee",
+                "country": "KOR",
+                "time": "38.02",
+                "points": 26,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -25648,7 +26053,7 @@
           {
             "name": "Ying Chu Chen",
             "country": "TPE",
-            "totalPoints": 168,
+            "totalPoints": 195,
             "bestTime": "37.14",
             "bestPlace": 1,
             "races": [
@@ -25701,6 +26106,86 @@
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
+              },
+              {
+                "rank": "14",
+                "name": "Ying Chu Chen",
+                "country": "TPE",
+                "time": "38.00",
+                "points": 27,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Serena Pergher",
+            "country": "ITA",
+            "totalPoints": 193,
+            "bestTime": "37.29",
+            "bestPlace": 5,
+            "races": [
+              {
+                "rank": "12",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "38.15",
+                "points": 29,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "8",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "37.29",
+                "points": 34,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "16",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "37.45",
+                "points": 25,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "7",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "37.34",
+                "points": 36,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "12",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "37.50",
+                "points": 29,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "5",
+                "name": "Serena Pergher",
+                "country": "ITA",
+                "time": "37.64",
+                "points": 40,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
               }
             ],
             "method": "Points"
@@ -25708,7 +26193,7 @@
           {
             "name": "Martyna Baran",
             "country": "POL",
-            "totalPoints": 164,
+            "totalPoints": 188,
             "bestTime": "37.26",
             "bestPlace": 5,
             "races": [
@@ -25759,6 +26244,356 @@
                 "time": "37.39",
                 "points": 32,
                 "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "17",
+                "name": "Martyna Baran",
+                "country": "POL",
+                "time": "38.19",
+                "points": 24,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Sophie Warmuth",
+            "country": "GER",
+            "totalPoints": 186,
+            "bestTime": "37.42",
+            "bestPlace": 4,
+            "races": [
+              {
+                "rank": "4",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.80",
+                "points": 43,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "14",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.43",
+                "points": 27,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "14",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.42",
+                "points": 27,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "10",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.43",
+                "points": 31,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "15",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.55",
+                "points": 26,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "9",
+                "name": "Sophie Warmuth",
+                "country": "GER",
+                "time": "37.93",
+                "points": 32,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Kaja Ziomek Nogal",
+            "country": "POL",
+            "totalPoints": 182,
+            "bestTime": "37.17",
+            "bestPlace": 1,
+            "races": [
+              {
+                "rank": "2",
+                "name": "Kaja Ziomek Nogal",
+                "country": "POL",
+                "time": "37.65",
+                "points": 54,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "4",
+                "name": "Kaja Ziomek Nogal",
+                "country": "POL",
+                "time": "37.17",
+                "points": 43,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "18",
+                "name": "Kaja Ziomek Nogal",
+                "country": "POL",
+                "time": "37.54",
+                "points": 23,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "1",
+                "name": "Kaja Ziomek Nogal",
+                "country": "POL",
+                "time": "37.39",
+                "points": 28,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "8",
+                "name": "Kaja Ziomek Nogal",
+                "country": "POL",
+                "time": "37.84",
+                "points": 34,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Kristina Silaeva",
+            "country": "KAZ",
+            "totalPoints": 177,
+            "bestTime": "37.36",
+            "bestPlace": 8,
+            "races": [
+              {
+                "rank": "8",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "38.03",
+                "points": 34,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "16",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "37.49",
+                "points": 25,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "11",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "37.36",
+                "points": 30,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "8",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "37.38",
+                "points": 34,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "17",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "37.61",
+                "points": 24,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "11",
+                "name": "Kristina Silaeva",
+                "country": "KAZ",
+                "time": "37.94",
+                "points": 30,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Min Sun Kim",
+            "country": "KOR",
+            "totalPoints": 174,
+            "bestTime": "37.46",
+            "bestPlace": 2,
+            "races": [
+              {
+                "rank": "6",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.85",
+                "points": 38,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "17",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.58",
+                "points": 24,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "17",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.46",
+                "points": 24,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "13",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.51",
+                "points": 28,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.83",
+                "points": 24,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "7",
+                "name": "Min Sun Kim",
+                "country": "KOR",
+                "time": "37.83",
+                "points": 36,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
+            "name": "Ruining Tian",
+            "country": "CHN",
+            "totalPoints": 161,
+            "bestTime": "37.41",
+            "bestPlace": 12,
+            "races": [
+              {
+                "rank": "15",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "38.44",
+                "points": 26,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "12",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "37.41",
+                "points": 29,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "15",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "37.43",
+                "points": 26,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "16",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "37.67",
+                "points": 25,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "14",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "37.52",
+                "points": 27,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "13",
+                "name": "Ruining Tian",
+                "country": "CHN",
+                "time": "37.99",
+                "points": 28,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -25826,349 +26661,69 @@
             "method": "Points"
           },
           {
-            "name": "Sophie Warmuth",
-            "country": "GER",
-            "totalPoints": 154,
-            "bestTime": "37.42",
-            "bestPlace": 4,
-            "races": [
-              {
-                "rank": "4",
-                "name": "Sophie Warmuth",
-                "country": "GER",
-                "time": "37.80",
-                "points": 43,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "14",
-                "name": "Sophie Warmuth",
-                "country": "GER",
-                "time": "37.43",
-                "points": 27,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "14",
-                "name": "Sophie Warmuth",
-                "country": "GER",
-                "time": "37.42",
-                "points": 27,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "10",
-                "name": "Sophie Warmuth",
-                "country": "GER",
-                "time": "37.43",
-                "points": 31,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "15",
-                "name": "Sophie Warmuth",
-                "country": "GER",
-                "time": "37.55",
-                "points": 26,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Serena Pergher",
-            "country": "ITA",
-            "totalPoints": 153,
-            "bestTime": "37.29",
-            "bestPlace": 7,
-            "races": [
-              {
-                "rank": "12",
-                "name": "Serena Pergher",
-                "country": "ITA",
-                "time": "38.15",
-                "points": 29,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "8",
-                "name": "Serena Pergher",
-                "country": "ITA",
-                "time": "37.29",
-                "points": 34,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "16",
-                "name": "Serena Pergher",
-                "country": "ITA",
-                "time": "37.45",
-                "points": 25,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "7",
-                "name": "Serena Pergher",
-                "country": "ITA",
-                "time": "37.34",
-                "points": 36,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "12",
-                "name": "Serena Pergher",
-                "country": "ITA",
-                "time": "37.50",
-                "points": 29,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Kaja Ziomek Nogal",
-            "country": "POL",
-            "totalPoints": 148,
-            "bestTime": "37.17",
+            "name": "Rio Yamada",
+            "country": "JPN",
+            "totalPoints": 135,
+            "bestTime": "37.59",
             "bestPlace": 1,
             "races": [
               {
-                "rank": "2",
-                "name": "Kaja Ziomek Nogal",
-                "country": "POL",
-                "time": "37.65",
-                "points": 54,
+                "rank": "16",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "38.51",
+                "points": 25,
                 "eventId": "WC4",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "4",
-                "name": "Kaja Ziomek Nogal",
-                "country": "POL",
-                "time": "37.17",
-                "points": 43,
+                "rank": "1",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "37.62",
+                "points": 28,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "9",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "38.13",
+                "points": 12,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "women"
               },
               {
                 "rank": "18",
-                "name": "Kaja Ziomek Nogal",
-                "country": "POL",
-                "time": "37.54",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "38.08",
                 "points": 23,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "1",
-                "name": "Kaja Ziomek Nogal",
-                "country": "POL",
-                "time": "37.39",
-                "points": 28,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Kristina Silaeva",
-            "country": "KAZ",
-            "totalPoints": 147,
-            "bestTime": "37.36",
-            "bestPlace": 8,
-            "races": [
-              {
-                "rank": "8",
-                "name": "Kristina Silaeva",
-                "country": "KAZ",
-                "time": "38.03",
-                "points": 34,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "16",
-                "name": "Kristina Silaeva",
-                "country": "KAZ",
-                "time": "37.49",
-                "points": 25,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "11",
-                "name": "Kristina Silaeva",
-                "country": "KAZ",
-                "time": "37.36",
-                "points": 30,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "8",
-                "name": "Kristina Silaeva",
-                "country": "KAZ",
-                "time": "37.38",
-                "points": 34,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "17",
-                "name": "Kristina Silaeva",
-                "country": "KAZ",
-                "time": "37.61",
-                "points": 24,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Min Sun Kim",
-            "country": "KOR",
-            "totalPoints": 138,
-            "bestTime": "37.46",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "6",
-                "name": "Min Sun Kim",
-                "country": "KOR",
-                "time": "37.85",
-                "points": 38,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "17",
-                "name": "Min Sun Kim",
-                "country": "KOR",
-                "time": "37.58",
-                "points": 24,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "17",
-                "name": "Min Sun Kim",
-                "country": "KOR",
-                "time": "37.46",
-                "points": 24,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "13",
-                "name": "Min Sun Kim",
-                "country": "KOR",
-                "time": "37.51",
-                "points": 28,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
               },
               {
                 "rank": "2",
-                "name": "Min Sun Kim",
-                "country": "KOR",
-                "time": "37.83",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "37.59",
                 "points": 24,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Ruining Tian",
-            "country": "CHN",
-            "totalPoints": 133,
-            "bestTime": "37.41",
-            "bestPlace": 12,
-            "races": [
-              {
-                "rank": "15",
-                "name": "Ruining Tian",
-                "country": "CHN",
-                "time": "38.44",
-                "points": 26,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
               },
               {
-                "rank": "12",
-                "name": "Ruining Tian",
-                "country": "CHN",
-                "time": "37.41",
-                "points": 29,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "15",
-                "name": "Ruining Tian",
-                "country": "CHN",
-                "time": "37.43",
-                "points": 26,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "16",
-                "name": "Ruining Tian",
-                "country": "CHN",
-                "time": "37.67",
-                "points": 25,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "14",
-                "name": "Ruining Tian",
-                "country": "CHN",
-                "time": "37.52",
-                "points": 27,
-                "eventId": "WC2",
+                "rank": "18",
+                "name": "Rio Yamada",
+                "country": "JPN",
+                "time": "38.49",
+                "points": 23,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -26366,59 +26921,69 @@
             "method": "Points"
           },
           {
-            "name": "Rio Yamada",
-            "country": "JPN",
-            "totalPoints": 112,
-            "bestTime": "37.59",
-            "bestPlace": 1,
+            "name": "Brooklyn Mcdougall",
+            "country": "CAN",
+            "totalPoints": 101,
+            "bestTime": "37.67",
+            "bestPlace": 3,
             "races": [
               {
-                "rank": "16",
-                "name": "Rio Yamada",
-                "country": "JPN",
-                "time": "38.51",
-                "points": 25,
+                "rank": "10",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "38.88",
+                "points": 11,
                 "eventId": "WC4",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "1",
-                "name": "Rio Yamada",
-                "country": "JPN",
-                "time": "37.62",
-                "points": 28,
+                "rank": "4",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "37.84",
+                "points": 17,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "9",
-                "name": "Rio Yamada",
-                "country": "JPN",
-                "time": "38.13",
-                "points": 12,
+                "rank": "7",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "38.02",
+                "points": 14,
                 "eventId": "WC1",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "18",
-                "name": "Rio Yamada",
-                "country": "JPN",
-                "time": "38.08",
-                "points": 23,
+                "rank": "3",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "37.67",
+                "points": 21,
                 "eventId": "WC2",
                 "distance": "500m",
                 "gender": "women"
               },
               {
-                "rank": "2",
-                "name": "Rio Yamada",
-                "country": "JPN",
-                "time": "37.59",
-                "points": 24,
+                "rank": "5",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "37.87",
+                "points": 16,
                 "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "19",
+                "name": "Brooklyn Mcdougall",
+                "country": "CAN",
+                "time": "38.57",
+                "points": 22,
+                "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
               }
@@ -26496,73 +27061,6 @@
             "method": "Points"
           },
           {
-            "name": "Sofia Thorup",
-            "country": "DEN",
-            "totalPoints": 92,
-            "bestTime": "37.85",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "2",
-                "name": "Sofia Thorup",
-                "country": "DEN",
-                "time": "38.55",
-                "points": 24,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "10",
-                "name": "Sofia Thorup",
-                "country": "DEN",
-                "time": "38.15",
-                "points": 11,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "20",
-                "name": "Sofia Thorup",
-                "country": "DEN",
-                "time": "38.15",
-                "points": 21,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "3",
-                "name": "Sofia Thorup",
-                "country": "DEN",
-                "time": "37.85",
-                "points": 21,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "6",
-                "name": "Sofia Thorup",
-                "country": "DEN",
-                "time": "38.58",
-                "points": 15,
-                "eventId": "WC3",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Brooklyn Mcdougall",
-            "country": "CAN",
-            "bestTime": "37.67",
-            "totalPoints": 79,
-            "method": "Times"
-          },
-          {
             "name": "Chong Pei",
             "country": "CHN",
             "bestTime": "37.73",
@@ -26574,6 +27072,13 @@
             "country": "KAZ",
             "bestTime": "37.73",
             "totalPoints": 66,
+            "method": "Times"
+          },
+          {
+            "name": "Sofia Thorup",
+            "country": "DEN",
+            "bestTime": "37.85",
+            "totalPoints": 92,
             "method": "Times"
           },
           {
@@ -62593,6 +63098,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-13T17:54:04.192Z",
+  "lastUpdated": "2025-12-13T18:06:27.737Z",
   "isUpdating": false
 }
