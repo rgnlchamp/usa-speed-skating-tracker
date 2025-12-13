@@ -40,14 +40,18 @@ async function updateData() {
         if (manualOverrides && manualOverrides.length > 0) {
             console.log(`Applying ${manualOverrides.length} manual overrides...`);
             manualOverrides.forEach(override => {
-                const { eventId, distance, gender, ...resultData } = override;
+                const { eventId, distance, gender, division, ...resultData } = override;
 
                 if (!state.raceResults[eventId]) {
                     state.raceResults[eventId] = [];
                 }
 
-                // Check if a race entry for this distance/gender already exists to append to
-                let raceEntry = state.raceResults[eventId].find(r => r.distance === distance && r.gender === gender);
+                // Check if a race entry for this distance/gender/division already exists to append to
+                let raceEntry = state.raceResults[eventId].find(r =>
+                    r.distance === distance &&
+                    r.gender === gender &&
+                    (!division || r.division === division)  // Match division if specified
+                );
 
                 if (!raceEntry) {
                     // Create new race entry if it doesn't exist

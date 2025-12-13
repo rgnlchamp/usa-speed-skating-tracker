@@ -1,0 +1,135 @@
+﻿[
+  {
+    "rank": "1",
+    "name": "Femke Kok",
+    "country": "NED",
+    "time": "37.00",
+    "points": 60
+  },
+  {
+    "rank": "2",
+    "name": "Jutta Leerdam",
+    "country": "NED",
+    "time": "37.36",
+    "points": 54
+  },
+  {
+    "rank": "3",
+    "name": "Marrit Fledderus",
+    "country": "NED",
+    "time": "37.53",
+    "points": 48
+  },
+  {
+    "rank": "4",
+    "name": "Yukino Yoshida",
+    "country": "JPN",
+    "time": "37.63",
+    "points": 43
+  },
+  {
+    "rank": "5",
+    "name": "Serena Pergher",
+    "country": "ITA",
+    "time": "37.64",
+    "points": 40
+  },
+  {
+    "rank": "6",
+    "name": "Angel Daleman",
+    "country": "NED",
+    "time": "37.68",
+    "points": 38
+  },
+  {
+    "rank": "7",
+    "name": "Min Sun Kim",
+    "country": "KOR",
+    "time": "37.83",
+    "points": 36
+  },
+  {
+    "rank": "8",
+    "name": "Kaja Ziomek Nogal",
+    "country": "POL",
+    "time": "37.84",
+    "points": 34
+  },
+  {
+    "rank": "9",
+    "name": "Sophie Warmuth",
+    "country": "GER",
+    "time": "37.93",
+    "points": 32
+  },
+  {
+    "rank": "10",
+    "name": "Anna Boersma",
+    "country": "NED",
+    "time": "37.93",
+    "points": 31
+  },
+  {
+    "rank": "11",
+    "name": "Kristina Silaeva",
+    "country": "KAZ",
+    "time": "37.94",
+    "points": 30
+  },
+  {
+    "rank": "11",
+    "name": "B├⌐atrice Lamarche",
+    "country": "CAN",
+    "time": "37.94",
+    "points": 30
+  },
+  {
+    "rank": "13",
+    "name": "Ruining Tian",
+    "country": "CHN",
+    "time": "37.99",
+    "points": 28
+  },
+  {
+    "rank": "14",
+    "name": "Ying Chu Chen",
+    "country": "TPE",
+    "time": "38.00",
+    "points": 27
+  },
+  {
+    "rank": "15",
+    "name": "Na Hyun Lee",
+    "country": "KOR",
+    "time": "38.02",
+    "points": 26
+  },
+  {
+    "rank": "16",
+    "name": "W├│jcik",
+    "country": "POL",
+    "time": "38.14",
+    "points": 25
+  },
+  {
+    "rank": "17",
+    "name": "Martyna Baran",
+    "country": "POL",
+    "time": "38.19",
+    "points": 24
+  },
+  {
+    "rank": "18",
+    "name": "Rio Yamada",
+    "country": "JPN",
+    "time": "38.49",
+    "points": 23
+  },
+  {
+    "rank": "19",
+    "name": "Brooklyn Mcdougall",
+    "country": "CAN",
+    "time": "38.57",
+    "points": 22
+  }
+]

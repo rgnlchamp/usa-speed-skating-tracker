@@ -11,12 +11,13 @@
 
 module.exports = [
     {
-        // Fix for Erin Jackson: DNF in Women's 1000m (A Division) on 2025-12-05
+        // Fix for Erin Jackson: DNF in Women's 500m (A Division) - WC3
         // Rule: DNF in A Division gets last place points (21 points)
         name: "Erin Jackson",
         country: "USA",
-        distance: "1000m",
+        distance: "500m",
         gender: "women",
+        division: "A",  // Specify division to match correct race
         eventId: "WC3", // World Cup #3
         points: 21,
         rank: "20", // Last place in A Division
