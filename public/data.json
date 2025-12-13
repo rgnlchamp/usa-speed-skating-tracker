@@ -14810,6 +14810,13 @@
             "country": "USA",
             "time": "DNF",
             "points": 21
+          },
+          {
+            "name": "Erin Jackson",
+            "country": "USA",
+            "points": 21,
+            "rank": "20",
+            "time": "DNF"
           }
         ]
       },
@@ -22906,6 +22913,85 @@
           ]
         },
         {
+          "name": "Erin Jackson",
+          "country": "USA",
+          "totalPoints": 256,
+          "bestTime": "36.57",
+          "bestPlace": 2,
+          "races": [
+            {
+              "rank": "19",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "43.94",
+              "points": 22,
+              "eventId": "WC4",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "36.87",
+              "points": 54,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "2",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "36.57",
+              "points": 54,
+              "eventId": "WC1",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "3",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "37.15",
+              "points": 48,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "7",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "37.35",
+              "points": 36,
+              "eventId": "WC2",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "rank": "20",
+              "name": "Erin Jackson",
+              "country": "USA",
+              "time": "DNF",
+              "points": 21,
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            },
+            {
+              "name": "Erin Jackson",
+              "country": "USA",
+              "points": 21,
+              "rank": "20",
+              "time": "DNF",
+              "eventId": "WC3",
+              "distance": "500m",
+              "gender": "women"
+            }
+          ]
+        },
+        {
           "name": "Marrit Fledderus",
           "country": "NED",
           "totalPoints": 251,
@@ -22968,75 +23054,6 @@
               "country": "NED",
               "time": "37.53",
               "points": 48,
-              "eventId": "WC3",
-              "distance": "500m",
-              "gender": "women"
-            }
-          ]
-        },
-        {
-          "name": "Erin Jackson",
-          "country": "USA",
-          "totalPoints": 235,
-          "bestTime": "36.57",
-          "bestPlace": 2,
-          "races": [
-            {
-              "rank": "19",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "43.94",
-              "points": 22,
-              "eventId": "WC4",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "2",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "36.87",
-              "points": 54,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "2",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "36.57",
-              "points": 54,
-              "eventId": "WC1",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "3",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "37.15",
-              "points": 48,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "7",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "37.35",
-              "points": 36,
-              "eventId": "WC2",
-              "distance": "500m",
-              "gender": "women"
-            },
-            {
-              "rank": "20",
-              "name": "Erin Jackson",
-              "country": "USA",
-              "time": "DNF",
-              "points": 21,
               "eventId": "WC3",
               "distance": "500m",
               "gender": "women"
@@ -26571,7 +26588,7 @@
           "name": "Erin Jackson",
           "country": "USA",
           "bestTime": "36.57",
-          "totalPoints": 235
+          "totalPoints": 256
         },
         {
           "name": "Yukino Yoshida",
@@ -27037,6 +27054,86 @@
             "method": "Points"
           },
           {
+            "name": "Erin Jackson",
+            "country": "USA",
+            "totalPoints": 256,
+            "bestTime": "36.57",
+            "bestPlace": 2,
+            "races": [
+              {
+                "rank": "19",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "43.94",
+                "points": 22,
+                "eventId": "WC4",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "36.87",
+                "points": 54,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "2",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "36.57",
+                "points": 54,
+                "eventId": "WC1",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "3",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "37.15",
+                "points": 48,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "7",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "37.35",
+                "points": 36,
+                "eventId": "WC2",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "rank": "20",
+                "name": "Erin Jackson",
+                "country": "USA",
+                "time": "DNF",
+                "points": 21,
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              },
+              {
+                "name": "Erin Jackson",
+                "country": "USA",
+                "points": 21,
+                "rank": "20",
+                "time": "DNF",
+                "eventId": "WC3",
+                "distance": "500m",
+                "gender": "women"
+              }
+            ],
+            "method": "Points"
+          },
+          {
             "name": "Marrit Fledderus",
             "country": "NED",
             "totalPoints": 251,
@@ -27099,76 +27196,6 @@
                 "country": "NED",
                 "time": "37.53",
                 "points": 48,
-                "eventId": "WC3",
-                "distance": "500m",
-                "gender": "women"
-              }
-            ],
-            "method": "Points"
-          },
-          {
-            "name": "Erin Jackson",
-            "country": "USA",
-            "totalPoints": 235,
-            "bestTime": "36.57",
-            "bestPlace": 2,
-            "races": [
-              {
-                "rank": "19",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "43.94",
-                "points": 22,
-                "eventId": "WC4",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "2",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "36.87",
-                "points": 54,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "2",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "36.57",
-                "points": 54,
-                "eventId": "WC1",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "3",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "37.15",
-                "points": 48,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "7",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "37.35",
-                "points": 36,
-                "eventId": "WC2",
-                "distance": "500m",
-                "gender": "women"
-              },
-              {
-                "rank": "20",
-                "name": "Erin Jackson",
-                "country": "USA",
-                "time": "DNF",
-                "points": 21,
                 "eventId": "WC3",
                 "distance": "500m",
                 "gender": "women"
@@ -64420,6 +64447,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-13T19:45:34.984Z",
+  "lastUpdated": "2025-12-13T20:03:14.404Z",
   "isUpdating": false
 }

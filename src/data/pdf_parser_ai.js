@@ -73,7 +73,7 @@ async function parsePDFWithAI(pdfPath, apiKey) {
     console.log(`  [AI PARSING] ${path.basename(pdfPath)}...`);
 
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash-exp' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
 
     // Read PDF as base64
     const pdfBuffer = fs.readFileSync(pdfPath);
