@@ -1,0 +1,253 @@
+{
+  "pdfMtime": "2025-11-23T15:42:14.848Z",
+  "cachedAt": "2025-12-13T20:09:23.304Z",
+  "data": {
+    "eventNumber": "11",
+    "eventLocation": "Calgary (CAN)",
+    "eventDate": "Nov 2025",
+    "distance": "1500m",
+    "gender": "women",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Valerie MALTAIS",
+        "country": "CAN",
+        "time": "1:52.56",
+        "points": 28
+      },
+      {
+        "rank": "2",
+        "name": "Marijke GROENEWOUD",
+        "country": "NED",
+        "time": "1:53.19",
+        "points": 24
+      },
+      {
+        "rank": "3",
+        "name": "Binyu YANG",
+        "country": "CHN",
+        "time": "1:53.34",
+        "points": 21
+      },
+      {
+        "rank": "4",
+        "name": "Jeannine ROSNER",
+        "country": "AUT",
+        "time": "1:53.60",
+        "points": 17
+      },
+      {
+        "rank": "5",
+        "name": "Ahenaer ADAKE",
+        "country": "CHN",
+        "time": "1:53.77",
+        "points": 16
+      },
+      {
+        "rank": "6",
+        "name": "Lea Sophie SCHOLZ",
+        "country": "GER",
+        "time": "1:53.94",
+        "points": 15
+      },
+      {
+        "rank": "7",
+        "name": "Natalia CZERWONKA",
+        "country": "POL",
+        "time": "1:53.95",
+        "points": 14
+      },
+      {
+        "rank": "8",
+        "name": "Qi YIN",
+        "country": "CHN",
+        "time": "1:54.64",
+        "points": 13
+      },
+      {
+        "rank": "9",
+        "name": "Rio YAMADA",
+        "country": "JPN",
+        "time": "1:54.69",
+        "points": 12
+      },
+      {
+        "rank": "10",
+        "name": "Sofia THORUP",
+        "country": "DEN",
+        "time": "1:54.81",
+        "points": 11
+      },
+      {
+        "rank": "11",
+        "name": "Isabelle WEIDEMANN",
+        "country": "CAN",
+        "time": "1:55.10",
+        "points": 10
+      },
+      {
+        "rank": "12",
+        "name": "Ellia SMEDING",
+        "country": "GBR",
+        "time": "1:55.32",
+        "points": 9
+      },
+      {
+        "rank": "13",
+        "name": "Aurora Grinden LØVÅS",
+        "country": "NOR",
+        "time": "1:55.52",
+        "points": 8
+      },
+      {
+        "rank": "14",
+        "name": "Vanessa HERZOG",
+        "country": "AUT",
+        "time": "1:55.56",
+        "points": 7
+      },
+      {
+        "rank": "15",
+        "name": "Alexa SCOTT",
+        "country": "CAN",
+        "time": "1:55.80",
+        "points": 6
+      },
+      {
+        "rank": "16",
+        "name": "Natalia JABRZYK",
+        "country": "POL",
+        "time": "1:56.73",
+        "points": 5
+      },
+      {
+        "rank": "17",
+        "name": "Leewon LIM",
+        "country": "KOR",
+        "time": "1:56.74",
+        "points": 4
+      },
+      {
+        "rank": "18",
+        "name": "Alexandra SAYUTINA",
+        "country": "AIN",
+        "time": "1:56.86",
+        "points": 3
+      },
+      {
+        "rank": "19",
+        "name": "Ji-Woo PARK",
+        "country": "KOR",
+        "time": "1:57.03",
+        "points": 2
+      },
+      {
+        "rank": "20",
+        "name": "Arina ILYACHSEHENKO",
+        "country": "KAZ",
+        "time": "1:57.41",
+        "points": 1
+      },
+      {
+        "rank": "21",
+        "name": "Violette BRAUN",
+        "country": "FRA",
+        "time": "1:57.53",
+        "points": 0
+      },
+      {
+        "rank": "22",
+        "name": "Isabel KRAUS",
+        "country": "GER",
+        "time": "1:57.54",
+        "points": 0
+      },
+      {
+        "rank": "23",
+        "name": "Emily TORMEN",
+        "country": "ITA",
+        "time": "1:57.84",
+        "points": 0
+      },
+      {
+        "rank": "24",
+        "name": "Kyoko NITTA",
+        "country": "JPN",
+        "time": "1:57.95",
+        "points": 0
+      },
+      {
+        "rank": "25",
+        "name": "Soo-Min KANG",
+        "country": "KOR",
+        "time": "1:58.00",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Giorgia BIRKELAND",
+        "country": "USA",
+        "time": "1:58.26",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Ramona HÄRDI",
+        "country": "SUI",
+        "time": "1:58.53",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Sofie ADEBERG",
+        "country": "GER",
+        "time": "1:59.24",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Arianna FONTANA",
+        "country": "ITA",
+        "time": "1:59.93",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Ju-Lin DE VISSER",
+        "country": "TPE",
+        "time": "2:00.15",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Abigél MERCS",
+        "country": "HUN",
+        "time": "2:01.00",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Lucie KORVASOVÁ",
+        "country": "CZE",
+        "time": "2:01.17",
+        "points": 0
+      },
+      {
+        "rank": "33",
+        "name": "Natascha LINDENSKOV",
+        "country": "DEN",
+        "time": "2:02.86",
+        "points": 0
+      },
+      {
+        "rank": "34",
+        "name": "Zuzana KURŠOVÁ",
+        "country": "CZE",
+        "time": "2:06.68",
+        "points": 0
+      }
+    ],
+    "name": "1500m Women Division B"
+  }
+}

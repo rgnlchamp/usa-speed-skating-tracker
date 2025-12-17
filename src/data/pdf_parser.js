@@ -338,8 +338,8 @@ function parseResultsTable(text, distance, filename) {
                     timeIndex = k;
                     break;
                 }
-                // Check for DNF, DSQ, DNS, etc.
-                if (tokens[k].match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC)$/i)) {
+                // Check for DNF, DSQ, DNS, WDR, etc.
+                if (tokens[k].match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC|WDR)$/i)) {
                     time = tokens[k].toUpperCase();
                     timeIndex = k;
                     break;
@@ -349,8 +349,8 @@ function parseResultsTable(text, distance, filename) {
 
         if (isDebug) console.log(`[DEBUG] Time: ${time}`);
 
-        // Allow DNF/DSQ entries even without a numeric time
-        const isDNF = time && time.match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC)$/i);
+        // Allow DNF/DSQ/WDR entries even without a numeric time
+        const isDNF = time && time.match(/^(DNF|DSQ|DNS|DQ|DNQ|DNH|NSC|WDR)$/i);
         if (!time && distance !== 'Mass Start' && !isDNF) {
             if (isDebug) console.log(`[DEBUG] Failed to find time.`);
             i++;
@@ -362,12 +362,17 @@ function parseResultsTable(text, distance, filename) {
         let searchStartIndex = timeIndex !== -1 ? timeIndex : countryIndex;
         let pointsIndex = searchStartIndex;
 
-        for (let k = searchStartIndex + 1; k < Math.min(searchStartIndex + 10, tokens.length); k++) {
+        // Expanded search range for points and better helper skipping
+        for (let k = searchStartIndex + 1; k < Math.min(searchStartIndex + 15, tokens.length); k++) {
             if (tokens[k].startsWith('+')) continue;
-            if (tokens[k] === 'In' || tokens[k] === 'Out' || tokens[k] === 'Ou' || tokens[k] === 't') continue;
+            if (tokens[k].match(/^(In|Out|Ou|t|Lane|Pair)$/i)) continue;
+
+            // Skip common garbage tokens that might appear before points
+            if (tokens[k].match(/^(\.|,|:|;|-)$/)) continue;
 
             const pointsCandidate = parseInt(tokens[k]);
-            if (!isNaN(pointsCandidate) && pointsCandidate >= 0 && pointsCandidate <= 100) {
+            // Points are typically 0-100 for World Cup
+            if (!isNaN(pointsCandidate) && pointsCandidate >= 0 && pointsCandidate <= 200) {
                 points = pointsCandidate;
                 pointsIndex = k;
                 break;

@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-12-06T20:46:53.826Z",
+  "cachedAt": "2025-12-13T20:08:42.530Z",
+  "data": {
+    "eventNumber": "10",
+    "eventLocation": "Heerenveen (NED)",
+    "eventDate": "Dec 2025",
+    "distance": "1500m",
+    "gender": "women",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Joy BEUNE",
+        "country": "NED",
+        "time": "1:53.10",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Antoinette RIJPMA-DE JONG",
+        "country": "NED",
+        "time": "1:53.36",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Ivanie BLONDIN",
+        "country": "CAN",
+        "time": "1:53.43",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Brittany BOWE",
+        "country": "USA",
+        "time": "1:53.80",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Miho TAKAGI",
+        "country": "JPN",
+        "time": "1:53.89",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Angel DALEMAN",
+        "country": "NED",
+        "time": "1:53.98",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Nadezhda MOROZOVA",
+        "country": "KAZ",
+        "time": "1:54.05",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Ragne WIKLUND",
+        "country": "NOR",
+        "time": "1:54.11",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Nikola ZDRÁHALOVA",
+        "country": "CZE",
+        "time": "1:54.27",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Mei HAN",
+        "country": "CHN",
+        "time": "1:54.32",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Marijke GROENEWOUD",
+        "country": "NED",
+        "time": "1:54.55",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Kaitlyn MCGREGOR",
+        "country": "SUI",
+        "time": "1:55.13",
+        "points": 29
+      },
+      {
+        "rank": "13",
+        "name": "Melissa WIJFJE",
+        "country": "NED",
+        "time": "1:55.17",
+        "points": 28
+      },
+      {
+        "rank": "14",
+        "name": "Binyu YANG",
+        "country": "CHN",
+        "time": "1:55.36",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Isabelle VAN ELST",
+        "country": "BEL",
+        "time": "1:55.50",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Valerie MALTAIS",
+        "country": "CAN",
+        "time": "1:55.76",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Francesca LOLLOBRIGIDA",
+        "country": "ITA",
+        "time": "1:56.44",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Elizaveta GOLUBEVA",
+        "country": "KAZ",
+        "time": "1:56.47",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Ayano SATO",
+        "country": "JPN",
+        "time": "1:56.58",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Greta MYERS",
+        "country": "USA",
+        "time": "1:57.33",
+        "points": 21
+      }
+    ],
+    "name": "1500m Women Division A"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-12-06T20:47:16.007Z",
+  "cachedAt": "2025-12-13T20:09:01.506Z",
+  "data": {
+    "eventNumber": "11",
+    "eventLocation": "Heerenveen (NED)",
+    "eventDate": "Dec 2025",
+    "distance": "1000m",
+    "gender": "men",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Jordan STOLZ",
+        "country": "USA",
+        "time": "1:06.38",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Finn SONNEKALB",
+        "country": "GER",
+        "time": "1:07.42",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Tim PRINS",
+        "country": "NED",
+        "time": "1:07.49",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Jenning DE BOO",
+        "country": "NED",
+        "time": "1:07.60",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Zhongyan NING",
+        "country": "CHN",
+        "time": "1:07.70",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Joep WENNEMARS",
+        "country": "NED",
+        "time": "1:07.75",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Kjeld NUIS",
+        "country": "NED",
+        "time": "1:07.83",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Damian ŻUREK",
+        "country": "POL",
+        "time": "1:07.85",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Marten LIIV",
+        "country": "EST",
+        "time": "1:07.93",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Ryota KOJIMA",
+        "country": "JPN",
+        "time": "1:08.00",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Conor MCDERMOTT-MOSTOWY",
+        "country": "USA",
+        "time": "1:08.21",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Cooper MCLEOD",
+        "country": "USA",
+        "time": "1:08.33",
+        "points": 29
+      },
+      {
+        "rank": "13",
+        "name": "Marek KANIA",
+        "country": "POL",
+        "time": "1:08.35",
+        "points": 28
+      },
+      {
+        "rank": "14",
+        "name": "Taiyo NONOMURA",
+        "country": "JPN",
+        "time": "1:08.45",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Ziwen LIAN",
+        "country": "CHN",
+        "time": "1:08.48",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Hendrik DOMBEK",
+        "country": "GER",
+        "time": "1:08.65",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Mathias VOSTÉ",
+        "country": "BEL",
+        "time": "1:08.77",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Piotr MICHALSKI",
+        "country": "POL",
+        "time": "1:08.82",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Kazuya YAMADA",
+        "country": "JPN",
+        "time": "1:08.87",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Moritz KLEIN",
+        "country": "GER",
+        "time": "1:09.05",
+        "points": 21
+      }
+    ],
+    "name": "1000m Men Division A"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "pdfMtime": "2025-11-23T15:42:34.329Z",
+  "cachedAt": "2025-12-13T20:10:53.297Z",
+  "data": {
+    "eventNumber": "12",
+    "eventLocation": "Calgary (CAN)",
+    "eventDate": "Nov 2025",
+    "distance": "1500m",
+    "gender": "men",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Alexander FARTHOFER",
+        "country": "AUT",
+        "time": "1:42.97",
+        "points": 28
+      },
+      {
+        "rank": "2",
+        "name": "Hendrik DOMBEK",
+        "country": "GER",
+        "time": "1:43.08",
+        "points": 24
+      },
+      {
+        "rank": "3",
+        "name": "Valentin THIEBAULT",
+        "country": "FRA",
+        "time": "1:43.25",
+        "points": 21
+      },
+      {
+        "rank": "4",
+        "name": "Emery LEHMAN",
+        "country": "USA",
+        "time": "1:43.26",
+        "points": 17
+      },
+      {
+        "rank": "5",
+        "name": "Vladimir SEMIRUNNIY",
+        "country": "POL",
+        "time": "1:43.41",
+        "points": 16
+      },
+      {
+        "rank": "6",
+        "name": "Casey DAWSON",
+        "country": "USA",
+        "time": "1:43.66",
+        "points": 15
+      },
+      {
+        "rank": "7",
+        "name": "Wenhao LI",
+        "country": "CHN",
+        "time": "1:43.98",
+        "points": 14
+      },
+      {
+        "rank": "8",
+        "name": "Metoděj JÍLEK",
+        "country": "CZE",
+        "time": "1:44.25",
+        "points": 13
+      },
+      {
+        "rank": "9",
+        "name": "Moritz KLEIN",
+        "country": "GER",
+        "time": "1:44.37",
+        "points": 12
+      },
+      {
+        "rank": "10",
+        "name": "Marten LIIV",
+        "country": "EST",
+        "time": "1:44.53",
+        "points": 11
+      },
+      {
+        "rank": "11",
+        "name": "Conor MCDERMOTT-MOSTOWY",
+        "country": "USA",
+        "time": "1:44.68",
+        "points": 10
+      },
+      {
+        "rank": "12",
+        "name": "Ho-Jun YANG",
+        "country": "KOR",
+        "time": "1:44.83",
+        "points": 9
+      },
+      {
+        "rank": "13",
+        "name": "Szymon WOJTAKOWSKI",
+        "country": "POL",
+        "time": "1:44.86",
+        "points": 8
+      },
+      {
+        "rank": "14",
+        "name": "Francesco BETTI",
+        "country": "ITA",
+        "time": "1:45.11",
+        "points": 7
+      },
+      {
+        "rank": "15",
+        "name": "Seonghyeon PARK",
+        "country": "KOR",
+        "time": "1:45.16",
+        "points": 6
+      },
+      {
+        "rank": "16",
+        "name": "Mathias VOSTÉ",
+        "country": "BEL",
+        "time": "1:45.23",
+        "points": 5
+      },
+      {
+        "rank": "17",
+        "name": "Gabriel GROß",
+        "country": "GER",
+        "time": "1:45.39",
+        "points": 4
+      },
+      {
+        "rank": "18",
+        "name": "Viktor Hald THORUP",
+        "country": "DEN",
+        "time": "1:45.44",
+        "points": 3
+      },
+      {
+        "rank": "19",
+        "name": "Ryan KULBACKI",
+        "country": "CAN",
+        "time": "1:45.70",
+        "points": 2
+      },
+      {
+        "rank": "20",
+        "name": "Livio WENGER",
+        "country": "SUI",
+        "time": "1:45.73",
+        "points": 1
+      },
+      {
+        "rank": "21",
+        "name": "Indra MEDARD",
+        "country": "BEL",
+        "time": "1:45.74",
+        "points": 0
+      },
+      {
+        "rank": "22",
+        "name": "Riccardo LORELLO",
+        "country": "ITA",
+        "time": "1:45.84",
+        "points": 0
+      },
+      {
+        "rank": "23",
+        "name": "Finn Elias HANEBERG",
+        "country": "NOR",
+        "time": "1:46.04",
+        "points": 0
+      },
+      {
+        "rank": "24",
+        "name": "Roman BINAZAROV",
+        "country": "KAZ",
+        "time": "1:46.12",
+        "points": 0
+      },
+      {
+        "rank": "25",
+        "name": "Masaya YAMADA",
+        "country": "JPN",
+        "time": "1:46.15",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Cornelius KERSTEN",
+        "country": "GBR",
+        "time": "1:46.16",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Allan Dahl JOHANSSON",
+        "country": "NOR",
+        "time": "1:46.18",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Mathieu BELLOIR",
+        "country": "FRA",
+        "time": "1:46.21",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Tyson LANGELAAR",
+        "country": "CAN",
+        "time": "1:46.26",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Peter MICHAEL",
+        "country": "NZL",
+        "time": "1:46.41",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Flavio GROSS",
+        "country": "SUI",
+        "time": "1:46.56",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Konrád NAGY",
+        "country": "HUN",
+        "time": "1:46.76",
+        "points": 0
+      },
+      {
+        "rank": "33",
+        "name": "Kotaro KASAHARA",
+        "country": "JPN",
+        "time": "1:46.77",
+        "points": 0
+      },
+      {
+        "rank": "34",
+        "name": "Wei-Lin TAI",
+        "country": "TPE",
+        "time": "1:46.80",
+        "points": 0
+      },
+      {
+        "rank": "35",
+        "name": "Kai IN 'T VELD",
+        "country": "GRE",
+        "time": "1:47.09",
+        "points": 0
+      },
+      {
+        "rank": "36",
+        "name": "Viktor RUDENKO",
+        "country": "AIN",
+        "time": "1:47.17",
+        "points": 0
+      },
+      {
+        "rank": "37",
+        "name": "Juuso LEHTONEN",
+        "country": "FIN",
+        "time": "1:48.93",
+        "points": 0
+      },
+      {
+        "rank": "38",
+        "name": "Lukas STEKLY",
+        "country": "SVK",
+        "time": "1:49.38",
+        "points": 0
+      },
+      {
+        "rank": "39",
+        "name": "Daan VAN DER ELST",
+        "country": "BEL",
+        "time": "1:50.30",
+        "points": 0
+      },
+      {
+        "rank": "40",
+        "name": "Adrian Octavian FIERAR",
+        "country": "ROU",
+        "time": "1:50.39",
+        "points": 0
+      },
+      {
+        "rank": "41",
+        "name": "Tadeáš PROCHÁZKA",
+        "country": "CZE",
+        "time": "1:51.14",
+        "points": 0
+      },
+      {
+        "rank": "42",
+        "name": "Danila SEMERIKOV",
+        "country": "UZB",
+        "time": "1:53.61",
+        "points": 0
+      }
+    ],
+    "name": "1500m Men Division B"
+  }
+}

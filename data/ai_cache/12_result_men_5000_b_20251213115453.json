@@ -1,0 +1,288 @@
+{
+  "pdfMtime": "2025-12-13T17:50:15.686Z",
+  "cachedAt": "2025-12-13T20:11:16.428Z",
+  "data": {
+    "eventNumber": "4",
+    "eventLocation": "Hamar (NOR)",
+    "eventDate": "Dec 2025",
+    "distance": "5000m",
+    "gender": "men",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Viktor Hald THORUP",
+        "country": "DEN",
+        "time": "6:14.32",
+        "points": 32
+      },
+      {
+        "rank": "2",
+        "name": "Sigurd HENRIKSEN",
+        "country": "NOR",
+        "time": "6:16.29",
+        "points": 28
+      },
+      {
+        "rank": "3",
+        "name": "Kars JANSMAN",
+        "country": "NED",
+        "time": "6:18.22",
+        "points": 25
+      },
+      {
+        "rank": "4",
+        "name": "Gabriel GROB",
+        "country": "GER",
+        "time": "6:18.51",
+        "points": 21
+      },
+      {
+        "rank": "5",
+        "name": "Marcel BOSKER",
+        "country": "NED",
+        "time": "6:18.92",
+        "points": 20
+      },
+      {
+        "rank": "6",
+        "name": "Manuel GHIOTTO",
+        "country": "ITA",
+        "time": "6:19.09",
+        "points": 19
+      },
+      {
+        "rank": "7",
+        "name": "Giovanni TREBOUTA",
+        "country": "FRA",
+        "time": "6:21.08",
+        "points": 18
+      },
+      {
+        "rank": "8",
+        "name": "Shomu SASAKI",
+        "country": "JPN",
+        "time": "6:21.83",
+        "points": 17
+      },
+      {
+        "rank": "9",
+        "name": "Yu WU",
+        "country": "CHN",
+        "time": "6:22.13",
+        "points": 16
+      },
+      {
+        "rank": "10",
+        "name": "Szymon PALKA",
+        "country": "POL",
+        "time": "6:23.81",
+        "points": 15
+      },
+      {
+        "rank": "11",
+        "name": "Ethan CEPURAN",
+        "country": "USA",
+        "time": "6:24.52",
+        "points": 14
+      },
+      {
+        "rank": "12",
+        "name": "Graeme FISH",
+        "country": "CAN",
+        "time": "6:24.90",
+        "points": 13
+      },
+      {
+        "rank": "13",
+        "name": "Patrick BECKERT",
+        "country": "GER",
+        "time": "6:24.95",
+        "points": 12
+      },
+      {
+        "rank": "14",
+        "name": "Wenhao LI",
+        "country": "CHN",
+        "time": "6:25.43",
+        "points": 11
+      },
+      {
+        "rank": "15",
+        "name": "Andrea GIOVANNINI",
+        "country": "ITA",
+        "time": "6:26.18",
+        "points": 10
+      },
+      {
+        "rank": "16",
+        "name": "Riku TSUCHIYA",
+        "country": "JPN",
+        "time": "6:26.33",
+        "points": 9
+      },
+      {
+        "rank": "17",
+        "name": "Livio WENGER",
+        "country": "SUI",
+        "time": "6:28.13",
+        "points": 8
+      },
+      {
+        "rank": "18",
+        "name": "Daniel HALL",
+        "country": "CAN",
+        "time": "6:29.53",
+        "points": 7
+      },
+      {
+        "rank": "19",
+        "name": "Yahor DAMARATSKI",
+        "country": "AIN",
+        "time": "6:30.44",
+        "points": 6
+      },
+      {
+        "rank": "20",
+        "name": "Sigurd Holbø DYRSET",
+        "country": "NOR",
+        "time": "6:30.52",
+        "points": 5
+      },
+      {
+        "rank": "21",
+        "name": "Taiyo MORINO",
+        "country": "JPN",
+        "time": "6:30.76",
+        "points": 4
+      },
+      {
+        "rank": "22",
+        "name": "Jae-Won CHUNG",
+        "country": "KOR",
+        "time": "6:31.23",
+        "points": 3
+      },
+      {
+        "rank": "23",
+        "name": "Zhenlong CONG",
+        "country": "CHN",
+        "time": "6:31.76",
+        "points": 2
+      },
+      {
+        "rank": "24",
+        "name": "Danila SEMERIKOV",
+        "country": "UZB",
+        "time": "6:32.87",
+        "points": 1
+      },
+      {
+        "rank": "25",
+        "name": "Kotaro KASAHARA",
+        "country": "JPN",
+        "time": "6:32.90",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Severin WIDMER",
+        "country": "SUI",
+        "time": "6:34.64",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Wojciech GUTOWSKI",
+        "country": "POL",
+        "time": "6:34.99",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Filip Møller NORDAL",
+        "country": "NOR",
+        "time": "6:35.65",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Lukas STEKLY",
+        "country": "SVK",
+        "time": "6:36.06",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Vitaliy CHSHIGOLEV",
+        "country": "KAZ",
+        "time": "6:37.98",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Afonso Henrique Pestana SILVA",
+        "country": "POR",
+        "time": "6:39.16",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Daan VAN DER ELST",
+        "country": "BEL",
+        "time": "6:39.77",
+        "points": 0
+      },
+      {
+        "rank": "33",
+        "name": "Oddbiørn MELLEMSTRAND",
+        "country": "NOR",
+        "time": "6:41.26",
+        "points": 0
+      },
+      {
+        "rank": "34",
+        "name": "Kelin DUNFEE",
+        "country": "USA",
+        "time": "6:41.43",
+        "points": 0
+      },
+      {
+        "rank": "35",
+        "name": "Philip Due SCHMIDT",
+        "country": "DEN",
+        "time": "6:45.22",
+        "points": 0
+      },
+      {
+        "rank": "36",
+        "name": "Adrian Octavian FIERAR",
+        "country": "ROU",
+        "time": "6:45.76",
+        "points": 0
+      },
+      {
+        "rank": "37",
+        "name": "Manuel ROBLA",
+        "country": "ESP",
+        "time": "6:46.98",
+        "points": 0
+      },
+      {
+        "rank": "38",
+        "name": "Tadeáš PROCHÁZKA",
+        "country": "CZE",
+        "time": "6:49.76",
+        "points": 0
+      },
+      {
+        "rank": "39",
+        "name": "Thibault MÉTRAUX",
+        "country": "SUI",
+        "time": "6:51.86",
+        "points": 0
+      }
+    ],
+    "name": "5000m Men Division B"
+  }
+}

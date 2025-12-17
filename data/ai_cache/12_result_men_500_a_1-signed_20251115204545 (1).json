@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-11-23T05:13:21.454Z",
+  "cachedAt": "2025-12-13T20:11:32.265Z",
+  "data": {
+    "eventNumber": "1",
+    "eventLocation": "Salt Lake City (USA)",
+    "eventDate": "Nov 2025",
+    "distance": "500m",
+    "gender": "men",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Jordan STOLZ",
+        "country": "USA",
+        "time": "33.88",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Damian ZUREK",
+        "country": "POL",
+        "time": "33.90",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Tingvu GAO",
+        "country": "CHN",
+        "time": "33.93",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Wataru MORISHIGE",
+        "country": "JPN",
+        "time": "33.94",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Bjørn MAGNUSSEN",
+        "country": "NOR",
+        "time": "33.99",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Kyung-Min KOO",
+        "country": "KOR",
+        "time": "34.06",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Cooper MCLEOD",
+        "country": "USA",
+        "time": "34.07",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Laurent DUBREUIL",
+        "country": "CAN",
+        "time": "34.09",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Marten LIIV",
+        "country": "EST",
+        "time": "34.12",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Jenning DE BOO",
+        "country": "NED",
+        "time": "34.23",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Yuta HIROSE",
+        "country": "JPN",
+        "time": "34.24",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Joep WENNEMARS",
+        "country": "NED",
+        "time": "34.33",
+        "points": 29
+      },
+      {
+        "rank": "13",
+        "name": "Cedrick BRUNET",
+        "country": "CAN",
+        "time": "34.37",
+        "points": 28
+      },
+      {
+        "rank": "14",
+        "name": "Tatsuya SHINHAMA",
+        "country": "JPN",
+        "time": "34.37",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Marek KANIA",
+        "country": "POL",
+        "time": "34.38",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Yevgeniy KOSHKIN",
+        "country": "KAZ",
+        "time": "34.43",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Piotr MICHALSKI",
+        "country": "POL",
+        "time": "34.46",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Sebas DINIZ",
+        "country": "NED",
+        "time": "34.66",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Zach STOPPELMOOR",
+        "country": "USA",
+        "time": "54.88",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Stefan WESTENBROEK",
+        "country": "NED",
+        "time": "1:28.69",
+        "points": 21
+      }
+    ],
+    "name": "500m Men Division A"
+  }
+}

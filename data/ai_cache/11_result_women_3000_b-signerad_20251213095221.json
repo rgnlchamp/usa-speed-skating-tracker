@@ -1,0 +1,239 @@
+{
+  "pdfMtime": "2025-12-13T17:49:58.832Z",
+  "cachedAt": "2025-12-13T20:09:48.737Z",
+  "data": {
+    "eventNumber": "11",
+    "eventLocation": "Hamar (NOR)",
+    "eventDate": "Dec 2025",
+    "distance": "3000m",
+    "gender": "women",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Kseniia KORZHOVA",
+        "country": "AIN",
+        "time": "4:04.48",
+        "points": 32
+      },
+      {
+        "rank": "2",
+        "name": "Violette BRAUN",
+        "country": "FRA",
+        "time": "4:05.57",
+        "points": 28
+      },
+      {
+        "rank": "3",
+        "name": "Jeannine ROSNER",
+        "country": "AUT",
+        "time": "4:06.47",
+        "points": 25
+      },
+      {
+        "rank": "4",
+        "name": "Melissa WIJFJE",
+        "country": "NED",
+        "time": "4:06.67",
+        "points": 21
+      },
+      {
+        "rank": "5",
+        "name": "Magdalena CZYSZCZOŃ",
+        "country": "POL",
+        "time": "4:07.24",
+        "points": 20
+      },
+      {
+        "rank": "6",
+        "name": "Binyu YANG",
+        "country": "CHN",
+        "time": "4:07.63",
+        "points": 19
+      },
+      {
+        "rank": "7",
+        "name": "Ahenaer ADAKE",
+        "country": "CHN",
+        "time": "4:07.74",
+        "points": 18
+      },
+      {
+        "rank": "8",
+        "name": "Ji-Woo PARK",
+        "country": "KOR",
+        "time": "4:08.27",
+        "points": 17
+      },
+      {
+        "rank": "9",
+        "name": "Linda ROSSI",
+        "country": "ITA",
+        "time": "4:08.71",
+        "points": 16
+      },
+      {
+        "rank": "10",
+        "name": "Hana NOAKE",
+        "country": "JPN",
+        "time": "4:08.85",
+        "points": 15
+      },
+      {
+        "rank": "11",
+        "name": "Jiaxuan LI",
+        "country": "CHN",
+        "time": "4:09.61",
+        "points": 14
+      },
+      {
+        "rank": "12",
+        "name": "Marlen EHSELUNS",
+        "country": "GER",
+        "time": "4:09.91",
+        "points": 13
+      },
+      {
+        "rank": "13",
+        "name": "Laura HALL",
+        "country": "CAN",
+        "time": "4:10.45",
+        "points": 12
+      },
+      {
+        "rank": "14",
+        "name": "Aurora Grinden LØVÅS",
+        "country": "NOR",
+        "time": "4:10.52",
+        "points": 11
+      },
+      {
+        "rank": "15",
+        "name": "Kyoko NITTA",
+        "country": "JPN",
+        "time": "4:10.68",
+        "points": 10
+      },
+      {
+        "rank": "16",
+        "name": "Julia NIZAN",
+        "country": "FRA",
+        "time": "4:10.93",
+        "points": 9
+      },
+      {
+        "rank": "17",
+        "name": "Josephine SCHLÖRB",
+        "country": "GER",
+        "time": "4:11.02",
+        "points": 8
+      },
+      {
+        "rank": "18",
+        "name": "Zofia BRAUN",
+        "country": "POL",
+        "time": "4:12.02",
+        "points": 7
+      },
+      {
+        "rank": "19",
+        "name": "Abigail MCCLUSKEY",
+        "country": "CAN",
+        "time": "4:12.05",
+        "points": 6
+      },
+      {
+        "rank": "20",
+        "name": "Marte Bjerkreim FURNEE",
+        "country": "NOR",
+        "time": "4:12.52",
+        "points": 5
+      },
+      {
+        "rank": "21",
+        "name": "Ramona HÄRDI",
+        "country": "SUI",
+        "time": "4:14.01",
+        "points": 4
+      },
+      {
+        "rank": "22",
+        "name": "Giorgia BIRKELAND",
+        "country": "USA",
+        "time": "4:14.20",
+        "points": 3
+      },
+      {
+        "rank": "23",
+        "name": "Jundan HOU",
+        "country": "CHN",
+        "time": "4:17.19",
+        "points": 2
+      },
+      {
+        "rank": "24",
+        "name": "Anna MOLNAR",
+        "country": "AUT",
+        "time": "4:18.20",
+        "points": 1
+      },
+      {
+        "rank": "25",
+        "name": "Laura LORENZATO",
+        "country": "ITA",
+        "time": "4:18.22",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Lucie KORVASOVÁ",
+        "country": "CZE",
+        "time": "4:19.16",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Dina STORELID",
+        "country": "NOR",
+        "time": "4:20.43",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Natascha LINDENSKOV",
+        "country": "DEN",
+        "time": "4:20.56",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Ingrid Håkegård EICHLER",
+        "country": "NOR",
+        "time": "4:21.14",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Gemma COOPER",
+        "country": "GBR",
+        "time": "4:22.27",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Zuzana KURŠOVÁ",
+        "country": "CZE",
+        "time": "4:22.55",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Nadia WENGER",
+        "country": "SUI",
+        "time": "4:25.91",
+        "points": 0
+      }
+    ],
+    "name": "3000m Women Division B"
+  }
+}

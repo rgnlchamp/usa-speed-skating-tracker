@@ -1,0 +1,274 @@
+{
+  "pdfMtime": "2025-12-06T20:47:38.170Z",
+  "cachedAt": "2025-12-13T20:10:24.211Z",
+  "data": {
+    "eventNumber": "12",
+    "eventLocation": "Heerenveen (NED)",
+    "eventDate": "Dec 2025",
+    "distance": "1000m",
+    "gender": "men",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Szymon WOJTAKOWSKI",
+        "country": "POL",
+        "time": "1:08.67",
+        "points": 28
+      },
+      {
+        "rank": "2",
+        "name": "Gabriel ODOR",
+        "country": "AUT",
+        "time": "1:08.76",
+        "points": 24
+      },
+      {
+        "rank": "3",
+        "name": "Zach STOPPELMOOR",
+        "country": "USA",
+        "time": "1:08.99",
+        "points": 21
+      },
+      {
+        "rank": "4",
+        "name": "Kyung-Min KOO",
+        "country": "KOR",
+        "time": "1:09.16",
+        "points": 17
+      },
+      {
+        "rank": "5",
+        "name": "Daniele DI STEFANO",
+        "country": "ITA",
+        "time": "1:09.25",
+        "points": 16
+      },
+      {
+        "rank": "6",
+        "name": "Anders JOHNSON",
+        "country": "CAN",
+        "time": "1:09.32",
+        "points": 15
+      },
+      {
+        "rank": "7",
+        "name": "NIL LLOP IZQUIERDO",
+        "country": "ESP",
+        "time": "1:09.37",
+        "points": 14
+      },
+      {
+        "rank": "8",
+        "name": "Seonghyeon PARK",
+        "country": "KOR",
+        "time": "1:09.40",
+        "points": 13
+      },
+      {
+        "rank": "9",
+        "name": "Sanghyeok CHO",
+        "country": "KOR",
+        "time": "1:09.44",
+        "points": 12
+      },
+      {
+        "rank": "10",
+        "name": "Bjørn MAGNUSSEN",
+        "country": "NOR",
+        "time": "1:09.46",
+        "points": 11
+      },
+      {
+        "rank": "11",
+        "name": "Yankun ZHAO",
+        "country": "CAN",
+        "time": "1:09.53",
+        "points": 10
+      },
+      {
+        "rank": "12",
+        "name": "Kai IN 'T VELD",
+        "country": "GRE",
+        "time": "1:09.74",
+        "points": 9
+      },
+      {
+        "rank": "13",
+        "name": "Zhihan DENG",
+        "country": "CHN",
+        "time": "1:09.76",
+        "points": 8
+      },
+      {
+        "rank": "14",
+        "name": "Min-Seok KIM",
+        "country": "HUN",
+        "time": "1:09.79",
+        "points": 7
+      },
+      {
+        "rank": "15",
+        "name": "Henrik Fagerli RUKKE",
+        "country": "NOR",
+        "time": "1:09.84",
+        "points": 6
+      },
+      {
+        "rank": "16",
+        "name": "Tyson LANGELAAR",
+        "country": "CAN",
+        "time": "1:09.89",
+        "points": 5
+      },
+      {
+        "rank": "17",
+        "name": "Kai VERBIJ",
+        "country": "NED",
+        "time": "1:09.90",
+        "points": 4
+      },
+      {
+        "rank": "18",
+        "name": "Francesco BETTI",
+        "country": "ITA",
+        "time": "1:09.90",
+        "points": 3
+      },
+      {
+        "rank": "19",
+        "name": "Hyun-Min OH",
+        "country": "KOR",
+        "time": "1:09.94",
+        "points": 2
+      },
+      {
+        "rank": "20",
+        "name": "Cedrick BRUNET",
+        "country": "CAN",
+        "time": "1:10.03",
+        "points": 1
+      },
+      {
+        "rank": "21",
+        "name": "Valentin THIEBAULT",
+        "country": "FRA",
+        "time": "1:10.05",
+        "points": 0
+      },
+      {
+        "rank": "22",
+        "name": "Cornelius KERSTEN",
+        "country": "GBR",
+        "time": "1:10.14",
+        "points": 0
+      },
+      {
+        "rank": "23",
+        "name": "Artur GALIYEV",
+        "country": "KAZ",
+        "time": "1:10.24",
+        "points": 0
+      },
+      {
+        "rank": "24",
+        "name": "Wataru MORISHIGE",
+        "country": "JPN",
+        "time": "1:10.31",
+        "points": 0
+      },
+      {
+        "rank": "25",
+        "name": "Finn Elias HANEBERG",
+        "country": "NOR",
+        "time": "1:10.41",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Botond BEJCZI",
+        "country": "HUN",
+        "time": "1:10.50",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Jeffrey ROSANELLI",
+        "country": "ITA",
+        "time": "1:10.63",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Wei-Lin TAI",
+        "country": "TPE",
+        "time": "1:10.70",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Flavio GROSS",
+        "country": "SUI",
+        "time": "1:10.71",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Masaya YAMADA",
+        "country": "JPN",
+        "time": "1:10.78",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Sebastian FORSMARK",
+        "country": "SWE",
+        "time": "1:10.79",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Ze LIU",
+        "country": "CHN",
+        "time": "1:10.84",
+        "points": 0
+      },
+      {
+        "rank": "33",
+        "name": "Ignaz GSCHWENTNER",
+        "country": "AUT",
+        "time": "1:11.51",
+        "points": 0
+      },
+      {
+        "rank": "34",
+        "name": "Robbe BEELEN",
+        "country": "BEL",
+        "time": "1:11.58",
+        "points": 0
+      },
+      {
+        "rank": "35",
+        "name": "Gabriel Eduard NITU",
+        "country": "ROU",
+        "time": "1:11.76",
+        "points": 0
+      },
+      {
+        "rank": "36",
+        "name": "Joonas VALGE",
+        "country": "EST",
+        "time": "1:12.10",
+        "points": 0
+      },
+      {
+        "rank": "37",
+        "name": "Tuukka SUOMALAINEN",
+        "country": "FIN",
+        "time": "1:12.38",
+        "points": 0
+      }
+    ],
+    "name": "1000m Men Division B"
+  }
+}

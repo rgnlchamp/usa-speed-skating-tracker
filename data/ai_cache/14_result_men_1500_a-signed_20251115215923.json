@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-11-23T05:14:11.571Z",
+  "cachedAt": "2025-12-13T20:13:34.879Z",
+  "data": {
+    "eventNumber": "1",
+    "eventLocation": "Salt Lake City (USA)",
+    "eventDate": "Nov 2025",
+    "distance": "1500m",
+    "gender": "men",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Jordan STOLZ",
+        "country": "USA",
+        "time": "1:40.48",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Zhongvan NING",
+        "country": "CHN",
+        "time": "1:41.02",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Finn SONNEKALB",
+        "country": "GER",
+        "time": "1:41.33",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Peder KONGSHAUG",
+        "country": "NOR",
+        "time": "1:41.34",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Kjeld NUIS",
+        "country": "NED",
+        "time": "1:41.37",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Kazuya YAMADA",
+        "country": "JPN",
+        "time": "1:42.25",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Joep WENNEMARS",
+        "country": "NED",
+        "time": "1:42.34",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Tim PRINS",
+        "country": "NED",
+        "time": "1:42.36",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Min-Seok KIM",
+        "country": "HUN",
+        "time": "1:42.67",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Daniele DI STEFANO",
+        "country": "ITA",
+        "time": "1:42.74",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Didrik Eng STRAND",
+        "country": "NOR",
+        "time": "1:42.92",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Taivo NONOMURA",
+        "country": "JPN",
+        "time": "1:42.93",
+        "points": 29
+      },
+      {
+        "rank": "12",
+        "name": "David LA RUE",
+        "country": "CAN",
+        "time": "1:42.93",
+        "points": 29
+      },
+      {
+        "rank": "14",
+        "name": "Wesly DIJS",
+        "country": "NED",
+        "time": "1:43.10",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Tiimen SNEL",
+        "country": "NED",
+        "time": "1:43.14",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Sander EITREM",
+        "country": "NOR",
+        "time": "1:43.35",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Motonaga ARITO",
+        "country": "JPN",
+        "time": "1:43.68",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Mathias VOSTÉ",
+        "country": "BEL",
+        "time": "1:43.82",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Kotaro KASAHARA",
+        "country": "JPN",
+        "time": "1:44.26",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Connor HOWE",
+        "country": "CAN",
+        "time": "1:45.71",
+        "points": 21
+      }
+    ],
+    "name": "1500m Men Division A"
+  }
+}

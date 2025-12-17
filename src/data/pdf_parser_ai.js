@@ -73,7 +73,7 @@ async function parsePDFWithAI(pdfPath, apiKey) {
     console.log(`  [AI PARSING] ${path.basename(pdfPath)}...`);
 
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
 
     // Read PDF as base64
     const pdfBuffer = fs.readFileSync(pdfPath);
@@ -125,68 +125,106 @@ Return ONLY valid JSON in this exact format (no markdown, no code blocks):
 
 IMPORTANT: Extract EVERY skater from the results table, not just the top few. Include all ranks shown in the PDF.`;
 
-    try {
-        const result = await model.generateContent([
-            { text: prompt },
-            {
-                inlineData: {
-                    mimeType: 'application/pdf',
-                    data: pdfBase64
+    // Retry logic for rate limits
+    const MAX_RETRIES = 3;
+    let lastError = null;
+
+    for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+        try {
+            const result = await model.generateContent([
+                { text: prompt },
+                {
+                    inlineData: {
+                        mimeType: 'application/pdf',
+                        data: pdfBase64
+                    }
                 }
+            ]);
+
+            const response = result.response.text();
+
+            // Clean up response - remove markdown code blocks if present
+            let jsonStr = response
+                .replace(/```json\n?/g, '')
+                .replace(/```\n?/g, '')
+                .trim();
+
+            // Parse JSON
+            const parsed = JSON.parse(jsonStr);
+
+            // Validate structure
+            if (!parsed.results || !Array.isArray(parsed.results)) {
+                throw new Error('Invalid response structure - missing results array');
             }
-        ]);
 
-        const response = result.response.text();
+            // Add name field for consistency
+            parsed.name = `${parsed.distance} ${parsed.gender.charAt(0).toUpperCase() + parsed.gender.slice(1)} Division ${parsed.division}`;
 
-        // Clean up response - remove markdown code blocks if present
-        let jsonStr = response
-            .replace(/```json\n?/g, '')
-            .replace(/```\n?/g, '')
-            .trim();
+            // Save to cache
+            saveToCacheResult(pdfPath, parsed);
 
-        // Parse JSON
-        const parsed = JSON.parse(jsonStr);
+            console.log(`    ✓ Extracted ${parsed.results.length} results`);
+            return parsed;
 
-        // Validate structure
-        if (!parsed.results || !Array.isArray(parsed.results)) {
-            throw new Error('Invalid response structure - missing results array');
+        } catch (error) {
+            lastError = error;
+
+            // Check if it's a rate limit error (429)
+            if (error.message?.includes('429') || error.message?.includes('rate') || error.message?.includes('retry')) {
+                const waitTime = Math.pow(2, attempt + 2) * 1000; // 4s, 8s, 16s
+                console.log(`    ⏳ Rate limited, waiting ${waitTime / 1000}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+                await new Promise(resolve => setTimeout(resolve, waitTime));
+            } else {
+                // Non-rate-limit error, don't retry
+                break;
+            }
         }
-
-        // Add name field for consistency
-        parsed.name = `${parsed.distance} ${parsed.gender.charAt(0).toUpperCase() + parsed.gender.slice(1)} Division ${parsed.division}`;
-
-        // Save to cache
-        saveToCacheResult(pdfPath, parsed);
-
-        console.log(`    ✓ Extracted ${parsed.results.length} results`);
-        return parsed;
-
-    } catch (error) {
-        console.error(`    ✗ AI parsing failed for ${filename}:`, error.message);
-
-        // Fall back to standard parser
-        const { parsePDF } = require('./pdf_parser');
-        console.log(`    → Falling back to standard parser`);
-        return await parsePDF(pdfPath);
     }
+
+    console.error(`    ✗ AI parsing failed for ${filename}:`, lastError?.message);
+
+    // Fall back to standard parser
+    const { parsePDF } = require('./pdf_parser');
+    console.log(`    → Falling back to standard parser`);
+    return await parsePDF(pdfPath);
 }
 
 /**
  * Parse all PDFs in a directory using AI
+ * Processes in parallel batches for speed while respecting rate limits
  */
 async function parseAllPDFsWithAI(dirPath, apiKey) {
     const files = fs.readdirSync(dirPath).filter(f => f.endsWith('.pdf'));
     const results = [];
+    const BATCH_SIZE = 3; // Process 3 PDFs in parallel (reduced for rate limits)
 
-    console.log(`\n📄 Parsing ${files.length} PDFs with Gemini AI...\n`);
+    console.log(`\n📄 Parsing ${files.length} PDFs with Gemini AI (${BATCH_SIZE} parallel)...\n`);
 
-    for (const file of files) {
-        const filePath = path.join(dirPath, file);
-        try {
-            const raceData = await parsePDFWithAI(filePath, apiKey);
-            results.push(raceData);
-        } catch (error) {
-            console.error(`✗ Failed to parse ${file}:`, error.message);
+    // Process in batches
+    for (let i = 0; i < files.length; i += BATCH_SIZE) {
+        const batch = files.slice(i, i + BATCH_SIZE);
+        const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+        const totalBatches = Math.ceil(files.length / BATCH_SIZE);
+
+        console.log(`  Batch ${batchNum}/${totalBatches} (${batch.length} files)...`);
+
+        // Process batch in parallel
+        const batchPromises = batch.map(async (file) => {
+            const filePath = path.join(dirPath, file);
+            try {
+                return await parsePDFWithAI(filePath, apiKey);
+            } catch (error) {
+                console.error(`  ✗ Failed to parse ${file}:`, error.message);
+                return null;
+            }
+        });
+
+        const batchResults = await Promise.all(batchPromises);
+        results.push(...batchResults.filter(r => r !== null));
+
+        // Short delay between batches to avoid rate limiting
+        if (i + BATCH_SIZE < files.length) {
+            await new Promise(resolve => setTimeout(resolve, 500));
         }
     }
 

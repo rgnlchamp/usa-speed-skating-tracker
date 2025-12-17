@@ -1,0 +1,232 @@
+{
+  "pdfMtime": "2025-12-07T12:37:03.748Z",
+  "cachedAt": "2025-12-13T20:13:39.386Z",
+  "data": {
+    "eventNumber": "13",
+    "eventLocation": "Heerenveen (NED)",
+    "eventDate": "Dec 2025",
+    "distance": "500m",
+    "gender": "women",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Miho TAKAGI",
+        "country": "JPN",
+        "time": "38.02",
+        "points": 28
+      },
+      {
+        "rank": "2",
+        "name": "Nikola ZDRÁHALOVA",
+        "country": "CZE",
+        "time": "38.34",
+        "points": 24
+      },
+      {
+        "rank": "3",
+        "name": "Jingzigian WANG",
+        "country": "CHN",
+        "time": "38.38",
+        "points": 21
+      },
+      {
+        "rank": "4",
+        "name": "Carolina HILLER-DONNELLY",
+        "country": "CAN",
+        "time": "38.41",
+        "points": 17
+      },
+      {
+        "rank": "5",
+        "name": "Kurumi INAGAWA",
+        "country": "JPN",
+        "time": "38.51",
+        "points": 16
+      },
+      {
+        "rank": "6",
+        "name": "Sofia THORUP",
+        "country": "DEN",
+        "time": "38.58",
+        "points": 15
+      },
+      {
+        "rank": "7",
+        "name": "Iori KITAHARA",
+        "country": "JPN",
+        "time": "38.61",
+        "points": 14
+      },
+      {
+        "rank": "8",
+        "name": "Ellia SMEDING",
+        "country": "GBR",
+        "time": "38.67",
+        "points": 13
+      },
+      {
+        "rank": "9",
+        "name": "Anna OSTLENDER",
+        "country": "GER",
+        "time": "38.70",
+        "points": 12
+      },
+      {
+        "rank": "10",
+        "name": "Karolina BOSIEK",
+        "country": "POL",
+        "time": "38.71",
+        "points": 11
+      },
+      {
+        "rank": "11",
+        "name": "Huidan JUNG",
+        "country": "KOR",
+        "time": "38.71",
+        "points": 10
+      },
+      {
+        "rank": "12",
+        "name": "Chong PEI",
+        "country": "CHN",
+        "time": "38.72",
+        "points": 9
+      },
+      {
+        "rank": "13",
+        "name": "Fran VANHOUTTE",
+        "country": "BEL",
+        "time": "38.77",
+        "points": 8
+      },
+      {
+        "rank": "14",
+        "name": "Jenna LARTER",
+        "country": "CAN",
+        "time": "38.81",
+        "points": 7
+      },
+      {
+        "rank": "15",
+        "name": "Sarah WARREN",
+        "country": "USA",
+        "time": "38.81",
+        "points": 6
+      },
+      {
+        "rank": "16",
+        "name": "Julie Nistad SAMSONSEN",
+        "country": "NOR",
+        "time": "38.99",
+        "points": 5
+      },
+      {
+        "rank": "17",
+        "name": "Isabelle VAN ELST",
+        "country": "BEL",
+        "time": "39.13",
+        "points": 4
+      },
+      {
+        "rank": "18",
+        "name": "Chrysta RANDS-EVANS",
+        "country": "USA",
+        "time": "39.17",
+        "points": 3
+      },
+      {
+        "rank": "19",
+        "name": "Xiaoxuan SHI",
+        "country": "CHN",
+        "time": "39.18",
+        "points": 2
+      },
+      {
+        "rank": "20",
+        "name": "Maybritt VIGL",
+        "country": "ITA",
+        "time": "39.25",
+        "points": 1
+      },
+      {
+        "rank": "21",
+        "name": "Mathilde PÉDRONNO",
+        "country": "FRA",
+        "time": "39.25",
+        "points": 0
+      },
+      {
+        "rank": "22",
+        "name": "Mckenzie BROWNE",
+        "country": "USA",
+        "time": "39.29",
+        "points": 0
+      },
+      {
+        "rank": "23",
+        "name": "Luisa María GONZÁLEZ",
+        "country": "ESP",
+        "time": "39.30",
+        "points": 0
+      },
+      {
+        "rank": "24",
+        "name": "Maria Victoria RODRIGUEZ",
+        "country": "ARG",
+        "time": "39.31",
+        "points": 0
+      },
+      {
+        "rank": "25",
+        "name": "Ju-Lin DE VISSER",
+        "country": "TPE",
+        "time": "39.54",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Arina ILYACHSEHENKO",
+        "country": "KAZ",
+        "time": "39.60",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Hanna BIRÓ",
+        "country": "HUN",
+        "time": "40.14",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Alena LIFATOVA",
+        "country": "KAZ",
+        "time": "40.46",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Jéssica Carolina SANTOS RODRIGUES",
+        "country": "POR",
+        "time": "40.59",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Laura KIVIOJA",
+        "country": "FIN",
+        "time": "40.70",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Marte Bjerkreim FURNEE",
+        "country": "NOR",
+        "time": "41.23",
+        "points": 0
+      }
+    ],
+    "name": "500m Women Division B"
+  }
+}

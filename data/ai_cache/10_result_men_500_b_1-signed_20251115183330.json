@@ -1,0 +1,260 @@
+{
+  "pdfMtime": "2025-11-23T05:12:34.560Z",
+  "cachedAt": "2025-12-13T20:08:06.510Z",
+  "data": {
+    "eventNumber": "1",
+    "eventLocation": "Salt Lake City (USA)",
+    "eventDate": "Nov 2025",
+    "distance": "500m",
+    "gender": "men",
+    "division": "B",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Zhiwen XUE",
+        "country": "CHN",
+        "time": "33.95",
+        "points": 28
+      },
+      {
+        "rank": "2",
+        "name": "Jun-Ho KIM",
+        "country": "KOR",
+        "time": "34.10",
+        "points": 24
+      },
+      {
+        "rank": "3",
+        "name": "Ziwen LIAN",
+        "country": "CHN",
+        "time": "34.26",
+        "points": 21
+      },
+      {
+        "rank": "4",
+        "name": "Jae Woong CHUNG",
+        "country": "KOR",
+        "time": "34.30",
+        "points": 17
+      },
+      {
+        "rank": "5",
+        "name": "Yuma MURAKAMI",
+        "country": "JPN",
+        "time": "34.34",
+        "points": 16
+      },
+      {
+        "rank": "6",
+        "name": "Christopher FIOLA",
+        "country": "CAN",
+        "time": "34.40",
+        "points": 15
+      },
+      {
+        "rank": "7",
+        "name": "Haonan DU",
+        "country": "CHN",
+        "time": "34.42",
+        "points": 14
+      },
+      {
+        "rank": "8",
+        "name": "Merijn SCHEPERKAMP",
+        "country": "NED",
+        "time": "34.44",
+        "points": 13
+      },
+      {
+        "rank": "9",
+        "name": "Nil LLOP IZQUIERDO",
+        "country": "ESP",
+        "time": "34.54",
+        "points": 12
+      },
+      {
+        "rank": "10",
+        "name": "Sanghyeok CHO",
+        "country": "KOR",
+        "time": "34.55",
+        "points": 11
+      },
+      {
+        "rank": "11",
+        "name": "Alec SKLUTOVSKY",
+        "country": "USA",
+        "time": "34.62",
+        "points": 10
+      },
+      {
+        "rank": "12",
+        "name": "Anders JOHNSON",
+        "country": "CAN",
+        "time": "34.63",
+        "points": 9
+      },
+      {
+        "rank": "13",
+        "name": "Ze LIU",
+        "country": "CHN",
+        "time": "34.66",
+        "points": 8
+      },
+      {
+        "rank": "14",
+        "name": "Jeffrey ROSANELLI",
+        "country": "ITA",
+        "time": "34.70",
+        "points": 7
+      },
+      {
+        "rank": "15",
+        "name": "Siver BRATTGJERD",
+        "country": "NOR",
+        "time": "34.77",
+        "points": 6
+      },
+      {
+        "rank": "16",
+        "name": "Conor MCDERMOTT-MOSTOWY",
+        "country": "USA",
+        "time": "34.81",
+        "points": 5
+      },
+      {
+        "rank": "17",
+        "name": "Katsuhiro KURATSUBO",
+        "country": "JPN",
+        "time": "34.93",
+        "points": 4
+      },
+      {
+        "rank": "18",
+        "name": "Kacper ABRATKIEWICZ",
+        "country": "POL",
+        "time": "34.93",
+        "points": 3
+      },
+      {
+        "rank": "19",
+        "name": "David BOSA",
+        "country": "ITA",
+        "time": "34.94",
+        "points": 2
+      },
+      {
+        "rank": "20",
+        "name": "Artur GALIYEV",
+        "country": "KAZ",
+        "time": "34.95",
+        "points": 1
+      },
+      {
+        "rank": "21",
+        "name": "Altay ZHARDEMBEKULY",
+        "country": "KAZ",
+        "time": "35.00",
+        "points": 0
+      },
+      {
+        "rank": "22",
+        "name": "Maximilian STRÜBE",
+        "country": "GER",
+        "time": "35.14",
+        "points": 0
+      },
+      {
+        "rank": "23",
+        "name": "Wei-Lin TAI",
+        "country": "TPE",
+        "time": "35.18",
+        "points": 0
+      },
+      {
+        "rank": "24",
+        "name": "Ignaz GSCHWENTNER",
+        "country": "AUT",
+        "time": "35.20",
+        "points": 0
+      },
+      {
+        "rank": "25",
+        "name": "Henrik Fagerli RUKKE",
+        "country": "NOR",
+        "time": "35.23",
+        "points": 0
+      },
+      {
+        "rank": "26",
+        "name": "Moritz KLEIN",
+        "country": "GER",
+        "time": "35.26",
+        "points": 0
+      },
+      {
+        "rank": "27",
+        "name": "Daniel MILAGROS",
+        "country": "ESP",
+        "time": "35.34",
+        "points": 0
+      },
+      {
+        "rank": "28",
+        "name": "Gabriel Eduard NITU",
+        "country": "ROU",
+        "time": "35.47",
+        "points": 0
+      },
+      {
+        "rank": "29",
+        "name": "Cristian Landrø MAGNUSSEN",
+        "country": "NOR",
+        "time": "35.55",
+        "points": 0
+      },
+      {
+        "rank": "30",
+        "name": "Oliver GROB",
+        "country": "SUI",
+        "time": "35.57",
+        "points": 0
+      },
+      {
+        "rank": "31",
+        "name": "Sebastian FORSMARK",
+        "country": "SWE",
+        "time": "35.65",
+        "points": 0
+      },
+      {
+        "rank": "32",
+        "name": "Tuukka SUOMALAINEN",
+        "country": "FIN",
+        "time": "35.81",
+        "points": 0
+      },
+      {
+        "rank": "33",
+        "name": "Robbe BEELEN",
+        "country": "BEL",
+        "time": "35.90",
+        "points": 0
+      },
+      {
+        "rank": "34",
+        "name": "Joonas VALGE",
+        "country": "EST",
+        "time": "36.10",
+        "points": 0
+      },
+      {
+        "rank": "35",
+        "name": "Bálint BÖDEI",
+        "country": "HUN",
+        "time": "36.13",
+        "points": 0
+      }
+    ],
+    "name": "500m Men Division B"
+  }
+}

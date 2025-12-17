@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-11-23T05:12:51.956Z",
+  "cachedAt": "2025-12-13T20:10:03.419Z",
+  "data": {
+    "eventNumber": "1",
+    "eventLocation": "Salt Lake City (USA)",
+    "eventDate": "Nov 2025",
+    "distance": "500m",
+    "gender": "women",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Femke KOK",
+        "country": "NED",
+        "time": "36.48",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Erin JACKSON",
+        "country": "USA",
+        "time": "36.87",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Yukino YOSHIDA",
+        "country": "JPN",
+        "time": "36.88",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Kaia ZIOMEK-NOGAL",
+        "country": "POL",
+        "time": "37.17",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Jutta LEERDAM",
+        "country": "NED",
+        "time": "37.18",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Marrit FLEDDERUS",
+        "country": "NED",
+        "time": "37.20",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Anna BOERSMA",
+        "country": "NED",
+        "time": "37.27",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Serena PERGHER",
+        "country": "ITA",
+        "time": "37.29",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Béatrice LAMARCHE",
+        "country": "CAN",
+        "time": "37.30",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Andzelika WÓJCIK",
+        "country": "POL",
+        "time": "37.34",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Na-Hyun LEE",
+        "country": "KOR",
+        "time": "37.34",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Ruining TIAN",
+        "country": "CHN",
+        "time": "37.41",
+        "points": 29
+      },
+      {
+        "rank": "13",
+        "name": "Angel DALEMAN",
+        "country": "NED",
+        "time": "37.42",
+        "points": 28
+      },
+      {
+        "rank": "14",
+        "name": "Sophie WARMUTH",
+        "country": "GER",
+        "time": "37.43",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Martyna BARAN",
+        "country": "POL",
+        "time": "37.44",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Kristina SILAEVA",
+        "country": "KAZ",
+        "time": "37.49",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Min-Sun KIM",
+        "country": "KOR",
+        "time": "37.58",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Kurumi INAGAWA",
+        "country": "JPN",
+        "time": "37.92",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Vanessa HERZOG",
+        "country": "AUT",
+        "time": "37.94",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Chrysta RANDS-EVANS",
+        "country": "USA",
+        "time": "38.44",
+        "points": 21
+      }
+    ],
+    "name": "500m Women Division A"
+  }
+}

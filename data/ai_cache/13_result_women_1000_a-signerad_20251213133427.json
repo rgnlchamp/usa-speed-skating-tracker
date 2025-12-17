@@ -1,0 +1,155 @@
+{
+  "pdfMtime": "2025-12-13T17:50:30.592Z",
+  "cachedAt": "2025-12-13T20:11:51.329Z",
+  "data": {
+    "eventNumber": "4",
+    "eventLocation": "Hamar (Nor)",
+    "eventDate": "Dec 2025",
+    "distance": "1000m",
+    "gender": "women",
+    "division": "A",
+    "results": [
+      {
+        "rank": "1",
+        "name": "Miho TAKAGI",
+        "country": "JPN",
+        "time": "1:14.39",
+        "points": 60
+      },
+      {
+        "rank": "2",
+        "name": "Femke KOK",
+        "country": "NED",
+        "time": "1:14.73",
+        "points": 54
+      },
+      {
+        "rank": "3",
+        "name": "Marrit FLEDDERUS",
+        "country": "NED",
+        "time": "1:15.39",
+        "points": 48
+      },
+      {
+        "rank": "4",
+        "name": "Brittany BOWE",
+        "country": "USA",
+        "time": "1:15.50",
+        "points": 43
+      },
+      {
+        "rank": "5",
+        "name": "Na-Hyun LEE",
+        "country": "KOR",
+        "time": "1:15.99",
+        "points": 40
+      },
+      {
+        "rank": "6",
+        "name": "Rio YAMADA",
+        "country": "JPN",
+        "time": "1:16.04",
+        "points": 38
+      },
+      {
+        "rank": "7",
+        "name": "Mei HAN",
+        "country": "CHN",
+        "time": "1:16.08",
+        "points": 36
+      },
+      {
+        "rank": "8",
+        "name": "Nikola ZDRÁHALOVA",
+        "country": "CZE",
+        "time": "1:16.13",
+        "points": 34
+      },
+      {
+        "rank": "9",
+        "name": "Nadezhda MOROZOVA",
+        "country": "KAZ",
+        "time": "1:16.19",
+        "points": 32
+      },
+      {
+        "rank": "10",
+        "name": "Béatrice LAMARCHE",
+        "country": "CAN",
+        "time": "1:16.35",
+        "points": 31
+      },
+      {
+        "rank": "11",
+        "name": "Qİ YIN",
+        "country": "CHN",
+        "time": "1:16.35",
+        "points": 30
+      },
+      {
+        "rank": "12",
+        "name": "Min-Sun KIM",
+        "country": "KOR",
+        "time": "1:16.57",
+        "points": 29
+      },
+      {
+        "rank": "13",
+        "name": "Ellia SMEDING",
+        "country": "GBR",
+        "time": "1:16.66",
+        "points": 28
+      },
+      {
+        "rank": "14",
+        "name": "Elizaveta GOLUBEVA",
+        "country": "KAZ",
+        "time": "1:16.73",
+        "points": 27
+      },
+      {
+        "rank": "15",
+        "name": "Karolina BOSIEK",
+        "country": "POL",
+        "time": "1:16.78",
+        "points": 26
+      },
+      {
+        "rank": "16",
+        "name": "Alexa SCOTT",
+        "country": "CAN",
+        "time": "1:16.79",
+        "points": 25
+      },
+      {
+        "rank": "17",
+        "name": "Isabelle VAN ELST",
+        "country": "BEL",
+        "time": "1:16.90",
+        "points": 24
+      },
+      {
+        "rank": "18",
+        "name": "Suzanne SCHULTING",
+        "country": "NED",
+        "time": "1:16.94",
+        "points": 23
+      },
+      {
+        "rank": "19",
+        "name": "Isabel GREVELT",
+        "country": "NED",
+        "time": "1:17.16",
+        "points": 22
+      },
+      {
+        "rank": "20",
+        "name": "Erin JACKSON",
+        "country": "USA",
+        "time": "1:20.94",
+        "points": 21
+      }
+    ],
+    "name": "1000m Women Division A"
+  }
+}
