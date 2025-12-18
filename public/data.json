@@ -24726,6 +24726,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Jeffrey Rosanelli",
+            "country": "ITA",
+            "bestTime": "34.63",
+            "totalPoints": 52,
+            "method": "Reserve"
+          },
+          {
+            "name": "David Bosa",
+            "country": "ITA",
+            "bestTime": "34.76",
+            "totalPoints": 8,
+            "method": "Reserve"
+          },
+          {
+            "name": "Wei Lin Tai",
+            "country": "TPE",
+            "bestTime": "34.87",
+            "totalPoints": 6,
+            "method": "Reserve"
+          },
+          {
+            "name": "Moritz Klein",
+            "country": "GER",
+            "bestTime": "35.05",
+            "totalPoints": 0,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maximilian Strübe",
+            "country": "GER",
+            "bestTime": "35.07",
+            "totalPoints": 7,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ignaz Gschwentner",
+            "country": "AUT",
+            "bestTime": "35.20",
+            "totalPoints": 0,
+            "method": "Reserve"
+          },
+          {
+            "name": "Artur Galiyev",
+            "country": "KAZ",
+            "bestTime": "34.62",
+            "totalPoints": 21,
+            "method": "Reserve"
+          },
+          {
+            "name": "Daniel Milagros",
+            "country": "ESP",
+            "bestTime": "35.09",
+            "totalPoints": 24,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Jeffrey Rosanelli",
           "country": "ITA",
@@ -31041,6 +31099,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Fran Vanhoutte",
+            "country": "BEL",
+            "bestTime": "38.06",
+            "totalPoints": 64,
+            "method": "Reserve"
+          },
+          {
+            "name": "Nikola Zdr Á Halova",
+            "country": "CZE",
+            "bestTime": "38.11",
+            "totalPoints": 58,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ellia Smeding",
+            "country": "GBR",
+            "bestTime": "38.14",
+            "totalPoints": 53,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maria Victoria Rodriguez",
+            "country": "ARG",
+            "bestTime": "38.39",
+            "totalPoints": 24,
+            "method": "Reserve"
+          },
+          {
+            "name": "Anna Ostlender",
+            "country": "GER",
+            "bestTime": "38.09",
+            "totalPoints": 60,
+            "method": "Reserve"
+          },
+          {
+            "name": "Sarah Warren",
+            "country": "USA",
+            "bestTime": "38.10",
+            "totalPoints": 58,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maybritt Vigl",
+            "country": "ITA",
+            "bestTime": "38.19",
+            "totalPoints": 18,
+            "method": "Reserve"
+          },
+          {
+            "name": "Sofie Adeberg",
+            "country": "GER",
+            "bestTime": "38.49",
+            "totalPoints": 3,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Fran Vanhoutte",
           "country": "BEL",
@@ -35661,6 +35777,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Cornelius Kersten",
+            "country": "GBR",
+            "bestTime": "1:08.29",
+            "totalPoints": 11,
+            "method": "Reserve"
+          },
+          {
+            "name": "Artur Galiyev",
+            "country": "KAZ",
+            "bestTime": "1:08.35",
+            "totalPoints": 26,
+            "method": "Reserve"
+          },
+          {
+            "name": "Valentin Thiebault",
+            "country": "FRA",
+            "bestTime": "1:08.60",
+            "totalPoints": 2,
+            "method": "Reserve"
+          },
+          {
+            "name": "Yankun Zhao",
+            "country": "CAN",
+            "bestTime": "1:08.22",
+            "totalPoints": 29,
+            "method": "Reserve"
+          },
+          {
+            "name": "David Bosa",
+            "country": "ITA",
+            "bestTime": "1:08.41",
+            "totalPoints": 10,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhihan Deng",
+            "country": "CHN",
+            "bestTime": "1:08.47",
+            "totalPoints": 23,
+            "method": "Reserve"
+          },
+          {
+            "name": "Tae Yun Kim",
+            "country": "KOR",
+            "bestTime": "1:08.48",
+            "totalPoints": 6,
+            "method": "Reserve"
+          },
+          {
+            "name": "Alessio Trentini",
+            "country": "ITA",
+            "bestTime": "1:08.60",
+            "totalPoints": 3,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Cornelius Kersten",
           "country": "GBR",
@@ -39998,6 +40172,64 @@
             "country": "ITA",
             "bestTime": "1:16.07",
             "totalPoints": 4,
+            "method": "Reserve"
+          }
+        ],
+        "reallocationList": [
+          {
+            "name": "Maybritt Vigl",
+            "country": "ITA",
+            "bestTime": "1:15.93",
+            "totalPoints": 12,
+            "method": "Reserve"
+          },
+          {
+            "name": "Serena Pergher",
+            "country": "ITA",
+            "bestTime": "1:16.07",
+            "totalPoints": 4,
+            "method": "Reserve"
+          },
+          {
+            "name": "Lea Sophie Scholz",
+            "country": "GER",
+            "bestTime": "1:15.32",
+            "totalPoints": 63,
+            "method": "Reserve"
+          },
+          {
+            "name": "Fran Vanhoutte",
+            "country": "BEL",
+            "bestTime": "1:15.44",
+            "totalPoints": 43,
+            "method": "Reserve"
+          },
+          {
+            "name": "Jeannine Rosner",
+            "country": "AUT",
+            "bestTime": "1:15.45",
+            "totalPoints": 10,
+            "method": "Reserve"
+          },
+          {
+            "name": "Sarah Warren",
+            "country": "USA",
+            "bestTime": "1:15.69",
+            "totalPoints": 20,
+            "method": "Reserve"
+          },
+          {
+            "name": "Iga Wojtasik",
+            "country": "POL",
+            "bestTime": "1:16.00",
+            "totalPoints": 49,
+            "method": "Reserve"
+          },
+          {
+            "name": "Leewon Lim",
+            "country": "KOR",
+            "bestTime": "1:16.04",
+            "totalPoints": 6,
             "method": "Reserve"
           }
         ],
@@ -44656,6 +44888,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Marten Liiv",
+            "country": "EST",
+            "bestTime": "1:44.51",
+            "totalPoints": 17,
+            "method": "Reserve"
+          },
+          {
+            "name": "Livio Wenger",
+            "country": "SUI",
+            "bestTime": "1:44.80",
+            "totalPoints": 7,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ho Jun Yang",
+            "country": "KOR",
+            "bestTime": "1:44.83",
+            "totalPoints": 10,
+            "method": "Reserve"
+          },
+          {
+            "name": "Viktor Rudenko",
+            "country": "AIN",
+            "bestTime": "1:44.87",
+            "totalPoints": 12,
+            "method": "Reserve"
+          },
+          {
+            "name": "Seonghyeon Park",
+            "country": "KOR",
+            "bestTime": "1:44.95",
+            "totalPoints": 27,
+            "method": "Reserve"
+          },
+          {
+            "name": "Szymon Wojtakowski",
+            "country": "POL",
+            "bestTime": "1:44.17",
+            "totalPoints": 20,
+            "method": "Reserve"
+          },
+          {
+            "name": "Francesco Betti",
+            "country": "ITA",
+            "bestTime": "1:45.11",
+            "totalPoints": 18,
+            "method": "Reserve"
+          },
+          {
+            "name": "Indra Medard",
+            "country": "BEL",
+            "bestTime": "1:45.43",
+            "totalPoints": 6,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Marten Liiv",
           "country": "EST",
@@ -48946,6 +49236,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Alexandra Sayutina",
+            "country": "AIN",
+            "bestTime": "1:56.40",
+            "totalPoints": 50,
+            "method": "Reserve"
+          },
+          {
+            "name": "Aurora Grinden Løvå S",
+            "country": "NOR",
+            "bestTime": "1:55.52",
+            "totalPoints": 21,
+            "method": "Reserve"
+          },
+          {
+            "name": "Vanessa Herzog",
+            "country": "AUT",
+            "bestTime": "1:55.56",
+            "totalPoints": 7,
+            "method": "Reserve"
+          },
+          {
+            "name": "Soo Min Kang",
+            "country": "KOR",
+            "bestTime": "1:55.69",
+            "totalPoints": 19,
+            "method": "Reserve"
+          },
+          {
+            "name": "Leewon Lim",
+            "country": "KOR",
+            "bestTime": "1:55.73",
+            "totalPoints": 25,
+            "method": "Reserve"
+          },
+          {
+            "name": "Sandrine Tas",
+            "country": "BEL",
+            "bestTime": "1:56.12",
+            "totalPoints": 22,
+            "method": "Reserve"
+          },
+          {
+            "name": "Natalia Jabrzyk",
+            "country": "POL",
+            "bestTime": "1:56.20",
+            "totalPoints": 8,
+            "method": "Reserve"
+          },
+          {
+            "name": "Arina Ilyachsehenko",
+            "country": "KAZ",
+            "bestTime": "1:56.36",
+            "totalPoints": 18,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Alexandra Sayutina",
           "country": "AIN",
@@ -52798,6 +53146,64 @@
             "country": "USA",
             "bestTime": "4:00.70",
             "totalPoints": 52,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maira Jasch",
+            "country": "GER",
+            "bestTime": "4:00.81",
+            "totalPoints": 83,
+            "method": "Reserve"
+          },
+          {
+            "name": "Jiaxuan Li",
+            "country": "CHN",
+            "bestTime": "4:00.92",
+            "totalPoints": 42,
+            "method": "Reserve"
+          },
+          {
+            "name": "Linda Rossi",
+            "country": "ITA",
+            "bestTime": "4:00.99",
+            "totalPoints": 68,
+            "method": "Reserve"
+          },
+          {
+            "name": "Miho Takagi",
+            "country": "JPN",
+            "bestTime": "4:00.99",
+            "totalPoints": 32,
+            "method": "Reserve"
+          },
+          {
+            "name": "Nikola Zdr Á Halova",
+            "country": "CZE",
+            "bestTime": "4:01.00",
+            "totalPoints": 28,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ayano Sato",
+            "country": "JPN",
+            "bestTime": "4:01.66",
+            "totalPoints": 11,
+            "method": "Reserve"
+          }
+        ],
+        "reallocationList": [
+          {
+            "name": "Greta Myers",
+            "country": "USA",
+            "bestTime": "4:00.70",
+            "totalPoints": 52,
+            "method": "Reserve"
+          },
+          {
+            "name": "Binyu Yang",
+            "country": "CHN",
+            "bestTime": "4:00.37",
+            "totalPoints": 87,
             "method": "Reserve"
           },
           {
@@ -57084,6 +57490,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Vladimir Semirunniy",
+            "country": "POL",
+            "bestTime": "6:09.18",
+            "totalPoints": 105,
+            "method": "Reserve"
+          },
+          {
+            "name": "Thibault Métraux",
+            "country": "SUI",
+            "bestTime": "6:10.14",
+            "totalPoints": 41,
+            "method": "Reserve"
+          },
+          {
+            "name": "Viktor Hald Thorup",
+            "country": "DEN",
+            "bestTime": "6:13.43",
+            "totalPoints": 80,
+            "method": "Reserve"
+          },
+          {
+            "name": "Peter Michael",
+            "country": "NZL",
+            "bestTime": "6:14.10",
+            "totalPoints": 20,
+            "method": "Reserve"
+          },
+          {
+            "name": "Giovanni Trebouta",
+            "country": "FRA",
+            "bestTime": "6:11.95",
+            "totalPoints": 53,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ethan Cepuran",
+            "country": "USA",
+            "bestTime": "6:12.56",
+            "totalPoints": 47,
+            "method": "Reserve"
+          },
+          {
+            "name": "Wenhao Li",
+            "country": "CHN",
+            "bestTime": "6:13.80",
+            "totalPoints": 43,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhenlong Cong",
+            "country": "CHN",
+            "bestTime": "6:14.42",
+            "totalPoints": 40,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Vladimir Semirunniy",
           "country": "POL",
@@ -60562,6 +61026,64 @@
             "country": "JPN",
             "bestTime": "7:07.72",
             "totalPoints": 97,
+            "method": "Reserve"
+          }
+        ],
+        "reallocationList": [
+          {
+            "name": "Violette Braun",
+            "country": "FRA",
+            "bestTime": "6:57.06",
+            "totalPoints": 86,
+            "method": "Reserve"
+          },
+          {
+            "name": "Greta Myers",
+            "country": "USA",
+            "bestTime": "6:59.92",
+            "totalPoints": 52,
+            "method": "Reserve"
+          },
+          {
+            "name": "Giorgia Birkeland",
+            "country": "USA",
+            "bestTime": "7:06.05",
+            "totalPoints": 28,
+            "method": "Reserve"
+          },
+          {
+            "name": "Jeannine Rosner",
+            "country": "AUT",
+            "bestTime": "7:06.63",
+            "totalPoints": 83,
+            "method": "Reserve"
+          },
+          {
+            "name": "Momoka Horikawa",
+            "country": "JPN",
+            "bestTime": "7:07.72",
+            "totalPoints": 97,
+            "method": "Reserve"
+          },
+          {
+            "name": "Linda Rossi",
+            "country": "ITA",
+            "bestTime": "6:58.15",
+            "totalPoints": 68,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhien Tai",
+            "country": "CHN",
+            "bestTime": "6:59.87",
+            "totalPoints": 107,
+            "method": "Reserve"
+          },
+          {
+            "name": "Josie Hofmann",
+            "country": "GER",
+            "bestTime": "7:00.64",
+            "totalPoints": 101,
             "method": "Reserve"
           }
         ],
@@ -64384,6 +64906,64 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "Viktor Hald Thorup",
+            "country": "DEN",
+            "bestTime": "12:51.88",
+            "totalPoints": 80,
+            "method": "Reserve"
+          },
+          {
+            "name": "Fridtjof Petzold",
+            "country": "GER",
+            "bestTime": "12:52.88",
+            "totalPoints": 114,
+            "method": "Reserve"
+          },
+          {
+            "name": "Gabriel Gro SS",
+            "country": "GER",
+            "bestTime": "13:03.07",
+            "totalPoints": 91,
+            "method": "Reserve"
+          },
+          {
+            "name": "Yu Wu",
+            "country": "CHN",
+            "bestTime": "13:05.25",
+            "totalPoints": 44,
+            "method": "Reserve"
+          },
+          {
+            "name": "Taiyo Morino",
+            "country": "JPN",
+            "bestTime": "13:06.49",
+            "totalPoints": 21,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhenlong Cong",
+            "country": "CHN",
+            "bestTime": "13:06.86",
+            "totalPoints": 40,
+            "method": "Reserve"
+          },
+          {
+            "name": "Graeme Fish",
+            "country": "CAN",
+            "bestTime": "13:01.42",
+            "totalPoints": 44,
+            "method": "Reserve"
+          },
+          {
+            "name": "Giovanni Trebouta Rs",
+            "country": "FRA",
+            "bestTime": "13:02.09",
+            "totalPoints": 18,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "Viktor Hald Thorup",
           "country": "DEN",
@@ -64978,6 +65558,7 @@
           }
         ],
         "reserve": [],
+        "reallocationList": [],
         "nextReallocation": null
       }
     },
@@ -65527,6 +66108,7 @@
           }
         ],
         "reserve": [],
+        "reallocationList": [],
         "nextReallocation": null
       }
     },
@@ -66444,6 +67026,36 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "POL",
+            "country": "POL",
+            "bestTime": "3:40.52",
+            "totalPoints": 72,
+            "method": "Reserve"
+          },
+          {
+            "name": "KOR",
+            "country": "KOR",
+            "bestTime": "3:40.91",
+            "totalPoints": 69,
+            "method": "Reserve"
+          },
+          {
+            "name": "SUI",
+            "country": "SUI",
+            "bestTime": "3:41.23",
+            "totalPoints": 58,
+            "method": "Reserve"
+          },
+          {
+            "name": "CAN",
+            "country": "CAN",
+            "bestTime": "3:42.13",
+            "totalPoints": 58,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "POL",
           "country": "POL",
@@ -67326,6 +67938,36 @@
             "method": "Reserve"
           }
         ],
+        "reallocationList": [
+          {
+            "name": "BEL",
+            "country": "BEL",
+            "bestTime": "2:58.38",
+            "totalPoints": 110,
+            "method": "Reserve"
+          },
+          {
+            "name": "POL",
+            "country": "POL",
+            "bestTime": "2:58.41",
+            "totalPoints": 102,
+            "method": "Reserve"
+          },
+          {
+            "name": "CZE",
+            "country": "CZE",
+            "bestTime": "2:58.85",
+            "totalPoints": 29,
+            "method": "Reserve"
+          },
+          {
+            "name": "SUI",
+            "country": "SUI",
+            "bestTime": "2:58.98",
+            "totalPoints": 97,
+            "method": "Reserve"
+          }
+        ],
         "nextReallocation": {
           "name": "BEL",
           "country": "BEL",
@@ -67335,6 +67977,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-18T16:38:22.211Z",
+  "lastUpdated": "2025-12-18T16:46:55.851Z",
   "isUpdating": false
 }

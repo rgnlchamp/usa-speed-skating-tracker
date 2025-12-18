@@ -227,6 +227,25 @@ function calculateSOQCTimes(results) {
 }
 
 /**
+ * Helper to generate sorted reallocation list based on priority rules
+ */
+function generateReallocationList(reserve, nocCounts) {
+    const priority = []; // NOCs with 0 quotas
+    const others = [];   // NOCs with > 0 quotas
+
+    reserve.forEach(skater => {
+        const count = nocCounts[skater.country] || 0;
+        if (count === 0) {
+            priority.push(skater);
+        } else {
+            others.push(skater);
+        }
+    });
+
+    return [...priority, ...others];
+}
+
+/**
  * Allocate quotas based on SOQC rankings with correct splits
  */
 function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
@@ -297,10 +316,12 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
     // 1. Take top N candidates (Official Reserve List) - DO NOT RE-SORT to preserve SOQC order
     const reserve = reserveCandidates.slice(0, config.reserve);
 
-    // 2. Determine Next Eligible Reallocation
-    const nextReallocation = determineNextReallocation(reserve, nocCounts);
+    // 2. Determine Next Eligible Reallocation (First item in sorted list)
+    // 3. Generate Full Reallocation List (Sorted)
+    const reallocationList = generateReallocationList(reserve, nocCounts);
+    const nextReallocation = reallocationList.length > 0 ? reallocationList[0] : null;
 
-    return { pointsQualifiers, timesQualifiers, reserve, nextReallocation, nocCounts };
+    return { pointsQualifiers, timesQualifiers, reserve, reallocationList, nextReallocation, nocCounts };
 }
 
 /**
@@ -356,10 +377,18 @@ function applyHostCountryPromotion(quotaResult, hostCountry = 'Italy') {
     }
     updatedNocCounts[hostEntry.country] = (updatedNocCounts[hostEntry.country] || 0) + 1;
 
-    // Recalculate next reallocation with updated reserve and counts
-    const newNextReallocation = determineNextReallocation(reserve, updatedNocCounts);
+    // Recalculate reallocation list and next reallocation with updated reserve and counts
+    const newReallocationList = generateReallocationList(reserve, updatedNocCounts);
+    const newNextReallocation = newReallocationList.length > 0 ? newReallocationList[0] : null;
 
-    return { pointsQualifiers, timesQualifiers, reserve, nextReallocation: newNextReallocation, nocCounts: updatedNocCounts };
+    return {
+        pointsQualifiers,
+        timesQualifiers,
+        reserve,
+        reallocationList: newReallocationList,
+        nextReallocation: newNextReallocation,
+        nocCounts: updatedNocCounts
+    };
 }
 
 // Helper: Compare time strings "34.56", "1:45.67"
