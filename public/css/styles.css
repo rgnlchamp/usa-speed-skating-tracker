@@ -1,34 +1,55 @@
+/* Futuristic Hologram / Team USA Theme */
 :root {
-    --primary: #0052cc;
-    --secondary: #003366;
-    --accent: #ffcc00;
-    --bg: #f4f5f7;
-    --text: #172b4d;
+    --primary: #002868;
+    /* USA Blue */
+    --primary-glow: rgba(0, 40, 104, 0.6);
+    --secondary: #BF0A30;
+    /* USA Red */
+    --accent: #00ffff;
+    /* Cyan for Hologram */
+    --bg: #050510;
+    /* Deep Space Black */
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --glass-border-hover: rgba(0, 255, 255, 0.5);
+    --text: #e0e0e0;
+    --text-muted: #a0a0a0;
     --white: #ffffff;
-    --success: #36b37e;
-    --warning: #ffab00;
-    --danger: #ff5630;
+    --success: #00ff9d;
+    --warning: #ffb700;
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Orbitron', 'Inter', sans-serif;
+    /* Orbitron allows futuristic feel if available */
     background-color: var(--bg);
+    background-image:
+        radial-gradient(circle at 10% 20%, rgba(0, 40, 104, 0.2) 0%, transparent 20%),
+        radial-gradient(circle at 90% 80%, rgba(191, 10, 48, 0.1) 0%, transparent 20%);
     color: var(--text);
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 0 20px;
+    position: relative;
+    z-index: 1;
 }
 
+/* Header */
 header {
-    background-color: var(--white);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--glass-border);
     padding: 20px 0;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 header .container {
@@ -38,176 +59,275 @@ header .container {
 }
 
 h1 {
-    margin: 0;
-    font-size: 24px;
-    color: var(--secondary);
-}
-
-.controls {
+    font-size: 28px;
+    color: var(--white);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px var(--primary-glow);
     display: flex;
     align-items: center;
     gap: 15px;
 }
 
-#last-updated {
-    font-size: 14px;
-    color: #666;
+/* USA Flag decoration in CSS */
+h1::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 25px;
+    background: linear-gradient(90deg,
+            var(--primary) 0%, var(--primary) 40%,
+            var(--secondary) 40%, var(--secondary) 50%,
+            var(--white) 50%, var(--white) 60%,
+            var(--secondary) 60%, var(--secondary) 70%,
+            var(--white) 70%, var(--white) 80%,
+            var(--secondary) 80%, var(--secondary) 90%,
+            var(--white) 90%, var(--white) 100%);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
 }
 
-button {
-    background-color: var(--primary);
-    color: var(--white);
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: 600;
-    transition: background 0.2s;
+/* Glass Panels */
+section,
+.stat-card,
+.qualifier-section,
+.table-responsive {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transform-style: preserve-3d;
+    position: relative;
+    overflow: hidden;
 }
 
-button:hover {
-    background-color: var(--secondary);
+/* Holographic Hover Effect */
+section:hover,
+.stat-card:hover,
+.qualifier-section:hover {
+    transform: translateY(-5px) scale(1.01);
+    box-shadow: 0 10px 40px rgba(0, 255, 255, 0.1), 0 0 15px rgba(0, 40, 104, 0.3);
+    border-color: var(--glass-border-hover);
 }
 
-button:disabled {
-    background-color: #ccc;
-    cursor: not-allowed;
+/* "Pressed Down" / Scanline effect */
+.stat-card::after,
+.qualifier-section::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 2px, 3px 100%;
+    pointer-events: none;
+    z-index: 2;
+    opacity: 0.3;
 }
 
+/* Section overrides */
 section {
-    background: var(--white);
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 30px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    margin-bottom: 40px;
 }
 
 h2 {
-    margin-top: 0;
-    border-bottom: 2px solid var(--bg);
-    padding-bottom: 10px;
+    color: var(--accent);
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 15px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
+/* Stats Grid */
 .stats-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 25px;
 }
 
 .stat-card {
-    background: var(--bg);
-    padding: 15px;
-    border-radius: 6px;
+    padding: 20px;
     text-align: center;
 }
 
 .stat-card h3 {
-    margin: 0 0 10px 0;
-    font-size: 16px;
+    color: var(--text-muted);
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
 }
 
 .stat-value {
-    font-size: 24px;
+    font-size: 36px;
     font-weight: 700;
-    color: var(--primary);
+    color: var(--white);
+    text-shadow: 0 0 10px var(--primary);
 }
 
+/* Tabs */
 .tabs {
     display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
+    gap: 15px;
+    margin-bottom: 30px;
     overflow-x: auto;
+    padding-bottom: 10px;
 }
 
 .tab-btn {
-    background: transparent;
+    background: rgba(255, 255, 255, 0.05);
     color: var(--text);
-    border: 1px solid #ddd;
-    white-space: nowrap;
-    /* Prevent text wrapping in tabs */
-    padding: 8px 16px;
+    border: 1px solid var(--glass-border);
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: inherit;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 12px;
+    transition: all 0.3s;
+    border-radius: 4px;
+    /* Slight rounding for tech feel */
+}
+
+.tab-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--accent);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
 }
 
 .tab-btn.active {
     background: var(--primary);
     color: var(--white);
-    border-color: var(--primary);
+    border-color: var(--accent);
+    box-shadow: 0 0 15px var(--primary-glow);
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-    min-width: 600px;
-    /* Ensure table doesn't squish too much */
-}
-
-.table-responsive {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    margin-bottom: 20px;
-    border: 1px solid #eee;
-    border-radius: 4px;
-}
-
-th,
-td {
-    text-align: left;
-    padding: 12px;
-    border-bottom: 1px solid #eee;
-}
-
-th {
-    background-color: #f9fafb;
-    font-weight: 600;
-}
-
-.qualified {
-    background-color: rgba(54, 179, 126, 0.1);
-}
-
-.reserve {
-    background-color: rgba(255, 171, 0, 0.1);
-}
-
-.usa-row {
-    font-weight: 700;
-    border-left: 4px solid var(--primary);
-}
-
-.badge {
-    padding: 4px 8px;
-    border-radius: 12px;
-    font-size: 12px;
-    font-weight: 600;
-}
-
-.badge-q {
-    background: var(--success);
+/* Buttons */
+button#refresh-btn {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    border: none;
     color: white;
+    padding: 12px 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
+    transition: all 0.3s;
 }
 
-.badge-r {
-    background: var(--warning);
-    color: white;
+button#refresh-btn:hover {
+    filter: brightness(1.2);
+    box-shadow: 0 0 20px rgba(191, 10, 48, 0.5);
 }
 
+
+/* Data Grids */
 .qualifiers-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
     gap: 30px;
-    margin-bottom: 30px;
-}
-
-.qualifier-section {
-    background: #f9fafb;
-    padding: 15px;
-    border-radius: 8px;
-    border: 2px solid #e1e4e8;
+    margin-bottom: 40px;
 }
 
 .qualifier-section h3 {
-    margin-top: 0;
-    color: var(--secondary);
-    font-size: 18px;
+    color: var(--white);
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 4px;
+    /* Spacing between rows */
+}
+
+th {
+    text-align: left;
+    color: var(--accent);
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    padding: 15px;
+    border-bottom: 1px solid var(--glass-border);
+}
+
+td {
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.02);
+    border: none;
+    color: var(--text);
+    transition: background 0.2s;
+}
+
+tr:hover td {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+/* Team USA Highlights */
+.usa-row td {
+    background: linear-gradient(90deg, rgba(0, 40, 104, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+    border-left: 3px solid var(--secondary);
+    color: var(--white);
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+/* Badges */
+.badge {
+    padding: 5px 10px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.badge-q {
+    background: rgba(0, 255, 157, 0.2);
+    color: #00ff9d;
+    border: 1px solid #00ff9d;
+    box-shadow: 0 0 5px rgba(0, 255, 157, 0.2);
+}
+
+.badge-r {
+    background: rgba(255, 183, 0, 0.2);
+    color: #ffb700;
+    border: 1px solid #ffb700;
+}
+
+/* Animations */
+@keyframes hologram-flicker {
+    0% {
+        opacity: 0.95;
+    }
+
+    5% {
+        opacity: 0.8;
+    }
+
+    10% {
+        opacity: 0.95;
+    }
+
+    100% {
+        opacity: 0.95;
+    }
+}
+
+body::after {
+    content: "MILANO CORTINA 2026 // ANALYZER";
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 10px;
+    color: var(--glass-border);
+    letter-spacing: 4px;
+    z-index: 0;
+    pointer-events: none;
 }
