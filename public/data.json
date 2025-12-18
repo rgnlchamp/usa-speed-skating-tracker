@@ -24735,13 +24735,6 @@
             "method": "Reserve"
           },
           {
-            "name": "David Bosa",
-            "country": "ITA",
-            "bestTime": "34.76",
-            "totalPoints": 8,
-            "method": "Reserve"
-          },
-          {
             "name": "Wei Lin Tai",
             "country": "TPE",
             "bestTime": "34.87",
@@ -24756,13 +24749,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Maximilian Strübe",
-            "country": "GER",
-            "bestTime": "35.07",
-            "totalPoints": 7,
-            "method": "Reserve"
-          },
-          {
             "name": "Ignaz Gschwentner",
             "country": "AUT",
             "bestTime": "35.20",
@@ -24774,6 +24760,20 @@
             "country": "KAZ",
             "bestTime": "34.62",
             "totalPoints": 21,
+            "method": "Reserve"
+          },
+          {
+            "name": "David Bosa",
+            "country": "ITA",
+            "bestTime": "34.76",
+            "totalPoints": 8,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maximilian Strübe",
+            "country": "GER",
+            "bestTime": "35.07",
+            "totalPoints": 7,
             "method": "Reserve"
           },
           {
@@ -40184,13 +40184,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Serena Pergher",
-            "country": "ITA",
-            "bestTime": "1:16.07",
-            "totalPoints": 4,
-            "method": "Reserve"
-          },
-          {
             "name": "Lea Sophie Scholz",
             "country": "GER",
             "bestTime": "1:15.32",
@@ -40230,6 +40223,13 @@
             "country": "KOR",
             "bestTime": "1:16.04",
             "totalPoints": 6,
+            "method": "Reserve"
+          },
+          {
+            "name": "Serena Pergher",
+            "country": "ITA",
+            "bestTime": "1:16.07",
+            "totalPoints": 4,
             "method": "Reserve"
           }
         ],
@@ -44918,17 +44918,17 @@
             "method": "Reserve"
           },
           {
-            "name": "Seonghyeon Park",
-            "country": "KOR",
-            "bestTime": "1:44.95",
-            "totalPoints": 27,
-            "method": "Reserve"
-          },
-          {
             "name": "Szymon Wojtakowski",
             "country": "POL",
             "bestTime": "1:44.17",
             "totalPoints": 20,
+            "method": "Reserve"
+          },
+          {
+            "name": "Seonghyeon Park",
+            "country": "KOR",
+            "bestTime": "1:44.95",
+            "totalPoints": 27,
             "method": "Reserve"
           },
           {
@@ -61045,13 +61045,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Giorgia Birkeland",
-            "country": "USA",
-            "bestTime": "7:06.05",
-            "totalPoints": 28,
-            "method": "Reserve"
-          },
-          {
             "name": "Jeannine Rosner",
             "country": "AUT",
             "bestTime": "7:06.63",
@@ -61084,6 +61077,13 @@
             "country": "GER",
             "bestTime": "7:00.64",
             "totalPoints": 101,
+            "method": "Reserve"
+          },
+          {
+            "name": "Giorgia Birkeland",
+            "country": "USA",
+            "bestTime": "7:06.05",
+            "totalPoints": 28,
             "method": "Reserve"
           }
         ],
@@ -64922,13 +64922,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Gabriel Gro SS",
-            "country": "GER",
-            "bestTime": "13:03.07",
-            "totalPoints": 91,
-            "method": "Reserve"
-          },
-          {
             "name": "Yu Wu",
             "country": "CHN",
             "bestTime": "13:05.25",
@@ -64943,13 +64936,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Zhenlong Cong",
-            "country": "CHN",
-            "bestTime": "13:06.86",
-            "totalPoints": 40,
-            "method": "Reserve"
-          },
-          {
             "name": "Graeme Fish",
             "country": "CAN",
             "bestTime": "13:01.42",
@@ -64961,6 +64947,20 @@
             "country": "FRA",
             "bestTime": "13:02.09",
             "totalPoints": 18,
+            "method": "Reserve"
+          },
+          {
+            "name": "Gabriel Gro SS",
+            "country": "GER",
+            "bestTime": "13:03.07",
+            "totalPoints": 91,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhenlong Cong",
+            "country": "CHN",
+            "bestTime": "13:06.86",
+            "totalPoints": 40,
             "method": "Reserve"
           }
         ],
@@ -67977,6 +67977,6 @@
       }
     }
   },
-  "lastUpdated": "2025-12-18T16:46:55.851Z",
+  "lastUpdated": "2025-12-18T17:03:28.549Z",
   "isUpdating": false
 }

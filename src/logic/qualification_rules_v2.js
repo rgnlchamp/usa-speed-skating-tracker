@@ -228,15 +228,25 @@ function calculateSOQCTimes(results) {
 
 /**
  * Helper to generate sorted reallocation list based on priority rules
+ * Priority is given to NOCs with 0 quotas.
+ * IMPORTANT: Only the FIRST eligible athlete from a 0-quota NOC gets priority status.
+ * Subsequent athletes from that same NOC fall into the standard 'others' list.
  */
 function generateReallocationList(reserve, nocCounts) {
-    const priority = []; // NOCs with 0 quotas
-    const others = [];   // NOCs with > 0 quotas
+    const priority = []; // First athlete from NOCs with 0 quotas
+    const others = [];   // Everyone else
+
+    const priorityGiven = new Set(); // Track NOCs that have already received a priority spot in this list
 
     reserve.forEach(skater => {
         const count = nocCounts[skater.country] || 0;
-        if (count === 0) {
+
+        // Priority Condition:
+        // 1. NOC has 0 allocated quotas
+        // 2. NOC has not yet received a priority spot in this reallocation list
+        if (count === 0 && !priorityGiven.has(skater.country)) {
             priority.push(skater);
+            priorityGiven.add(skater.country);
         } else {
             others.push(skater);
         }
