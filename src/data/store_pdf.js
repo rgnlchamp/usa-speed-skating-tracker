@@ -221,7 +221,8 @@ async function recalculateSOQC() {
             times: timesRanking,
             quotas: {
                 qualified: [],
-                reserve: []
+                reserve: [],
+                nextReallocation: null
             }
         };
 
@@ -232,7 +233,9 @@ async function recalculateSOQC() {
         ];
 
         state.soqc[key].quotas.qualified = qualified;
+
         state.soqc[key].quotas.reserve = finalQuotas.reserve.map(s => ({ ...s, method: 'Reserve' }));
+        state.soqc[key].quotas.nextReallocation = finalQuotas.nextReallocation;
 
         console.log(`SOQC ${key}: ${qualified.length} qualified (${finalQuotas.pointsQualifiers.length} points, ${finalQuotas.timesQualifiers.length} times)`);
     }

@@ -74,6 +74,21 @@ function calculateTeamPursuitPoints(results) {
     });
 }
 
+function determineNextReallocation(reserve, nocCounts) {
+    // "Next Eligible Reallocation" = iterate the official reserve list in order 
+    // and select the first athlete whose NOC has 0 quota places in that event. 
+    // If none exist, then select the first athlete regardless of NOC quota count.
+
+    // Note: reserve is assumed to be in "Official Reserve List (SOQC order)"
+
+    const priorityCandidate = reserve.find(skater => {
+        const count = nocCounts[skater.country] || 0;
+        return count === 0;
+    });
+
+    return priorityCandidate || reserve[0] || null;
+}
+
 /**
  * Calculate SOQC Times Ranking
  * Ranks countries by their best time
@@ -223,7 +238,7 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
 
     const pointsQualifiers = [];
     const timesQualifiers = [];
-    const reserve = [];
+    // reserve is defined later
     const nocCounts = {};
     const qualifiedKeys = new Set();
 
@@ -279,29 +294,13 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
         }
     }
 
-    // 1. Take top N candidates by time (already sorted)
-    const topCandidates = reserveCandidates.slice(0, config.reserve);
+    // 1. Take top N candidates (Official Reserve List) - DO NOT RE-SORT to preserve SOQC order
+    const reserve = reserveCandidates.slice(0, config.reserve);
 
-    // 2. Split into priority groups
-    const priorityGroup = []; // NOCs with 0 quotas
-    const normalGroup = [];   // NOCs with > 0 quotas
+    // 2. Determine Next Eligible Reallocation
+    const nextReallocation = determineNextReallocation(reserve, nocCounts);
 
-    for (const skater of topCandidates) {
-        const count = nocCounts[skater.country] || 0;
-        if (count === 0) {
-            priorityGroup.push(skater);
-        } else {
-            normalGroup.push(skater);
-        }
-    }
-
-    // 3. Combine
-    const sortedReserve = [...priorityGroup, ...normalGroup];
-
-    // 4. Assign to reserve
-    reserve.push(...sortedReserve);
-
-    return { pointsQualifiers, timesQualifiers, reserve, nocCounts };
+    return { pointsQualifiers, timesQualifiers, reserve, nextReallocation, nocCounts };
 }
 
 /**
@@ -310,7 +309,7 @@ function allocateQuotas(eventKey, soqcPoints, soqcTimes) {
  * This replaces the last qualified position
  */
 function applyHostCountryPromotion(quotaResult, hostCountry = 'Italy') {
-    const { pointsQualifiers, timesQualifiers, reserve, nocCounts } = quotaResult;
+    const { pointsQualifiers, timesQualifiers, reserve, nocCounts, nextReallocation } = quotaResult;
 
     // Check if host country is on reserve list
     const hostIndex = reserve.findIndex(r => r.country === hostCountry || r.name === hostCountry);
@@ -350,7 +349,17 @@ function applyHostCountryPromotion(quotaResult, hostCountry = 'Italy') {
         pointsQualifiers.push(hostEntry);
     }
 
-    return { pointsQualifiers, timesQualifiers, reserve, nocCounts };
+    // Update NOC counts to reflect the swap
+    const updatedNocCounts = { ...nocCounts };
+    if (removedEntry) {
+        updatedNocCounts[removedEntry.country] = (updatedNocCounts[removedEntry.country] || 1) - 1;
+    }
+    updatedNocCounts[hostEntry.country] = (updatedNocCounts[hostEntry.country] || 0) + 1;
+
+    // Recalculate next reallocation with updated reserve and counts
+    const newNextReallocation = determineNextReallocation(reserve, updatedNocCounts);
+
+    return { pointsQualifiers, timesQualifiers, reserve, nextReallocation: newNextReallocation, nocCounts: updatedNocCounts };
 }
 
 // Helper: Compare time strings "34.56", "1:45.67"

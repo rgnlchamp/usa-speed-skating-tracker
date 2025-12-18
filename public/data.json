@@ -24670,6 +24670,13 @@
         ],
         "reserve": [
           {
+            "name": "Artur Galiyev",
+            "country": "KAZ",
+            "bestTime": "34.62",
+            "totalPoints": 21,
+            "method": "Reserve"
+          },
+          {
             "name": "Jeffrey Rosanelli",
             "country": "ITA",
             "bestTime": "34.63",
@@ -24705,27 +24712,26 @@
             "method": "Reserve"
           },
           {
-            "name": "Ignaz Gschwentner",
-            "country": "AUT",
-            "bestTime": "35.20",
-            "totalPoints": 0,
-            "method": "Reserve"
-          },
-          {
-            "name": "Artur Galiyev",
-            "country": "KAZ",
-            "bestTime": "34.62",
-            "totalPoints": 21,
-            "method": "Reserve"
-          },
-          {
             "name": "Daniel Milagros",
             "country": "ESP",
             "bestTime": "35.09",
             "totalPoints": 24,
             "method": "Reserve"
+          },
+          {
+            "name": "Ignaz Gschwentner",
+            "country": "AUT",
+            "bestTime": "35.20",
+            "totalPoints": 0,
+            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Jeffrey Rosanelli",
+          "country": "ITA",
+          "bestTime": "34.63",
+          "totalPoints": 52
+        }
       }
     },
     "500m-women": {
@@ -30986,27 +30992,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Nikola Zdr Á Halova",
-            "country": "CZE",
-            "bestTime": "38.11",
-            "totalPoints": 58,
-            "method": "Reserve"
-          },
-          {
-            "name": "Ellia Smeding",
-            "country": "GBR",
-            "bestTime": "38.14",
-            "totalPoints": 53,
-            "method": "Reserve"
-          },
-          {
-            "name": "Maria Victoria Rodriguez",
-            "country": "ARG",
-            "bestTime": "38.39",
-            "totalPoints": 24,
-            "method": "Reserve"
-          },
-          {
             "name": "Anna Ostlender",
             "country": "GER",
             "bestTime": "38.09",
@@ -31021,10 +31006,31 @@
             "method": "Reserve"
           },
           {
+            "name": "Nikola Zdr Á Halova",
+            "country": "CZE",
+            "bestTime": "38.11",
+            "totalPoints": 58,
+            "method": "Reserve"
+          },
+          {
+            "name": "Ellia Smeding",
+            "country": "GBR",
+            "bestTime": "38.14",
+            "totalPoints": 53,
+            "method": "Reserve"
+          },
+          {
             "name": "Maybritt Vigl",
             "country": "ITA",
             "bestTime": "38.19",
             "totalPoints": 18,
+            "method": "Reserve"
+          },
+          {
+            "name": "Maria Victoria Rodriguez",
+            "country": "ARG",
+            "bestTime": "38.39",
+            "totalPoints": 24,
             "method": "Reserve"
           },
           {
@@ -31034,7 +31040,13 @@
             "totalPoints": 3,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Fran Vanhoutte",
+          "country": "BEL",
+          "bestTime": "38.06",
+          "totalPoints": 64
+        }
       }
     },
     "1000m-men": {
@@ -35593,6 +35605,13 @@
         ],
         "reserve": [
           {
+            "name": "Yankun Zhao",
+            "country": "CAN",
+            "bestTime": "1:08.22",
+            "totalPoints": 29,
+            "method": "Reserve"
+          },
+          {
             "name": "Cornelius Kersten",
             "country": "GBR",
             "bestTime": "1:08.29",
@@ -35604,20 +35623,6 @@
             "country": "KAZ",
             "bestTime": "1:08.35",
             "totalPoints": 26,
-            "method": "Reserve"
-          },
-          {
-            "name": "Valentin Thiebault",
-            "country": "FRA",
-            "bestTime": "1:08.60",
-            "totalPoints": 2,
-            "method": "Reserve"
-          },
-          {
-            "name": "Yankun Zhao",
-            "country": "CAN",
-            "bestTime": "1:08.22",
-            "totalPoints": 29,
             "method": "Reserve"
           },
           {
@@ -35647,8 +35652,21 @@
             "bestTime": "1:08.60",
             "totalPoints": 3,
             "method": "Reserve"
+          },
+          {
+            "name": "Valentin Thiebault",
+            "country": "FRA",
+            "bestTime": "1:08.60",
+            "totalPoints": 2,
+            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Cornelius Kersten",
+          "country": "GBR",
+          "bestTime": "1:08.29",
+          "totalPoints": 11
+        }
       }
     },
     "1000m-women": {
@@ -39927,20 +39945,6 @@
         ],
         "reserve": [
           {
-            "name": "Maybritt Vigl",
-            "country": "ITA",
-            "bestTime": "1:15.93",
-            "totalPoints": 12,
-            "method": "Reserve"
-          },
-          {
-            "name": "Serena Pergher",
-            "country": "ITA",
-            "bestTime": "1:16.07",
-            "totalPoints": 4,
-            "method": "Reserve"
-          },
-          {
             "name": "Lea Sophie Scholz",
             "country": "GER",
             "bestTime": "1:15.32",
@@ -39969,6 +39973,13 @@
             "method": "Reserve"
           },
           {
+            "name": "Maybritt Vigl",
+            "country": "ITA",
+            "bestTime": "1:15.93",
+            "totalPoints": 12,
+            "method": "Reserve"
+          },
+          {
             "name": "Iga Wojtasik",
             "country": "POL",
             "bestTime": "1:16.00",
@@ -39981,8 +39992,21 @@
             "bestTime": "1:16.04",
             "totalPoints": 6,
             "method": "Reserve"
+          },
+          {
+            "name": "Serena Pergher",
+            "country": "ITA",
+            "bestTime": "1:16.07",
+            "totalPoints": 4,
+            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Maybritt Vigl",
+          "country": "ITA",
+          "bestTime": "1:15.93",
+          "totalPoints": 12
+        }
       }
     },
     "1500m-men": {
@@ -44576,6 +44600,13 @@
         ],
         "reserve": [
           {
+            "name": "Szymon Wojtakowski",
+            "country": "POL",
+            "bestTime": "1:44.17",
+            "totalPoints": 20,
+            "method": "Reserve"
+          },
+          {
             "name": "Marten Liiv",
             "country": "EST",
             "bestTime": "1:44.51",
@@ -44611,13 +44642,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Szymon Wojtakowski",
-            "country": "POL",
-            "bestTime": "1:44.17",
-            "totalPoints": 20,
-            "method": "Reserve"
-          },
-          {
             "name": "Francesco Betti",
             "country": "ITA",
             "bestTime": "1:45.11",
@@ -44631,7 +44655,13 @@
             "totalPoints": 6,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Marten Liiv",
+          "country": "EST",
+          "bestTime": "1:44.51",
+          "totalPoints": 17
+        }
       }
     },
     "1500m-women": {
@@ -48860,13 +48890,6 @@
         ],
         "reserve": [
           {
-            "name": "Alexandra Sayutina",
-            "country": "AIN",
-            "bestTime": "1:56.40",
-            "totalPoints": 50,
-            "method": "Reserve"
-          },
-          {
             "name": "Aurora Grinden Løvå S",
             "country": "NOR",
             "bestTime": "1:55.52",
@@ -48914,8 +48937,21 @@
             "bestTime": "1:56.36",
             "totalPoints": 18,
             "method": "Reserve"
+          },
+          {
+            "name": "Alexandra Sayutina",
+            "country": "AIN",
+            "bestTime": "1:56.40",
+            "totalPoints": 50,
+            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Alexandra Sayutina",
+          "country": "AIN",
+          "bestTime": "1:56.40",
+          "totalPoints": 50
+        }
       }
     },
     "3000m-women": {
@@ -52751,17 +52787,17 @@
         ],
         "reserve": [
           {
-            "name": "Greta Myers",
-            "country": "USA",
-            "bestTime": "4:00.70",
-            "totalPoints": 52,
-            "method": "Reserve"
-          },
-          {
             "name": "Binyu Yang",
             "country": "CHN",
             "bestTime": "4:00.37",
             "totalPoints": 87,
+            "method": "Reserve"
+          },
+          {
+            "name": "Greta Myers",
+            "country": "USA",
+            "bestTime": "4:00.70",
+            "totalPoints": 52,
             "method": "Reserve"
           },
           {
@@ -52806,7 +52842,13 @@
             "totalPoints": 11,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Greta Myers",
+          "country": "USA",
+          "bestTime": "4:00.70",
+          "totalPoints": 52
+        }
       }
     },
     "5000m-men": {
@@ -57000,20 +57042,6 @@
             "method": "Reserve"
           },
           {
-            "name": "Viktor Hald Thorup",
-            "country": "DEN",
-            "bestTime": "6:13.43",
-            "totalPoints": 80,
-            "method": "Reserve"
-          },
-          {
-            "name": "Peter Michael",
-            "country": "NZL",
-            "bestTime": "6:14.10",
-            "totalPoints": 20,
-            "method": "Reserve"
-          },
-          {
             "name": "Giovanni Trebouta",
             "country": "FRA",
             "bestTime": "6:11.95",
@@ -57028,10 +57056,24 @@
             "method": "Reserve"
           },
           {
+            "name": "Viktor Hald Thorup",
+            "country": "DEN",
+            "bestTime": "6:13.43",
+            "totalPoints": 80,
+            "method": "Reserve"
+          },
+          {
             "name": "Wenhao Li",
             "country": "CHN",
             "bestTime": "6:13.80",
             "totalPoints": 43,
+            "method": "Reserve"
+          },
+          {
+            "name": "Peter Michael",
+            "country": "NZL",
+            "bestTime": "6:14.10",
+            "totalPoints": 20,
             "method": "Reserve"
           },
           {
@@ -57041,7 +57083,13 @@
             "totalPoints": 40,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Vladimir Semirunniy",
+          "country": "POL",
+          "bestTime": "6:09.18",
+          "totalPoints": 105
+        }
       }
     },
     "5000m-women": {
@@ -60468,10 +60516,31 @@
             "method": "Reserve"
           },
           {
+            "name": "Linda Rossi",
+            "country": "ITA",
+            "bestTime": "6:58.15",
+            "totalPoints": 68,
+            "method": "Reserve"
+          },
+          {
+            "name": "Zhien Tai",
+            "country": "CHN",
+            "bestTime": "6:59.87",
+            "totalPoints": 107,
+            "method": "Reserve"
+          },
+          {
             "name": "Greta Myers",
             "country": "USA",
             "bestTime": "6:59.92",
             "totalPoints": 52,
+            "method": "Reserve"
+          },
+          {
+            "name": "Josie Hofmann",
+            "country": "GER",
+            "bestTime": "7:00.64",
+            "totalPoints": 101,
             "method": "Reserve"
           },
           {
@@ -60494,29 +60563,14 @@
             "bestTime": "7:07.72",
             "totalPoints": 97,
             "method": "Reserve"
-          },
-          {
-            "name": "Linda Rossi",
-            "country": "ITA",
-            "bestTime": "6:58.15",
-            "totalPoints": 68,
-            "method": "Reserve"
-          },
-          {
-            "name": "Zhien Tai",
-            "country": "CHN",
-            "bestTime": "6:59.87",
-            "totalPoints": 107,
-            "method": "Reserve"
-          },
-          {
-            "name": "Josie Hofmann",
-            "country": "GER",
-            "bestTime": "7:00.64",
-            "totalPoints": 101,
-            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Violette Braun",
+          "country": "FRA",
+          "bestTime": "6:57.06",
+          "totalPoints": 86
+        }
       }
     },
     "10000m-men": {
@@ -64288,6 +64342,20 @@
             "method": "Reserve"
           },
           {
+            "name": "Graeme Fish",
+            "country": "CAN",
+            "bestTime": "13:01.42",
+            "totalPoints": 44,
+            "method": "Reserve"
+          },
+          {
+            "name": "Giovanni Trebouta Rs",
+            "country": "FRA",
+            "bestTime": "13:02.09",
+            "totalPoints": 18,
+            "method": "Reserve"
+          },
+          {
             "name": "Gabriel Gro SS",
             "country": "GER",
             "bestTime": "13:03.07",
@@ -64314,22 +64382,14 @@
             "bestTime": "13:06.86",
             "totalPoints": 40,
             "method": "Reserve"
-          },
-          {
-            "name": "Graeme Fish",
-            "country": "CAN",
-            "bestTime": "13:01.42",
-            "totalPoints": 44,
-            "method": "Reserve"
-          },
-          {
-            "name": "Giovanni Trebouta Rs",
-            "country": "FRA",
-            "bestTime": "13:02.09",
-            "totalPoints": 18,
-            "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "Viktor Hald Thorup",
+          "country": "DEN",
+          "bestTime": "12:51.88",
+          "totalPoints": 80
+        }
       }
     },
     "Mass Start-men": {
@@ -64917,17 +64977,557 @@
             "method": "Points"
           }
         ],
-        "reserve": []
+        "reserve": [],
+        "nextReallocation": null
       }
     },
     "Mass Start-women": {
       "distance": "Mass Start",
       "gender": "women",
-      "points": [],
+      "points": [
+        {
+          "name": "Mia  Manganello",
+          "country": "USA",
+          "totalPoints": 205,
+          "bestTime": "",
+          "bestPlace": 1,
+          "races": []
+        },
+        {
+          "name": "Marijke  Groenewoud",
+          "country": "NED",
+          "totalPoints": 192,
+          "bestTime": "",
+          "bestPlace": 2,
+          "races": []
+        },
+        {
+          "name": "Ivanie  Blondin",
+          "country": "CAN",
+          "totalPoints": 191,
+          "bestTime": "",
+          "bestPlace": 3,
+          "races": []
+        },
+        {
+          "name": "Valerie  Maltais",
+          "country": "CAN",
+          "totalPoints": 167,
+          "bestTime": "",
+          "bestPlace": 4,
+          "races": []
+        },
+        {
+          "name": "Bente  Kerkhoff",
+          "country": "NED",
+          "totalPoints": 158,
+          "bestTime": "",
+          "bestPlace": 5,
+          "races": []
+        },
+        {
+          "name": "Ji-Woo  Park",
+          "country": "KOR",
+          "totalPoints": 157,
+          "bestTime": "",
+          "bestPlace": 6,
+          "races": []
+        },
+        {
+          "name": "Francesca  Lollobrigida",
+          "country": "ITA",
+          "totalPoints": 138,
+          "bestTime": "",
+          "bestPlace": 7,
+          "races": []
+        },
+        {
+          "name": "Jundan  Hou",
+          "country": "CHN",
+          "totalPoints": 132,
+          "bestTime": "",
+          "bestPlace": 8,
+          "races": []
+        },
+        {
+          "name": "Kaitlyn  McGregor",
+          "country": "SUI",
+          "totalPoints": 128,
+          "bestTime": "",
+          "bestPlace": 9,
+          "races": []
+        },
+        {
+          "name": "Ramona  Härdi",
+          "country": "SUI",
+          "totalPoints": 120,
+          "bestTime": "",
+          "bestPlace": 10,
+          "races": []
+        },
+        {
+          "name": "Ayano  Sato",
+          "country": "JPN",
+          "totalPoints": 118,
+          "bestTime": "",
+          "bestPlace": 11,
+          "races": []
+        },
+        {
+          "name": "Fran  Vanhoutte",
+          "country": "BEL",
+          "totalPoints": 116,
+          "bestTime": "",
+          "bestPlace": 12,
+          "races": []
+        },
+        {
+          "name": "Jeannine  Rosner",
+          "country": "AUT",
+          "totalPoints": 107,
+          "bestTime": "",
+          "bestPlace": 13,
+          "races": []
+        },
+        {
+          "name": "Momoka  Horikawa",
+          "country": "JPN",
+          "totalPoints": 106,
+          "bestTime": "",
+          "bestPlace": 14,
+          "races": []
+        },
+        {
+          "name": "Greta  Myers",
+          "country": "USA",
+          "totalPoints": 106,
+          "bestTime": "",
+          "bestPlace": 15,
+          "races": []
+        },
+        {
+          "name": "Aurora Grinden  Løvås",
+          "country": "NOR",
+          "totalPoints": 104,
+          "bestTime": "",
+          "bestPlace": 16,
+          "races": []
+        },
+        {
+          "name": "Josephine  Schlörb",
+          "country": "GER",
+          "totalPoints": 99,
+          "bestTime": "",
+          "bestPlace": 17,
+          "races": []
+        },
+        {
+          "name": "Binyu  Yang",
+          "country": "CHN",
+          "totalPoints": 99,
+          "bestTime": "",
+          "bestPlace": 18,
+          "races": []
+        },
+        {
+          "name": "Leewon  Lim",
+          "country": "KOR",
+          "totalPoints": 98,
+          "bestTime": "",
+          "bestPlace": 19,
+          "races": []
+        },
+        {
+          "name": "Anastasiia  Semenova",
+          "country": "AIN",
+          "totalPoints": 95,
+          "bestTime": "",
+          "bestPlace": 20,
+          "races": []
+        },
+        {
+          "name": "Elizaveta  Golubeva",
+          "country": "KAZ",
+          "totalPoints": 91,
+          "bestTime": "",
+          "bestPlace": 21,
+          "races": []
+        },
+        {
+          "name": "Sandrine  Tas",
+          "country": "BEL",
+          "totalPoints": 89,
+          "bestTime": "",
+          "bestPlace": 22,
+          "races": []
+        },
+        {
+          "name": "Josie  Hofmann",
+          "country": "GER",
+          "totalPoints": 81,
+          "bestTime": "",
+          "bestPlace": 23,
+          "races": []
+        },
+        {
+          "name": "Jéssica Carolina  Santos Rodrigues",
+          "country": "POR",
+          "totalPoints": 68,
+          "bestTime": "",
+          "bestPlace": 24,
+          "races": []
+        },
+        {
+          "name": "Linda  Rossi",
+          "country": "ITA",
+          "totalPoints": 63,
+          "bestTime": "",
+          "bestPlace": 25,
+          "races": []
+        },
+        {
+          "name": "Julia  Nizan",
+          "country": "FRA",
+          "totalPoints": 55,
+          "bestTime": "",
+          "bestPlace": 26,
+          "races": []
+        },
+        {
+          "name": "Violette  Braun",
+          "country": "FRA",
+          "totalPoints": 52,
+          "bestTime": "",
+          "bestPlace": 27,
+          "races": []
+        },
+        {
+          "name": "Natalia  Jabrzyk",
+          "country": "POL",
+          "totalPoints": 50,
+          "bestTime": "",
+          "bestPlace": 28,
+          "races": []
+        },
+        {
+          "name": "Marina  Zueva",
+          "country": "AIN",
+          "totalPoints": 46,
+          "bestTime": "",
+          "bestPlace": 29,
+          "races": []
+        },
+        {
+          "name": "Lucie  Korvasová",
+          "country": "CZE",
+          "totalPoints": 41,
+          "bestTime": "",
+          "bestPlace": 30,
+          "races": []
+        },
+        {
+          "name": "Anna  Molnar",
+          "country": "AUT",
+          "totalPoints": 40,
+          "bestTime": "",
+          "bestPlace": 31,
+          "races": []
+        },
+        {
+          "name": "Abigél  Mercs",
+          "country": "HUN",
+          "totalPoints": 38,
+          "bestTime": "",
+          "bestPlace": 32,
+          "races": []
+        },
+        {
+          "name": "Natascha  Lindenskov",
+          "country": "DEN",
+          "totalPoints": 37,
+          "bestTime": "",
+          "bestPlace": 33,
+          "races": []
+        },
+        {
+          "name": "Zuzana  Kuršová",
+          "country": "CZE",
+          "totalPoints": 33,
+          "bestTime": "",
+          "bestPlace": 34,
+          "races": []
+        },
+        {
+          "name": "Gemma  Cooper",
+          "country": "GBR",
+          "totalPoints": 26,
+          "bestTime": "",
+          "bestPlace": 35,
+          "races": []
+        },
+        {
+          "name": "Olga  Piotrowska",
+          "country": "POL",
+          "totalPoints": 25,
+          "bestTime": "",
+          "bestPlace": 36,
+          "races": []
+        },
+        {
+          "name": "Sara  Cabrera",
+          "country": "ESP",
+          "totalPoints": 18,
+          "bestTime": "",
+          "bestPlace": 37,
+          "races": []
+        },
+        {
+          "name": "Marte Bjerkreim  Furnee",
+          "country": "NOR",
+          "totalPoints": 16,
+          "bestTime": "",
+          "bestPlace": 38,
+          "races": []
+        },
+        {
+          "name": "Sofia  Thorup",
+          "country": "DEN",
+          "totalPoints": 8,
+          "bestTime": "",
+          "bestPlace": 39,
+          "races": []
+        },
+        {
+          "name": "Arina  Ilyachsehenko",
+          "country": "KAZ",
+          "totalPoints": 8,
+          "bestTime": "",
+          "bestPlace": 40,
+          "races": []
+        }
+      ],
       "times": [],
       "quotas": {
-        "qualified": [],
-        "reserve": []
+        "qualified": [
+          {
+            "name": "Mia  Manganello",
+            "country": "USA",
+            "totalPoints": 205,
+            "bestTime": "",
+            "bestPlace": 1,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Marijke  Groenewoud",
+            "country": "NED",
+            "totalPoints": 192,
+            "bestTime": "",
+            "bestPlace": 2,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Ivanie  Blondin",
+            "country": "CAN",
+            "totalPoints": 191,
+            "bestTime": "",
+            "bestPlace": 3,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Valerie  Maltais",
+            "country": "CAN",
+            "totalPoints": 167,
+            "bestTime": "",
+            "bestPlace": 4,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Bente  Kerkhoff",
+            "country": "NED",
+            "totalPoints": 158,
+            "bestTime": "",
+            "bestPlace": 5,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Ji-Woo  Park",
+            "country": "KOR",
+            "totalPoints": 157,
+            "bestTime": "",
+            "bestPlace": 6,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Francesca  Lollobrigida",
+            "country": "ITA",
+            "totalPoints": 138,
+            "bestTime": "",
+            "bestPlace": 7,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Jundan  Hou",
+            "country": "CHN",
+            "totalPoints": 132,
+            "bestTime": "",
+            "bestPlace": 8,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Kaitlyn  McGregor",
+            "country": "SUI",
+            "totalPoints": 128,
+            "bestTime": "",
+            "bestPlace": 9,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Ramona  Härdi",
+            "country": "SUI",
+            "totalPoints": 120,
+            "bestTime": "",
+            "bestPlace": 10,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Ayano  Sato",
+            "country": "JPN",
+            "totalPoints": 118,
+            "bestTime": "",
+            "bestPlace": 11,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Fran  Vanhoutte",
+            "country": "BEL",
+            "totalPoints": 116,
+            "bestTime": "",
+            "bestPlace": 12,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Jeannine  Rosner",
+            "country": "AUT",
+            "totalPoints": 107,
+            "bestTime": "",
+            "bestPlace": 13,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Momoka  Horikawa",
+            "country": "JPN",
+            "totalPoints": 106,
+            "bestTime": "",
+            "bestPlace": 14,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Greta  Myers",
+            "country": "USA",
+            "totalPoints": 106,
+            "bestTime": "",
+            "bestPlace": 15,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Aurora Grinden  Løvås",
+            "country": "NOR",
+            "totalPoints": 104,
+            "bestTime": "",
+            "bestPlace": 16,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Josephine  Schlörb",
+            "country": "GER",
+            "totalPoints": 99,
+            "bestTime": "",
+            "bestPlace": 17,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Binyu  Yang",
+            "country": "CHN",
+            "totalPoints": 99,
+            "bestTime": "",
+            "bestPlace": 18,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Leewon  Lim",
+            "country": "KOR",
+            "totalPoints": 98,
+            "bestTime": "",
+            "bestPlace": 19,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Anastasiia  Semenova",
+            "country": "AIN",
+            "totalPoints": 95,
+            "bestTime": "",
+            "bestPlace": 20,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Elizaveta  Golubeva",
+            "country": "KAZ",
+            "totalPoints": 91,
+            "bestTime": "",
+            "bestPlace": 21,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Sandrine  Tas",
+            "country": "BEL",
+            "totalPoints": 89,
+            "bestTime": "",
+            "bestPlace": 22,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Josie  Hofmann",
+            "country": "GER",
+            "totalPoints": 81,
+            "bestTime": "",
+            "bestPlace": 23,
+            "races": [],
+            "method": "Points"
+          },
+          {
+            "name": "Jéssica Carolina  Santos Rodrigues",
+            "country": "POR",
+            "totalPoints": 68,
+            "bestTime": "",
+            "bestPlace": 24,
+            "races": [],
+            "method": "Points"
+          }
+        ],
+        "reserve": [],
+        "nextReallocation": null
       }
     },
     "Team Pursuit-men": {
@@ -65843,7 +66443,13 @@
             "totalPoints": 58,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "POL",
+          "country": "POL",
+          "bestTime": "3:40.52",
+          "totalPoints": 72
+        }
       }
     },
     "Team Pursuit-women": {
@@ -66719,10 +67325,16 @@
             "totalPoints": 97,
             "method": "Reserve"
           }
-        ]
+        ],
+        "nextReallocation": {
+          "name": "BEL",
+          "country": "BEL",
+          "bestTime": "2:58.38",
+          "totalPoints": 110
+        }
       }
     }
   },
-  "lastUpdated": "2025-12-17T19:43:14.160Z",
+  "lastUpdated": "2025-12-18T16:38:22.211Z",
   "isUpdating": false
 }

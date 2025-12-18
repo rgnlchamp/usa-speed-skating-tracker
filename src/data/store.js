@@ -118,7 +118,8 @@ function recalculateSOQC() {
                 times: timesRanking,
                 quotas: {
                     qualified: [],
-                    reserve: []
+                    reserve: [],
+                    nextReallocation: []
                 }
             };
         }
@@ -131,6 +132,13 @@ function recalculateSOQC() {
 
         state.soqc[distance].quotas.qualified.push(...qualified);
         state.soqc[distance].quotas.reserve.push(...finalQuotas.reserve.map(s => ({ ...s, method: 'Reserve' })));
+
+        if (finalQuotas.nextReallocation) {
+            state.soqc[distance].quotas.nextReallocation.push({
+                ...finalQuotas.nextReallocation,
+                gender: gender
+            });
+        }
 
         fs.appendFileSync('store_debug.log', `[${new Date().toISOString()}] SOQC ${key}: ${qualified.length} qualified (${finalQuotas.pointsQualifiers.length} points, ${finalQuotas.timesQualifiers.length} times)\n`);
     }
