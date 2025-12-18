@@ -20,8 +20,8 @@
 }
 
 body {
-    font-family: 'Orbitron', 'Inter', sans-serif;
-    /* Orbitron allows futuristic feel if available */
+    font-family: 'Inter', sans-serif;
+    /* Readable body font */
     background-color: var(--bg);
     background-image:
         radial-gradient(circle at 10% 20%, rgba(0, 40, 104, 0.2) 0%, transparent 20%),
@@ -38,6 +38,16 @@ body {
     padding: 0 20px;
     position: relative;
     z-index: 1;
+}
+
+h1,
+h2,
+h3,
+.stat-card h3,
+th,
+.tab-btn {
+    font-family: 'Exo 2', sans-serif;
+    /* Modern headers */
 }
 
 /* Header */
