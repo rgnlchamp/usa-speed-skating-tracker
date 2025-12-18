@@ -130,7 +130,10 @@ function renderTabContent() {
     }
 
     const { quotas } = currentData.soqc[currentTab];
-    const { qualified, reserve } = quotas;
+    const { qualified, reserve, reallocationList } = quotas;
+
+    // Use reallocationList (sorted by priority) for display if available
+    const displayReserve = reallocationList || reserve;
 
     // Separate into Points and Times qualifiers
     const pointsQualifiers = qualified.filter(s => s.method === 'Points');
@@ -154,9 +157,9 @@ function renderTabContent() {
 
     html += '</div>';
 
-    if (reserve && reserve.length > 0) {
-        html += `<h3>Reserve List (${reserve.length})</h3>`;
-        html += createTable(reserve, 'reserve');
+    if (displayReserve && displayReserve.length > 0) {
+        html += `<h3>Reserve List (Priority Order) (${displayReserve.length})</h3>`;
+        html += createTable(displayReserve, 'reserve');
     }
 
     container.innerHTML = html;
